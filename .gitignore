@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Do not ignore source files
+!assets/css/*.scss
+!assets/js/*.js
