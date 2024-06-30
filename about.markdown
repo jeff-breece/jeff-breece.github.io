@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Bio
+Over the past ten-plus years, I have had the privilege to work with various industries, technologies, and languages including, but not limited to Microsoft Bot Framework, Machine Learning and Cognitive Services, Azure, .NET, SharePoint, M365, Azure Functions, Logic Apps, Power Platform, Nintex, MSFT SQL Server, PHP, JavaScript, JAVA and the AWS platform. I have worn the hats of the developer, architect, team lead, and software engineer with a mission of equity.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Bit of an outdoors guy here and love to hike.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+> "The obstacle on the path becomes the way." -- Marcus Auerlius
 
-
-[jekyll-organization]: https://github.com/jekyll
+![Author Headshot]({{ site.url }}{{ site.baseurl }}/images/headshot.jpg)
