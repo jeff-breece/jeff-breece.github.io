@@ -4,7 +4,7 @@ title:  "Creating a Blog Using Jekyll on an Ubuntu Machine"
 date:   2024-06-30 07:00:00 -0400
 categories: howto
 ---
- I'm in a pretty demanding project role right now but I took some old advice from a friend. So, dusting off some previous research I did earlier this year, I opened up VS Code this morning and produced this blog powered by markdown files, Jeckyll and hosted for free, being super cost concious here in  the 2024 economy, on GitHub Pages.
+ Summary: A no cost way to standup a static web site using Jeckyll, Markdown files, on an Ubuntu rig hosted for free as a GitHub pages site with HTTPS.
  <!--more-->
 
 ## Creating a Blog Using Jekyll on an Ubuntu Machine
@@ -12,7 +12,6 @@ categories: howto
  Once upon a time I used to run my own blog. Topics were of course code, work, projects, hikes, food and health. I did that for about 11 years. It even scored me some writing gigs. Then I kind of did the career focus track for the past five and a half years by getting my hands very dirty in the process of diving back into .Net, enough DevOps work to be familiar with YAML now, and of course Azure.
 
  I'm in a pretty demanding project role right now but I took some old advice from a friend. So, dusting off some previous research I did earlier this year, I opened up VS Code this morning and produced this blog powered by markdown files, Jeckyll and hosted for free, being super cost concious here in  the 2024 economy, on GitHub Pages.
- <!--more-->
 
  > "No one is so tired that he cannot begin again and carry on." — Marcus Aurelius
 
