@@ -14,5 +14,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+
+      - name: Check SCSS file
+        run: cat ${{ github.workspace }}/assets/main.scss
+
       - name: Build the site
         run: docker run -v ${{ github.workspace }}:/srv/jekyll jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --trace"
