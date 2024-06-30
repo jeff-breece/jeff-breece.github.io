@@ -6,7 +6,13 @@ categories: howto
 ---
 ## Creating a Blog Using Jekyll on an Ubuntu Machine
 
-Blogging has become a popular way to share knowledge, experiences, and ideas with the world. One of the simplest and most efficient ways to start a blog is by using Jekyll, a static site generator that takes Markdown files and converts them into a complete static website. In this guide, we’ll walk through the process of creating a blog using Jekyll on an Ubuntu machine.
+ Once upon a time I used to run my own blog. Topics were of course code, work, projects, hikes, food and health. I did that for about 11 years. It even scored me some writing gigs. Then I kind of did the career focus track for the past five and a half years by getting my hands very dirty in the process of diving back into .Net, enough DevOps work to be familiar with YAML now, and of course Azure.
+
+ I'm in a pretty demanding project role right now but I took some old advice from a friend. So, dusting off some previous research I did earlier this year, I opened up VS Code this morning and produced this blog powered by markdown files, Jeckyll and hosted for free, being super cost concious here in  the 2024 economy, on GitHub Pages.
+
+ > "No one is so tired that he cannot begin again and carry on." — Marcus Aurelius
+
+ In this guide, I’ll walk through the process of creating a blog using Jekyll on an Ubuntu machine (you  can of course do it on both Mac and Windows).
 
 ### Prerequisites
 
