@@ -60,8 +60,8 @@ For our implementation, the form is defined as a 'Template,' groups within the f
 Each Molecule within an organism consists of a container with the following components:
 
 - **Molecule Container**
-  - **Molecule Label (descriptor for the user)**
-  - **Molecule Datum (drop down, text input, radio button, or combo box types)**
+  - **(Atom) Label (descriptor for the user)**
+  - **(Atom) Datum (drop down, text input, radio button, or combo box types)**
 
 ### Architectural Diagram
 
@@ -76,61 +76,61 @@ Product Form (Template)
 │
 ├── Product Details Group (Organism)
 │   ├── Quantity (Molecule)
-│   │   ├── Molecule Label
-│   │   └── Molecule Datum
+│   │   ├── (Atom) Label
+│   │   └── (Atom) Datum
 │   ├── Price (Molecule)
-│   │   ├── Molecule Label
-│   │   └── Molecule Datum
+│   │   ├── (Atom) Label
+│   │   └── (Atom) Datum
 │   ├── Tax (Molecule)
-│   │   ├── Molecule Label
-│   │   └── Molecule Datum
+│   │   ├── (Atom) Label
+│   │   └── (Atom) Datum
 │   ├── Units of Measure (Molecule)
-│   │   ├── Molecule Label
-│   │   └── Molecule Datum
+│   │   ├── (Atom) Label
+│   │   └── (Atom) Datum
 │   └── Country of Origin (Molecule)
-│       ├── Molecule Label
-│       └── Molecule Datum
+│       ├── (Atom) Label
+│       └── (Atom) Datum
 │
 └── Point To Point Group (Organism)
     ├── Origin (Organism)
     │   ├── Origin Name Molecule (Molecule)
-    │   │   ├── Molecule Label
-    │   │   └── Molecule Datum
+    │   │   ├── (Atom) Label
+    │   │   └── (Atom) Datum
     │   ├── Origin Street Address Molecule (Molecule)
-    │   │   ├── Molecule Label
-    │   │   └── Molecule Datum
+    │   │   ├── (Atom) Label
+    │   │   └── (Atom) Datum
     │   ├── Origin City (Molecule)
-    │   │   ├── Molecule Label
-    │   │   └── Molecule Datum
+    │   │   ├── (Atom) Label
+    │   │   └── (Atom) Datum
     │   ├── Origin State (Molecule)
-    │   │   ├── Molecule Label
-    │   │   └── Molecule Datum
+    │   │   ├── (Atom) Label
+    │   │   └── (Atom) Datum
     │   ├── Origin Zip (Molecule)
-    │   │   ├── Molecule Label
-    │   │   └── Molecule Datum
+    │   │   ├── (Atom) Label
+    │   │   └── (Atom) Datum
     │   └── Origin Phone (Molecule)
-    │       ├── Molecule Label
-    │       └── Molecule Datum
+    │       ├── (Atom) Label
+    │       └── (Atom) Datum
     │
     └── Destination (Organism)
         ├── Destination Name Molecule (Molecule)
-        │   ├── Molecule Label
-        │   └── Molecule Datum
+        │   ├── (Atom) Label
+        │   └── (Atom) Datum
         ├── Destination Street Address Molecule (Molecule)
-        │   ├── Molecule Label
-        │   └── Molecule Datum
+        │   ├── (Atom) Label
+        │   └── (Atom) Datum
         ├── Destination City (Molecule)
-        │   ├── Molecule Label
-        │   └── Molecule Datum
+        │   ├── (Atom) Label
+        │   └── (Atom) Datum
         ├── Destination State (Molecule)
-        │   ├── Molecule Label
-        │   └── Molecule Datum
+        │   ├── (Atom) Label
+        │   └── (Atom) Datum
         ├── Destination Zip (Molecule)
-        │   ├── Molecule Label
-        │   └── Molecule Datum
+        │   ├── (Atom) Label
+        │   └── (Atom) Datum
         └── Destination Phone (Molecule)
-            ├── Molecule Label
-            └── Molecule Datum
+            ├── (Atom) Label
+            └── (Atom) Datum
 ```
 
 With the visibility rules loaded, to set the height of the Organism, I basically just execute an If statement for the Organism for each of its Molecules based on the Molecule's visibility. So, if visible, add the Organism's height to the total height of all the Molecules inside the Organism.
