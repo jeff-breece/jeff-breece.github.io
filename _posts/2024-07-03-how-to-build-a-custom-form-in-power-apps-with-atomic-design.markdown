@@ -25,7 +25,7 @@ Atomic design divides interfaces into five levels of hierarchy:
 
 ### Form Structure
 
-For our implementation, the form is defined as a 'Template,' groups within the form are 'Organisms,' nodes within these groups are 'Molecules,' and the controls within the nodes are 'Atoms.' Note this is not the actual product I built, but an overview of the methodology behind it.
+For our implementation, the form is defined as a 'Template,' groups within the form are 'Organisms,' Molecules within these groups are 'Molecules,' and the controls within the Molecules are 'Atoms.' Note this is not the actual product I built, but an overview of the methodology behind it.
 
 #### Form Template Components
 
@@ -34,34 +34,34 @@ For our implementation, the form is defined as a 'Template,' groups within the f
   - **Add Edit Duplicate Product Buttons Group (Organism)**
   - **Primary Filters Group (Division / Product Type) (Organism)**
   - **Product Details Group (Organism)**
-    - **Quantity (Node)**
-    - **Price (Node)**
-    - **Tax (Node)**
-    - **Units of Measure (Node)**
-    - **Country of Origin (Node)**
+    - **Quantity (Molecule)**
+    - **Price (Molecule)**
+    - **Tax (Molecule)**
+    - **Units of Measure (Molecule)**
+    - **Country of Origin (Molecule)**
   - **Point To Point Group (Organism)**
     - **Origin (Organism)**
-      - **Origin Name Node (Molecule)**
-      - **Origin Street Address Node (Molecule)**
-      - **Origin City (Node)**
-      - **Origin State (Node)**
-      - **Origin Zip (Node)**
-      - **Origin Phone (Node)**
+      - **Origin Name Molecule (Molecule)**
+      - **Origin Street Address Molecule (Molecule)**
+      - **Origin City (Molecule)**
+      - **Origin State (Molecule)**
+      - **Origin Zip (Molecule)**
+      - **Origin Phone (Molecule)**
     - **Destination (Organism)**
-      - **Destination Name Node (Molecule)**
-      - **Destination Street Address Node (Molecule)**
-      - **Destination City (Node)**
-      - **Destination State (Node)**
-      - **Destination Zip (Node)**
-      - **Destination Phone (Node)**
+      - **Destination Name Molecule (Molecule)**
+      - **Destination Street Address Molecule (Molecule)**
+      - **Destination City (Molecule)**
+      - **Destination State (Molecule)**
+      - **Destination Zip (Molecule)**
+      - **Destination Phone (Molecule)**
 
-#### Node Inputs
+#### Molecule Inputs
 
-Each node within an organism consists of a container with the following components:
+Each Molecule within an organism consists of a container with the following components:
 
-- **Node Container**
-  - **Node Label (descriptor for the user)**
-  - **Node Datum (drop down, text input, radio button, or combo box types)**
+- **Molecule Container**
+  - **Molecule Label (descriptor for the user)**
+  - **Molecule Datum (drop down, text input, radio button, or combo box types)**
 
 ### Architectural Diagram
 
@@ -75,62 +75,62 @@ Product Form (Template)
 ├── Primary Filters Group (Organism)
 │
 ├── Product Details Group (Organism)
-│   ├── Quantity (Node)
-│   │   ├── Node Label
-│   │   └── Node Datum
-│   ├── Price (Node)
-│   │   ├── Node Label
-│   │   └── Node Datum
-│   ├── Tax (Node)
-│   │   ├── Node Label
-│   │   └── Node Datum
-│   ├── Units of Measure (Node)
-│   │   ├── Node Label
-│   │   └── Node Datum
-│   └── Country of Origin (Node)
-│       ├── Node Label
-│       └── Node Datum
+│   ├── Quantity (Molecule)
+│   │   ├── Molecule Label
+│   │   └── Molecule Datum
+│   ├── Price (Molecule)
+│   │   ├── Molecule Label
+│   │   └── Molecule Datum
+│   ├── Tax (Molecule)
+│   │   ├── Molecule Label
+│   │   └── Molecule Datum
+│   ├── Units of Measure (Molecule)
+│   │   ├── Molecule Label
+│   │   └── Molecule Datum
+│   └── Country of Origin (Molecule)
+│       ├── Molecule Label
+│       └── Molecule Datum
 │
 └── Point To Point Group (Organism)
     ├── Origin (Organism)
-    │   ├── Origin Name Node (Molecule)
-    │   │   ├── Node Label
-    │   │   └── Node Datum
-    │   ├── Origin Street Address Node (Molecule)
-    │   │   ├── Node Label
-    │   │   └── Node Datum
-    │   ├── Origin City (Node)
-    │   │   ├── Node Label
-    │   │   └── Node Datum
-    │   ├── Origin State (Node)
-    │   │   ├── Node Label
-    │   │   └── Node Datum
-    │   ├── Origin Zip (Node)
-    │   │   ├── Node Label
-    │   │   └── Node Datum
-    │   └── Origin Phone (Node)
-    │       ├── Node Label
-    │       └── Node Datum
+    │   ├── Origin Name Molecule (Molecule)
+    │   │   ├── Molecule Label
+    │   │   └── Molecule Datum
+    │   ├── Origin Street Address Molecule (Molecule)
+    │   │   ├── Molecule Label
+    │   │   └── Molecule Datum
+    │   ├── Origin City (Molecule)
+    │   │   ├── Molecule Label
+    │   │   └── Molecule Datum
+    │   ├── Origin State (Molecule)
+    │   │   ├── Molecule Label
+    │   │   └── Molecule Datum
+    │   ├── Origin Zip (Molecule)
+    │   │   ├── Molecule Label
+    │   │   └── Molecule Datum
+    │   └── Origin Phone (Molecule)
+    │       ├── Molecule Label
+    │       └── Molecule Datum
     │
     └── Destination (Organism)
-        ├── Destination Name Node (Molecule)
-        │   ├── Node Label
-        │   └── Node Datum
-        ├── Destination Street Address Node (Molecule)
-        │   ├── Node Label
-        │   └── Node Datum
-        ├── Destination City (Node)
-        │   ├── Node Label
-        │   └── Node Datum
-        ├── Destination State (Node)
-        │   ├── Node Label
-        │   └── Node Datum
-        ├── Destination Zip (Node)
-        │   ├── Node Label
-        │   └── Node Datum
-        └── Destination Phone (Node)
-            ├── Node Label
-            └── Node Datum
+        ├── Destination Name Molecule (Molecule)
+        │   ├── Molecule Label
+        │   └── Molecule Datum
+        ├── Destination Street Address Molecule (Molecule)
+        │   ├── Molecule Label
+        │   └── Molecule Datum
+        ├── Destination City (Molecule)
+        │   ├── Molecule Label
+        │   └── Molecule Datum
+        ├── Destination State (Molecule)
+        │   ├── Molecule Label
+        │   └── Molecule Datum
+        ├── Destination Zip (Molecule)
+        │   ├── Molecule Label
+        │   └── Molecule Datum
+        └── Destination Phone (Molecule)
+            ├── Molecule Label
+            └── Molecule Datum
 ```
 
 With the visibility rules loaded, to set the height of the Organism, I basically just execute an If statement for the Organism for each of its Molecules based on the Molecule's visibility. So, if visible, add the Organism's height to the total height of all the Molecules inside the Organism.
