@@ -11,7 +11,7 @@ categories: howto
 
 ### Introduction
 
-As application development evolved through the first decade of 2000, the need for scalable and maintainable design systems becomes increasingly crucial. Atomic design, a methodology introduced by Brad Frost, breaking down user interfaces into fundamental building blocks. This approach is especially beneficial in Power Apps Canvas applications, where creating dynamic and reusable forms can significantly enhance development efficiency. This blog explores how to implement atomic design in a Canvas app using containers and control-based forms, deviating from traditional form controls, and integrates Dataverse for managing visibility and validation rules.
+As application development evolved through the first decade of 2000, the need for scalable and maintainable design systems becomes increasingly crucial. Atomic design, a methodology introduced by Brad Frost, breaking down user interfaces into fundamental building blocks, were fundamental ideas in organizing UI componets in a more OOP format. This approach is especially beneficial in Power Apps Canvas applications, where creating dynamic and reusable forms can significantly enhance development efficiency. This blog explores how to implement atomic design in a Canvas app using containers and control-based forms, deviating from traditional form controls, and integrates Dataverse for managing visibility and validation rules.
 
 ### Understanding Atomic Design
 
