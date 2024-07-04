@@ -4,7 +4,7 @@ title:  "A moment of reflection before turning, yet again, forward"
 date:   2024-07-04 07:00:00 -0400
 categories: selfcare
 ---
-Summary: I got a wake-up call during my last health checkup. Evidently working 7 days a week for two solid months in an atmosphere of constant anxiety is not healthy for a fella. So I’m taking a moment to how I took the wrong fork during The Pandemic and how I am course correcting.
+Summary: I got a wake-up call during my last health checkup. Evidently working 7 days a week for two solid months in an atmosphere of constant anxiety is not healthy for a fella. So I’m taking a moment to explore how I took the wrong fork during The Pandemic and how I am course correcting.
 <!--more-->
 
 ### First though, and only 4 short years ago, this was me.
