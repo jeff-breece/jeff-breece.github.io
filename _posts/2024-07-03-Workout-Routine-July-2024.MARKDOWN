@@ -9,7 +9,6 @@ Phase one of my next 30 days, slow and easy with lots of rest and healthier food
 
 |   Day | Type     | Exercise                    | Sets   | Reps   | Duration       | Distance       |
 |------:|:---------|:----------------------------|:-------|:-------|:---------------|:---------------|
-|   nan | nan      | nan                         | nan    | nan    | nan            | nan            |
 |     1 | Strength | Dumbbell squat              | 3      | 10     | 30 min         | na             |
 |     1 | Strength | Dumbbell deadlift           | 3      | 10     | 30 min         | na             |
 |     1 | Strength | Bent over rows              | 3      | 10     | 30 min         | na             |
