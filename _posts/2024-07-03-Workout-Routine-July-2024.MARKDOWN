@@ -5,7 +5,7 @@ date:   2024-07-03 07:00:00 -0400
 categories: selfcare
 ---
 
-# Phase one of my next 30 days, slow and easy with lots of rest and healthier food choices ahead.
+Phase one of my next 30 days, slow and easy with lots of rest and healthier food choices ahead.
 
 |   Day | Type     | Exercise                    | Sets   | Reps   | Duration       | Distance       |
 |------:|:---------|:----------------------------|:-------|:-------|:---------------|:---------------|
