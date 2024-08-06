@@ -5,7 +5,9 @@ date: 2024-08-05 07:00:00 -0400
 categories: powerapps
 ---
 
-**Summary:** In Power Apps, the `expand` function is used to retrieve related data from other tables or entities within the same data source when you query data. This is particularly useful when working with data models that have relationships between entities, such as in a Common Data Service (now called Dataverse) or SharePoint lists. The magic trick that our client, my team, Microsoft, and I faced? Why were these things being randomly fired in a canvas app which caused a nightmare scenario of generic "network errors" seen by our UAT users. This post is the background on the function and a warning to those who adopt the offline first capability with Dataverse with the Power Apps stack. (This post goes out with thanks to my partner on the project, Robert, our client for the sheer mountain of patience they exerted in the face of a looming deployment date and, of course, Microsoft for the indirect breadcrumbs that led our project lead toward the solution.)
+**Summary:** In Power Apps, the `expand` function is used to retrieve related data from other tables or entities within the same data source when you query data. This is particularly useful when working with data models that have relationships between entities, such as in a Common Data Service (now called Dataverse) or SharePoint lists. The magic trick that our client, my team, Microsoft, and I faced? Why were these things being randomly fired in a canvas app which caused a nightmare scenario of generic "network errors" seen by our UAT users. This post is the background on the function and a warning to those who adopt the offline first capability with Dataverse with the Power Apps stack.
+
+***Citations out, with thanks, to my partner on the project, Mr. Robert Martin, our client for the sheer mountain of patience they exerted in the face of a looming deployment date and, of course, Microsoft for the indirect breadcrumbs that led our project lead toward the solution.***
 
 <!--more-->
 
