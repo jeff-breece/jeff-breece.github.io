@@ -69,3 +69,6 @@ That little line item? Well, it cost us 3 weeks of multi-person effort and an of
 ### Closing
 
 Understanding and using the `expand` function effectively can significantly enhance the data handling capabilities in Power Apps, enabling more sophisticated and responsive applications. But be careful where you use it in the event you are in an offline first context.
+
+### Reference
+[Debugging canvas apps with Monitor](https://learn.microsoft.com/en-us/power-apps/maker/monitor-canvasapps)
