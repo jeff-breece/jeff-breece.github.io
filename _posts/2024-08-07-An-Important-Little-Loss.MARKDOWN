@@ -11,7 +11,7 @@ categories: personal
 
 ### Dedication To Helen
 
-I got her from a former colleague back at Glazer's Family of Companies before Southern bought the outfit. Michelle. When we got "Princess Helen Sophia" as named, she was timid, fearful, not used to being around people. Over the years she became the alpha tiger, fearless and adaptable to all sorts of things, almost eerily able to learn new behaviors and ways of communicating.
+I got her from a former colleague back at Glazer's Family of Companies before Southern bought the outfit. Michelle. When we got "Princess Helen Sophia" as named, she was timid, fearful, not used to being around people. Over the years she became the alpha tiger, fearless and adaptable to all sorts of things, almost eerily able to learn new behaviors and ways of communicating, and man... she developed a loud trumpet of a growl-trill-purr as my best friend Doug rememebers.
 
 She left my life, very loved, with my gratitude for having been with us for these 15 or so years.
 
