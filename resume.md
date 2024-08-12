@@ -83,7 +83,7 @@ various government organizations.
     (multiple clients)
 -   Farm migrations
 
-### Glazer's Family of Companies, Inc June 2008 to July 202013
+### Glazer's Family of Companies, Inc June 2008 to July 2013
 -   SharePoint lead, .NET, JavaScript, PowerShell Developer
 -   Workflow automations, Master Page branding, Web Part development,
     event receivers, managed metadata, BDC
