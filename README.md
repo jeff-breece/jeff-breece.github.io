@@ -1,4 +1,13 @@
 ### Hi there 👋
+This repo is for my blog/bio page hosted on GitHub Pages, which works great, and it has the right price tag—free!
+
+I'm currently working on a piece of middleware for the Python camping library created by the good folks at Jutfin. I've just finished my proof of concept for this, which will, in turn, be wrapped as an Azure Function that sits between a Microsoft Bot Framework web application and the backend search processor of Camply itself.
+
+A few other bits I'm working on include adding pagination to this blog (which has been a bit of a curve since it's controlled by some built-in features of Jekyll itself). I'm also working on getting back off my rear end and into a more active lifestyle. Retraining the brain after the pandemic on that one has proved to be a bit of, well, unlearning the bad habits of isolation.
+
+During the last six years of my career, I worked in .NET Core on a large voice assistant bot for an energy company, lost a cat to old age, my mom had heart surgery, my dad had a heart attack, and I've been to about 67 different campgrounds, State Parks, and National Forests, lighting so many fires of gratitude that I feel like Mr. Thank You these days for another day alive, new challenges, and the hope of tomorrow with my friends and family.
+
+🌱 Namaste 🌱
 
 <!--
 **jeff-breece/jeff-breece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
