@@ -18,11 +18,9 @@ layout: default
             {%- if site.show_excerpts -%}
             <p>{{ post.excerpt }}</p>
             {%- endif -%}
-            <!-- <a href="{{ post.url }}">Read more</a> -->
         </div>
         {% endfor %}
     </ul>
-
 
     <div class="pagination">
         {% if paginator.previous_page %}
@@ -41,8 +39,11 @@ layout: default
         <a href="{{ paginator.next_page_path }}">Next</a>
         {% endif %}
     </div>
+    {%- endif -%}
 
-    <!-- p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+</div>
+
+<!-- p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
     {%- endif -%}
 
 </div>
