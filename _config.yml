@@ -39,8 +39,8 @@ plugins:
   - jekyll-seo-tag
   
 
-paginate: 5       # Number of posts per page
-paginate_path: "/page:num/"  # URL pattern for paginated pages
+# paginate: 5       # Number of posts per page
+# paginate_path: "/page:num/"  # URL pattern for paginated pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
