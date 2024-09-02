@@ -36,6 +36,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+paginate: 5       # Number of posts per page
+paginate_path: "/page:num/"  # URL pattern for paginated pages
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
