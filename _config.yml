@@ -35,6 +35,9 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
 
 paginate: 5       # Number of posts per page
 paginate_path: "/page:num/"  # URL pattern for paginated pages
