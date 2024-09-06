@@ -35,7 +35,7 @@ I've been searching for a little over a year for the right scenario where I can 
 
 ### My Retro
 
-And finally, the five+ year retro that made me smile in how much, as difficult as some of these years were, made me stronger and more connected on a human level. Insight, our people, and our partners supported and included me, as we should all be in everything we do **together**.
+And finally, the five+ year retro that made me smile in how much, as difficult as some of these years were, made me stronger and more connected on a human level. Insight, our people, our partners and those who hire us to support with excellence and clear leadership, well, included my own efforts. That's the idea we should all hold right up front. Our creativity, in everything we do **together**, should be used collectively for the greater good of our consumer.
 
 "First came the light," -- 'Evolve': Phish
 
