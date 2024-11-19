@@ -3,28 +3,23 @@ layout: post
 title: "Metadata-Driven Application Architecture & PowerApps"  
 date: 2024-11-18 07:00:00 -0400  
 categories: project  
-image: /images/dolly-sods.jpg
+image: /images/logic-branch.png
 description: "Every nerd should have a passion project, this is mine."
 ---
 
 **Summary:** 
-A few years back, when I was leaving Nationwide and returning to coding for Insight, I fell into a group of UX'ers who were looking for a design challenge to host. Being a part of that process was truly enlightening. Taking three teams, building a pitch around a central idea, camping systems was the idea I proferred, which is where my little passion project "moondock" came from. It's just an open source thing I've been building in my free time using a collection of technologies to mainly keep my skills sharp and, on a good day, help me to understand new concepts like AI models and new cloud concepts that I had not yet had the chance to work with. Of course, my .Net and Bot Framework body of work helped propel this with momentum after recovering from the burnout of The Pandemic era. The funny thing is, that's actually taking shape now and I even have a pretty robust reserveration checking system that I have integrated with over the weekend as a main service for the build.
+This post is the completion of the one I wrote on **[using Atomic Design in the architecture](https://jeff-breece.github.io/howto/2024/06/30/how-to-build-a-custom-form-in-power-apps-with-atomic-design.html)** of web based forms, specifically Power Platform Canvas applications. The idea is to create a metadata structure that defines business objects in a data repo that loads upon application initialization. One of the benefits of this is for scenarios where you have multiple buiness definitions for the same process but not all of them clearly outlined as of yet. Instead of blocking the project, you can simply lead with what you have and move immediately forward. Stated another way, it decouples your engineering effort from the business rules while allowing the rules to evolve over time without furhter build time. Low touch, high value.
 
 <!--more-->
-
-**Yes, there is an architectural pattern known as the "Metadata-Driven Application" or "Dynamic Forms" pattern that suits your needs.**
-
----
-
 **Overview of the Pattern**
 
-The Metadata-Driven Application pattern involves storing business rules, form configurations, and UI behaviors externally (e.g., in a database like Dataverse). The application dynamically reads these configurations at runtime (on App Start or when a Screen becomes Visible) and renders the UI accordingly. This approach allows for:
+The Metadata-Driven Application pattern involves storing business rules, form configurations, and UI behaviors externally (e.g., in a database like Dataverse). The application dynamically reads these configurations at runtime (on App Start or when a Screen becomes Visible) and renders the UI accordingly. To use this, you would need to have an application that has defined form fields and possibly a structure like some sort of domain differentiation like department (govt) or distribution channel (manufacturing and supply chain). Then upon load, the app fetches the rules, based on the action or actor performing the action, the specific rules apply and the UI renders to serve that specific purpose.
+
+This approach allows for:
 
 - **Flexibility**: Easily update business rules without changing the application code.
 - **Scalability**: Accommodate new customers or changing requirements by updating data entries.
 - **Maintainability**: Centralize business logic, making it easier to manage and audit.
-
----
 
 **Implementation Steps in Power Apps**
 
@@ -149,6 +144,7 @@ The Metadata-Driven Application pattern involves storing business rules, form co
 
    - **Data Loading**: Loading large sets of rules can impact performance. Optimize by loading only what's necessary.
    - **Caching Strategies**: Implement caching where appropriate to improve responsiveness.
+   - **Scope**: If not cross screen(s) in Power Apps, prefer context variables over globals to reduce memory consumption.
 
 3. **Security**:
 
@@ -195,16 +191,3 @@ The Metadata-Driven Application pattern involves storing business rules, form co
 By adopting the Metadata-Driven Application pattern in Power Apps, you create a flexible and maintainable solution that adapts to varying business rules and customer requirements. Storing business rules in Dataverse allows non-developers to manage them, while the app dynamically renders the UI based on these rules at runtime.
 
 This approach enhances the scalability of your application, reduces the need for frequent code changes, and improves overall efficiency in managing complex business processes.
-
----
-
-**Next Steps**
-
-- **Design the Dataverse Schema**: Outline the tables and relationships needed to store your business rules effectively.
-- **Prototype the App Logic**: Build a small proof of concept to test dynamic UI rendering based on external rules.
-- **Plan for Testing**: Develop a testing strategy to cover all possible rule combinations and scenarios.
-- **User Training**: Prepare documentation or training sessions for users who will manage the business rules in Dataverse.
-
----
-
-If you need further assistance in implementing this pattern or have more questions on specific aspects, feel free to ask!
