@@ -24,9 +24,9 @@ When working as an engineer, a dba, a cloud admin, and architect of any level wi
 - Establishing Shared Understanding Design-to-Engineering Handoff Standards:  
 - Use clear (but also high-level summaries of for the execs) documentation, mockups, and user stories to reduce ambiguity. 
 - Tools like Figma (design concepts) and Azure Dev Ops (ADZO)/GIT Boards (discreet engineering tasks and or feature stories/epics) can help ensure consistency.  
+- Technical Feasibility Reviews: Regularly schedule technical feasibility reviews to validate designs before they are committed to development. 
 
-#### Technical Feasibility Reviews: Regularly schedule technical feasibility reviews to validate designs before they are committed to development. 
-- Building Strong Communication Channels Cross-Functional Teams:  
+#### Building Strong Communication Channels Cross-Functional Teams:  
 - Set up cross-functional teams with dedicated product, design, and engineering representatives who work closely on shared goals.  
 - Regular Syncs: Conduct weekly or bi-weekly syncs between product owners and engineers to discuss progress, risks, and changes.  
 - Teams/Slack Channels or Chat Groups: Create shared communication spaces where both parties can ask questions, clarify expectations, and resolve issues quickly. 
