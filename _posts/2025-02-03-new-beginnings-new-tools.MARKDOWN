@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New job, new laptop, new solutions to build!"
+title:  "New year, new laptop, new solutions to build!"
 date:   2025-02-03 07:00:00 -0400
 categories: howto
 image: /images/new-machine.png
