@@ -10,7 +10,7 @@ tags:
   - integration
   - migration
   - architecture
-image: /images/triptik.png
+image: /images/transmorgify.png
 excerpt_separator: <!--more-->
 ---
 
