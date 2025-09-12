@@ -20,6 +20,8 @@ This post documents the concrete problems I hit while migrating an invoice‑pro
 
 All within a four hour time box over 4000+ lines of workflow definition JSON.
 
+[Disclaimer: I used AI to generate this post from code scenarios I personally constructed & **very careful** contextual guidance in order to document this topic quickly].
+
 <!--more-->
 
 ## Executive Summary
