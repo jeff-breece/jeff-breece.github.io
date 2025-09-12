@@ -1,5 +1,6 @@
 ---
 layout: post
+date:   2025-09-11 18:00:00 -0400
 title: "Migrating an Azure Logic App from Consumption to Standard: Patterns, Pitfalls, and Lessons Learned"
 description: "Migration notes from an invoice OCR + validation workflow moving from multi-tenant (Consumption) to single-tenant (Standard)—with focus on Blob operations, connector parity, error handling, design hygiene, and secrets management."
 categories: howto
@@ -9,7 +10,7 @@ tags:
   - integration
   - migration
   - architecture
-image: /images/triptik.png
+image: /images/transmorgify.png
 excerpt_separator: <!--more-->
 ---
 
