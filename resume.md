@@ -7,19 +7,19 @@ permalink: /resume/
 ### Columbus, OH | [Email Me](mailto:jeffbreece@outlook.com)
 
 ## Profile
-As a software engineer, collaboration and technical pre-sales architect
-and team lead, Jeff has been responsible for solution design and
-delivery across multiple platforms in a wide body of industries and
-organizations. This includes over 10 years of experience with backend
-services, Azure, business automation platforms, portal development,
-digital assistant (Microsoft bot) technologies, modern .NET, CI/CD, and
-Low/No Code tech stacks including Power Platform, Dataverse, and Nintex.
-He has worked within industries, some of which represent insurance,
-logistics, energy, retirement, health care, steel manufacturing, and
-various government organizations.
+Jeff is a solutions architect, software engineer, technical pre-sales architect, and team lead with 10+ years of experience delivering solutions on Azure and Microsoft 365. His expertise includes backend services, Azure Functions, Logic Apps, modern .NET, CI/CD, portal and application development, workflow automation, and conversational AI (Microsoft Bot Framework). He also works extensively with low/no-code platforms such as Microsoft Power Platform (Power Automate, Power Apps) and Dataverse, plus Nintex. His industry experience spans insurance, logistics, energy, retirement, healthcare, steel and food manufacturing, and state and local government, covering the full lifecycle from discovery and design to production delivery.
 
 ## Experience
-### Insight 2023 to present
+### Marzetti October 2024 to Present
+-   Solution Architecture across Azure and Power Platform ecosystems
+-   Designed and implemented automations using Logic Apps, Power Automate, and Azure Document Intelligence (OCR and Vision AI) to streamline document workflows and build SAP REST integrations.
+-   Architected a product data syndication system with API integrations and a responsive Power Platform UI.
+-   Developed new patterns for architectural diagrams using MermaidJS to visualize system interactions and support cross-team/role alignment.
+-   Established DevOps governance with Azure DevOps pipelines and controls to ensure secure, scalable deployments.
+-   Mentored developers in automation, integration, and governance best practices.
+-   Participated in Product Owner sessions and stakeholder workshops to size, define, and deliver business-critical solutions.
+
+### Insight 2023 to 2024
 -   Power Platform & Dataverse Development/Architecture
 -   (Current contract) Create a responsive Canvas application, capable
     of on and offline functionality, including Power Automate components
@@ -32,7 +32,7 @@ various government organizations.
     Dataverse with a streamlined data model, Data Flows and ALM with
     training for a Wealth Management organization
 
-### Insight 2023 to present
+### Insight 2023 to 2024
 -   Technical pre-sales solution architect
 -   Work to support diverse clients with solution architecture, to
     scope, to project and sales
