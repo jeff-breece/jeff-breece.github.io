@@ -1,25 +1,52 @@
-### Hi there 👋
-This repo is for my blog/bio page hosted on GitHub Pages, which works great, and it has the right price tag—free!
+# Jeff Breece — Personal Site & Journal
 
-I'm currently working on a piece of middleware for the Python camping library created by the good folks at Jutfin. I've just finished my proof of concept for this, which will, in turn, be wrapped as an Azure Function that sits between a Microsoft Bot Framework web application and the backend search processor of Camply itself.
+This repository powers my personal site and writing space. It’s where I publish engineering notes, architecture patterns, how‑to guides, photo essays from the trail, and occasional reflections on work and life. The content is written for curious practitioners and future‑me—clear enough to reuse, small enough to iterate.
 
-A few other bits I'm working on include adding pagination to this blog (which has been a bit of a curve since it's controlled by some built-in features of Jekyll itself). I'm also working on getting back off my rear end and into a more active lifestyle. Retraining the brain after the pandemic on that one has proved to be a bit of, well, unlearning the bad habits of isolation.
+## What you’ll find here
 
-During the last six years of my career, I worked in .NET Core on a large voice assistant bot for an energy company, lost a cat to old age, my mom had heart surgery, my dad had a heart attack, and I've been to about 67 different campgrounds, State Parks, and National Forests, lighting so many fires of gratitude that I feel like Mr. Thank You these days for another day alive, new challenges, and the hope of tomorrow with my friends and family.
+- Engineering posts: Power Platform/Power Apps, integration, architecture, and practical patterns.
+- Build notes and diagrams from projects I’m exploring.
+- Personal logs: outdoors, fitness, and retrospectives.
+- A simple tag system and fast on‑site search to help you find things quickly.
 
-🌱 Namaste 🌱
+## Who I am (brief)
 
-<!--
-**jeff-breece/jeff-breece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a systems/solutions architect and hands‑on engineer. I like clean designs, pragmatic tooling, and writing things down. Off the keyboard I’m an outdoorsman, family man, and avid home cook.
 
-Here are some ideas to get you started:
+## Site tech stack (short)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Static site: Jekyll on GitHub Pages (theme: Minima, with light overrides).
+- Content: Markdown posts with front‑matter for tags and categories.
+- Search: Client‑side Lunr.js index served from `/search.json`.
+- Taxonomy: Tag index page with anchors (e.g., `#azure`).
+- Pagination: Classic Jekyll pagination on the home feed.
+- Styles: A small Sass layer for spacing and UX polish (compiled to `/assets/main.css`).
+
+This keeps the site fast, portable, and easy to maintain with plain text and Git.
+
+## Local development
+
+- Prereqs: Ruby + Bundler (or use Docker).
+- Run locally:
+  - `bundle install`
+  - `bundle exec jekyll serve --livereload`
+  - Visit http://127.0.0.1:4000
+
+Docker option:
+```
+docker run --rm -it -v ${PWD}:/srv/jekyll -p 4000:4000 jekyll/jekyll:4 jekyll serve --livereload --host 0.0.0.0
+```
+
+## Navigation
+
+- Home (paginated feed)
+- Tags (browse by topic)
+- Search (full‑text across posts)
+- Resume
+- About
+
+## License & attribution
+
+Content and code are in this repo; see [LICENSE](./LICENSE) for terms. Theme is based on Minima. Client search uses Lunr.js.
+
+— Jeff
