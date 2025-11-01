@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- assign posts = paginator.posts | default: site.posts -%}
+
+  {%- if posts and posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in posts -%}
+      <div class="post">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {%- if site.show_excerpts -%}
+          <p>{{ post.excerpt }}</p>
+        {%- endif -%}
+        {%- if post.tags and post.tags.size > 0 -%}
+          <p class="tags">
+            {%- for tag in post.tags -%}
+              <a href="{{ '/tags/#' | append: tag | slugify | relative_url }}" class="tag">#{{ tag }}</a>
+            {%- endfor -%}
+          </p>
+        {%- endif -%}
+      </div>
+      {%- endfor -%}
+    </ul>
+
+    {%- if paginator -%}
+      <nav class="pagination" role="navigation">
+        {%- if paginator.previous_page -%}
+          <a class="newer" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
+        {%- endif -%}
+        <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {%- if paginator.next_page -%}
+          <a class="older" href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+        {%- endif -%}
+      </nav>
+    {%- endif -%}
+  {%- endif -%}
+</div>
