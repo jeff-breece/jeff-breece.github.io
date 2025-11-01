@@ -37,10 +37,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  
 
 paginate: 10
-paginate_path: "/page:num"
+paginate_path: "/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
