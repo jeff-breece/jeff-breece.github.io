@@ -89,18 +89,34 @@ mark {
 }
 .tags .tag:last-child { margin-right: 0; }
 
-/* Navbar spacing */
+/* Header layout normalization to avoid Minima's mobile dropdown box */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Navbar spacing + force inline layout */
 .site-header .site-nav {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+
+  /* Override Minima mobile dropdown styles */
+  position: static;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  box-shadow: none;
 }
+
+/* Fallback if gap isn't supported */
 @supports not (gap: 1rem) {
   .site-header .site-nav a { margin-right: 1rem; }
   .site-header .site-nav a:last-child { margin-right: 0; }
 }
 
-/* Pagination spacing */
+/* Pagination spacing and layout */
 .pagination {
   display: flex;
   flex-wrap: wrap;
@@ -110,6 +126,7 @@ mark {
 }
 .pagination .page-number { color: #666; }
 
+/* Fallback if gap isn't supported */
 @supports not (gap: 0.75rem) {
   .pagination a { margin-left: 0.75rem; }
   .pagination a:first-child { margin-left: 0; }
@@ -117,10 +134,25 @@ mark {
 
 /* Small screens */
 @media (max-width: 600px) {
-  .site-header .site-nav { gap: 0.75rem; }
+  .site-header .wrapper {
+    flex-wrap: wrap;
+    gap: 0.5rem 0.75rem;
+  }
+  .site-header .site-nav {
+    gap: 0.75rem;
+
+    /* Ensure no dropdown box styles sneak in on small screens */
+    position: static;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    box-shadow: none;
+    justify-content: flex-start;
+  }
   @supports not (gap: 1rem) {
     .site-header .site-nav a { margin-right: 0.75rem; }
   }
+
   .pagination { gap: 0.5rem; }
   @supports not (gap: 0.75rem) {
     .pagination a { margin-left: 0.5rem; }
