@@ -15,8 +15,23 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      # Check the active SCSS entry (was _assets/main.scss; now assets/main.scss)
       - name: Check SCSS file
-        run: cat ${{ github.workspace }}/_assets/main.scss
+        run: cat "${{ github.workspace }}/assets/main.scss"
 
       - name: Build the site
-        run: docker run -v ${{ github.workspace }}:/srv/jekyll jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --trace"
+        run: docker run -v "${{ github.workspace }}:/srv/jekyll" jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --trace"
+
+      # Verify Jekyll compiled CSS
+      - name: Verify compiled CSS exists
+        run: |
+          test -f _site/assets/main.css
+          echo "main.css present."
+
+      # Optional: sanity-check expected selectors
+      - name: Verify expected CSS rules
+        run: |
+          grep -q ".site-header .site-nav" _site/assets/main.css
+          grep -q ".pagination" _site/assets/main.css
+          grep -q ".tags .tag" _site/assets/main.css
+          echo "Expected rules found."
