@@ -1,5 +1,157 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
 @import "minima";
+
+/* Visually hidden utility for accessibility */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Search page */
+.search-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  max-width: 42rem;
+}
+#search-input {
+  flex: 1 1 auto;
+  min-width: 16rem;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+}
+#search-clear {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  border: 1px solid #ccc;
+  background: #f7f7f7;
+  cursor: pointer;
+}
+#search-clear:hover { background: #eee; }
+.search-help { color: #666; margin-top: 0.25rem; }
+
+/* Results list */
+.search-result-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0 0 0;
+  max-width: 48rem;
+}
+.search-result-list li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #eaeaea;
+}
+.search-result-list a {
+  font-size: 1.1rem;
+}
+.search-result-list small {
+  color: #666;
+  margin-left: 0.5rem;
+}
+.search-result-list p {
+  margin: 0.25rem 0 0;
+  line-height: 1.45;
+}
+.search-result-count {
+  margin-top: 1rem;
+  color: #666;
+}
+.search-no-results {
+  margin-top: 1rem;
+  color: #666;
+}
+mark {
+  background: #fff5b1;
+  padding: 0 .15em;
+  border-radius: 2px;
+}
+
+/* Spacing between per-post tag links (home and posts) */
+.tags .tag {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.1rem 0.35rem;
+}
+.tags .tag:last-child { margin-right: 0; }
+
+/* Header layout normalization */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Navbar spacing + force inline layout (override Minima’s mobile dropdown) */
+.site-header .site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  /* overrides for Minima mobile dropdown */
+  position: static;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  box-shadow: none;
+}
+
+/* Fallback if gap isn't supported */
+@supports not (gap: 1rem) {
+  .site-header .site-nav a { margin-right: 1rem; }
+  .site-header .site-nav a:last-child { margin-right: 0; }
+}
+
+/* Pagination spacing and layout */
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+.pagination .page-number { color: #666; }
+
+/* Fallback if gap isn't supported */
+@supports not (gap: 0.75rem) {
+  .pagination a { margin-left: 0.75rem; }
+  .pagination a:first-child { margin-left: 0; }
+}
+
+/* Small screens */
+@media (max-width: 600px) {
+  .site-header .wrapper {
+    flex-wrap: wrap;
+    gap: 0.5rem 0.75rem;
+  }
+  .site-header .site-nav {
+    gap: 0.75rem;
+
+    /* ensure no dropdown box styles sneak in on small screens */
+    position: static;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    box-shadow: none;
+    justify-content: flex-start;
+  }
+  @supports not (gap: 1rem) {
+    .site-header .site-nav a { margin-right: 0.75rem; }
+  }
+
+  .pagination { gap: 0.5rem; }
+  @supports not (gap: 0.75rem) {
+    .pagination a { margin-left: 0.5rem; }
+  }
+}
