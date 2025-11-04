@@ -3,6 +3,12 @@ layout: post
 title:  "Hiking: Scioto Trail State Park"
 date:   2024-07-24 07:00:00 -0400
 categories: hiking
+tags:
+  - hiking
+  - camping
+  - outdoors
+  - ohio
+  - nature
 ---
 Summary: Getting out of the house and putting in some physical activity has been beneficial for me over the course of my life. It was during The Pandemic, however, that I used some of the trip logs I had stashed to find some off the path spots to go out for weekends or short overnights in the Ohio Valley Region. Great Seal State Park, one of my favorites for its low traffic, small footprint campground with a large number of strenuous trails to get lost upon has a nearby sibling which I just checked out last night. This post is about Scioto Trail State Park after doing the short ~3 mile lake loop last night.
 

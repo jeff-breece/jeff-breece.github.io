@@ -3,6 +3,12 @@ layout: post
 title:  "Power Apps Test Studio: Some Hard Observations"
 date:   2024-07-24 07:00:00 -0400
 categories: powerapps
+tags:
+  - powerapps
+  - testing
+  - test-studio
+  - quality-assurance
+  - automation
 ---
 Summary: The Power Apps Test Studio is, in most cases, a lackluster tool for creating both unit tests and automated UI test cases. Yes, it mimics some of that functionality that other more mature platforms provide, and there is a case to be made for very simple micro apps possibly benefitting from this feature from a checkbox perspective, it's wholly unuseful for large scale enterprise low code (or "pro code" as we are beginning to call it) applications. Here are my findings and some alternative paths.
 

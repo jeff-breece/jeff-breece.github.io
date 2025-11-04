@@ -5,6 +5,12 @@ date: 2024-09-05 07:00:00 -0400
 categories: career  
 image: /images/insight-retro.jpg  
 description: "My 5+ year retro board."
+tags:
+  - career
+  - reflection
+  - agile
+  - retrospective
+  - personal-growth
 ---
 
 **Summary:** Tomorrow is my last day at Insight. This is my self-retro for my nearly six years as an Azure engineer, a team lead, a technical pre-sales solution architect, and a Power Platform Developer/Application architect.

@@ -3,6 +3,12 @@ layout: post
 title: "Personal: Take Time to Recharge"  
 date: 2024-08-10 07:00:00 -0400  
 categories: personal  
+tags:
+  - mental-health
+  - work-life-balance
+  - wellness
+  - self-care
+  - hiking
 ---
 
 Summary: So what happens when we take time to work on life balance?

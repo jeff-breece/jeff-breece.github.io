@@ -3,6 +3,12 @@ layout: post
 title: "Power Apps: So, About That 'Expand' Function with Dataverse Offline First Mode..."
 date: 2024-08-05 07:00:00 -0400
 categories: powerapps
+tags:
+  - powerapps
+  - dataverse
+  - offline-mode
+  - troubleshooting
+  - canvas-apps
 ---
 
 **Summary:** In Power Apps, the `expand` function is used to retrieve related data from other tables or entities within the same data source when you query data. This is particularly useful when working with data models that have relationships between entities, such as in a Common Data Service (now called Dataverse) or SharePoint lists. The magic trick that our client, my team, Microsoft, and I faced? Why were these things being randomly fired in a canvas app which caused a nightmare scenario of generic "network errors" seen by our UAT users. This post is the background on the function and a warning to those who adopt the offline first capability with Dataverse with the Power Apps stack.

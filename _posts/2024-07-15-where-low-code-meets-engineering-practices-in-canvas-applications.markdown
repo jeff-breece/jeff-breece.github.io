@@ -3,6 +3,12 @@ layout: post
 title:  "Custom Forms: Where Low Code Meets Engineering Practices in Canvas Applications"
 date:   2024-07-18 07:00:00 -0400
 categories: powerapps
+tags:
+  - powerapps
+  - canvas-apps
+  - low-code
+  - engineering
+  - dataverse
 ---
  Summary: Building a container-based form in Power Apps has several advantages over using the out-of-the-box card-based form control. This post breaks down some of the advantages for these while identifying scenarios where the simpler out of the box form control is a decent tool for those jobs as well.
  <!--more-->

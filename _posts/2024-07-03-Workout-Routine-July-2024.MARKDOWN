@@ -3,6 +3,12 @@ layout: post
 title:  "Workout Routine"
 date:   2024-07-03 07:00:00 -0400
 categories: selfcare
+tags:
+  - fitness
+  - health
+  - workout
+  - strength-training
+  - cardio
 ---
 
 Phase one of my next 30 days, slow and easy with lots of rest and healthier food choices ahead.

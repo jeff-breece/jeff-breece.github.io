@@ -3,6 +3,12 @@ layout: post
 title:  "30/60/90 Day Framework"
 date:   2024-07-08 07:00:00 -0400
 categories: selfcare
+tags:
+  - fitness
+  - health
+  - diet
+  - nutrition
+  - wellness
 ---
 Summary: Took the weekend off in part for the Fourth of July but always for my husband's birthday. Throguh this downtime I put my home gym back together, spent quality time with my fella, and had some focused conversations with my goals. THis post is about the 30-60-90 day plan I put together toward rebooting my lifestyle post Pandemic in an era of pervasive industrial anxiety. We can choose to live to work, or work to live. It's time I chose the latter.
 <!--more-->
