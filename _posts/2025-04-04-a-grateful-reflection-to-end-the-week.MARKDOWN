@@ -5,6 +5,12 @@ date:   2025-02-03 07:00:00 -0400
 categories: howto
 image: /images/triptik.png
 description: ""
+tags:
+  - career
+  - reflection
+  - personal-growth
+  - gratitude
+  - leadership
 ---
 **Summary:** There have been three big chapters in my career after my foundational days spent in Dallas: Cardinal Solutions, Nationwide Insurance, and Insight. Now, after six months at T. Marzetti, today I find myself thinking back on Insight with a deep sense of gratitude. This post is about taking a moment to reflect on an, at times, uncomfortable set of challenges, and then realizing that it was exactly what you wanted... if not more because it makes you who you were meant to be.
 

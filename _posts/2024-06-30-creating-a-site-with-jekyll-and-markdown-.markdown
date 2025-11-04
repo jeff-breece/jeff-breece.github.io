@@ -3,6 +3,12 @@ layout: post
 title:  "Creating a Blog Using Jekyll on an Ubuntu Machine"
 date:   2024-06-30 07:00:00 -0400
 categories: howto
+tags:
+  - jekyll
+  - ubuntu
+  - github-pages
+  - markdown
+  - web-development
 ---
  Summary: A no cost way to standup a static web site using Jeckyll, Markdown files, on an Ubuntu rig hosted for free as a GitHub pages site with HTTPS.
  <!--more-->

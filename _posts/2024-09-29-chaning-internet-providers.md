@@ -5,6 +5,12 @@ date:   2024-09-29 07:00:00 -0400
 image: /images/att-speeds.png 
 description: "Speed analytics of AT&T vs Spectrum Internet"
 categories: howto
+tags:
+  - networking
+  - python
+  - automation
+  - data-analysis
+  - linux
 ---
 I finally pulled the plug now that AT&T Internet Air came out. I threw together a Python script and some visuals on a Cron schedule to get some comparison speeds over time. All I have to say is, I apologize to anyone who had to sit through a meeting with me over Teams on my old network connection.
  <!--more-->
