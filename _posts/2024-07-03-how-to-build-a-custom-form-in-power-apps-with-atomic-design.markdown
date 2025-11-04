@@ -3,6 +3,12 @@ layout: post
 title:  "How to build a custom form in a Canvas App using prinicpals from Atomic Design"
 date:   2024-06-30 07:00:00 -0400
 categories: howto
+tags:
+  - powerapps
+  - atomic-design
+  - dataverse
+  - canvas-apps
+  - architecture
 ---
  Summary: I have been on a project where the client needed an extremely complex custom form with a matrix of visibility and validation rules by organizational division. Atomic design came in handy, and here's how.
  <!--more-->
