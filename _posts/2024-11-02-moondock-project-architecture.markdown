@@ -5,6 +5,12 @@ date: 2024-11-02 07:00:00 -0400
 categories: project  
 image: /images/dolly-sods.jpg
 description: "Every nerd should have a passion project, this is mine."
+tags:
+  - dotnet
+  - architecture
+  - python
+  - camping
+  - open-source
 ---
 
 **Summary:** 

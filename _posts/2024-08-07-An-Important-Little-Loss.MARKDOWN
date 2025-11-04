@@ -3,6 +3,11 @@ layout: post
 title: "Personal: One Important Little Loss"
 date: 2024-08-07 07:00:00 -0400
 categories: personal
+tags:
+  - personal
+  - pets
+  - loss
+  - reflection
 ---
 
 **Summary:** I had the terrible privilege of scheduling gentle in-home euthanasia for a cat I rescued back in my Dallas days yesterday. She was amazing in every way an animal companion can be.

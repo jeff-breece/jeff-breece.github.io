@@ -5,6 +5,12 @@ date:   2025-02-03 07:00:00 -0400
 categories: howto
 image: /images/new-machine.png
 description: "This post is the comparison of my machines and a quick bash script I threw together to setup just the tooling I needed to do both my day job, and all of the other nerdy stuff I work with to, well, chase data rabbits and continue my lifelong path as a learner."
+tags:
+  - linux
+  - ubuntu
+  - system76
+  - bash
+  - dev-setup
 ---
 **Summary:** I'm about five months into my new job and loving every bit of it. It's putting the strengths I honed both at Nationwide and between Cardinal-Insight. This post is a bit of nostalgia for my old "frankenputer," as my mom used to say about the machines I would strap together from scrap parts. This last one? An aging AMD 5 core that got me through my last year at Nationwide and then the much tech heavier years at Insight through the Pandmic and afterwards. What follows in this blog is the comparison of my machines and a quick bash script I threw together to setup just the tooling I needed to do both my day job, and all of the other nerdy stuff I work with to, well, chase data rabbits and continue my lifelong path as a learner.
 
