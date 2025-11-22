@@ -12,6 +12,7 @@ tags:
   - architecture
 image: /images/transmorgify.png
 excerpt_separator: <!--more-->
+published: false
 ---
 
 Migrating a production Logic App from **Consumption** (multi‑tenant) to **Standard** (single‑tenant) isn’t just a “redeploy and go” exercise. Even when the workflow definition *looks* portable, subtle differences in the connector surface, operation IDs, and runtime validation rules can create blockers—especially around **Azure Blob Storage operations**.
