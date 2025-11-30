@@ -15,6 +15,7 @@ tags:
 image: /images/nick-2017.png
 excerpt_separator: <!--more-->
 ---
+[Originally published in 2017 after my close friend Nick’s stroke, this post reflects on 37 years of friendship, loss, and recovery. Now, in 2024, I share it as a memorial for Nick, whose journey shaped my life and whose passing marks the end of an era.]
 
 2017 has brought with it so many opportunities for me to grow as a man, a professional, a lover and as a friend. And yet it was August 29th, when Eddie and I got calls from the hospital and police regarding our friend Nick, that I got the biggest challenge of them all. Nick, my friend of over 28 years, first person I ever had an adult relationship with and my constant compass along life’s paths and voice of reason fell. Nick suffered a hemorrhagic stroke on the way home from the grocery store. CCTV shows that he was not discovered until upwards of an hour where he was rushed to the James hospital. His survival and recovery have been nothing short of miraculous. This post is an effort to collect my thoughts enough to send out an update because every time I take a moment to write about him I end up crying. Tonight, is no different but it’s time to start accepting the fact that Nick’s life is going to be dramatically reduced while we all wait to see what the next 10 months look like during his one year recovery window.
 <!--more-->
@@ -39,6 +40,9 @@ So we are starting the process of closing up his home and finding him a new, les
 
 We used to go to Yellow Springs, The Winds Café, walks outdoors, coffee shops, the Tradewinds was a favorite haunt of his (and ours), Barney’s and Neiman Marcus joking, laughing and talking all the while. It was when his friend Tom died a decade or so ago and then his father where I saw just how graceful of a human being Nick was. He took both losses in stride but always honored the people, love and time as if it they were points on a map to navigate by. For him, loss was painful but he never allowed it to cloud or define him. Always moving forward. Fighting harder. Living better. He’s my fucking role model faults and all.
 
+![Eddie & Nick](/images/1990s-nick-tom.jpg)
+- Tom
+
 Of all the fears I’ve faced this year and the challenges I set before myself this unexpected one has been the biggest. The one that hurt the most. But also, the one with the most love and memories. This is that part of love that becomes painful because it makes you realize just how much a person is a part of your emotional life chemistry when they suffer. However, with all challenges there are gifts in the process. He’s still alive. I’ve met all his other friends again and have become closer to them in the process. I started trying to reclaim part of my own life from the wild reaction I had as part of my own acceptance path after having had a heart attack to a core place. my foundational ground zero.
 
 His sister told me that Nick said that he would trust me with his life years ago. Which reminded me of “Rage, rage against the dying of the light” from the famous Dylan Thomas poem. I may get that tattooed on my chest next year now that I think of it.
@@ -48,3 +52,7 @@ If I’ve learned anything from Nick, it’s that times like this should remind 
 Nick died 11/9/2025. He gave me one of the most wonderful friendships I have ever known. Thank you.
 
 ![Eddie & Nick](/images/nick-2017.png)
+- Eddie & Nick
+
+![Eddie & Nick](/images/2017-nick.jpg)
+- His Final Note to me, just days before his stroke
