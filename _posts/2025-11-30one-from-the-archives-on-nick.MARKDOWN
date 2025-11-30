@@ -1,9 +1,11 @@
 ---
 layout: post
 date:   2025-11-30 15:16:48 -0500
+original_date: 2017-11-11 00:00:00 -0500
+last_modified_at: 2025-11-30 15:16:48 -0500
 title: "Navigating Loss and Friendship: Nick's Story"
-description: "This was originally posed on my old blog that I ran for over 11 years spanning my Dallas and move baco to Ohio days. This one is special as I pulled it from the month when Nick had his stroke. That 7 seven year journey was, well, just that, a long trek through a family member's, my father figure, decline. Anyway, this was originally published 11/11/2017 A personal reflection on friendship, loss, recovery, and the enduring bonds that shape our lives—centered on Nick’s journey after a life-changing stroke."
-categories: archive
+description: "This was originally posted on my old blog that I ran for over 11 years spanning my Dallas years and move back to Ohio. This one is special; I pulled it from the month when Nick had his stroke. That seven-year journey was, well, just that—a long trek through a family member’s, my father figure’s, decline. Originally published 2017-11-11. A personal reflection on friendship, loss, recovery, and the enduring bonds that shape our lives—centered on Nick’s journey after a life-changing stroke."
+
 tags:
   - friendship
   - recovery
@@ -13,7 +15,9 @@ tags:
 image: /images/nick-2017.png
 excerpt_separator: <!--more-->
 ---
-2017 has brought with it so many opportunities for me to grow as a man, a professional, a lover and as a friend. And yet it was August 29th, when Eddie and I got calls from the hospital and police regarding our friend Nick, that I got the biggest challenge of them all. Nick, my friend of over 28 years, first person I ever had sex with and my constant compass along life’s paths and voice of reason fell. Nick suffered a hemorrhagic stroke on the way home from the grocery store. CCTV shows that he was not discovered until upwards of an hour where he was rushed to the James hospital. His survival and recovery have been nothing short of miraculous. This post is an effort to collect my thoughts enough to send out an update because every time I take a moment to write about him I end up crying. Tonight, is no different but it’s time to start accepting the fact that Nick’s life is going to be dramatically reduced while we all wait to see what the next 10 months look like during his one year recovery window.
+
+2017 has brought with it so many opportunities for me to grow as a man, a professional, a lover and as a friend. And yet it was August 29th, when Eddie and I got calls from the hospital and police regarding our friend Nick, that I got the biggest challenge of them all. Nick, my friend of over 28 years, first person I ever had an adult relationship with and my constant compass along life’s paths and voice of reason fell. Nick suffered a hemorrhagic stroke on the way home from the grocery store. CCTV shows that he was not discovered until upwards of an hour where he was rushed to the James hospital. His survival and recovery have been nothing short of miraculous. This post is an effort to collect my thoughts enough to send out an update because every time I take a moment to write about him I end up crying. Tonight, is no different but it’s time to start accepting the fact that Nick’s life is going to be dramatically reduced while we all wait to see what the next 10 months look like during his one year recovery window.
+<!--more-->
 
 I met Nick when I was still a 20-year-old forestry student at OSU. We struck up a conversation out on the Oval one afternoon near the Main Library on campus. He was a library science guy and faculty member. It’s funny, he loves the university, his students, bad new age music which I made fun of him for, dinners, time with family and friends, reading copious amounts of periodicals and amassed a collection of books totaling over 1000 volumes. His views on life, politics, history and people were so broad and deep that he quickly became one of my most important, and brightest, guiding lights. The zenith by which I guided myself at times in the dark areas of life.
 
@@ -41,6 +45,6 @@ His sister told me that Nick said that he would trust me with his life years ago
 
 If I’ve learned anything from Nick, it’s that times like this should remind us of just how short, precious and beautiful our connections to one another truly are. That we are not alone or strong of our own selves… it’s the love, memories, voices and time that make us better human beings. Together always.
 
-Nick died 11/9/2025. He gave me one of the most wonderfulf friendships I have ever known. Thank you.
+Nick died 11/9/2025. He gave me one of the most wonderful friendships I have ever known. Thank you.
 
-[![Eddie & Nick](/images/nick-2017.png)
+![Eddie & Nick](/images/nick-2017.png)
