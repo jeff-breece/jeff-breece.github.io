@@ -128,6 +128,10 @@ Jeff is a solutions architect, software engineer, technical pre-sales architect,
 -   Code && Beer Bot Framework 2020
 -   Code && Beer Azure Functions 2019
 
+## Certifications
+- AZ‑900 (Azure Fundamentals), Microsoft — Dec 2025
+- AI‑900 (Azure AI Fundamentals), Microsoft — Dec 2025
+
 ## Education
 The Ohio State University, BA, 2008
-PMP Digital Media & Conservation
+PSP Digital Media & Conservation
