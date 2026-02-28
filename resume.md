@@ -17,7 +17,7 @@ Jeff is a solutions architect, software engineer, technical pre-sales architect,
 
 *   Served as Principal Architect across Azure Integration Services and Microsoft Power Platform, owning both enterprise integration strategy and automation platform standards.
 *   Defined and enforced REST‑first enterprise integration patterns, using Azure Logic Apps (Standard) for orchestration and SAP OData APIs or RFC/BAPI wrappers where REST endpoints were unavailable.
-*   Led architecture for an Product Lifecycle Management (PLM) initiative, aligning TraceOne / TraceGains, SAP S/4HANA, and Azure middleware into a cohesive, supportable integration model.
+*   Led architecture for a Product Lifecycle Management (PLM) upgrade, aligning TraceOne / TraceGains, SAP S/4HANA, and Azure middleware into a cohesive, supportable integration model.
 *   Established platform‑level automation standards for Logic Apps and Power Automate, including idempotency, retry semantics, correlation strategies, and error classification.
 *   Architected Accounts Payable Automation (APA) solutions leveraging Power Automate, Logic Apps, Azure AI Document Intelligence, Azure Storage, and SAP APIs, supporting scalable document ingestion and transactional processing.
 *   Authored Architecture Decision Records (ADRs), integration standards, and reference architectures to formalize tool selection, security posture, and long‑term maintainability.
