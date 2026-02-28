@@ -10,14 +10,22 @@ permalink: /resume/
 Jeff is a solutions architect, software engineer, technical pre-sales architect, and team lead with 10+ years of experience delivering solutions on Azure and Microsoft 365. His expertise includes backend services, Azure Functions, Logic Apps, modern .NET, CI/CD, portal and application development, workflow automation, and conversational AI (Microsoft Bot Framework). He also works extensively with low/no-code platforms such as Microsoft Power Platform (Power Automate, Power Apps) and Dataverse, plus Nintex. His industry experience spans insurance, logistics, energy, retirement, healthcare, steel and food manufacturing, and state and local government, covering the full lifecycle from discovery and design to production delivery.
 
 ## Experience
-### Marzetti October 2024 to Present
--   Solution Architecture across Azure and Power Platform ecosystems
--   Designed and implemented automations using Logic Apps, Power Automate, and Azure Document Intelligence (OCR and Vision AI) to streamline document workflows and build SAP REST integrations.
--   Architected a product data syndication system with API integrations and a responsive Power Platform UI.
--   Developed new patterns for architectural diagrams using MermaidJS to visualize system interactions and support cross-team/role alignment.
--   Established DevOps governance with Azure DevOps pipelines and controls to ensure secure, scalable deployments.
--   Mentored developers in automation, integration, and governance best practices.
--   Participated in Product Owner sessions and stakeholder workshops to size, define, and deliver business-critical solutions.
+### Marzetti
+
+**October 2024 to Present**  
+**Principal Solution Architect (Platform & Integration)**
+
+*   Served as Principal Architect across **Azure Integration Services and Microsoft Power Platform**, owning both **enterprise integration strategy** and **automation platform standards**.
+*   Defined and enforced **REST‑first enterprise integration patterns**, using **Azure Logic Apps (Standard)** for orchestration and **SAP OData APIs** or **RFC/BAPI wrappers** where REST endpoints were unavailable.
+*   Led architecture for **Project Product Lifecycle Management**, aligning **TraceOne / TraceGains (PLM)**, **SAP S/4HANA**, and Azure middleware into a cohesive, supportable integration model.
+*   Established **platform‑level automation standards** for **Logic Apps** and **Power Automate**, including idempotency, retry semantics, correlation strategies, and error classification.
+*   Architected **Accounts Payable Automation (APA)** solutions leveraging **Power Automate**, **Logic Apps**, **Azure AI Document Intelligence**, **Azure Storage**, and **SAP APIs**, supporting scalable document ingestion and transactional processing.
+*   Authored **Architecture Decision Records (ADRs)**, integration standards, and reference architectures to formalize tool selection, security posture, and long‑term maintainability.
+*   Designed and guided **API Management (APIM) enablement strategy**, partnering with Cloud, Network, and Security teams on sequencing, governance, and risk management.
+*   Established **platform governance and ALM practices** using **Azure DevOps pipelines**, managed identities, Key Vault, environment isolation, and CI/CD controls across Dev/Test/Prod.
+*   Produced **MermaidJS‑based architecture diagrams** and technical artifacts to clearly communicate system boundaries, data flows, and platform responsibilities.
+*   Acted as senior **architectural advisor and coach** to internal teams and SI partners, enabling delivery while maintaining architectural guardrails.
+*   Partnered with Product Owners and program leadership to scope, estimate, and de‑risk **enterprise‑scale automation and integration initiatives**.
 
 ### Insight 2023 to 2024
 -   Power Platform & Dataverse Development/Architecture
