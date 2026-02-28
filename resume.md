@@ -15,17 +15,17 @@ Jeff is a solutions architect, software engineer, technical pre-sales architect,
 **October 2024 to Present**  
 **Principal Solution Architect (Platform & Integration)**
 
-*   Served as Principal Architect across **Azure Integration Services and Microsoft Power Platform**, owning both **enterprise integration strategy** and **automation platform standards**.
-*   Defined and enforced **REST‑first enterprise integration patterns**, using **Azure Logic Apps (Standard)** for orchestration and **SAP OData APIs** or **RFC/BAPI wrappers** where REST endpoints were unavailable.
-*   Led architecture for **Project Product Lifecycle Management**, aligning **TraceOne / TraceGains (PLM)**, **SAP S/4HANA**, and Azure middleware into a cohesive, supportable integration model.
-*   Established **platform‑level automation standards** for **Logic Apps** and **Power Automate**, including idempotency, retry semantics, correlation strategies, and error classification.
-*   Architected **Accounts Payable Automation (APA)** solutions leveraging **Power Automate**, **Logic Apps**, **Azure AI Document Intelligence**, **Azure Storage**, and **SAP APIs**, supporting scalable document ingestion and transactional processing.
-*   Authored **Architecture Decision Records (ADRs)**, integration standards, and reference architectures to formalize tool selection, security posture, and long‑term maintainability.
-*   Designed and guided **API Management (APIM) enablement strategy**, partnering with Cloud, Network, and Security teams on sequencing, governance, and risk management.
-*   Established **platform governance and ALM practices** using **Azure DevOps pipelines**, managed identities, Key Vault, environment isolation, and CI/CD controls across Dev/Test/Prod.
-*   Produced **MermaidJS‑based architecture diagrams** and technical artifacts to clearly communicate system boundaries, data flows, and platform responsibilities.
-*   Acted as senior **architectural advisor and coach** to internal teams and SI partners, enabling delivery while maintaining architectural guardrails.
-*   Partnered with Product Owners and program leadership to scope, estimate, and de‑risk **enterprise‑scale automation and integration initiatives**.
+*   Served as Principal Architect across Azure Integration Services and Microsoft Power Platform, owning both enterprise integration strategy and automation platform standards.
+*   Defined and enforced REST‑first enterprise integration patterns, using Azure Logic Apps (Standard) for orchestration and SAP OData APIs or RFC/BAPI wrappers where REST endpoints were unavailable.
+*   Led architecture for an Product Lifecycle Management (PLM) initiative, aligning TraceOne / TraceGains, SAP S/4HANA, and Azure middleware into a cohesive, supportable integration model.
+*   Established platform‑level automation standards for Logic Apps and Power Automate, including idempotency, retry semantics, correlation strategies, and error classification.
+*   Architected Accounts Payable Automation (APA) solutions leveraging Power Automate, Logic Apps, Azure AI Document Intelligence, Azure Storage, and SAP APIs, supporting scalable document ingestion and transactional processing.
+*   Authored Architecture Decision Records (ADRs), integration standards, and reference architectures to formalize tool selection, security posture, and long‑term maintainability.
+*   Designed and guided API Management (APIM) enablement strategy, partnering with Cloud, Network, and Security teams on sequencing, governance, and risk management.
+*   Established platform governance and ALM practices using Azure DevOps pipelines, managed identities, Key Vault, environment isolation, and CI/CD controls across Dev/Test/Prod.
+*   Produced MermaidJS‑based architecture diagrams and technical artifacts to clearly communicate system boundaries, data flows, and platform responsibilities.
+*   Acted as senior architectural advisor and coach to internal teams and SI partners, enabling delivery while maintaining architectural guardrails.
+*   Partnered with Product Owners and program leadership to scope, estimate, and de‑risk enterprise‑scale automation and integration initiatives.
 
 ### Insight 2023 to 2024
 -   Power Platform & Dataverse Development/Architecture
