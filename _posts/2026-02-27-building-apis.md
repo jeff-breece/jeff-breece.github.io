@@ -12,7 +12,7 @@ tags:
   - dotnet
   - Ollama
   - error-handling
-image: /images/todo.png
+image: /images/earthquake.png
 excerpt_separator: <!--more-->
 ---
 I'm doing an API integration project now with some folks who are struggling with the basics, so I put this example together to show how to build a production-grade API client with error handling, retries, and graceful degradation. It's a bit long but I wanted to cover the full journey from documentation through production-ready code. Teach how to fish, and the people will be fed.
