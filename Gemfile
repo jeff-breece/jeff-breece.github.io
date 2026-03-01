@@ -9,3 +9,4 @@ gem 'csv'
 gem 'bigdecimal'
 gem 'base64'
 gem 'ostruct'
+gem "jekyll-mermaid", "~> 1.0"
