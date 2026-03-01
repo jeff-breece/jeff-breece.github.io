@@ -37,7 +37,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-
+  - jekyll-mermaid
+  
 paginate: 10
 paginate_path: "/page:num/"
 
