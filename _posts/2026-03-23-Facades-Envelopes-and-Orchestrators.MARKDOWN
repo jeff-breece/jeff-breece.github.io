@@ -14,7 +14,7 @@ tags:
   - facade-pattern
   - orchestrator
   - design-patterns
-image: /images/integration-chain.png
+image: /images/envelope.jpg
 excerpt_separator: <!--more-->
 mermaid: true
 ---
