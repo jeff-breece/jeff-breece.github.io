@@ -3,7 +3,7 @@ layout: post
 date:   2026-03-28 10:00:00 -0500
 original_date: 2026-03-28 10:00:00 -0500
 last_modified_at: 2026-03-28 10:00:00 -0500
-title: "Resonance Lab: Building an Automated Seismic Monitoring + AI Analysis Pipeline in a Homelab"
+title: "Homelab Seismic AI with Slack Alerts"
 description: "Taking the earthquake collector from a console demo to a fully automated systemd service with local LLM analysis and Slack Block Kit notifications, all running on a single homelab server."
 tags:
   - dotnet
