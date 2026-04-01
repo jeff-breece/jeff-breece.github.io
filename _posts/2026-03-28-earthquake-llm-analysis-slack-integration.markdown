@@ -231,7 +231,7 @@ Treat the webhook like a secret, and design for failure from day one.
 
 ## Why This Was Worth It
 
-Resonance Lab isn't about predicting earthquakes. It's about my content generation AI platforms, in a closed environment, as yet another automation paradigm:
+Resonance Lab isn't about earthquake analysis, thought that's fun. It's about my GEN, vision, NLP and STT AI platforms mastery path, in a closed environment, as yet another tool in the automation space:
 
 *   Public data, locally archived
 *   Deterministic stats I can verify
