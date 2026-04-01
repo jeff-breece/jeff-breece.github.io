@@ -123,7 +123,7 @@ When AI analysis is enabled, the service sends the earthquake data to a locally 
 
 No data leaving the lab.
 
-The model generates a seismic risk assessment in natural language—things like:
+The model generates a seismic risk assessment in natural language, things like:
 
 *   Whether recent activity is clustered or diffuse
 *   Presence of high-magnitude outliers
@@ -131,7 +131,7 @@ The model generates a seismic risk assessment in natural language—things like:
 
 The result is saved as a Markdown file alongside the stats.
 
-This setup hits a sweet spot for *edge AI*: heavyweight reasoning, but still entirely under your control.
+This setup hits a sweet spot for edge AI: with reasoning, but still entirely in a self contained lab.
 
 ***
 
@@ -246,7 +246,7 @@ Happy building.
 
 ## References
 
-- [Earthquake Data, .NET, and Local LLM Reasoning](/2026/03/08/Earthquake-Data-DOTNET-and-Local-LLM-Reasoning.html) — the earlier post covering the original console-based earthquake analysis demo
+- [Earthquake Data, .NET, and Local LLM Reasoning](/2026/03/08/Earthquake-Data-DOTNET-and-Local-LLM-Reasoning.html), the earlier post covering the original console-based earthquake analysis demo
 - [USGS Earthquake Hazards Program feeds and web services](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php)
 - [Slack Block Kit Builder](https://app.slack.com/block-kit-builder)
 - [.NET Self-Contained Deployment](https://learn.microsoft.com/en-us/dotnet/core/deploying/#publish-self-contained)
