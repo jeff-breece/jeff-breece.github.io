@@ -24,8 +24,6 @@ Every so often, a learning journey turns into something a little more *project-s
 The end result was a fully automated seismic monitoring and AI analysis pipeline running entirely inside my homelab, posting structured risk assessments straight to Slack (Micro UX since the integration is headless). This post is a walkthrough of what I built, why I built it this way, and what I learned along the way.
 <!--more-->
 
-***
-
 ## The Lab Environment
 
 Everything runs on a single machine:
@@ -36,8 +34,6 @@ Everything runs on a single machine:
 *   **Project name:** Resonance Lab
 
 The goal was *edge-first*: local storage, local compute, local AI inference. Internet access is used only to pull public earthquake data from USGS.
-
-***
 
 ## Overview of the Pipeline
 
@@ -51,8 +47,6 @@ At a high level, the system does this on a schedule:
 6.  Post a rich Slack notification with stats + analysis
 
 All of that logic lives in a single .NET worker service.
-
-***
 
 ## The Collector Service
 
@@ -77,8 +71,6 @@ The collector pulls four CSV feeds from USGS:
 *   all_day
 
 Each feed is treated independently, which keeps the logic simple and the outputs predictable.
-
-***
 
 ## Data Storage Layout
 
@@ -113,8 +105,6 @@ For each dataset, the service computes:
 
 These are saved as compact JSON files so they're easy to consume later (or feed into something like Grafana).
 
-***
-
 ## Local AI Analysis with Ollama + Qwen
 
 This is where the project got fun for me instead of just studying for another certification test.
@@ -132,8 +122,6 @@ The model generates a seismic risk assessment in natural language, things like:
 The result is saved as a Markdown file alongside the stats.
 
 This setup hits a sweet spot for edge AI: with reasoning, but still entirely in a self contained lab.
-
-***
 
 ## Slack Notifications (When You Want Them)
 
@@ -154,7 +142,6 @@ After a successful AI analysis, the service posts a notification to Slack using 
        style="max-width:100%;height:auto;border:1px solid #ccc;border-radius:6px;display:block;margin:auto;" />
 </a>
 
-
 ### Block Kit, Not Plain Text
 
 Messages are built using **Slack Block Kit** and include:
@@ -172,8 +159,6 @@ Messages are built using **Slack Block Kit** and include:
 Slack has block size limits, so the AI response is truncated to a set number of characters to stay safely under the cap.
 
 The result is readable, scannable, and actually useful on mobile.
-
-***
 
 ## Deployment: Self-Contained .NET on Linux
 
@@ -203,8 +188,6 @@ The service runs under systemd with explicit resource controls, again, homelab a
 
 That's enough for CSV parsing and the Qwen3 LLM calls, and it keeps the service from bonking if something goes wrong, and I can manage multiple experiments at once while personally using the services I am building instead of burning tokens.
 
-***
-
 ## Lessons Learned
 
 This project packed more "real-world ops" lessons than I expected.
@@ -226,8 +209,6 @@ Incoming webhooks are simple, but:
 *   You *will* forget to secure the webhook URL at least once
 
 Treat the webhook like a secret, and design for failure from day one.
-
-***
 
 ## Why This Was Worth It
 
