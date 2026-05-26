@@ -3,7 +3,7 @@ layout: post
 title: "CLI vs Open WebUI: Why Context Actually Matters When Running Local LLMs"
 date: 2026-05-26 07:00:00 -0500
 categories: homelab
-image: /images/openwebui-context.png
+image: /images/open-web-ui.jpeg
 description: "A hands-on comparison of Ollama CLI vs Open WebUI showing how conversation context management changes the quality of responses from Qwen models in my home lab."
 tags:
   - ollama
@@ -17,28 +17,28 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-**Summary:** After spending months building out my home lab with Ollama and local LLMs, I kept noticing something: the same Qwen models felt noticeably better through Open WebUI than through the CLI. I initially dismissed it as UI polish, but after digging into the database and API calls, I found out why—and it has everything to do with how context is managed.
+**Summary:** So I'm doing the AI path, like everyone else, and after spending months building out my home lab with dedicated hardware, Ollama and local LLMs, I kept noticing something: the same Qwen models felt noticeably better through Open WebUI than through the CLI. I initially dismissed it as UI polish, but after digging into the database and API calls, I found out why, and it has everything to do with how context is managed.
 
 <!--more-->
 
 ## The Setup
 
-My lab runs on a Minisforum MS01 (lab-stt) handling Ollama with both Qwen3:latest (8.2B) and Qwen2.5:14b models. I've been using these models daily for code assistance through Continue.dev in VS Code, chat conversations through Open WebUI, and quick queries via CLI.
+My LLM lab runs on a 20 core Minisforum with GPU capability handling Ollama with both Qwen3:latest (8.2B) and Qwen2.5:14b models. I've been using these models daily for code assistance through Continue.dev in VS Code, chat conversations through Open WebUI, and quick queries via CLI.
 
 The hardware specs:
-- **lab-stt**: Intel N100, 32GB DDR5, dual NVMe (1TB + 512GB)
-- **Ollama**: Running as systemd service on port 11434
-- **Open WebUI**: Docker container v0.8.10 on port 3000
+- **Services Node**: Intel N100, 32GB DDR5, dual NVMe (1TB + 512GB)
+  - **Ollama**: Running as systemd service on port 11434
+  - **Open WebUI**: Docker container v0.8.10 on port 3000
 
-Both the CLI and Open WebUI hit the same Ollama instance, same models, same quantization (Q4_K_M), same host. Yet the experience felt different.
+Both the CLI and Open WebUI hit the same Ollama instance, same models, same quantization (Q4_K_M), same host. However, the experience felt different.
 
-## What I Noticed
+## Observation
 
 When using `ollama run qwen3:latest` from the terminal, responses were fine for simple queries. But when I needed to reference earlier parts of a conversation or work through multi-turn reasoning, it felt like the model kept forgetting context.
 
 Through Open WebUI, that same model handled complex, multi-turn conversations much better. It could reference things I said several exchanges back. It maintained coherence across longer discussions.
 
-I initially chalked this up to better UI presentation—syntax highlighting, markdown rendering, streaming tokens appearing smoothly. But it kept nagging at me. The model felt genuinely *smarter* through the web interface.
+I initially chalked this up to better UI presentation, syntax highlighting, markdown rendering, streaming tokens appearing smoothly. But it kept nagging at me. The model felt genuinely *smarter* through the web interface.
 
 ## What I Found in the Database
 
@@ -73,7 +73,7 @@ conn.close()
 The output from a real conversation:
 
 ```
-Chat: "Super Personal"
+Chat: "Document Review"
 Total messages: 15
 Total context: 72,077 chars (~18,019 tokens)
   User input: 5,641 chars (~1,410 tokens)
@@ -84,12 +84,12 @@ Fifteen messages. Eighteen thousand tokens of context being maintained and sent 
 
 ## The Difference in Behavior
 
-**What the CLI does:**
+**CLI Experience:**
 - Sends only the current prompt and a small context buffer
 - Typically maintains ~500-1000 tokens of recent history
 - Loses earlier conversation context after a few exchanges
 
-**What Open WebUI does:**
+**Open WebUI Experience:**
 - Stores the entire conversation in structured format
 - Sends all messages with each new request (up to model's context limit)
 - Maintains full message history: `[{role: "user", content: "..."}, {role: "assistant", content: "..."}, ...]`
@@ -107,7 +107,7 @@ But when you're:
 - Referencing earlier parts of a discussion
 - Building on previous answers
 
-...then having the full conversation context changes everything.
+...then having the full conversation context makes it better.
 
 The model isn't actually getting smarter. It's getting *more information*. Information it needs to maintain coherence across a real conversation.
 
@@ -126,7 +126,7 @@ The model isn't actually getting smarter. It's getting *more information*. Infor
 - UI features (markdown, code highlighting, export)
 - Persistent conversation history
 
-Neither is "better"—they're designed for different use cases.
+To be clear, neither is "better," they're designed for different use cases.
 
 ## The Continue.dev Integration
 
@@ -134,7 +134,7 @@ I also use Continue.dev as my AI coding assistant in VS Code. It connects direct
 
 Continue.dev sits somewhere between CLI and Open WebUI in terms of context management. It sends relevant code context (the file you're editing, nearby functions, imports) along with your prompt, but it's focused and purposeful rather than maintaining full conversation history.
 
-For coding tasks, that's exactly what you want. You don't need the model to remember what you asked twenty prompts ago—you need it to understand the current function and how it fits into your codebase.
+For coding tasks, that's exactly what you want. You don't need the model to remember what you asked twenty prompts ago, you need it to understand the current function and how it fits into your codebase.
 
 Here's my Continue.dev config pointing to my local models:
 
@@ -145,19 +145,19 @@ Here's my Continue.dev config pointing to my local models:
       "title": "Qwen3 Local",
       "provider": "ollama",
       "model": "qwen3:latest",
-      "apiBase": "http://10.0.100.10:11434"
+      "apiBase": "http://{redacted}:11434"
     },
     {
       "title": "Qwen2.5 14B",
       "provider": "ollama", 
       "model": "qwen2.5:14b",
-      "apiBase": "http://10.0.100.10:11434"
+      "apiBase": "http://{redacted}:11434"
     }
   ],
   "tabAutocompleteModel": {
     "provider": "ollama",
     "model": "qwen3:latest",
-    "apiBase": "http://10.0.100.10:11434"
+    "apiBase": "http://{redacted}:11434"
   }
 }
 ```
@@ -175,7 +175,7 @@ What I learned from comparing these tools is that effective AI integration isn't
 - Complex reasoning needs full conversation history  
 - Quick queries need neither
 
-The tool should match the task. More context isn't always better—but having it available when you need it makes all the difference.
+The tool should match the task. More context isn't always better, but having it available when you need it makes all the difference.
 
 ## Why Local Matters Here
 
@@ -187,13 +187,13 @@ That visibility matters. It makes the design decisions clearer:
 - What should be sent to the model?
 - What should stay human-reviewed?
 
-That's where AI work becomes less theatrical and more practical. It's not about "the model" as a magic box—it's about how the model fits into a system of tools, data, and decisions.
+That's where AI work becomes less theatrical and more practical. It's not about "the model" as a magic box, it's about how the model fits into a system of tools, data, and decisions.
 
 ## Closing Thoughts
 
 The difference between CLI and Open WebUI isn't about one being better. It's about understanding what each tool is designed to do and when that design matters.
 
-For my home lab workflow, all three tools—Continue.dev, Open WebUI, and CLI—have their place. Each one manages context differently because each one is solving a different problem.
+For my home lab workflow, all three tools, Continue.dev, Open WebUI, and CLI, have their place. Each one manages context differently because each one is solving a different problem.
 
 If you're running Ollama locally and only using the CLI, I'd recommend trying Open WebUI for conversations where context depth actually matters. You'll probably notice the difference.
 
@@ -207,4 +207,3 @@ The lab setup continues to prove useful. Not because local is inherently better,
 - [Ollama Documentation](https://ollama.ai/docs)
 - [Continue.dev](https://continue.dev)
 - [Qwen Models](https://qwenlm.github.io)
-- My lab setup: [resonance-lab repo](https://github.com/jeff-breece/resonance-lab)
