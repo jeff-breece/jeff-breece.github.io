@@ -58,7 +58,7 @@ The gap was not:
 
 I already could.
 
-Open WebUI gives me general local chat. The voice pipeline gives me ambient interaction. The personal journal RAG gives me fit-for-purpose self-insight over structured and semantic journal memory.
+Open WebUI gives me general local chat. The voice pipeline gives me ambient interaction. The personal journal RAG gives me fit-for-purpose user awareness over structured and semantic journal memory.
 
 The remaining gap was different:
 
@@ -143,7 +143,7 @@ It knows how to answer questions like:
 
 * “How many days did I hit my steps goal?”
 * “When did I last feel drained?”
-* “On days I drank alcohol, what did I write about how I felt?”
+* “On days I worked out, how did that impact my mood?”
 * “Given my recent reflections, what should I prioritize this week?”
 
 It combines structured journal data, semantic free-text recall, synced documents, and multi-turn session memory to maintain what the system documentation describes as a “sense of me” across a conversation.
@@ -155,7 +155,7 @@ This is why AnythingLLM is being added as an augmentation layer, not as a replac
 The existing journal RAG remains the personal insight and voice-context layer. AnythingLLM becomes the document workspace and desktop-agent layer. Open WebUI remains the general chat layer. These tools overlap at the edges, but they serve different jobs.
 
 ```text
-Personal Journal RAG = self-insight & intent routing, structured/semantic journal retrieval, personal context
+Personal Journal RAG = user awareness & intent routing, structured/semantic journal retrieval, personal context
 AnythingLLM          = curated document workspace and desktop agents
 Open WebUI           = general-purpose local chat
 Voice pipeline       = ambient interaction path
@@ -233,7 +233,7 @@ That matters because my lab already has the lower-level pieces:
 * curated documents
 * a local network
 * separate services for STT, TTS, RAG, and Open WebUI
-* a personal journal RAG model for self-insight
+* a personal journal RAG model for user awareness
 
 What I wanted was a practical workspace layer on top.
 
@@ -284,7 +284,7 @@ AnythingLLM -> document workspace and desktop agent layer
 
 The personal journal RAG service was not rejected. It is retained.
 
-It already does the job it was built to do: grounded self-insight over structured journal data, semantic memory, synced documents, and session context.
+It already does the job it was built to do: grounded user awareness over structured journal data, semantic memory, synced documents, and session context.
 
 The decision is not “AnythingLLM versus my journal RAG.”
 
@@ -414,7 +414,7 @@ That means I need to be clear about boundaries:
 | Layer                   | Role                                                                     |
 | ----------------------- | ------------------------------------------------------------------------ |
 | Open WebUI              | general-purpose local chat                                               |
-| Personal Journal RAG    | personal memory, self-insight, structured and semantic journal retrieval |
+| Personal Journal RAG    | personal memory, user awareness, structured and semantic journal retrieval |
 | AnythingLLM             | document workspace and desktop agents                                    |
 | Existing voice pipeline | ambient STT/RAG/LLM/TTS interaction                                      |
 | Ollama                  | local model runtime                                                      |
@@ -443,7 +443,7 @@ The main risks are:
    Fast coder models are good for quick lookup. Heavier Qwen models are better for reasoning. I need to switch intentionally based on task.
 
 6. **Layer boundaries need discipline**  
-   The personal journal RAG should remain the trusted self-insight layer. AnythingLLM should not become an accidental replacement for that purpose-built system.
+   The personal journal RAG should remain the trusted user awareness layer. AnythingLLM should not become an accidental replacement for that purpose-built system.
 
 ## Consequences
 
@@ -456,7 +456,7 @@ flowchart TD
   USER --> WEBUI["Open WebUI<br/>General Chat"]
   USER --> ANYTHING["AnythingLLM<br/>Docs + Agents"]
   USER --> VOICE["Voice Assistant<br/>Wake Word Pipeline"]
-  USER --> JRAG_UI["Personal Journal RAG<br/>Self-Insight API"]
+  USER --> JRAG_UI["Personal Journal RAG<br/>user awareness API"]
 
   WEBUI --> OLLAMA["Ollama on lab-stt"]
   ANYTHING --> DOCS["Curated Document Workspace"]
@@ -474,7 +474,7 @@ That gives me a cleaner architectural separation:
 
 ```text
 Chat when I want conversation.
-Journal RAG when I want self-insight.
+Journal RAG when I want user awareness.
 Docs when I want grounded operational knowledge.
 Voice when I want ambient interaction.
 ```
