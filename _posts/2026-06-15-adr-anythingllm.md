@@ -1,5 +1,5 @@
 ---
-title: "ADR: Choosing AnythingLLM as the Document and Desktop Agent Layer for Resonance Lab"
+title: "Eating my own dogfood: ADR for the UI plane of my AI Lab"
 slug: "adr-anythingllm-resonance-lab-docs-desktop-agents"
 date: "2026-06-15"
 status: "proposed"
