@@ -4,7 +4,7 @@ slug: "adr-anythingllm-resonance-lab-docs-desktop-agents"
 date: "2026-06-15"
 status: "proposed"
 categories: homelab
-image: /images/open-web-ui.jpeg
+image: /images/PXL_20250402_111025442.jpg
 description: "Eating my own dogfood, this is a process called creating an architectural decision record. I am creating an architectural decision record to begin to document the architecture of the Resonance Lab project."
 tags:
   - ADR
@@ -155,7 +155,7 @@ This is why AnythingLLM is being added as an augmentation layer, not as a replac
 The existing journal RAG remains the personal insight and voice-context layer. AnythingLLM becomes the document workspace and desktop-agent layer. Open WebUI remains the general chat layer. These tools overlap at the edges, but they serve different jobs.
 
 ```text
-Personal Journal RAG = self-insight, structured/semantic journal retrieval, personal context
+Personal Journal RAG = self-insight & intent routing, structured/semantic journal retrieval, personal context
 AnythingLLM          = curated document workspace and desktop agents
 Open WebUI           = general-purpose local chat
 Voice pipeline       = ambient interaction path
