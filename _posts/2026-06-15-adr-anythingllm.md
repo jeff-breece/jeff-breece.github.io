@@ -148,7 +148,6 @@ In the current iteration, this separation is intentional. The journal RAG model 
        alt="Notifications in action."
        style="max-width:100%;height:auto;border:1px solid #ccc;border-radius:6px;display:block;margin:auto;" />
 </a>
-```
 
 ## Why AnythingLLM
 
