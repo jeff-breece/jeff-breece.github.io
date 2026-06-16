@@ -70,47 +70,25 @@ That is the role I want AnythingLLM to play.
 
 The current Resonance Lab architecture is centered around `lab-stt` as the primary AI host. It runs STT, TTS, RAG, Ollama, and Open WebUI. The Raspberry Pi handles the voice-listener role, and the Jetson node is currently positioned around OCR and vision-related services.
 
-At a high level, the existing voice path looks like this:
+At a high level, the existing voice assistant path looks like this:
 
-```mermaid
-flowchart LR
-  PI["Raspberry Pi<br/>Voice Listener"]
-  STT["Whisper STT<br/>lab-stt :8000"]
-  JRAG["Personal Journal RAG<br/>lab-stt :8002"]
-  LLM["Ollama / Qwen<br/>lab-stt :11434"]
-  TTS["Piper TTS<br/>lab-stt :8001"]
-  USER["User"]
+<a href="/images/voice-assistant.png" target="_blank">
+  <img src="/images/voice-assistant.png"
+       alt="Notifications in action."
+       style="max-width:100%;height:auto;border:1px solid #ccc;border-radius:6px;display:block;margin:auto;" />
+</a>
 
-  USER --> PI
-  PI --> STT
-  STT --> JRAG
-  JRAG --> LLM
-  LLM --> TTS
-  TTS --> USER
-```
-
-That path is staying intact.
+Voice assistant architecture.
 
 AnythingLLM enters as a separate, document-first interaction layer:
 
-```mermaid
-flowchart TD
-  USER["User<br/>Desktop / Browser"]
-  ANYTHING["AnythingLLM Desktop<br/>Document Workspace + Agents"]
-  WEBUI["Open WebUI<br/>General Chat Interface"]
-  OLLAMA["Ollama<br/>lab-stt :11434"]
-  EMBED["nomic-embed-text<br/>Embeddings via Ollama"]
-  DOCS["Curated Documents<br/>Architecture, runbooks, service docs"]
+<a href="/images/anything-llm.png" target="_blank">
+  <img src="/images/anything-llm.png"
+       alt="Notifications in action."
+       style="max-width:100%;height:auto;border:1px solid #ccc;border-radius:6px;display:block;margin:auto;" />
+</a>
 
-  USER --> ANYTHING
-  USER --> WEBUI
-
-  ANYTHING --> DOCS
-  ANYTHING --> EMBED
-  ANYTHING --> OLLAMA
-```
-
-The idea:
+### The idea:
 
 ```text
 Open WebUI           = fast general chat
@@ -165,62 +143,11 @@ In the current iteration, this separation is intentional. The journal RAG model 
 
 ## Updated functional architecture
 
-```mermaid
-flowchart TD
-  USER["User"]
-
-  subgraph Interaction["Interaction Layers"]
-    WEBUI["Open WebUI<br/>General Chat"]
-    ANYTHING["AnythingLLM<br/>Docs + Desktop Agents"]
-    VOICE["Voice Assistant<br/>Wake Word Pipeline"]
-  end
-
-  subgraph LabSTT["lab-stt"]
-    OLLAMA["Ollama / Qwen<br/>:11434"]
-    STT["Whisper STT<br/>:8000"]
-    TTS["Piper TTS<br/>:8001"]
-    JRAG["Personal Journal RAG<br/>FastAPI :8002"]
-    SQLITE["SQLite<br/>Structured Journal Index"]
-    CHROMA["ChromaDB<br/>Semantic + Document Index"]
-    EMBED["nomic-embed-text<br/>Embeddings"]
-  end
-
-  subgraph Data["Knowledge Sources"]
-    JOURNAL["Journal CSV Outputs"]
-    DOCS["Synced / Curated Documents"]
-    SESSIONS["Session Memory"]
-  end
-
-  subgraph Edge["Edge / Specialized Nodes"]
-    PI["Raspberry Pi<br/>Voice Listener"]
-    JETSON["Jetson<br/>OCR / Vision"]
-  end
-
-  USER --> WEBUI
-  USER --> ANYTHING
-  USER --> VOICE
-
-  WEBUI --> OLLAMA
-
-  ANYTHING --> DOCS
-  ANYTHING --> EMBED
-  ANYTHING --> OLLAMA
-
-  VOICE --> PI
-  PI --> STT
-  STT --> JRAG
-  JRAG --> SQLITE
-  JRAG --> CHROMA
-  JRAG --> SESSIONS
-  JOURNAL --> SQLITE
-  JOURNAL --> CHROMA
-  DOCS --> CHROMA
-  CHROMA --> EMBED
-  JRAG --> OLLAMA
-  OLLAMA --> TTS
-  TTS --> USER
-
-  JETSON --> DOCS
+<a href="/images/functional-architecture.png" target="_blank">
+  <img src="/images/functional-architecture.png"
+       alt="Notifications in action."
+       style="max-width:100%;height:auto;border:1px solid #ccc;border-radius:6px;display:block;margin:auto;" />
+</a>
 ```
 
 ## Why AnythingLLM
