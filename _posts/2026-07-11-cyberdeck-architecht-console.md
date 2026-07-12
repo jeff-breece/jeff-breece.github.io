@@ -410,6 +410,7 @@ Happy building.
 
 ## References
 
+- [Cyberdeck Git Repo](https://github.com/jeff-breece/ai-architecture-tools-cui/blob/main/README.md)
 - [Gum](https://github.com/charmbracelet/gum)
 - [Pandoc](https://pandoc.org/)
 - [Mermaid Cli](https://github.com/mermaid-js/mermaid-cli)
