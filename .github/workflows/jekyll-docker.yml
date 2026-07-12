@@ -20,7 +20,7 @@ jobs:
         run: cat "${{ github.workspace }}/assets/main.scss"
 
       - name: Build the site
-        run: docker run -v "${{ github.workspace }}:/srv/jekyll" jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --trace"
+        run: docker run -v "${{ github.workspace }}:/srv/jekyll" jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && bundle install && jekyll build --future --trace"
 
       # Verify Jekyll compiled CSS
       - name: Verify compiled CSS exists
