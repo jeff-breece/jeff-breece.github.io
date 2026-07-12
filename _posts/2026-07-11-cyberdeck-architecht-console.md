@@ -23,7 +23,7 @@ excerpt_separator: <!--more-->
 
 Every so often, the thing you build ends up changing how you work. This may also echo the paradigm of "the obstacle becomes the way," *maybe*, I don't know that answer yet, still this was useful to me.
 
-This path started as a scattered bash scripts. One counted tokens. Another packaged repo context for AI review. A git brief generator in different folder. Another helped with ADRs. Then Azure inventory scans and security audit helpers showed up. Plus local OCR on a GPU. Then Markdown, DOCX, Mermaid, CSV, JSON, and all the other small format conversions that quietly become part of daily engineering life.
+This path started as scattered Bash scripts. One counted tokens. Another packaged repo context for AI review. A git brief generator lived in a different folder. Another helped with ADRs. Then Azure inventory scans and security audit helpers showed up. Plus local OCR on a GPU. Then Markdown, DOCX, Mermaid, CSV, JSON, and all the other small format conversions that quietly become part of daily engineering life.
 
 At some point it stopped feeling like a utilities folder and started feeling like a console "cyberdeck" for how I actually work in 2026. There is a Voice Assistant and an Obsidian STT/TTS service floating around the wider lab too. It has been a busy year keeping up with where all of this is going.
 
