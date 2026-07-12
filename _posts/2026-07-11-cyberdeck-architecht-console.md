@@ -214,7 +214,7 @@ Purpose? Repeat tasks!
 `md-docx` handles Markdown to DOCX conversion through Pandoc.
 
 ```bash
-./markdow-converter/convert.sh --batch
+./markdown-converter/convert.sh --batch
 ```
 
 Markdown is where I like to write. DOCX is where a lot of review still lives. A repeatable conversion path means I can stay in Markdown longer without making handoff painful.
