@@ -84,7 +84,7 @@ The principles are simple:
 
 I do not want a personal tool that becomes so precious I am afraid to change it. Something reliable, quick, fixable, and useful.
 
-<a href="/images/ai-architecture-cui.png" target="_blank">
+<a href="/images/ai-architecture-cui.png" target="_blank" rel="noopener noreferrer">
   <img src="/images/ai-architecture-cui.png"
        alt="Notifications in action."
        style="max-width:100%;height:auto;border:1px solid #ccc;border-radius:6px;display:block;margin:auto;" />
