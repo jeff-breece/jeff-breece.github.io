@@ -13,6 +13,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/fancy-baths-meditation-reiki/"
+image:
+  path: /images/unsplash/fancy-baths-meditation-reiki.jpg
+  alt: "Fancy baths, meditation & Reiki. Photo by Beth Macdonald on Unsplash"
 ---
 
 When I was a kid I used to love Fall and the inevitable retreat to the indoors as the weather became cold and icy. An occasional snow day never hurt either. Yet, as I’ve gotten older my mood just tends to sink as Summer fades, the leaves drop and the Holidays approach. With all the work I’ve done between my therapist, exercising, meditation and relaxation I’m at least more aware of when my life spins off center.

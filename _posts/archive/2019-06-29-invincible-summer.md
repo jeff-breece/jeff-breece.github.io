@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/invincible-summer/"
+image:
+  path: /images/unsplash/invincible-summer.jpg
+  alt: "Invincible Summer. Photo by Jeffrey Eisen on Unsplash"
 ---
 
 “In the depth of winter I finally learned that there was in me an invincible summer,” Albert Camus
