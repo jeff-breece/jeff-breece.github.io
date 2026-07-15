@@ -2,7 +2,7 @@
 layout: post  
 title: "Metadata-Driven Application Architecture & PowerApps"  
 date: 2024-11-18 07:00:00 -0400  
-categories: project  
+categories: [project]
 image: /images/logic-branch.png
 description: "Every nerd should have a passion project, this is mine."
 tags:

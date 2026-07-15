@@ -3,7 +3,7 @@ layout: post
 date:   2025-09-12 07:00:00 -0400
 title: "Update (2025-09-12): Post-Migration Deep Dive & Lessons Learned"
 description: "Migration notes from an invoice OCR + validation workflow moving from multi-tenant (Consumption) to single-tenant (Standard)—with focus on Blob operations, connector parity, error handling, design hygiene, and secrets management."
-categories: howto
+categories: [howto]
 tags:
   - azure
   - logic-apps

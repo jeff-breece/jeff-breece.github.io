@@ -2,7 +2,7 @@
 layout: post
 title:  "A grateful reflection to end the week: A TripTik"
 date:   2025-02-03 07:00:00 -0400
-categories: howto
+categories: [howto]
 image: /images/triptik.png
 description: ""
 tags:

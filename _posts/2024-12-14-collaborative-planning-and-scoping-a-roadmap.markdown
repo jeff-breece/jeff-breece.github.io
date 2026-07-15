@@ -2,7 +2,7 @@
 layout: post  
 title: "Collaborative Planning and Scoping, a Roadmap"  
 date: 2024-12-14 07:00:00 -0400  
-categories: collaboration  
+categories: [collaboration]
 image: /images/football-play.png
 description: "Collaboration & planning should be done with empathy and without boundaries, this post should help to explain how this tech trys to foster better attitudes during those orchestrations."
 tags:

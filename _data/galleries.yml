@@ -1,0 +1,29 @@
+- id: olympics
+  title: "Olympic Peninsula — Trail Essays"
+  slug: olympics
+  date: 2024-10-01
+  location: "Olympic Peninsula, WA"
+  description: >-
+    Photo essay from the Olympic Peninsula — old growth forest, coastal fog,
+    rugged ridgelines, and 300+ frames from six banks of shooting across the trip.
+  cover: /images/galleries/olympics/Bank-1/l1000258_44815186641_o.jpg
+  image_dir: /images/galleries/olympics
+  banks:
+    - name: Bank-1
+      label: "Day 1 — Arrival & Forest"
+    - name: Bank-2
+      label: "Day 2 — Hoh Rain Forest"
+    - name: Bank-3
+      label: "Day 3 — Ridge & Coast"
+    - name: Bank-4
+      label: "Day 4 — Sol Duc Falls"
+    - name: Bank-5
+      label: "Day 5 — Hurricane Ridge"
+    - name: Bank-6
+      label: "Day 6 — Return"
+  tags:
+    - hiking
+    - outdoors
+    - photography
+    - washington
+    - nature
