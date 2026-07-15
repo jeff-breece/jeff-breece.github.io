@@ -9,6 +9,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/upward-boundaries/"
+image:
+  path: /images/unsplash/upward-boundaries.jpg
+  alt: "Upward Boundaries. Photo by Marek Piwnicki on Unsplash"
 ---
 
 The largest SharePoint application that I’ve designed so far, which I have yet to blog on architecture, began with the desire to roll a no code solution.

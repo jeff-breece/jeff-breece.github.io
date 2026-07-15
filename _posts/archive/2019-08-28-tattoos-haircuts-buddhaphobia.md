@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/tattoos-haircuts-buddhaphobia/"
+image:
+  path: /images/unsplash/tattoos-haircuts-buddhaphobia.jpg
+  alt: "Tattoos, haircuts & Buddhaphobia. Photo by Planet Airbrush on Unsplash"
 ---
 
 Tattoos are not like haircuts & goddamn that fucking hurts!

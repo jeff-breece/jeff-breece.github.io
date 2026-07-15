@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/ratatouille-a-double-header/"
+image:
+  path: /images/unsplash/ratatouille-a-double-header.jpg
+  alt: "Ratatouille: A double header.. Photo by amirali mirhashemian on Unsplash"
 ---
 
 Some friends with green thumbs recently shared a wealth of tomatoes and a variety of fresh peppers with me. With a couple eggplants on the counter and a few yellow onions I had it in my head to make ratatouille for the first time in well over a decade. I pulled out my copy of [“The Marathon Chef” by Michel Roux Jr](http://www.amazon.com/The-Marathon-Chef-Food-Getting/dp/0297843095/ref=sr_1_1?ie=UTF8&qid=1410213446&sr=8-1&keywords=The+Marathon+Chef) as I like how simple and French his style is. Of course it makes enough food for a small, but very hungry, family so we had enough leftovers for an interesting twist on vegetarian lasagna (thus the second recipe in this post). Both turned out pretty good.

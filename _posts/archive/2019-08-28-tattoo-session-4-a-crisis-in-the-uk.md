@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/tattoo-session-4-a-crisis-in-the-uk/"
+image:
+  path: /images/unsplash/tattoo-session-4-a-crisis-in-the-uk.jpg
+  alt: "Tattoo Session 4 & a crisis in the UK. Photo by Eric Dekker on Unsplash"
 ---
 
 Complicated weekend with my fourth session today completing the pattern for my entire back piece. The design work is done and a [Metraton Cube](http://www.metatronia.com/sacred-geometry.html) is permanently drawn upon my back along with [Ganesha](https://en.wikipedia.org/wiki/Ganesha) by Andy at [Long Street Collective](http://longstreetcollective.com/). It’s funny too because I began the day coaching a person in the UK regarding cardiac anxiety as she was desperately reaching out the to the group of us. This is where a Sense 8 situation would be really awesome in real life. Some live stream way to grab the help of someone you are connected with to support you through one of your darkest hours while gripped by the very real fear of death. Unfortunately for her, she got hers through the FaceBook based group we are private members of… and then, sadly, beat herself up for having had a weak moment. All I could tell her is that I understand. I understand your breakdown completely. I go to the same dark places. More than I’d like.

@@ -9,6 +9,9 @@ tags:
   - diet
   - nutrition
   - wellness
+image:
+  path: /images/unsplash/30-60-90-day-diet-framework.jpg
+  alt: "30/60/90 Day Framework. Photo by Lucas Gallone on Unsplash"
 ---
 Summary: Took the weekend off in part for the Fourth of July but always for my husband's birthday. Throguh this downtime I put my home gym back together, spent quality time with my fella, and had some focused conversations with my goals. THis post is about the 30-60-90 day plan I put together toward rebooting my lifestyle post Pandemic in an era of pervasive industrial anxiety. We can choose to live to work, or work to live. It's time I chose the latter.
 <!--more-->

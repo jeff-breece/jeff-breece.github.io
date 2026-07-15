@@ -10,6 +10,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/sharepoint-document-migration/"
+image:
+  path: /images/unsplash/sharepoint-document-migration.jpg
+  alt: "SharePoint Document Migration. Photo by Allan Nygren on Unsplash"
 ---
 
 I worked with a legal department about 6 years ago. These folks had dug themselves into a Windows file share hole for over a decade. Arguably the assistant could rifle through it like a pro, however none of the other staff members knew where to start without her. Our challenge was to migrate all these digital assets into SharePoint with a more thoughtful architecture.

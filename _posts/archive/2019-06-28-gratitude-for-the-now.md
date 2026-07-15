@@ -13,6 +13,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/gratitude-for-the-now/"
+image:
+  path: /images/unsplash/gratitude-for-the-now.jpg
+  alt: "Gratitude for the now. Photo by B C on Unsplash"
 ---
 
 I wrote a lot about gratitude in 2016. This is the same topic that came up earlier this year as far as jotting down few notes every day toward recording the things for which we feel grateful. I took that to heart and now take a few minutes every day to do just that. What I have learned over the past few months has been subtle but interesting.

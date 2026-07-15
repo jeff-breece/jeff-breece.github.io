@@ -10,6 +10,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/jaeger-run-for-pride-2016/"
+image:
+  path: /images/unsplash/jaeger-run-for-pride-2016.jpg
+  alt: "Jaeger Run for Pride 2016. Photo by John Fowler on Unsplash"
 ---
 
 I had another opportunity to run with my cousin Chelssie this past Friday. It was a beautiful Friday night on the eve of the Pride March. We were treated to sunny summer weather with a nice breeze. While I don’t run for time I was pretty happy to be 6th in my age group and overall 71st of the 234 men and women who I ran with that night.

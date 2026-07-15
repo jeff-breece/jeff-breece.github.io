@@ -12,6 +12,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/2017-aids-walk-central-ohio-for-tom/"
+image:
+  path: /images/unsplash/2017-aids-walk-central-ohio-for-tom.jpg
+  alt: "2017 AIDS Walk Central Ohio for Tom. Photo by Allison Batley on Unsplash"
 ---
 
 I was working on the High School paper back in my senior year in 1986 when I first heard about “gay cancer.” This was just after I had gone to a retreat with some of my peers and had my first kiss with another guy after we’d walked off together into the heavily wooded snow covered landscape. We nearly froze to death for a moment of privacy. I think I played the Beatle’s “Norwegian Wood” for months after that.

@@ -11,6 +11,9 @@ tags:
   - migration
   - architecture
 excerpt_separator: <!--more-->
+image:
+  path: /images/unsplash/update-logic-app-consumption-converstion-to-standard-plan.jpg
+  alt: "Update (2025-09-12): Post-Migration Deep Dive & Lessons Learned. Photo by Matt Drenth on Unsplash"
 ---
 
 After publishing this walkthrough I hit a harder wall than expected when moving a large Logic App from **Consumption** to **Standard**. This update documents what actually went wrong, what *looked* like a connector API “version” issue (but wasn’t), and the practical remediation paths depending on how much refactoring you’re willing to take on.

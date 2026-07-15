@@ -9,6 +9,9 @@ tags:
   - wellness
   - self-care
   - hiking
+image:
+  path: /images/unsplash/Take-Time-To-Recharge.jpg
+  alt: "Personal: Take Time to Recharge. Photo by Manuel Keller on Unsplash"
 ---
 
 Summary: So what happens when we take time to work on life balance?

@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/dancing-my-pants-off/"
+image:
+  path: /images/unsplash/dancing-my-pants-off.jpg
+  alt: "Dancing my pants off. Photo by Nhi D on Unsplash"
 ---
 
 This past weekend came with a chance to spend time with two people who are incredibly dear to me and to do something I said I’d never do again.

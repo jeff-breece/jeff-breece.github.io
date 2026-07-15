@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/tools-for-dealing-with-anxiety/"
+image:
+  path: /images/unsplash/tools-for-dealing-with-anxiety.jpg
+  alt: "Tools for dealing with anxiety. Photo by Katalin Geiger on Unsplash"
 ---
 
 [This post is an adaptation from a response I left for a much younger man in his early 30’s who experienced a heart attack recently. Having dealt with anxiety for the past three years, I thought it worthwhile folding this into my own blog for searchability sake.]

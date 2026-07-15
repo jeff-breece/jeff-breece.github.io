@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/an-open-letter-to-anyone-struggling-with-a-life-threatening-diagnosis/"
+image:
+  path: /images/unsplash/an-open-letter-to-anyone-struggling-with-a-life-threatening-diagnosis.jpg
+  alt: "An open letter to anyone struggling with a life threatening diagnosis. Photo by Navy Medicine on Unsplash"
 ---
 
 This post is the result of a personal request I got from the AHA to help a person who reached out on behalf of a younger person struggling with a diagnosis of a type of heart failure. It was written as a letter to that person in care of the person requesting help. I felt that the only way to encourage someone to face themselves was to tell them the story of the advice I had gotten from my aunt and then my two-year process of digesting my own diagnosis two years ago. Hopefully, this will find its way into the right people’s hands when they need it.
