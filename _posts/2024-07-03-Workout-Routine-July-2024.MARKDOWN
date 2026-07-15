@@ -9,6 +9,9 @@ tags:
   - workout
   - strength-training
   - cardio
+image:
+  path: /images/unsplash/Workout-Routine-July-2024.jpg
+  alt: "Workout Routine. Photo by Zuoqi Liu on Unsplash"
 ---
 
 Phase one of my next 30 days, slow and easy with lots of rest and healthier food choices ahead.

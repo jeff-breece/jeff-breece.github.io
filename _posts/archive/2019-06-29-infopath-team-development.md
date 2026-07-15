@@ -9,6 +9,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/infopath-team-development/"
+image:
+  path: /images/unsplash/infopath-team-development.jpg
+  alt: "InfoPath Team Development. Photo by Bernd 📷 Dittrich on Unsplash"
 ---
 
 Update 12-09-2012

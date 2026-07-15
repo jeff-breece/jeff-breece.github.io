@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/pumpkin-mushroom-lasagna/"
+image:
+  path: /images/unsplash/pumpkin-mushroom-lasagna.jpg
+  alt: "Pumpkin & Mushroom Lasagna. Photo by P.A.U.L.A on Unsplash"
 ---
 
 With Fall settling down around us like so many orange leaves on the ground I’ve been in the mood to cook with pumpkin. The Moosewood cookbooks bring back memories of some of my first dates with Eddie in the early 1990‘s. He had copies of “[The Enchanted Broccoli Forest](http://www.amazon.com/Enchanted-Broccoli-Katzens-Classic-Cooking/dp/1580081266/ref=sr_1_12?ie=UTF8&qid=1444088768&sr=8-12&keywords=moosewood)” and “[The Moosewood Cookbook](http://www.amazon.com/Moosewood-Cookbook-40th-Anniversary/dp/1607747391/ref=sr_1_1?ie=UTF8&qid=1444088768&sr=8-1&keywords=moosewoodhttp://).” We’d have dinner by candle light and incense with a good bottle of wine, his cat Samson, the Pixies or the Smiths in the background and his amazing renditions of eggplant parmesan. We were both very young, in love and sporting healthy appetites.

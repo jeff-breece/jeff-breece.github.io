@@ -10,6 +10,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/a-measure-of-his-worth/"
+image:
+  path: /images/unsplash/a-measure-of-his-worth.jpg
+  alt: "A measure of his worth. Photo by Leonardo Evaristo on Unsplash"
 ---
 
 I read one of Dr Ornish’s [books](https://www.amazon.com/Ornishs-Program-Reversing-Heart-Disease/dp/0345373537/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1475626636&sr=1-1) last year when I was doing a lot of research on how to manage heart disease. One of the interesting facts about this condition is that it comes with built in risk factors above and beyond things like high blood pressure and cholesterol. These include, but are not limited to, stress, depression and anxiety. For men this can be difficult to deal with simply because of the way we’ve been socialized. Even gay guys have trouble with this – the hyper masculine ideal and such. We’ve been taught to be strong and independent. We can handle anything that comes our way. Every problem has a solution. Don’t wear your heart on your sleeve and so on. At first I didn’t understand what he was talking about even though the author used some good examples. Dr. Ornish was exploring having the courage to open up about how we feel. The effects others have on us. The hidden, but real, cost of holding things in. Going it alone. Bearing to much weight by yourself. Wearing pleated pants.

@@ -11,6 +11,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/lotus-notes-conversion-lessons/"
+image:
+  path: /images/unsplash/lotus-notes-conversion-lessons.jpg
+  alt: "Lotus Notes Conversion Lessons. Photo by Kajetan Sumila on Unsplash"
 ---
 
 The team and I have learned a great deal during the time we’ve been converting Domino databases to SharePoint composite applications. Our first hurdle was met in accessing and deconstructing the Notes data programmatically in .Net. (I wrote about that initially in this post which served as one of our proof of concept builds; [Lotus Notes to SPS Conversions](https://jeffbreece.com/site/index.php/blog/get_by_id/2)).

@@ -9,6 +9,9 @@ tags:
   - personal
 archived: true
 original_permalink: "https://jeffbreece.com/no-one-wins-a-nuclear-war/"
+image:
+  path: /images/unsplash/no-one-wins-a-nuclear-war.jpg
+  alt: "No one wins a nuclear war. Photo by Meagan-Joy Huggard on Unsplash"
 ---
 
 Even the air seems hot these days. It’s as if 2017 came _electrified_ along political lines pushing people further apart from one another. Following is a recount of three situations I experienced that make me give pause while thinking about these as communication failures and the hope that things can be different if we work to improve things.

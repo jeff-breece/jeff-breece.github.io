@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/not-your-moms-oatmeal/"
+image:
+  path: /images/unsplash/not-your-mom-s-oatmeal.jpg
+  alt: "Not your mom’s oatmeal.. Photo by Madeline Liu on Unsplash"
 ---
 
 One of my colleagues back in Texas overheard me cursing at my oatmeal one morning. I’ve always had a less than perfect relationship with its bland, wet and lumpy self. No matter how much raisins, maple syrup, pecans I threw at it … it was still … oatmeal. It’s only saving grace is that it’s incredibly cheap and a really healthy addition to one’s diet.

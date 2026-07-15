@@ -9,6 +9,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/being-there/"
+image:
+  path: /images/unsplash/being-there.jpg
+  alt: "Being there. Photo by Jakob on Unsplash"
 ---
 
 We’ve all been there. Juggling multiple clients, supporting sales efforts, allocating lunches to colleagues and clients, going to tech events, pursuing professional certifications, education goals, slicing out work time from family and personal endeavors to keep ahead of the ever moving curve. With our demanding work schedule, it’s all too easy to slide into patterns of what  _look_ like multi-tasking but in fact end up being switch tasking. This practice can become a serious drag under the false pretense of productivity gain. As if that were not bad enough we often times box ourselves so far into corners that we lose focus on the immediate job at hand. Including the people around us.
