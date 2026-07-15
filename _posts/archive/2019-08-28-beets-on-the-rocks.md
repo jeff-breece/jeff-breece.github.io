@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/beets-straight-up/"
+image:
+  path: /images/unsplash/beets-on-the-rocks.jpg
+  alt: "Beets on the rocks!. Photo by Cristina Anne Costello on Unsplash"
 ---
 
 This was one of those fun things as a result of a gift of a Ninja mixer from Eddie’s mom. I love beets so this was a good way to enjoy the earthy flavor with a little zing of lemon as a fresh pre workout drink.

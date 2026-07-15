@@ -10,6 +10,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/inspiration-3/"
+image:
+  path: /images/unsplash/inspiration.jpg
+  alt: "Inspiration. Photo by Younes Barri on Unsplash"
 ---
 
 Facebook reminded me that one year ago yesterday I found an article in our local paper about a stroke survivor, [Robert Gast](http://www.dispatch.com/content/stories/local/2015/05/02/half-marathon.html "Two years after stroke, runner finishes Capital City Half Marathon"), who ran in the Cap City Half Marathon. The same race my cousin and I did together last Saturday.

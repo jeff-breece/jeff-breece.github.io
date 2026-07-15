@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/black-bean-soup/"
+image:
+  path: /images/unsplash/black-bean-soup.jpg
+  alt: "Black Bean Soup. Photo by Farhad Ibrahimzade on Unsplash"
 ---
 
 It was one of those days when I wasn’t particularly motivated but wanted something homemade and healthy. I had picked up a copy of Mark Bittman’s book “[How to Cook Everything Vegetarian](http://markbittman.com/book/how-to-cook-everything-vegetarian/)” at the library earlier and, while flipping through it, the black bean soup caught my fancy. Not just for the lack of motivation on my part but for a now distant memory of a younger Short North.

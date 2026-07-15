@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/thoughts-from-a-half-marathon-and-a-plan/"
+image:
+  path: /images/unsplash/thoughts-from-a-half-marathon-and-a-plan.jpg
+  alt: "Thoughts from a half marathon… and a plan. Photo by Natalia Slastnikova on Unsplash"
 ---
 
 My cousin and I just finished the Cap City Half Marathon together on Saturday. This was my second half to run in and was so much easier than my first which left me feeling like a sweaty chunk of smelly man fat. There were all these fantastic folks along the way cheering us on and offering support. I actually blew a kiss to this elderly woman who was hoping up and down dancing for all of us. I think what I enjoy most about these events is the chance to mentally reflect over whatever the thoughts are floating around in your head at the time while your feet hit the pavement in a rhythmic pattern as you breath to keep your body moving. One of those thoughts happened to concern how much I’m enjoying running and so I decided on our Saturday route to sign up for the Columbus full marathon in Fall. Of course a lot can happen in between now and then and I plan to work on being both mentally and emotionally flexible but, I have to admit, I’m excited by the idea of participating in a 26.2 mile event.

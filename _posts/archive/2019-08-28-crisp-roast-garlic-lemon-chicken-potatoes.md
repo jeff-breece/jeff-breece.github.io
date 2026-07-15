@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/crisp-roast-garlic-lemon-chicken-potatoes/"
+image:
+  path: /images/unsplash/crisp-roast-garlic-lemon-chicken-potatoes.jpg
+  alt: "Crisp Roast Garlic Lemon Chicken & Potatoes. Photo by engin akyurt on Unsplash"
 ---
 
 Some time ago I was reacquainted with the roaster chicken. Well, it was actually the January 2011 issue of Martha Stewart Living “Brilliant Basics” which expanded my chicken horizons beyond boneless skinless breasts. The author uses a roaster chicken, salt, cornstarch, rosemary, olive oil, and potatoes to make one of the most simple and inexpensive family dinners. I’m still making variations of this recipe every other month or so… the benefit of this is not just dinner but it also gives you a chance to replenish your chicken stock reserves in the freezer.

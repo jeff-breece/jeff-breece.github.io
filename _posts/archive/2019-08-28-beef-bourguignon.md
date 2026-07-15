@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/beef-bourguignon/"
+image:
+  path: /images/unsplash/beef-bourguignon.jpg
+  alt: "Beef Bourguignon. Photo by Marc Kleen on Unsplash"
 ---
 
 Just before our Texas years Eddie & I lived in an old Columbus, Ohio suburb called [Clintonville](https://en.wikipedia.org/wiki/Clintonville,_Columbus,_Ohio). Very college town professor style complete with a thriving [Community Co-Op](https://www.facebook.com/ccmcoop), which is currently [endangered](http://www.10tv.com/content/stories/2014/12/04/columbus-ohio-clintonville-community-market-faces-uncertain-future.html), not half a block away from our home. While at the time restaurant challenged, it’s a great neighborhood. We spent many-many-many evenings together with friends enjoying conversations, dining and laughing all through the night there.

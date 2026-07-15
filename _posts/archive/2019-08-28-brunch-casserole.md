@@ -10,6 +10,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/brunch-casserole/"
+image:
+  path: /images/unsplash/brunch-casserole.jpg
+  alt: "Brunch Casserole. Photo by lee seunghyub on Unsplash"
 ---
 
 My mom used to make a “brunch casserole” at Christmas time that was out of this world good. It was one of those egg custards with sausage over white bread topped with American cheese deals. I came across the recipe below while looking for one of my first Dallas Thanksgiving morning breakfasts. I had all the ingredients. The minute it came out of the oven still sizzling and bubbling I was immediately taken back to Marion, Ohio. It was wonderful and comforting.

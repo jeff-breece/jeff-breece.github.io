@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/blueberry-pie/"
+image:
+  path: /images/unsplash/blueberry-pie.jpg
+  alt: "Blueberry Pie. Photo by Carlo Verso on Unsplash"
 ---
 
 Our June copy of “Southern Living” came when blueberries still cost a small fortune. With The Fourth of July behind us I came across a great bounty of berries on sale at a price that didn’t break the bank. I used the [vodka pie crust](https://jeffbreece.com/?p=140) recipe with butter and butter in place of the vegetable shortening.

@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/cascadian-cuisine/"
+image:
+  path: /images/unsplash/cascadian-cuisine.jpg
+  alt: "Cascadian cuisine?. Photo by Khrystyna Dranchuk on Unsplash"
 ---
 
 Having had a past life as a foodie and professional wine schlep, I was stunned by a night out I had last night with my best friend, his husband, and his close friend. It was so amazing that it may have been the _best_ food experience of my entire life and it was all centered around vegan fair that was sourced within a 100-mile radius of the restaurant.
