@@ -11,6 +11,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/locker-room-talk/"
+image:
+  path: /images/unsplash/locker-room-talk.jpg
+  alt: "Locker room talk. Photo by Ronald Langeveld on Unsplash"
 ---
 
 Everything was going fantastic. One of the best days so far in what was turning out to be a perfect week. The marketing had begun for a talk I’m doing for a local tech group. I got some awesome projects lined up and even more amazing people to work with through these endeavors. My team had gone out to a pretty good restaurant for lunch where I learned more about the African American gentleman and the two Indian women, one of them my boss. I remember feeling how lucky I am to be on such a diverse team of smart people in technology who are passionate about business, tech, movies and family.

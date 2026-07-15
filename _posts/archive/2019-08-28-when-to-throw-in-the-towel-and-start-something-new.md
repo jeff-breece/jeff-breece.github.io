@@ -13,6 +13,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/when-to-throw-in-the-towel-and-start-something-new/"
+image:
+  path: /images/unsplash/when-to-throw-in-the-towel-and-start-something-new.jpg
+  alt: "When to throw in the towel and start something new. Photo by Falaq Lazuardi on Unsplash"
 ---
 
 While on the plane to Seattle I had more than a few moments to reflect on something that has been on my mind for a couple weeks now. Namely, I don’t think I have a marathon in me after all. I’d like to talk about what goes on in a persons head, well really mine I guess, when he decides to stop and readjust a set of goals.

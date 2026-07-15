@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/first-tent-camping-trip-in-30-years/"
+image:
+  path: /images/unsplash/first-tent-camping-trip-in-30-years.jpg
+  alt: "First tent camping trip in 30+ years. Photo by Dino Reichmuth on Unsplash"
 ---
 
 This is a recap of my first tent camping trip in 30+ years. I will attempt to explain both my motivation and how I prepared for the trip in this post.

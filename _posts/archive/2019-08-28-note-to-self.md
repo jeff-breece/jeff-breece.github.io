@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/note-to-self/"
+image:
+  path: /images/unsplash/note-to-self.jpg
+  alt: "Note to self. Photo by Filipp Romanovski on Unsplash"
 ---
 
 So this happened last Saturday. I opened the laundry closet door when the iron fell from 2 feet or so above me from the top of the stacked washer/dryer and hit me square on the lower sternum and left rib cage. Not an experience I would recommend to _anyone_ who wants to be physically active the next week. Bruised ribs are an interesting, if not painful, sensation. That and the corresponding back pain, and range of motion limitation, from your body compensating in different ways. The other thing, of course in my case, was the weird anxiety it caused because the pain was off center in my chest which made me look up articles from the Cleveland Clinic about [chest pain that won’t kill you,](https://health.clevelandclinic.org/2015/03/3-types-of-chest-pain-that-wont-kill-you) and those that will, and how to tell. Cardiac anxiety is such a weird thing to deal with when you have the condition.

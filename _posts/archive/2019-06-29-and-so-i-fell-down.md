@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/and-so-i-fell-down/"
+image:
+  path: /images/unsplash/and-so-i-fell-down.jpg
+  alt: "And so I fell down. Photo by Andrea Qoqonga on Unsplash"
 ---
 
 It’s hard work trying to stay in shape on a continuing basis. Work, family, friends, habits and whims pull us in conflicting directions. We all have our individual compass which uses our motivation like the North Star to guide us ahead. Until that motivation sputters and coughs.

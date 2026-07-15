@@ -9,6 +9,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/hes-dead-jim-finding-mom-on-board-the-starship-enterprise/"
+image:
+  path: /images/unsplash/he-s-dead-jim-finding-mom-on-board-the-starship-enterprise.jpg
+  alt: "“He’s dead Jim;” finding mom on board the Starship Enterprise.. Photo by Esteban Lafargue on Unsplash"
 ---
 
 I have a handful of corroded memories from my childhood intermixed with imaginations and interjection. My mothers first marriage fell apart on Davis St back in Marion Ohio. She is naturally very private but I wanted to share some of my feelings of admiration and gratitude today.

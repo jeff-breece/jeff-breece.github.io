@@ -11,6 +11,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/a-revolution-of-love/"
+image:
+  path: /images/unsplash/a-revolution-of-love.jpg
+  alt: "A revolution of love. Photo by Sandy Millar on Unsplash"
 ---
 
 June always reminds me of the protest that my fathers, decked out in drag, had the courage to bring to the public. A collection of “queers” written off by the world as a group of freaks and deviants. Living between the margins and eking out mostly non upwardly mobile lives. The ones who were accepted were the best of the liars among us and could hide in places like corporations or public office and pass themselves off as straight with an unloved wife, possibly kids and then tricks and boyfriends in the shadows. My respect always aligned with the freaks who had the self respect and fire to show their true faces to the world.

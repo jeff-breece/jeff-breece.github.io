@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/post-dentist-souffle/"
+image:
+  path: /images/unsplash/post-dentist-souffl.jpg
+  alt: "Post dentist Soufflé. Photo by Daniel Lloyd Blunk-Fernández on Unsplash"
 ---
 
 Back during our Hunter & 2nd Avenue days I used to make soufflé. I think it was actually in this now beat to Hell and back copy of “[The Martha Stewart Cookbook](http://www.amazon.com/Martha-Stewart-Cookbook-Collected-Recipes/dp/0517703351/ref=sr_1_1/187-9973652-9306227?s=books&ie=UTF8&qid=1407712305&sr=1-1&keywords=the+martha+stewart+cookbook)” circa 1995 where the whole thing started. I remember a lot of wine & dinner parties with the chocolate soufflé as desert and quite a few Thanksgiving Dinners with the corn version.

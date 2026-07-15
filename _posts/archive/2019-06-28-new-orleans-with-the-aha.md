@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/new-orleans-with-the-aha/"
+image:
+  path: /images/unsplash/new-orleans-with-the-aha.jpg
+  alt: "New Orleans with the AHA. Photo by adam roye on Unsplash"
 ---
 
 The folks I work with as a volunteer for the [AHA](http://www.heart.org/HEARTORG/) invited me to participate in a new program to be announced later today at the Scientific Sessions here in New Orleans. Working as a volunteer moderator for the AHA Support Network has been one of the most rewarding things I’ve done between 2015 & 2016\. Talking with folks going through what I did, or worse, has given me a chance to look deep inside myself and realign my values. If anything I truly feel gratitude for what each day brings. It’s also given me a chance to look at the people around me and see their strengths and beauty.

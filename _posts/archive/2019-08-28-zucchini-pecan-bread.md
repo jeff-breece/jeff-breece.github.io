@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/zucchini-pecan-bread/"
+image:
+  path: /images/unsplash/zucchini-pecan-bread.jpg
+  alt: "Zucchini Pecan Bread. Photo by BehindTheTmuna on Unsplash"
 ---
 
 There’s a point in most people’s childhood where, looking back, we can almost hear our mothers talking about sneaking vegetables into our diets. Mine was no exception. I remember mom coming up with these great late summer early fall treats for us. The mountain of fresh zucchini in the kitchen seemingly escaping notice.
