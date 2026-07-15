@@ -4,7 +4,7 @@ title:  "Changing Internet Service- with a bit of data to back it up"
 date:   2024-09-29 07:00:00 -0400
 image: /images/att-speeds.png 
 description: "Speed analytics of AT&T vs Spectrum Internet"
-categories: howto
+categories: [howto]
 tags:
   - networking
   - python

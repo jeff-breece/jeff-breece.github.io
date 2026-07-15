@@ -1,63 +1,124 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+theme: jekyll-theme-chirpy
+
+lang: en
+timezone: America/New_York
 
 title: Jeff Breece
-email: jeffbreece@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal log of a gentleman engineer and systems architect, part time outdoorsman, devoted family man and avid home cook.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jeff-breece.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: #jekyllrb
-github_username:  jeff-breece
-linkedin_username: jeffrey-a-breece
+tagline: "Systems architect, hands-on engineer, trail runner, home cook."
 
-# _config.yml
-show_excerpts: true
+description: >-
+  Personal log of a gentleman engineer and systems architect — engineering notes,
+  architecture patterns, AI & homelab experiments, trail essays, and occasional
+  reflections on work and life.
 
-# Build settings
-theme: minima
+url: "https://jeff-breece.github.io"
+baseurl: ""
+
+github:
+  username: jeff-breece
+
+linkedin:
+  username: jeffrey-a-breece
+
+social:
+  name: Jeff Breece
+  email: jeffbreece@outlook.com
+  links:
+    - https://github.com/jeff-breece
+    - https://www.linkedin.com/in/jeffrey-a-breece
+
+# Site avatar (square image shown in sidebar)
+avatar: /images/1990-jeff.jpg
+
+# Leave blank to respect OS preference; or set "light" or "dark"
+theme_mode:
+
+# Google Analytics — leave blank to disable
+google_analytics:
+  id: ""
+
+# Comments — disabled
+comments:
+  active: ""
+
+# Table of contents default
+toc: true
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    default_lang: text
+    guess_lang: true
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: [1, 2, 3, 4, 5, 6]
+  use_coderay: false
+
+# Sass
+sass:
+  style: compressed
+
+# Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-mermaid
-  
-paginate: 10
-paginate_path: "/page:num/"
+  - jekyll-sitemap
+  - jekyll-include-cache
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Feed
+feed:
+  posts_limit: 20
+
+# Collections
+collections:
+  tabs:
+    output: true
+    sort_by: order
+  galleries:
+    output: true
+    permalink: /gallery/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      toc: true
+      comments: false
+      math: false
+      mermaid: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+  - scope:
+      path: "_galleries"
+      type: galleries
+    values:
+      layout: gallery
+
+# Exclude from build
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - README.md
+  - LICENSE
+  - THEME_SELECTION_2026.md
+  - migration-prep.txt
+  - run-legacy-import.ps1
+  - scripts/
+  - _posts_imported/
+  - migration_reports_v2/
+  - gallery-site/
+  - vendor/
+  - .bundle/
+  - .jekyll-cache/

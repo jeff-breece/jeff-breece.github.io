@@ -1,7 +1,6 @@
 ---
 layout: post
 date:   2026-02-27 15:16:48 -0500
-original_date: 2026-02-27 00:00:00 -0500
 last_modified_at: 2026-02-27 15:16:48 -0500
 title: "Building Resilient API Integrations: A Practical Guide"
 description: "This guide walks through building a production-grade API integration using the USGS Earthquake API and .NET 9, demonstrating best practices for error handling, graceful failures, and clean data mapping."
@@ -10,7 +9,7 @@ tags:
   - api
   - rest
   - dotnet
-  - Ollama
+  - ollama
   - error-handling
 image: /images/earthquake.png
 excerpt_separator: <!--more-->

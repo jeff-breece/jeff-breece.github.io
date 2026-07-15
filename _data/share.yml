@@ -1,0 +1,5 @@
+- platform: Twitter
+  icon: "fab fa-square-x-twitter"
+- platform: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/shareArticle?url=[url]&title=[title]"

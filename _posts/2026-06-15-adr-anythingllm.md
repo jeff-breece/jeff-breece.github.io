@@ -1,17 +1,18 @@
 ---
+layout: post
 title: "Eating my own dogfood: ADR for the UI plane of my AI Lab"
-slug: "adr-anythingllm-resonance-lab-docs-desktop-agents"
-date: "2026-06-15"
-status: "proposed"
-categories: homelab
+date: 2026-06-15 07:00:00 -0400
+categories: [homelab, ai]
 image: /images/PXL_20250402_111025442.jpg
-description: "Eating my own dogfood, this is a process called creating an architectural decision record. I am creating an architectural decision record to begin to document the architecture of the Resonance Lab project."
+description: "Eating my own dogfood: creating an architectural decision record to document the architecture of the Resonance Lab AI project."
+mermaid: true
 tags:
-  - ADR
-  - AnythingLLM
-  - AgenticAI
-  - LocalAI
-  - ResonanceLab
+  - adr
+  - anything-llm
+  - agentic-ai
+  - local-ai
+  - homelab
+  - resonance-lab
 ---
 
 **Summary:** In my home AI lab, I’m adding AnythingLLM not because I needed another chatbot, but because I wanted to dogfood the same architecture patterns I evaluate professionally: context boundaries, RAG, agents, model routing, and operational ownership. This ADR captures how I’m using the lab as a practical proving ground for turning AI capability into intentional system design.

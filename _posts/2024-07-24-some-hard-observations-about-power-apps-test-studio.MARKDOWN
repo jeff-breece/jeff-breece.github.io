@@ -2,7 +2,7 @@
 layout: post
 title:  "Power Apps Test Studio: Some Hard Observations"
 date:   2024-07-24 07:00:00 -0400
-categories: powerapps
+categories: [powerapps]
 tags:
   - powerapps
   - testing

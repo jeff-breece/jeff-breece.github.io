@@ -2,7 +2,7 @@
 layout: post
 title: "Power Apps: So, About That 'Expand' Function with Dataverse Offline First Mode..."
 date: 2024-08-05 07:00:00 -0400
-categories: powerapps
+categories: [powerapps]
 tags:
   - powerapps
   - dataverse

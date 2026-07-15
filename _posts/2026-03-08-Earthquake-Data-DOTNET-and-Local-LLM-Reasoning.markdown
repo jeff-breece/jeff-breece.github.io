@@ -1,7 +1,6 @@
 ---
 layout: post
 date:   2026-03-08 10:00:00 -0500
-original_date: 2026-03-08 10:00:00 -0500
 last_modified_at: 2026-03-08 10:00:00 -0500
 title: "Earthquake Data, .NET, and Local LLM Reasoning"
 description: "A small .NET mini project using USGS earthquake feeds, deterministic analysis, and a local Qwen model through Ollama to turn structured seismic data into grounded narrative insight."
