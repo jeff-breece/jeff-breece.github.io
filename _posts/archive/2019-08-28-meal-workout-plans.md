@@ -13,6 +13,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/meal-workout-plans/"
+image:
+  path: /images/unsplash/meal-workout-plans.jpg
+  alt: "Meal & workout plans. Photo by Pete Alexopoulos on Unsplash"
 ---
 
 It’s Saturday so that means meal planning and grocery shopping. This week I pulled out my trusty copy of “[The America’s Test Kitchen Complete Vegetarian Cookbook](https://www.amazon.com/Complete-Vegetarian-Cookbook-Foolproof-Recipes/dp/1936493969)” and flipped through that while having coffee this morning with a friend visiting from Chicago. We caught up on the doings at our mid year checkpoints. His recent push back to making artwork, some of which spoke to his experience with prostate cancer, various things he’d been doing to his house and then house plants as I am interested in getting one for my bedroom for the air quality and green aspect of them.

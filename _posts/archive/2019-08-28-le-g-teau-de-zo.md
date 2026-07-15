@@ -9,6 +9,9 @@ tags:
   - food
 archived: true
 original_permalink: "https://jeffbreece.com/le-gateau-de-zoe/"
+image:
+  path: /images/unsplash/le-g-teau-de-zo.jpg
+  alt: "Le gâteau de Zoé. Photo by Debby Hudson on Unsplash"
 ---
 
 I’ve been trying to work with chocolate a little more than I have in the past. So I have three bricks of El Rey, Callebuet and Valrhona in the pantry. When I read the article “Simple Supper, Paris,” by Adriane Moore in Monocle Issue 62 I decided to try the Le gâteau de Zoé. A flourless chocolate cake. And now I have two bricks of chocolate in the pantry.
