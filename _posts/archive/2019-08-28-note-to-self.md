@@ -20,7 +20,7 @@ In the end I’m _really_ sore but I had a laugh at myself while not getting too
 
 Live, learn, laugh and _move the damn iron someplace else_ where it’s less prone to jump out at you!
 
-[![20161207_202701](https://jeffbreece.com/wp-content/uploads/2016/12/20161207_202701-e1481161990931-768x1024.jpg)](https://jeffbreece.com/wp-content/uploads/2016/12/20161207_202701.jpg)
+![20161207_202701](https://jeffbreece.com/wp-content/uploads/2016/12/20161207_202701-e1481161990931-768x1024.jpg)
 
 
 [The road behind… and the one ahead](https://jeffbreece.com/the-road-behind-and-the-one-ahead/) ›

@@ -56,7 +56,7 @@ Process
 
 
 
-[![roast-chicken-prep](https://jeffbreece.com/wp-content/uploads/2014/04/roast-cjicken-prep-300x300.jpg)](/images/archive/wp-content/uploads/2014/04/roast-cjicken-prep.jpg) [![roast-chicken-done](https://jeffbreece.com/wp-content/uploads/2014/04/roast-chicken-done-300x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/roast-chicken-done.jpg)
+![roast-chicken-prep](/images/archive/wp-content/uploads/2014/04/roast-cjicken-prep.jpg) ![roast-chicken-done](https://jeffbreece.com/wp-content/uploads/2014/04/roast-chicken-done-300x300.jpg)
 
 
 [Roasted Potato & Bacon Omelets](https://jeffbreece.com/roasted-potato-bacon-omelets/) ›

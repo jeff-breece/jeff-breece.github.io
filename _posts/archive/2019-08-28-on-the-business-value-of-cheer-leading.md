@@ -13,7 +13,7 @@ original_permalink: "https://jeffbreece.com/on-the-business-value-of-cheerleadin
 
 I once worked in a shop that had stagnated so badly there were attitude problems to be found in every corner. Even the executives joked about the dangers of crossing between the IT department to “the coven in accounting.” The funny thing is that the building was full of good people. One talented woman comes to mind when I think of that place. She was open to learning new things but given the atmosphere she allowed her self esteem to degrade. In the end she was little more than the butt of her peers jokes… which just killed all her motivation. When I left, I took with me the lessons I learned in this dismal shop. These turned into my practices on how best to improve productivity which is the problem you solve in the process. And this _always_ starts with the people you sit next to every day at work.
 
-[![sadworker](https://jeffbreece.com/wp-content/uploads/2016/10/sadworker-300x166.jpeg)](https://jeffbreece.com/wp-content/uploads/2016/10/sadworker.jpeg)
+![sadworker](https://jeffbreece.com/wp-content/uploads/2016/10/sadworker-300x166.jpeg)
 
 Working as a web and business developer over the past 15 years has taught me the value of both having and being a peer cheerleader. I don’t mean someone who rips off catchy chants with pom poms scaring the daylights out of the person two cubicles down from you. No, this is the person who is invested in his/her fellow co workers on a personal level. A person who takes the time to be present, listen and offer metered advice. Following are some of the aspects that make up a good peer cheerleader that anyone can use to bolster the health and unity of his or her team.
 
@@ -33,7 +33,7 @@ All together this collection of practices make for a healthier department. Life�
 
 So “OK <stomp stomp> LET’S GO!”
 
-[![cheerleading](https://jeffbreece.com/wp-content/uploads/2016/10/cheerleading-300x84.jpg)](https://jeffbreece.com/wp-content/uploads/2016/10/cheerleading.jpg)
+![cheerleading](https://jeffbreece.com/wp-content/uploads/2016/10/cheerleading-300x84.jpg)
 
 
 [Two Ernies](https://jeffbreece.com/two-ernies/) ›

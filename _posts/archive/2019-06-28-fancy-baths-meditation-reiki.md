@@ -19,11 +19,11 @@ When I was a kid I used to love Fall and the inevitable retreat to the indoors a
 
 Self awareness is great but it takes a good deal of work to keep on a more centered path, head up, breath steady, heart open and mind clear. In addition to spending a good deal of time outdoors this year, with the intent of sleeping under the stars and meeting new friends, I also pursued meditation classes where I could. One such session at a Yoga shop in Grandview was all about the “Elephant meditation.” The instructor provided us with a work sheet, a sachet full of things like chamomile flowers and rose petals and a piece of rose quartz. The idea was to draw a bath, throw the herbs and crystal into the bag, strip down and dive in for a quiet moment of reflection on balance.
 
-[![Dreamer bath herbs](https://jeffbreece.com/wp-content/uploads/2017/11/20171119_144041-225x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/11/20171119_144041.jpg)
+![Dreamer bath herbs](https://jeffbreece.com/wp-content/uploads/2017/11/20171119_144041-225x300.jpg)
 
 With Thanksgiving travel to NYC approaching, some pretty stiff deadlines at work and taking care of my friend Nick’s personal life as he recovers from a stroke while we fight an uphill battle to get him retired and into some sort of care situation long term… I can say, with certainty, that my stress levels are in the red area right now. The bath was great as were the moments alone with time to think about where my mind/heart is. I’m not an overly spiritual man, deep trust issues after suffering a bout of Baptist upbringing there, but I am leaning toward thinking that there might be something to this energy thing. Even if it’s just the physiological effects like we see with breathing exercises where things like your heart rate slows, blood pressure drops, creativity spikes and so on… I guess keeping an open mind is something I’ve had to embrace as well this year.
 
-[![bath meditation](https://jeffbreece.com/wp-content/uploads/2017/11/20171119_1439081-300x200.jpg)](https://jeffbreece.com/wp-content/uploads/2017/11/20171119_1439081.jpg)
+![bath meditation](https://jeffbreece.com/wp-content/uploads/2017/11/20171119_1439081-300x200.jpg)
 
 On a similar path I’ve been trying things like [Reiki](https://en.wikipedia.org/wiki/Reiki), or energy healing, in addition to massage, both at [Uban Village Massage](http://www.urbanvillagemassage.com/) and [Open Sky Day Spa](https://www.openskydayspa.com/), as a logical evolution to the meditation work I started last year. From what I read online Reiki was developed in 1922 by a Japanese Buddhist monk. While I have been exposed to the idea of what “chi” energy is it’s really interesting that all these paths I’ve been following post heart attack have led to our bodies interaction with the world around us. Both internal and external.
 
@@ -35,7 +35,7 @@ In the spirit of the Holiday, I want to thank my teachers, guides, new friends a
 
 Wishing everyone peace and hope this Thanksgiving Holiday.
 
-[![Rivers & canyons](/images/archive/wp-content/uploads/2017/11/canyon-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2017/11/canyon.jpg)
+![Rivers & canyons](/images/archive/wp-content/uploads/2017/11/canyon-300x168.jpg)
 
 
 [Beef bourgignon & Jello mold stars](https://jeffbreece.com/beef-bourgignon-jello-mold-stars/) ›

@@ -18,7 +18,7 @@ While I did better this year than I did last year Winter always sucks the air ou
 
 So here’s to running shoes and March.
 
-[![February](https://jeffbreece.com/wp-content/uploads/2017/03/February-300x215.png)](https://jeffbreece.com/wp-content/uploads/2017/03/February.png)
+![February](https://jeffbreece.com/wp-content/uploads/2017/03/February-300x215.png)
 
 
 [Locker room talk](https://jeffbreece.com/locker-room-talk/) ›

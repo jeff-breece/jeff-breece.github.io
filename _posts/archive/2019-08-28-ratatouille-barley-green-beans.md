@@ -60,7 +60,7 @@ Green Beans Process
 
 
 
-[![Ratatouille-Green-Beans-and-Barley](https://jeffbreece.com/wp-content/uploads/2015/04/wpid-20150417_203426-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2015/04/wpid-20150417_203426.jpg)
+![Ratatouille-Green-Beans-and-Barley](https://jeffbreece.com/wp-content/uploads/2015/04/wpid-20150417_203426-300x168.jpg)
 
 
 [Seared Breakfast Asparagus](https://jeffbreece.com/seared-breakfast-asparagus/) ›

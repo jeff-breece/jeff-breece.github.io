@@ -17,7 +17,7 @@ So I’ve been taking some time to circle back to meditation, which I _totally_ 
 
 “When we walk in the woods, do we see a flower, or do we think of ourselves as somebody walking in the woods and looking at a flower? They’re very different. We’re caught by the power of our self-consciousness, thinking about ourselves instead of letting go and stepping off into the unknown,” [Stephen Levine](https://en.wikipedia.org/wiki/Stephen_Levine_\(author\)) from an interview with [The Sun](http://thesunmagazine.org/).
 
-[![woods](/images/archive/wp-content/uploads/2016/05/woods-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2016/05/woods.jpg)
+![woods](/images/archive/wp-content/uploads/2016/05/woods-300x168.jpg)
 
 
 [There is nothing to fear except fear itself](https://jeffbreece.com/there-is-nothing-to-fear-except-fear-itself/) ›

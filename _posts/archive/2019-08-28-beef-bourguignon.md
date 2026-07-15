@@ -26,7 +26,7 @@ The recipe that follows is the best template Iâ€™ve found so far. I made some â€
 
 Happy Holidays along whatever traditions you follow.
 
-[![BB_Prep](https://jeffbreece.com/wp-content/uploads/2014/12/BB_Prep-300x168.jpg)](/images/archive/wp-content/uploads/2014/12/BB_Prep.jpg)  
+![BB_Prep](/images/archive/wp-content/uploads/2014/12/BB_Prep.jpg)  
 Ingredients
 
   * 1 tablespoon good olive oil
@@ -50,7 +50,7 @@ Ingredients
 
 
 
-[![BB_D](https://jeffbreece.com/wp-content/uploads/2014/12/BB_D-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/12/BB_D.jpg)
+![BB_D](https://jeffbreece.com/wp-content/uploads/2014/12/BB_D-168x300.jpg)
 
 Process
 

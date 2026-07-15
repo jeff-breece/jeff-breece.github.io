@@ -58,7 +58,7 @@ Technique
 
 In most involtini recipes bread crumbs are used to coat the eggplant, but in our version we put them in the cheese. The bread crumbs keep the filling creamy by preventing the Pecorino Romano proteins from linking tightly.
 
-[![Eggplant Involtini... another reason to love eggplants.](https://jeffbreece.com/wp-content/uploads/2015/10/20151006_190714-300x168.jpg)](/images/archive/wp-content/uploads/2015/10/20151006_190714.jpg) [![Cooking Eggplant Involtini](/images/archive/wp-content/uploads/2015/10/20151006_190050-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2015/10/20151006_190050.jpg)
+![Eggplant Involtini... another reason to love eggplants.](/images/archive/wp-content/uploads/2015/10/20151006_190714.jpg) ![Cooking Eggplant Involtini](/images/archive/wp-content/uploads/2015/10/20151006_190050-300x168.jpg)
 
 
 [Business Connectivity Services; Connecting the LOB Dots](https://jeffbreece.com/business-connectivity-services-connecting-the-lob-dots/) ›

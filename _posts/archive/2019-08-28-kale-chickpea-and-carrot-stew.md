@@ -44,7 +44,7 @@ Process
 
 
 
-[![Kale-Chickpea-Carrot](https://jeffbreece.com/wp-content/uploads/2014/11/KaleChickpea-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/11/KaleChickpea.jpg)
+![Kale-Chickpea-Carrot](https://jeffbreece.com/wp-content/uploads/2014/11/KaleChickpea-168x300.jpg)
 
 
 [Red, Yellow, Green & Blue Smoothie](https://jeffbreece.com/red-yellow-green-blue-smoothie/) ›

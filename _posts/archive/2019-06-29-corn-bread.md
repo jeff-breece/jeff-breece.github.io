@@ -40,7 +40,7 @@ Cornbread Process
 
 
 
-[![CornBread](https://jeffbreece.com/wp-content/uploads/2014/12/CornBread-300x225.png)](https://jeffbreece.com/wp-content/uploads/2014/12/CornBread.png)
+![CornBread](https://jeffbreece.com/wp-content/uploads/2014/12/CornBread-300x225.png)
 
 
 [Dark Beer Chili](https://jeffbreece.com/dark-beer-chili/) ›

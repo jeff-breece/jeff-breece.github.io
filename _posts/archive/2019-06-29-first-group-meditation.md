@@ -28,9 +28,9 @@ The whole experience left me with this deep feeling of rest. As if I had taken a
 
 Whatever the outcome of my current meditation track… I’m enjoying the exploration and hopeful for the benefits.
 
-[![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)[![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)
+![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)
 
-[![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)[![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation-300x225.jpg)](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)
+![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation-300x225.jpg)
 
 
 [On losing my shirt and meditation](https://jeffbreece.com/losing-my-shirt-and-meditation/) ›

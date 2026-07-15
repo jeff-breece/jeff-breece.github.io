@@ -16,7 +16,7 @@ original_permalink: "https://jeffbreece.com/beets-straight-up/"
 
 This was one of those fun things as a result of a gift of a Ninja mixer from Eddie’s mom. I love beets so this was a good way to enjoy the earthy flavor with a little zing of lemon as a fresh pre workout drink.
 
-[![Beet-Juice-Strained](https://jeffbreece.com/wp-content/uploads/2014/11/BeetJuiceStrain-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/11/BeetJuiceStrain.jpg)
+![Beet-Juice-Strained](https://jeffbreece.com/wp-content/uploads/2014/11/BeetJuiceStrain-168x300.jpg)
 
 Ingredients
 
@@ -34,7 +34,7 @@ Process
 
 
 
-[![Beet-Juice](https://jeffbreece.com/wp-content/uploads/2014/11/BeetJuice-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/11/BeetJuice.jpg)
+![Beet-Juice](https://jeffbreece.com/wp-content/uploads/2014/11/BeetJuice-168x300.jpg)
 
 
 [Black Bean Soup](https://jeffbreece.com/black-bean-soup/) ›

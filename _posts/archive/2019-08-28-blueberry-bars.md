@@ -50,11 +50,11 @@ Process
 
 
 
-[![](/images/archive/wp-content/uploads/2015/04/20150422_210355.jpg)](https://jeffbreece.com/20150422_210355/)
+![](/images/archive/wp-content/uploads/2015/04/20150422_210355.jpg)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/04/20150423_070544.jpg)](https://jeffbreece.com/20150423_070544/)
+![](https://jeffbreece.com/wp-content/uploads/2015/04/20150423_070544.jpg)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/04/20150424_121504.jpg)](https://jeffbreece.com/20150424_121504/)
+![](https://jeffbreece.com/wp-content/uploads/2015/04/20150424_121504.jpg)
   
 
 

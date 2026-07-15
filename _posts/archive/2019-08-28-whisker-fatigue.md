@@ -19,7 +19,7 @@ The article goes on to recommend some brands of food and water bowls that can be
 
 Here’s to something you learn everyday.
 
-[![cat-whiskers](https://jeffbreece.com/wp-content/uploads/2017/06/600-up-shot-cat-whiskers-300x241.png)](https://jeffbreece.com/wp-content/uploads/2017/06/600-up-shot-cat-whiskers.png)
+![cat-whiskers](https://jeffbreece.com/wp-content/uploads/2017/06/600-up-shot-cat-whiskers-300x241.png)
 
 
 [Friends & teachers](https://jeffbreece.com/friends-teachers/) ›

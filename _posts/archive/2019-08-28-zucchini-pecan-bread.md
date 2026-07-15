@@ -48,7 +48,7 @@ Process
 
 
 
-[![zucchini-bread-prep](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-prep-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-prep.jpg) [![zucchini-bread-done](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-done-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-done.jpg)
+![zucchini-bread-prep](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-prep-168x300.jpg) ![zucchini-bread-done](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-done-168x300.jpg)
 
 
 [Stir Trek 2014](https://jeffbreece.com/stir-trek-2014/) ›

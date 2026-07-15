@@ -54,7 +54,7 @@ Preparation
 
 
 
-[![Chili](https://jeffbreece.com/wp-content/uploads/2014/12/Chili-300x225.png)](/images/archive/wp-content/uploads/2014/12/Chili.png)
+![Chili](/images/archive/wp-content/uploads/2014/12/Chili.png)
 
 
 [Pineapple Upside-Down Cake](https://jeffbreece.com/pineapple-upside-down-cake/) ›

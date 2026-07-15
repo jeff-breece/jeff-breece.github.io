@@ -16,7 +16,7 @@ It’s an amazing feeling to cross the finish line of any race. It can sometimes
 
 I finished the Columbus 10k this past Sunday and with the pictures having been published I’m reminded of what a great experience it was to run alongside the 9 minute pacer and talk with him and the folks around us through the race. Sharing stories together while running… that’s the best part of the experience.
 
-[![Columbus-10k](https://jeffbreece.com/wp-content/uploads/2016/06/Finish-300x200.jpg)](/images/archive/wp-content/uploads/2016/06/Finish.jpg)
+![Columbus-10k](/images/archive/wp-content/uploads/2016/06/Finish.jpg)
 
 
 [Invincible Summer](https://jeffbreece.com/invincible-summer/) ›

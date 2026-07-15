@@ -61,7 +61,7 @@ Chocolate Ganache:
 
 
 
-[![Pecan-Brownie](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie.jpg) [![Pecan-Brownie-Ganache](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie-Ganache-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie-Ganache.jpg)
+![Pecan-Brownie](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie-168x300.jpg) ![Pecan-Brownie-Ganache](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie-Ganache-168x300.jpg)
 
 
 [Blueberry Pie](https://jeffbreece.com/blueberry-pie/) ›

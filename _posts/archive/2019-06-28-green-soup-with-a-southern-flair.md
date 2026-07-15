@@ -55,7 +55,7 @@ Process
 
 
 
-[![Fresh-Greens](/images/archive/wp-content/uploads/2015/06/Greens-165x300.jpg)](https://jeffbreece.com/wp-content/uploads/2015/06/Greens.jpg) [![Green-Soup](/images/archive/wp-content/uploads/2015/06/GreenSoup-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2015/06/GreenSoup.jpg)
+![Fresh-Greens](/images/archive/wp-content/uploads/2015/06/Greens-165x300.jpg) ![Green-Soup](/images/archive/wp-content/uploads/2015/06/GreenSoup-168x300.jpg)
 
 
 [Fireflies and 5ks](https://jeffbreece.com/fireflies-and-5ks/) ›

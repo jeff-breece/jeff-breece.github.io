@@ -16,7 +16,7 @@ Facebook reminded me that one year ago yesterday I found an article in our local
 
 One year later and here I am feeling grateful to have a life full of family, running, good food, interesting work and the inspiration that folks like Robert gave me without knowing it along the way.
 
-[![Cap-City-Half -Marathon-2016](https://jeffbreece.com/wp-content/uploads/2016/05/137136-525-016h-300x200.jpg)](https://jeffbreece.com/wp-content/uploads/2016/05/137136-525-016h.jpg)
+![Cap-City-Half -Marathon-2016](https://jeffbreece.com/wp-content/uploads/2016/05/137136-525-016h-300x200.jpg)
 
 
 [“He’s dead Jim;” finding mom on board the Starship Enterprise.](https://jeffbreece.com/hes-dead-jim-finding-mom-on-board-the-starship-enterprise/) ›

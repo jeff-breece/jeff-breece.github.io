@@ -35,7 +35,7 @@ While yes, life is a “one day at a time” kind of experience, I am taking a l
 
 To the day where I am no longer here. I was here and had a full life because it was the only thing I have discovered that makes anything worthwhile about breathing. It’s the everything part of what is around us and how we let all of that energy into our hearts and minds and then share back out into the world that counts.
 
-[![RAWR!!!](https://jeffbreece.com/wp-content/uploads/2017/10/mm15diceysituations-300x192.png)](https://jeffbreece.com/wp-content/uploads/2017/10/mm15diceysituations.png)
+![RAWR!!!](https://jeffbreece.com/wp-content/uploads/2017/10/mm15diceysituations-300x192.png)
 
 
 [Nick](https://jeffbreece.com/nick/) ›

@@ -17,7 +17,7 @@ Our June copy of “Southern Living” came when blueberries still cost a small 
 
 Inevitably mom and I were texting one another with the pie conversation. I was really flattered to hear she made one as well.
 
-[![Red White & Boom 2014](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4412-300x225.jpg)](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4412.jpg)
+![Red White & Boom 2014](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4412-300x225.jpg)
 
 Ingredients
 
@@ -47,7 +47,7 @@ Process
 
 Julie Grimes, “Southern Living” June 2014
 
-[![Blueberry Pie](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4427-300x225.jpg)](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4427.jpg)
+![Blueberry Pie](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4427-300x225.jpg)
 
 
 [Shrimp & Scallop Soup](https://jeffbreece.com/shrimp-scallop-soup/) ›

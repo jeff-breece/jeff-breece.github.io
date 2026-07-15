@@ -18,7 +18,7 @@ In fact it was this morning when I came across an article in the Sunday New York
 
 So I did something for myself. I went outside and picked some of the lavender that Eddie is growing this year in our urban garden. Just for me.
 
-[![lavendar](/images/archive/wp-content/uploads/2017/06/20170611_173006-225x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/20170611_173006.jpg)
+![lavendar](/images/archive/wp-content/uploads/2017/06/20170611_173006-225x300.jpg)
 
 
 [Tattoo inspiration](https://jeffbreece.com/tattoo-inspiration/) ›

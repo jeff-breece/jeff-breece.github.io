@@ -31,7 +31,7 @@ Together we can help become the leaders that Ohio needs. Together as drag queens
 
 June reminds me, most of all, that we have and always will be a revolution of Love because of our diversity and ability to shatter norms together.
 
-[![stonewallii](/images/archive/wp-content/uploads/2017/06/stonewallii-300x225.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/stonewallii.jpg)
+![stonewallii](/images/archive/wp-content/uploads/2017/06/stonewallii-300x225.jpg)
 
 
 [The space between Friday & the weekend](https://jeffbreece.com/the-space-between-friday-the-weekend/) ›

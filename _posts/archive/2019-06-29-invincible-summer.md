@@ -22,7 +22,7 @@ After a lot of thought, and a couple Dr. checkups, I decided to throw my running
 
 So I’m excited to be signed up for the [Columbus Running Company](https://www.columbusrunning.com/)’s running clinic and I’m following the [beginner plan](https://columbusrunning.com/Clinic/Marathon) starting this Saturday. It’s going to be interesting running with a _group_ every Saturday through summer and the beginning of fall. Given that I love sharing stories I’m looking forward to meeting new folks and hearing what motivates us in general.
 
-[![Beginner-Marathon-Plan](https://jeffbreece.com/wp-content/uploads/2016/06/Plan-277x300.png)](https://jeffbreece.com/wp-content/uploads/2016/06/Plan.png)
+![Beginner-Marathon-Plan](https://jeffbreece.com/wp-content/uploads/2016/06/Plan-277x300.png)
 
 What motivates me? Surviving and living well for starters. The folks I have the honor to call friends, family and co workers who fill my life would be right up there as well. Lastly, the ability to workout, read and meditate toward maintaining both a calm mind and healthy body.
 

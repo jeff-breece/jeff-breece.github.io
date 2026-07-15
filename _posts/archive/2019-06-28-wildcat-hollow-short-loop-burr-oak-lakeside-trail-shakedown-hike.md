@@ -55,7 +55,7 @@ I plan to spend a fair amount of time meditating, reading a couple books on my K
 
 So, here’s to hiking with heart disease. Solo. In a National Forest. In the rain! What’s not to be excited about?
 
-[![](https://jeffbreece.com/wp-content/uploads/2018/08/Signing-In-The-Rain-300x169.jpeg)](https://jeffbreece.com/wp-content/uploads/2018/08/Signing-In-The-Rain.jpeg)
+![](https://jeffbreece.com/wp-content/uploads/2018/08/Signing-In-The-Rain-300x169.jpeg)
 
 
 [Onward](https://jeffbreece.com/onward/) ›

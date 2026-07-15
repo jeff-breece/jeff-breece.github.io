@@ -18,7 +18,7 @@ With my partner waiting until Saturday for an oral surgery I found we’d soon f
 
 I’m all about these great tomato sandwiches with fresh mozzarella since it’s August in the Mid West. So we had a lot of great cheese remnants which served as the replacement for the traditional Gruyère which, sadly, I had none of on hand. Otherwise the recipe is pretty much the same as the [article](http://www.epicurious.com/recipes/food/views/Classic-Cheese-Souffle-242119) Epicurious posted. Of course I’m a little rusty since I haven’t tried my whisk hand in quite awhile. It was however really good hearing him say it made his palette feel alive and fresh again. (I think some of that came from the goat cheese and nutmeg).
 
-[![Soufflé](https://jeffbreece.com/wp-content/uploads/2014/08/WP_20140810_002-300x164.jpg)](https://jeffbreece.com/wp-content/uploads/2014/08/WP_20140810_002.jpg)
+![Soufflé](https://jeffbreece.com/wp-content/uploads/2014/08/WP_20140810_002-300x164.jpg)
 
 Ingredients
 
@@ -61,7 +61,7 @@ Process
 
 
 
-[![Soufflé](https://jeffbreece.com/wp-content/uploads/2014/08/WP_20140810_001-300x168.jpg)](/images/archive/wp-content/uploads/2014/08/WP_20140810_001.jpg)
+![Soufflé](/images/archive/wp-content/uploads/2014/08/WP_20140810_001.jpg)
 
 
 [Conversations & Plates](https://jeffbreece.com/conversations-plates/) ›

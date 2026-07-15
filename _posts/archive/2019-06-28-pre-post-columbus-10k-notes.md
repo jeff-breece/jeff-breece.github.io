@@ -35,7 +35,7 @@ The day rolled into laziness and food comas while Eddie and I switched gears and
 
 Here’s to summer 2017. May it be one for the books.
 
-[![Columbus-10k](/images/archive/wp-content/uploads/2017/06/18920582_10209590987078321_8772487831478055776_n-225x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/18920582_10209590987078321_8772487831478055776_n.jpg)
+![Columbus-10k](/images/archive/wp-content/uploads/2017/06/18920582_10209590987078321_8772487831478055776_n-225x300.jpg)
 
 
 [Summer Sundays](https://jeffbreece.com/summer-sundays/) ›

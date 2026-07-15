@@ -22,7 +22,7 @@ While orbiting several projects, and a few conversations with Eddie later, is wh
 
 So here’s my attempt at Shrimp and Scallops Soup. Second [reference](http://www.foodnetwork.com/recipes/rachael-ray/venetian-shrimp-and-scallops-recipe.html), in addition to the health book.
 
-[![Shrimp & Scallops Soup](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4429-300x225.jpg)](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4429.jpg)
+![Shrimp & Scallops Soup](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4429-300x225.jpg)
 
 Ingredients
 

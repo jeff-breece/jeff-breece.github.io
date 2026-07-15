@@ -32,11 +32,11 @@ History
 
 BDC was first introduced with Microsoft Office SharePoint Server (MOSS). Therefore it was only available in the 2007 enterprise edition of SharePoint. In this release only read, not write, actions were available and the definition files were difficult to construct XML files … unless you used tools like BDC MetaMan which we discuss later in this post. BDC became available in SharePoint Foundation 2010 as a Shared Service Provider Model (figure 1). With the introduction of BCS this has changed to a true multi-tenant using a service application architecture (figure 2). As developers, we can use this to talk with any flavor of database, WCF web service, .NET assembly as a data source (or classic DAL component) or even OData feed. It expose this information inside SharePoint as either an external list or through it’s built in REST API to things like SharePoint hosted apps that need LOB connection.
 
-[![BDC Framework](https://jeffbreece.com/wp-content/uploads/2015/10/1-300x268.gif)](https://jeffbreece.com/wp-content/uploads/2015/10/1.gif)
+![BDC Framework](https://jeffbreece.com/wp-content/uploads/2015/10/1-300x268.gif)
 
 Figure 1
 
-[![BCS Framework](https://jeffbreece.com/wp-content/uploads/2015/10/2-300x151.gif)](https://jeffbreece.com/wp-content/uploads/2015/10/2.gif)
+![BCS Framework](https://jeffbreece.com/wp-content/uploads/2015/10/2-300x151.gif)
 
 Figure 2
 
@@ -44,7 +44,7 @@ Double Hop
 
 This is a well-documented issue, see figure 3, but it bears a little conversation for folks who are new to using BDC/BCS in SharePoint. We have a service application called the Secure Store Service that an administrator can provision for his/her users. This service provides a way to create a credential set for use with building things like connection strings. These are used in instances where managed code has a user context and then needs to access the credential set to pass a connection string to an external system like an RDBMS. This is a great MSDN post on how to “[Configure the Secure Store Service in SharePoint 2013](https://technet.microsoft.com/en-us/library/ee806866.aspx).”
 
-[![Double Hop Issue](https://jeffbreece.com/wp-content/uploads/2015/10/3-300x237.png)](https://jeffbreece.com/wp-content/uploads/2015/10/3.png)
+![Double Hop Issue](https://jeffbreece.com/wp-content/uploads/2015/10/3-300x237.png)
 
 Figure 3
 

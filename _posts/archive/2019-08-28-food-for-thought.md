@@ -23,9 +23,9 @@ Our lives took us in different directions. It was Patty who sent out the call to
 
 I was sad that she lost her father. I was overjoyed to see her again in celebration of her father and our friendship.
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/bitter.jpg)](https://jeffbreece.com/bitter/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/bitter.jpg)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/drive.jpg)](https://jeffbreece.com/drive/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/drive.jpg)
   
 
 

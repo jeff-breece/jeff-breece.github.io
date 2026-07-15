@@ -23,7 +23,7 @@ It’s stark to think that we have come to such a sharp split between educated t
 
 My thoughts dwell on Independence Day tonight. I have to wonder. Are we?
 
-[![We_want_white_tenants](https://jeffbreece.com/wp-content/uploads/2017/06/We_want_white_tenants-300x238.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/We_want_white_tenants.jpg)
+![We_want_white_tenants](https://jeffbreece.com/wp-content/uploads/2017/06/We_want_white_tenants-300x238.jpg)
 
 
 [Pushing boulders, & harsh emails, up mountains](https://jeffbreece.com/pushing-boulders-harsh-emails-up-mountains/) ›

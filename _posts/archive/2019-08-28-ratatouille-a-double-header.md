@@ -17,7 +17,7 @@ original_permalink: "https://jeffbreece.com/ratatouille-a-double-header/"
 
 Some friends with green thumbs recently shared a wealth of tomatoes and a variety of fresh peppers with me. With a couple eggplants on the counter and a few yellow onions I had it in my head to make ratatouille for the first time in well over a decade. I pulled out my copy of [“The Marathon Chef” by Michel Roux Jr](http://www.amazon.com/The-Marathon-Chef-Food-Getting/dp/0297843095/ref=sr_1_1?ie=UTF8&qid=1410213446&sr=8-1&keywords=The+Marathon+Chef) as I like how simple and French his style is. Of course it makes enough food for a small, but very hungry, family so we had enough leftovers for an interesting twist on vegetarian lasagna (thus the second recipe in this post). Both turned out pretty good.
 
-[![Summer Vegetables](https://jeffbreece.com/wp-content/uploads/2014/09/Vegetables-300x228.png)](https://jeffbreece.com/wp-content/uploads/2014/09/Vegetables.png)
+![Summer Vegetables](https://jeffbreece.com/wp-content/uploads/2014/09/Vegetables-300x228.png)
 
 Note: I altered the Ratatouille recipe based on what I had on hand but it’s essentially based on the original.
 
@@ -54,7 +54,7 @@ Process
 
 
 
-[![Ratatouille](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille-300x220.png)](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille.png)
+![Ratatouille](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille-300x220.png)
 
 # Ratatouille Lasagna
 
@@ -97,7 +97,7 @@ Process
 
 
 
-[![Ratatouille-Lasagna](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille-Lasagna-300x250.jpg)](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille-Lasagna.jpg)
+![Ratatouille-Lasagna](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille-Lasagna-300x250.jpg)
 
 
 [Refining Pie](https://jeffbreece.com/refining-pie/) ›
