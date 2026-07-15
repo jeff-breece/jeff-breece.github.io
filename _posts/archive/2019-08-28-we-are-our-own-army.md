@@ -30,7 +30,7 @@ So here’s to marching in step, every day, with all our various battles against
 
 We are our own Army.
 
-[![Army](https://jeffbreece.com/wp-content/uploads/2016/09/Army-300x186.png)](https://jeffbreece.com/wp-content/uploads/2016/09/Army.png)
+[![Army](/images/archive/wp-content/uploads/2016/09/Army-300x186.png)](https://jeffbreece.com/wp-content/uploads/2016/09/Army.png)
 
 
 [20 milestones](https://jeffbreece.com/20-milestones/) ›

@@ -42,7 +42,7 @@ Process
 
 
 
-[![Smoothie](https://jeffbreece.com/wp-content/uploads/2014/11/Smoothie-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/11/Smoothie.jpg)
+[![Smoothie](/images/archive/wp-content/uploads/2014/11/Smoothie-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/11/Smoothie.jpg)
 
 
 [Coconut Curry Ginger Pumpkin Soup](https://jeffbreece.com/coconut-curry-ginger-pumpkin-soup/) ›

@@ -61,7 +61,7 @@ Process
 
 
 
-[![Soufflé](https://jeffbreece.com/wp-content/uploads/2014/08/WP_20140810_001-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/08/WP_20140810_001.jpg)
+[![Soufflé](https://jeffbreece.com/wp-content/uploads/2014/08/WP_20140810_001-300x168.jpg)](/images/archive/wp-content/uploads/2014/08/WP_20140810_001.jpg)
 
 
 [Conversations & Plates](https://jeffbreece.com/conversations-plates/) ›

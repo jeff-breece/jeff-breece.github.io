@@ -35,7 +35,7 @@ In the spirit of the Holiday, I want to thank my teachers, guides, new friends a
 
 Wishing everyone peace and hope this Thanksgiving Holiday.
 
-[![Rivers & canyons](https://jeffbreece.com/wp-content/uploads/2017/11/canyon-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2017/11/canyon.jpg)
+[![Rivers & canyons](/images/archive/wp-content/uploads/2017/11/canyon-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2017/11/canyon.jpg)
 
 
 [Beef bourgignon & Jello mold stars](https://jeffbreece.com/beef-bourgignon-jello-mold-stars/) ›

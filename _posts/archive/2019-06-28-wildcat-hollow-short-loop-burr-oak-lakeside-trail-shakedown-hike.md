@@ -25,7 +25,7 @@ I think that’s the point where I realized I wanted to sacrifice the six-mile s
 
 Another thing I did was to watch this guys YouTube video titled “Learn to love hiking in the rain.”
 
-[![](https://jeffbreece.com/wp-content/uploads/2018/08/LearnTOLoveBackpackingInTheRain-300x152.png)](https://www.youtube.com/watch?v=g0RwcQ6Aifw)
+[![](/images/archive/wp-content/uploads/2018/08/LearnTOLoveBackpackingInTheRain-300x152.png)](https://www.youtube.com/watch?v=g0RwcQ6Aifw)
 
 So as I upack my backpack tonight. I will be lining it with a strong unscented flex garbage bag. Dropping my tarp that I was going to take as a shelter away from my tent. Opting to cook and eat in the rain when it permits. Dropping my inflatable mattress and just using my Thermarest foam roll instead. Pairing down my clothing bag by dropping my rain pants, keeping my rain jacket, dropping my swim trunks and long underwear, adding a weather resistant rain shell that I have for running and adding a Patagonia mid weight base layer. Beyond that, since I will be in an area that has water, I can drop a couple liters of water as I can use my filter as needed as well as I won’t be in Wildcat Hollow.
 

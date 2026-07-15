@@ -22,7 +22,7 @@ Anyway, it was that year that I decided to put my fascination with dad’s slide
 
 This particular memory resurfaces because I won a medal in a 5k for the first time _ever_ this weekend. It is the same race I did when I was 17 staying the week with my Aunt Lora and Uncle Dave as part of my growing up years. I still remember feeling horrible and defeated like I never had during those short young years at the third leg of the race. When I finished I swore I’d never run again. And I didn’t until 3 months after a heart attack at the age of 47. When I re-ran that race, at 49, three days ago I had a collection of flashbacks that ran through my head on Saturday morning in Forest. The people. The road. The smell of the air. That really sexy shirtless local guy with his dogs at the start of the race. The views of the farm field I was running around for the third time now. The beautiful lady who told me she tried to keep up with me and that I was her pacer. Specific miles and the thoughts of me two and thirty-two years ago running the same course.
 
-[![Tree Town Trot Route](https://jeffbreece.com/wp-content/uploads/2017/07/route-213x300.png)](https://jeffbreece.com/wp-content/uploads/2017/07/route.png)
+[![Tree Town Trot Route](/images/archive/wp-content/uploads/2017/07/route-213x300.png)](https://jeffbreece.com/wp-content/uploads/2017/07/route.png)
 
 If a challenge can feel like home this was its realization.
 

@@ -50,7 +50,7 @@ Process
 
 
 
-[![omlette-prep](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-prep-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-prep.jpg) [![omlete-cooking](https://jeffbreece.com/wp-content/uploads/2014/04/omlete-cooking-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/omlete-cooking.jpg) [![omlette-done](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-done-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-done.jpg)
+[![omlette-prep](/images/archive/wp-content/uploads/2014/04/omlette-prep-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-prep.jpg) [![omlete-cooking](https://jeffbreece.com/wp-content/uploads/2014/04/omlete-cooking-300x168.jpg)](/images/archive/wp-content/uploads/2014/04/omlete-cooking.jpg) [![omlette-done](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-done-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-done.jpg)
 
 
 [Pie Crust](https://jeffbreece.com/pie-crust/) ›

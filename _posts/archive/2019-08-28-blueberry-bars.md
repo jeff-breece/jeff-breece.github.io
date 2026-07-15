@@ -50,7 +50,7 @@ Process
 
 
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/04/20150422_210355.jpg)](https://jeffbreece.com/20150422_210355/)
+[![](/images/archive/wp-content/uploads/2015/04/20150422_210355.jpg)](https://jeffbreece.com/20150422_210355/)
 
 [![](https://jeffbreece.com/wp-content/uploads/2015/04/20150423_070544.jpg)](https://jeffbreece.com/20150423_070544/)
 

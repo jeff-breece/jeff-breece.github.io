@@ -20,7 +20,7 @@ So now it’s onto planning for Seattle & Portland for a visit with friends, the
 
 There I go again though… actually, it already has been an amazing year… tomorrow will just be another gift to realize upon the giving.
 
-[![meditation-cap](https://jeffbreece.com/wp-content/uploads/2017/06/meditation-cap-300x298.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/meditation-cap.jpg)
+[![meditation-cap](/images/archive/wp-content/uploads/2017/06/meditation-cap-300x298.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/meditation-cap.jpg)
 
 
 [A revolution of love](https://jeffbreece.com/a-revolution-of-love/) ›

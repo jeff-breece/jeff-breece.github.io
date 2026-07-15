@@ -31,7 +31,7 @@ Process
 
 
 
-[![Smoothie](https://jeffbreece.com/wp-content/uploads/2014/12/Smoothie-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/12/Smoothie.jpg)
+[![Smoothie](/images/archive/wp-content/uploads/2014/11/Smoothie-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/12/Smoothie.jpg)
 
 
 [Corn Bread](https://jeffbreece.com/corn-bread/) ›

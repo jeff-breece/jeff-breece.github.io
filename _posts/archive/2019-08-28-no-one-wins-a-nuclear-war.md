@@ -41,7 +41,7 @@ So I’m searching for a better way to communicate with my climate denialist fri
 
 Collin Wright said “if you want to build a better world, you have to focus on winning in the right way. I think most people would agree that even if one side isn’t completely wiped from the planet, there’s still no real winner in a nuclear war.” His words definitely struck a chord within me given my three failed interactions above. I’m still looking for that conversation where two people meet halfway and do something good. Like he says, we have to constantly look ahead. All that is required is a little hope, kindness and patience to be present and mindful while we push ahead against the backward motion we are experiencing Nationally.
 
-[![fight](https://jeffbreece.com/wp-content/uploads/2017/02/fight-300x214.jpg)](https://jeffbreece.com/wp-content/uploads/2017/02/fight.jpg)
+[![fight](/images/archive/wp-content/uploads/2017/02/fight-300x214.jpg)](https://jeffbreece.com/wp-content/uploads/2017/02/fight.jpg)
 
 
 [February… from the rear view mirror](https://jeffbreece.com/february-from-the-rear-view-mirror/) ›

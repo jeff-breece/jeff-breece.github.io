@@ -22,7 +22,7 @@ The picture is of One Elm Place while it was still partially occupied in 2008. S
 
 Together it sort of adds to our romantic view of a downtown that was in the process of reinventing itself.
 
-[![one_elm](https://jeffbreece.com/wp-content/uploads/2014/03/one_elm-300x224.jpg)](https://jeffbreece.com/wp-content/uploads/2014/03/one_elm.jpg)
+[![one_elm](/images/archive/wp-content/uploads/2014/03/one_elm-300x224.jpg)](/images/archive/wp-content/uploads/2014/03/one_elm.jpg)
 
 
 [Zucchini Pecan Bread](https://jeffbreece.com/zucchini-pecan-bread/) ›
