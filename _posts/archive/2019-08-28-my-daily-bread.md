@@ -10,6 +10,9 @@ tags:
   - food
 archived: true
 original_permalink: "https://jeffbreece.com/my-daily-bread-3/"
+image:
+  path: /images/unsplash/my-daily-bread.jpg
+  alt: "My Daily Bread. Photo by Pierre Herman on Unsplash"
 ---
 
 No cookies today … hence the noodles and bread.
