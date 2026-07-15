@@ -9,6 +9,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/magic-feather/"
+image:
+  path: /images/unsplash/magic-feather.jpg
+  alt: "Magic Feather. Photo by mali desha on Unsplash"
 ---
 
 Having sprained my ankle a few weeks back, story in the works, I was very cautious with my recovery as I still have some hopes that I’ll be able to enter the Columbus Marathon this fall if I’m lucky. I got an Xray by my orthopedic Dr and received the all clear to return to running.

@@ -13,6 +13,9 @@ tags:
   - personal
 archived: true
 original_permalink: "https://jeffbreece.com/facing-fears-making-choices/"
+image:
+  path: /images/unsplash/facing-fears-making-choices.jpg
+  alt: "Facing fears & making choices. Photo by Marek Piwnicki on Unsplash"
 ---
 
 I decided to adopt a more Mediterranean diet today. While this is a construct in itself, it includes the consumption of chicken, turkey, and fish. This post attempts to address the reasoning behind it by facing up to some fears and challenging my own “black and white” reactions. As you will read, there are various schools of thought that talk about how horrible animal products are for us and how they will most certainly kill us. While this may be true, or not, I have my own reasons.

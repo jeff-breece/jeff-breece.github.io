@@ -10,6 +10,9 @@ tags:
   - personal
 archived: true
 original_permalink: "https://jeffbreece.com/beef-bourgignon-jello-mold-stars/"
+image:
+  path: /images/unsplash/beef-bourgignon-jello-mold-stars.jpg
+  alt: "Beef bourgignon & Jello mold stars. Photo by Janis Kloter on Unsplash"
 ---
 
 Once upon a Christmas Eve, while Eddie and I lived on Crestview Rd in Clintonville Ohio, there was an [ice storm](https://en.wikipedia.org/wiki/December_21%E2%80%9324,_2004_North_American_winter_storm). It was so bad that it derailed my friend Nick’s travel plans to Toledo to visit family (road conditions _never_ bothered him). So we extended a dinner invite to both him and our motorcycle friend John. While it was fun to watch big old burly gruff John struggle parking his truck, and then coming in for help, what I remember about the day is beef bourgignon.

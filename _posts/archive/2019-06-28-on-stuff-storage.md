@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/on-stuff-storage/"
+image:
+  path: /images/unsplash/on-stuff-storage.jpg
+  alt: "On stuff & storage. Photo by Erwan Hesry on Unsplash"
 ---
 
 I recently noticed that I have a three foot tall stack of workout books which I collected, and yes used, in my early 30’s. That was the time period I had been recording how much I lifted, ate, walked, biked and bent around in arguably unnatural positions in various Yoga classes. I was, in a word, fit. Time travel out 10 years over the course of a career and a move across the Country… and back again. I’m thankfully in relatively good health but a lot more skilled at what I do at the office than my bench press these days.

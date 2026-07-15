@@ -9,6 +9,9 @@ tags:
   - hiking
   - work-life-balance
   - self-care
+image:
+  path: /images/unsplash/a-moment-of-reflection-before-turning-yet-again-forward.jpg
+  alt: "A moment of reflection before turning, yet again, forward. Photo by Diogo Ferrer on Unsplash"
 ---
 Summary: I got a wake-up call during my last health checkup. Evidently working 7 days a week for two solid months in an atmosphere of constant anxiety is not healthy for a fella. So I’m taking a moment to explore how I took the wrong fork during The Pandemic and how I am course correcting.
 <!--more-->

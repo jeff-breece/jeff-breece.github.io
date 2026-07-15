@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/there-is-nothing-to-fear-except-fear-itself/"
+image:
+  path: /images/unsplash/there-is-nothing-to-fear-except-fear-itself.jpg
+  alt: "There is nothing to fear except fear itself. Photo by Adam Wilson on Unsplash"
 ---
 
 In this article I hope to explore my own cardiac anxiety as a heart attack survivor in hopes that it will help others become better at differentiating anxiety from symptom. If I’m very lucky, maybe, help turn the page with some of you and get back to where we take back some of ourselves in the process.

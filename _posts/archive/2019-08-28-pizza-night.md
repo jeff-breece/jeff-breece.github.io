@@ -10,6 +10,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/pizza-night/"
+image:
+  path: /images/unsplash/pizza-night.jpg
+  alt: "Pizza Night. Photo by Valentin Balan on Unsplash"
 ---
 
 While Columbus Ohio is no New York or Chicago it does have a fair number of great pizza shops. [Rotolo’s](http://www.rotolospizza.com/), [Panzera’s](http://panzeras.com/), [Dante’s](http://dantespizzainc.com/) to name three of my favorites with a solid nod at some High Street shops in the OSU area.

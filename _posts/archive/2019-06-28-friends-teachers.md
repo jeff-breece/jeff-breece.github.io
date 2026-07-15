@@ -10,6 +10,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/friends-teachers/"
+image:
+  path: /images/unsplash/friends-teachers.jpg
+  alt: "Friends & teachers. Photo by Reagan nicole on Unsplash"
 ---
 
 The weekend was planned out loosely and packed with really cool stuff to do in Washington DC for the Pride March. That’s what they remained though, unrealized plans. Life presented itself with a _deeply_ personal issue that caused me to make a decision to stay home to address that rather than leave it untended. I was disappointed, yes, but seeing all my buddies pictures in DC made me feel bolstered that I had made the right decision and that I was represented by some great folks at the same time.

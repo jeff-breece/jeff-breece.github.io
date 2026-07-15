@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/pumpkin-pie/"
+image:
+  path: /images/unsplash/pumpkin-pie.jpg
+  alt: "Pumpkin Pie. Photo by Haewon Oh on Unsplash"
 ---
 
 Earlier last week, I had picked up a couple sweet baking pumpkins along with a modest future Jack-O-Lantern. With a disc of pie crust left over from the apple-cranberry pies I looked around for various pumpkin pie custards. I’d heard people using sweet potato to balance and round up the flavor in a pumpkin pie. “[The Flavor Bible](http://www.amazon.com/The-Flavor-Bible-Creativity-Imaginative/dp/0316118400)” says pumpkin is a medium-heavy in comparison to the sweet potato as a moderate-loud. I decided to try a blend of the two so next up … the custard. I’d used both the sweetened condensed milk and the heavy cream routes before. What struck me though was a recipe by Paula Dean where she used a block of cream cheese. Naturally, I was intrigued.

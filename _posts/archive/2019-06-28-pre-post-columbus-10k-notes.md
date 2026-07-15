@@ -13,6 +13,9 @@ tags:
   - uncategorized
 archived: true
 original_permalink: "https://jeffbreece.com/pre-post-columbus-10k-notes/"
+image:
+  path: /images/unsplash/pre-post-columbus-10k-notes.jpg
+  alt: "Pre & Post Columbus 10k Notes. Photo by Ginger Jordan on Unsplash"
 ---
 
 [Pre-Race]

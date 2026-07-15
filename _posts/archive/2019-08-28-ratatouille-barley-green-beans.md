@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/ratatouille-barley-green-beans/"
+image:
+  path: /images/unsplash/ratatouille-barley-green-beans.jpg
+  alt: "Ratatouille, Barley & Green Beans. Photo by Jason Leung on Unsplash"
 ---
 
 Ratatouille is one of those quick things an 8 year old child can throw together. As such it’s always satisfying. I had an eggplant sitting on the counter staring at me all week and a ton of fresh tomatoes so I decided tonight was the night. Same thing with the barley and a desire to throw in some grains onto the plate. The lemon and oil blanched green beans are an attempt to slow down on the chocolate snacks. I’m hoping the fresh crunch and lemon flavor will satisfy some of those cravings.

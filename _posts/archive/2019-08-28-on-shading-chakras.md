@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/on-shading-chakras/"
+image:
+  path: /images/unsplash/on-shading-chakras.jpg
+  alt: "On shading & chakras. Photo by Filipp Romanovski on Unsplash"
 ---
 
 Bad days and life wasted in meetings aside, I’ve always believed in people. Teen years to now. It was back in Marion where I decided that Religion was not part of my view of the universe in my late teens. And I never looked back. Not once. Ever. That does not say that I don’t resonate with the feelings of those who do pray, experiencing something they can’t explain or, like my aunt talks about, memories we have from somewhere else beyond our own experience.

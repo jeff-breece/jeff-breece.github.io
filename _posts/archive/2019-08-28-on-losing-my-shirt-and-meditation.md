@@ -13,6 +13,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/losing-my-shirt-and-meditation/"
+image:
+  path: /images/unsplash/on-losing-my-shirt-and-meditation.jpg
+  alt: "On losing my shirt and meditation. Photo by Jacek Stróżewski on Unsplash"
 ---
 
 There’s a difference between chemically peaceful and having inner peace. I found this out over the course of an unusual year. This is my story of how I realized part of the puzzle of fighting heart disease includes meditation, prayer for some, and how I threw my late 40’s etiquette, and my shirt, to the wind.

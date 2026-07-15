@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/pushing-boulders-harsh-emails-up-mountains/"
+image:
+  path: /images/unsplash/pushing-boulders-harsh-emails-up-mountains.jpg
+  alt: "Pushing boulders,  & harsh emails, up mountains. Photo by Sean Oblizalo on Unsplash"
 ---
 
 # Pushing boulders, & harsh emails, up mountains
