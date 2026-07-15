@@ -29,7 +29,7 @@ As an even earlier version of myself who studied forestry might have said, pruni
 
 I still have my Great Aunt’s spoon rest… and use it every day.
 
-[![books](https://jeffbreece.com/wp-content/uploads/2014/03/books-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/03/books.jpg)
+![books](https://jeffbreece.com/wp-content/uploads/2014/03/books-300x168.jpg)
 
 
 [Grackles in Dallas](https://jeffbreece.com/grackles-in-dallas/) ›

@@ -59,7 +59,7 @@ Running snack
 
 
 
-[![Cap-City-Half-Marathon-2016](https://jeffbreece.com/wp-content/uploads/2016/05/CapCity2016-225x300.jpg)](/images/archive/wp-content/uploads/2016/05/CapCity2016.jpg)
+![Cap-City-Half-Marathon-2016](/images/archive/wp-content/uploads/2016/05/CapCity2016.jpg)
 
 
 [Inspiration](https://jeffbreece.com/inspiration-3/) ›

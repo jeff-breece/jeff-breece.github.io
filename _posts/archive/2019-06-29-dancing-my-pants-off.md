@@ -22,13 +22,13 @@ Anyway, it was that year that I decided to put my fascination with dad’s slide
 
 This particular memory resurfaces because I won a medal in a 5k for the first time _ever_ this weekend. It is the same race I did when I was 17 staying the week with my Aunt Lora and Uncle Dave as part of my growing up years. I still remember feeling horrible and defeated like I never had during those short young years at the third leg of the race. When I finished I swore I’d never run again. And I didn’t until 3 months after a heart attack at the age of 47. When I re-ran that race, at 49, three days ago I had a collection of flashbacks that ran through my head on Saturday morning in Forest. The people. The road. The smell of the air. That really sexy shirtless local guy with his dogs at the start of the race. The views of the farm field I was running around for the third time now. The beautiful lady who told me she tried to keep up with me and that I was her pacer. Specific miles and the thoughts of me two and thirty-two years ago running the same course.
 
-[![Tree Town Trot Route](/images/archive/wp-content/uploads/2017/07/route-213x300.png)](https://jeffbreece.com/wp-content/uploads/2017/07/route.png)
+![Tree Town Trot Route](/images/archive/wp-content/uploads/2017/07/route-213x300.png)
 
 If a challenge can feel like home this was its realization.
 
 So I spent the morning with my aunt and uncle after I did a quick clean up not expecting to win anything. Just happy to be where I wanted to be with the people I love in a place that felt like family. We caught up on a lot of what has happened during 2017. Did some theorizing and boundary pushing as we always do. You see that’s one of their strengths. Challenging norms and breaking down walls in people’s heads. They did that for me as a teen, truth be told, I would not be who I am without them.
 
-[![Gormley Park](https://jeffbreece.com/wp-content/uploads/2017/07/Gormley-300x225.jpg)](https://jeffbreece.com/wp-content/uploads/2017/07/Gormley.jpg)
+![Gormley Park](https://jeffbreece.com/wp-content/uploads/2017/07/Gormley-300x225.jpg)
 
 So I felt like braving a topic with my Uncle Dave about how do we draw the line between or fight for health and quality of life? You have to have a picture of Dave now. He’s this huge formidable bear of a man who was a lineman and worked for the fire department all his life. His sense of humor knows no bounds and he has a talent for storytelling that puts me to absolute shame. Even now he exudes a charisma and strength that is palpable and strong and 100% him.
 
@@ -40,15 +40,15 @@ I was homeward bound after that and back to Columbus. My husband Eddie and I had
 
 But you know what? I really enjoyed it. Moving to sound and rhythm with a group of people simply enjoying life and expressing parts of our individual experiences together as a big sweaty moving mass of collective joy. Well, that’s what I remember from my Tradewinds, Eagle and Garage days anyway. So when I got to the bar I was surprised to find it was “bear,” usually meaning stout hairy guys, underwear night at the dance club.
 
-[![Dancing](https://jeffbreece.com/wp-content/uploads/2017/07/dancing-300x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/07/dancing.jpg)
+![Dancing](https://jeffbreece.com/wp-content/uploads/2017/07/dancing-300x300.jpg)
 
 After a couple beers, and around midnight, I’d heard enough electronic songs that are on my running playlist to reinforce the “why” of being here. Which is gratitude and what Uncle Dave said about choosing to do things that make you feel good because they are for you. It was around then that I lost my shirt, along with pretty much everyone else, and the body started moving. Scenes from Seinfeld come to mind with Elaine scaring everyone around her with her contortions. It made me laugh at myself. That was my inner dialog anyway. Especially at 49. Shirtless in public. Laser lights and fog machine bellowing out ambience everywhere. Breaking all of the Emily Post rules. Well, maybe not all yet.
 
-[![Dinosaur Underpants](https://jeffbreece.com/wp-content/uploads/2017/07/20170711_200300_001-225x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/07/20170711_200300_001.jpg)
+![Dinosaur Underpants](https://jeffbreece.com/wp-content/uploads/2017/07/20170711_200300_001-225x300.jpg)
 
 So it was I found myself dancing with old rusty moves among a group of diverse men of all ages and colors shapes and sizes … in their underwear. Which is when I thought about the luxury of life. I survived a heart attack. Won first place in my age group in an emotionally important race earlier that day. Had a great time with both of my parents together, and there’s a ton of history/baggage there, recaps with my husband and now this. It was a pretty damn perfect day. So, I did the “when in [Rome](https://www.youtube.com/watch?v=iSzxzCKyvEk) thing” and dropped my pants, leaving them with my shirt, along with the rest of the guys and proceeded to dance in my underpants for the rest of the night and into the morning. Dancing? First time in couple decades. Dancing in underpants? First time in public ever. Oddly enough, my Fitbit HR Charge 2 tracked the dancing as walking which made me laugh a little more afterward.
 
-[![Fitbit's take on dancing](https://jeffbreece.com/wp-content/uploads/2017/07/dancing-300x178.png)](https://jeffbreece.com/wp-content/uploads/2017/07/dancing.png)
+![Fitbit's take on dancing](https://jeffbreece.com/wp-content/uploads/2017/07/dancing-300x178.png)
 
 I’ve thought about Saturday now for a couple days. Life is truly short. Yet we have all that time in between where we can realize, express and share who we are. Love one another and shine. Just like Lora & Dave in Forest Ohio with so many long nights and friends over the decades. Having the courage to bare all with others and laugh? Well it’s everything.
 

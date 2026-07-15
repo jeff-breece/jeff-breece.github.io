@@ -26,7 +26,7 @@ So I worked that Nader line of thought into one of my corporate training efforts
 
 Like Solnit says… history is like weather.
 
-[![butterfly](https://jeffbreece.com/wp-content/uploads/2017/01/butterfly-300x79.jpg)](https://jeffbreece.com/wp-content/uploads/2017/01/butterfly.jpg)
+![butterfly](https://jeffbreece.com/wp-content/uploads/2017/01/butterfly-300x79.jpg)
 
 
 [First group meditation](https://jeffbreece.com/first-group-meditation/) ›

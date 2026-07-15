@@ -34,7 +34,7 @@ Why are, some, men so resistant to being open? I would guess they don’t know j
 
 Being open with those around us makes our precious time so much richer than it otherwise would be. And if life is being grateful about today, isn’t making the effort to be open with and supportive of others worth it in the end?
 
-[![Strongman](https://jeffbreece.com/wp-content/uploads/2016/10/benefiti-treninga-snage-2-224x300.jpg)](https://jeffbreece.com/wp-content/uploads/2016/10/benefiti-treninga-snage-2.jpg)
+![Strongman](https://jeffbreece.com/wp-content/uploads/2016/10/benefiti-treninga-snage-2-224x300.jpg)
 
 
 [On the business value of cheer leading](https://jeffbreece.com/on-the-business-value-of-cheerleading/) ›

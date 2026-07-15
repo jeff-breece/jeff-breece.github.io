@@ -60,7 +60,7 @@ To Serve
 
 
 
-[![Potage aux champignons, Île de France](https://jeffbreece.com/wp-content/uploads/2014/03/MushroomSoup-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/03/MushroomSoup.jpg)
+![Potage aux champignons, Île de France](https://jeffbreece.com/wp-content/uploads/2014/03/MushroomSoup-168x300.jpg)
 
 
 [Train Sounds](https://jeffbreece.com/train-sounds/) ›

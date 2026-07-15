@@ -21,7 +21,7 @@ Fresh out of the oven. One pie plus a tester pot. It won’t win a beauty pagean
 
 Dinner time!
 
-[![Pumpkin Pie](https://jeffbreece.com/wp-content/uploads/2014/10/Pie-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/10/Pie.jpg)
+![Pumpkin Pie](https://jeffbreece.com/wp-content/uploads/2014/10/Pie-300x168.jpg)
 
 Ingredients
 

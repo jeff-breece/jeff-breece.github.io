@@ -22,7 +22,7 @@ Sadly Bruce died in [2005](http://www.shortnorth.com/BruceHildreth.html) but his
 
 While I’m no chef, I do get lucky in the kitchen now and again. So, back to soup.
 
-[![black-bean-prep](https://jeffbreece.com/wp-content/uploads/2014/11/BlackBeanPrep-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/11/BlackBeanPrep.jpg)
+![black-bean-prep](https://jeffbreece.com/wp-content/uploads/2014/11/BlackBeanPrep-300x168.jpg)
 
 _The following recipe was adjusted for what I had on hand.  
 _

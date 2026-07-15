@@ -34,7 +34,7 @@ Back to the tattoo shop this afternoon feeling a little reflective about the wee
 
 Next week? I plan to remain calm, observe and push where I can but not so hard that it hurts again.
 
-[![Sisyphus](https://jeffbreece.com/wp-content/uploads/2017/07/images.jpg)](https://jeffbreece.com/wp-content/uploads/2017/07/images.jpg)
+![Sisyphus](https://jeffbreece.com/wp-content/uploads/2017/07/images.jpg)
 
 
 [Tattoo Session 4 & a crisis in the UK](https://jeffbreece.com/tattoo-session-4-a-crisis-in-the-uk/) ›

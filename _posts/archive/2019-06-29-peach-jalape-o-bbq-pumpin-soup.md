@@ -45,7 +45,7 @@ Process
 
 Enjoy with a plain old grilled cheese sandwich for the ultimate in comfort on a cold night.
 
-[![soup](https://jeffbreece.com/wp-content/uploads/2014/12/soup-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/12/soup.jpg)
+![soup](https://jeffbreece.com/wp-content/uploads/2014/12/soup-168x300.jpg)
 
 
 [Beef Bourguignon](https://jeffbreece.com/beef-bourguignon/) ›

@@ -18,7 +18,7 @@ Eddie and I had roasted a turkey breast toward the later part of the past week. 
 
 It makes about enough for a party of 8.
 
-[![Gravy](/images/archive/wp-content/uploads/2014/10/Gravy-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/10/Gravy.jpg)
+![Gravy](/images/archive/wp-content/uploads/2014/10/Gravy-300x168.jpg)
 
 Ingredients
 

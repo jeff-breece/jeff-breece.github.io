@@ -43,7 +43,7 @@ Process
 
 
 
-[![Better-Sandwhich](https://jeffbreece.com/wp-content/uploads/2015/03/wpid-2015-03-28-13.34.46.jpg.jpeg)](https://jeffbreece.com/wp-content/uploads/2015/03/wpid-2015-03-28-13.34.46.jpg.jpeg)
+![Better-Sandwhich](https://jeffbreece.com/wp-content/uploads/2015/03/wpid-2015-03-28-13.34.46.jpg.jpeg)
 
 
 [Oatmeal Raisin Protein Cup Cakes](https://jeffbreece.com/oatmeal-raisin-protein-cup-cakes/) ›

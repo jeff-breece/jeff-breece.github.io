@@ -51,7 +51,7 @@ We know that physical exercise makes our hearts stronger. New [research](https:/
 
 Meditation has a lot in common with running. You get better at it the more you practice. And, like running, it’s actually enjoyable once you let down your guard and open your heart and mind to yourself… and then let both go, like a shirt, on a hot August afternoon while running across the Statehouse lawn.
 
-[![August-Run-Ohio-Statehouse](https://jeffbreece.com/wp-content/uploads/2017/01/August-300x295.jpg)](https://jeffbreece.com/wp-content/uploads/2017/01/August.jpg)
+![August-Run-Ohio-Statehouse](https://jeffbreece.com/wp-content/uploads/2017/01/August-300x295.jpg)
 
 
 [2017 AIDS Walk Central Ohio for Tom](https://jeffbreece.com/2017-aids-walk-central-ohio-for-tom/) ›

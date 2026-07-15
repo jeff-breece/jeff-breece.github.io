@@ -39,7 +39,7 @@ Process
 
 
 
-[![Melon-Cucumber-Fig-Salad](https://jeffbreece.com/wp-content/uploads/2014/04/Melon-Cucumber-Fig-Salad-300x259.png)](/images/archive/wp-content/uploads/2014/04/Melon-Cucumber-Fig-Salad.png)
+![Melon-Cucumber-Fig-Salad](/images/archive/wp-content/uploads/2014/04/Melon-Cucumber-Fig-Salad.png)
 
 
 [Cocoa Brownies with Chocolate Ganache & Pecans](https://jeffbreece.com/cocoa-brownies-with-chocolate-ganache-pecans/) ›

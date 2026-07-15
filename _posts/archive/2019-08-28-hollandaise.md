@@ -20,19 +20,19 @@ Our guest had made a fantastic pineapple habañero salsa with cilantro which wen
 
 As usual with first attempts we decided the dish needed some sort of greens in addition to a mix of spicy-rich-smoky notes to fully recapture that Texas flavor.
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/20150207_Page.jpg)](https://jeffbreece.com/20150207_page/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/20150207_Page.jpg)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/20150207_Monkey.jpg)](https://jeffbreece.com/20150207_monkey/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/20150207_Monkey.jpg)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Biscuits.jpg)](https://jeffbreece.com/20150208_biscuits/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Biscuits.jpg)
   
 
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Blending.jpg)](https://jeffbreece.com/20150208_blending/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Blending.jpg)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Plates.jpg)](https://jeffbreece.com/20150208_plates/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Plates.jpg)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Us.jpg)](https://jeffbreece.com/20150208_us/)
+![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Us.jpg)
   
 
 

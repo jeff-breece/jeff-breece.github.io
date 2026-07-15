@@ -41,7 +41,7 @@ There’s an old 1970’s movie called “Being There” which is what this post
 
 It takes a good story teller, a great listener and a present mind to make ourselves, and all around us, successful.
 
-[![being-there](https://jeffbreece.com/wp-content/uploads/2016/11/beingthere1-1024x576.jpg)](https://jeffbreece.com/wp-content/uploads/2016/11/beingthere1.jpg)
+![being-there](https://jeffbreece.com/wp-content/uploads/2016/11/beingthere1-1024x576.jpg)
 
 
 [It begins](https://jeffbreece.com/it-begins/) ›

@@ -44,7 +44,7 @@ Directions
 
 
 
-[![muffins](https://jeffbreece.com/wp-content/uploads/2015/03/muffins-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2015/03/muffins.jpg)
+![muffins](https://jeffbreece.com/wp-content/uploads/2015/03/muffins-168x300.jpg)
 
 
 [Workout](https://jeffbreece.com/workout-4/) ›

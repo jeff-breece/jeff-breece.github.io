@@ -26,7 +26,7 @@ I get through all the steps and had a pot of the most amazing beef stew I have e
 
 Even during the time period Eddie and I lived in Texas, Nick came out every year to spend the Christmas Holiday with us. This all makes me think of things like this home made tree topper that we found in a thrift store some 20+ years ago. It’s seriously corny. A Jello mold with glued glitter on the inside and one of those plastic electric candles. Seriously. Tragic. Yet we were young and having fun so we smashed the topper into the middle of the tree. We called it the heart. We may have been making fun of either E.T. or the 1990’s “Titanic.” Dunno. But the funny thing is, that we have the same topper sitting in the middle of our tree tonight. Tradition.
 
-[![Christmas Tree 2017](/images/archive/wp-content/uploads/2017/12/25398085_10215284862221228_8689638091376209371_o-240x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/12/25398085_10215284862221228_8689638091376209371_o.jpg)
+![Christmas Tree 2017](/images/archive/wp-content/uploads/2017/12/25398085_10215284862221228_8689638091376209371_o-240x300.jpg)
 
 We spent the evening with Nick at Dodd Hall tonight. Eddie cooked up some of the best beef bourgignon in our entire history. Nick ordered someone to get him out of bed so he could wheel down to the common room and spend another Christmas Eve together while he ate. It was an act of normalcy and strength that just makes my heart sing and break at the same time for the harmony.
 

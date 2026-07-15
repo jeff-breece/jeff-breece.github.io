@@ -18,7 +18,7 @@ One of my colleagues back in Texas overheard me cursing at my oatmeal one mornin
 
 So I finally thought about it for a while and decided, maybe, it simply needs to grow up a little. After a little morning Yoga, I threw some very grown up elements at it and damn if it didn’t taste _really_ good! Finally, an oatmeal I can enjoy without a coworker thinking I’m crazy to one hate the stuff or two that I’m crazy for talking to a bowl of oatmeal. (The crazy part may actually be true I’m afraid.)
 
-[![Oatmeal-Ingredients](https://jeffbreece.com/wp-content/uploads/2014/10/Oatmeal_1-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/10/Oatmeal_1.jpg)
+![Oatmeal-Ingredients](https://jeffbreece.com/wp-content/uploads/2014/10/Oatmeal_1-168x300.jpg)
 
 Ingredients
 
@@ -44,7 +44,7 @@ Process
 
 
 
-[![Manly-Oatmeal](https://jeffbreece.com/wp-content/uploads/2014/10/Oatmeal_2-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2014/10/Oatmeal_2.jpg)
+![Manly-Oatmeal](https://jeffbreece.com/wp-content/uploads/2014/10/Oatmeal_2-168x300.jpg)
 
 
 [Vegetarian Chili](https://jeffbreece.com/vegetarian-chili/) ›

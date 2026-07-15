@@ -29,7 +29,7 @@ The funny thing about finding her there again was that I was recently paid a dee
 
 So it was there where I found my mother in all those episodes of Star Trek, and in my friends gracious comment I found myself, and mom’s spirit, as well.
 
-[![mom](https://jeffbreece.com/wp-content/uploads/2016/05/mom-300x286.jpg)](https://jeffbreece.com/wp-content/uploads/2016/05/mom.jpg)
+![mom](https://jeffbreece.com/wp-content/uploads/2016/05/mom-300x286.jpg)
 
 
 [Meditation](https://jeffbreece.com/meditation-2/) ›

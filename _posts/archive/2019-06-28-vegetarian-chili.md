@@ -19,7 +19,7 @@ With a desire to make some small lifestyle changes, and a little inspiration fro
 
 I doubt it will take a prize but it was a fun and healthy project for Sunday.
 
-[![Chili-Done](https://jeffbreece.com/wp-content/uploads/2014/10/Chili-Done-300x168.jpg)](https://jeffbreece.com/wp-content/uploads/2014/10/Chili-Done.jpg)
+![Chili-Done](https://jeffbreece.com/wp-content/uploads/2014/10/Chili-Done-300x168.jpg)
 
 Following is an adapted version of **The New Basics Cookbook** “Vegetable Chili.”
 

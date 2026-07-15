@@ -17,7 +17,7 @@ original_permalink: "https://jeffbreece.com/when-to-throw-in-the-towel-and-start
 
 While on the plane to Seattle I had more than a few moments to reflect on something that has been on my mind for a couple weeks now. Namely, I don’t think I have a marathon in me after all. I’d like to talk about what goes on in a persons head, well really mine I guess, when he decides to stop and readjust a set of goals.
 
-[![Seattle bound](https://jeffbreece.com/wp-content/uploads/2017/08/20170825_093203-300x225.jpg)](https://jeffbreece.com/wp-content/uploads/2017/08/20170825_093203.jpg)
+![Seattle bound](https://jeffbreece.com/wp-content/uploads/2017/08/20170825_093203-300x225.jpg)
 
 I’ve been running for a little more than two years now. I suppose a case could be made that it’s been at once both literal and metaphorical. In that scope I’ve learned a great deal about myself during this time. Maybe I’m a little prone to infatuation. Maybe I’m a bit manic. Who knows? But I o tend to dive into one thing or another with a fierceness that should burn out quickly. But not always as seen with running. Sometimes it just tapers down to a sustainable burn. As I’ve been mixing in weight training slowly and doing more outdoor activities my goals have shifted by a couple degrees. Enough to find myself on a slightly adjusted path that is.
 
@@ -31,7 +31,7 @@ The same applies to bouts of depression I’ve had to deal with post heart attac
 
 When I wrote my “Invincible Summer” post, all about my goal to run a marathon, I was full of fire and, arguably, denial. Two years in I have a better perspective on what health and life balance really means to me. I guess, to run that to the end, I’ve learned what it’s like to live day to day, week to week, month by month with an open heart and self-forgiveness in mind always. We are probably all our own worst critics. This is good. Self-critique functions in some ways like anxiety. But as my therapist taught me anxiety is actually a beneficial emotion. One that can help us to stay vigilant. Not fall off cliffs or eaten by bears. You get the idea. Self-critique is the same thing. We need to look in the mirror sometimes and check ourselves. But with both anxiety and self-criticism, we also need to know when enough is enough so we can live healthy balanced lives. For me, this came recently with my choice to drop the word “marathon” from my rotation. Sad yeah? Maybe not. It allowed me to add in the idea of longer hiking goals for 2018 as I mentioned earlier.
 
-[![Someplace green](https://jeffbreece.com/wp-content/uploads/2017/08/20170818_172145-300x220.jpg)](https://jeffbreece.com/wp-content/uploads/2017/08/20170818_172145.jpg)
+![Someplace green](https://jeffbreece.com/wp-content/uploads/2017/08/20170818_172145-300x220.jpg)
 
 How do you know when it’s time to change course? I think it has something to do with how you feel inside about what you are doing. I know a lot of cross fitters. Those workouts are seriously intense to the point of making people vomit. Yet it’s the enthusiasm that the group provides to help the individual challenge her or himself and accomplish things that make them proud and grateful for the experience. On the other hand, there are times when we are faced with efforts that yield diminishing returns where we may find ourselves looking sideways at other paths. And I think that’s it right there. You will know when your path calls you from a different angle in the thick of things. The trick is to simply listen to yourself during the journey.
 

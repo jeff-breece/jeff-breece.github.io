@@ -83,7 +83,7 @@ This has been something which has evolved over the past two years. My first year
 
 This morphed into traveling all over the place, wherever I could, through 2017. This changed into camping and ultimately hiking for me. Getting back outdoors.
 
-[![](https://jeffbreece.com/wp-content/uploads/2018/07/20150806_092910-1-300x169.jpg)](https://jeffbreece.com/wp-content/uploads/2018/07/20150806_092910-1.jpg)
+![](https://jeffbreece.com/wp-content/uploads/2018/07/20150806_092910-1-300x169.jpg)
 
 My hike to McNeil Point on Mount Hood 2015 two months after my heart attack.
 

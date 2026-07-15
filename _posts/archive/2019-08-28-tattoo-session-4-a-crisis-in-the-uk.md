@@ -29,7 +29,7 @@ Instead we live very separate lives. Connected yes. But here we are. One big bea
 
 Sometimes that’s all it takes.
 
-[![session4](https://jeffbreece.com/wp-content/uploads/2017/07/session4-277x300.png)](https://jeffbreece.com/wp-content/uploads/2017/07/session4.png)
+![session4](https://jeffbreece.com/wp-content/uploads/2017/07/session4-277x300.png)
 
 
 [Dancing my pants off](https://jeffbreece.com/dancing-my-pants-off/) ›

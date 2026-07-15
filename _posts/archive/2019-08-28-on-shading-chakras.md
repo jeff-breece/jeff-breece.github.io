@@ -26,7 +26,7 @@ Yet I have to admit that I have treated meditation as medication. TA’s rocks t
 
 At the end of Saturday… this is exactly how I want to live it. Thinking, celebrating, conversing, feeling de-groovy, painted on by needles and observing where the stones fall while having a good time in the process.
 
-[![session5](https://jeffbreece.com/wp-content/uploads/2017/07/session5-222x300.png)](https://jeffbreece.com/wp-content/uploads/2017/07/session5.png)
+![session5](https://jeffbreece.com/wp-content/uploads/2017/07/session5-222x300.png)
 
 
 [Garlic meditation](https://jeffbreece.com/garlic-meditation/) ›

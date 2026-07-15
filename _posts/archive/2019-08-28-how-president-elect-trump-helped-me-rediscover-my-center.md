@@ -26,7 +26,7 @@ The last tweak I have done has been to _consciously_ log out of the social media
 
 The formula has worked so far for me … and I have President Elect Trump to thank for it. Thank you Donald… and good luck!
 
-[![Balance](https://jeffbreece.com/wp-content/uploads/2016/11/mindfulness-1024x683.jpg)](https://jeffbreece.com/wp-content/uploads/2016/11/mindfulness.jpg)
+![Balance](https://jeffbreece.com/wp-content/uploads/2016/11/mindfulness-1024x683.jpg)
 
 
 [Being there](https://jeffbreece.com/being-there/) ›

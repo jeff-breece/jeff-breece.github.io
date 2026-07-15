@@ -21,7 +21,7 @@ Looking back over the past 14 months I feel like I went from a 33 year old guy, 
 
 Reflecting on some of the stories I’ve shared, and heard from others, I feel like these can begin to sound like postcards from Sunny Florida. “Hi, things are sunny here on the beach! I survived!” There is usually a deeper subtext to these stories. The other side of the coin so to speak. A much darker one as it becomes something you carry with you at all times… like a worry stone in your pocket.
 
-[![Postcard](https://jeffbreece.com/wp-content/uploads/2016/06/Postcard-300x187.jpg)](https://jeffbreece.com/wp-content/uploads/2016/06/Postcard.jpg)
+![Postcard](https://jeffbreece.com/wp-content/uploads/2016/06/Postcard-300x187.jpg)
 
 It’s been 14 months since my first heart attack. During that time period I have worked with my health care providers to take the rabbit by the ears and dive head first into it’s rabbit hole. Between my cardiologist, my family Dr., the cardiac rehab team, a meditation teacher, a therapist, and a small army of friends/family/co workers I have explored more about myself than anyone should in one 14 month period.
 
@@ -35,7 +35,7 @@ When is it time to go to the ER? The answer is anytime you are unsure about your
 
 It was my therapist who helped me cultivate a technique to _personify_ the anxiety. I chose to think of it like my mom- when I was a 15 year old boy. She was always there taking care of us and helping us to make the right choices… or at least not hurt ourselves on a good day. So when I felt the cardiac anxiety take hold of me I’d face it as if it were mom. I’d perform a self assessment (we’ll get to that in a moment) and then after I decided I was OK, I’d tell her I was fine and that I needed to get back to what I was doing.. which is living right now. It took time but as I practice this more I have been able to regain more control of my day to day anxiety. Don’t get me wrong, I think about having a heart attack every day. But not so much in fear, more like a compass. Keeping me as centered on the road as possible, guiding me through the rest of my life.
 
-[![Compass](https://jeffbreece.com/wp-content/uploads/2016/06/CompassUseTargetMarked-300x288.jpg)](https://jeffbreece.com/wp-content/uploads/2016/06/CompassUseTargetMarked.jpg)
+![Compass](https://jeffbreece.com/wp-content/uploads/2016/06/CompassUseTargetMarked-300x288.jpg)
 
 Not only did the therapist give me this useful tool to deal with anxiety he also opened my eyes to the fact that this is a classic grief model. One where our goal is to embrace heart disease, or whatever diagnosis or life crisis, and accept it. The good part about that is once you have done so, you have your life back. Changed yes. But it’s 100% you in your head not grief, depression or anxiety. And that’s work worth doing.
 
@@ -43,7 +43,7 @@ I mentioned that I do self assessments earlier. These are something that my medi
 
 I lived in a high rise in a historic building in Downtown Dallas for many years. When she introduced the idea of the elevator meditation I was better able to do this using the Davis Building elevators as imagery. She used this to show me how to breath my way down my body by “focusing” on your head, throat, shoulders, chest, arms, hands, stomach, hips, legs, feet and then back up. I do these now in tandem with my anxiety exercise to manage those feelings. It’s the results of the assessment that give me the answer that anxiety is asking of me. “Are you OK?” So far the answer has been yes. And that’s a **powerful** feeling.
 
-[![Elevator](https://jeffbreece.com/wp-content/uploads/2016/06/Photo_11-300x240.jpg)](https://jeffbreece.com/wp-content/uploads/2016/06/Photo_11.jpg)
+![Elevator](https://jeffbreece.com/wp-content/uploads/2016/06/Photo_11-300x240.jpg)
 
 It was a colleague of mine who sent me a rather hefty email detailing his history with heart attacks and that of his father who had a series of 13. These guys are real men in my book. Anyone who can battle through all that and maintain hope and forward motion… well, that’s someone to look up to as a role model. It was one technique they use that caught my attention. It’s called the “[4-7-8](https://www.youtube.com/watch?v=YRPh_GaiL8s)” breathing exercise. It uses diaphragmatic breathing in no particular rhythm really to lower your heart rate, improve oxygenation and clear your mind. Careful though, and while this has never happened to me, this can allegedly put you to sleep in 60 seconds. There are plenty of resources including video content on You Tube you can find by the 4-7-8 keyword in any search engine.
 
