@@ -2,7 +2,7 @@
 layout: post  
 title: "Moving on From Insight & Doing a 5+ Year Self Retro"  
 date: 2024-09-05 07:00:00 -0400  
-categories: career  
+categories: [career]
 image: /images/insight-retro.jpg  
 description: "My 5+ year retro board."
 tags:

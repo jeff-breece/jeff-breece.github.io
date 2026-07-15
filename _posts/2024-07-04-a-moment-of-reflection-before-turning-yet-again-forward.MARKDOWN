@@ -2,7 +2,7 @@
 layout: post
 title:  "A moment of reflection before turning, yet again, forward"
 date:   2024-07-04 07:00:00 -0400
-categories: selfcare
+categories: [selfcare]
 tags:
   - health
   - mental-health

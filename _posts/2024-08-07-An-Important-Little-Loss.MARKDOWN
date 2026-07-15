@@ -2,7 +2,7 @@
 layout: post
 title: "Personal: One Important Little Loss"
 date: 2024-08-07 07:00:00 -0400
-categories: personal
+categories: [personal]
 tags:
   - personal
   - pets

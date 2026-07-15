@@ -2,7 +2,7 @@
 layout: post
 title:  "New year, new laptop, new solutions to build!"
 date:   2025-02-03 07:00:00 -0400
-categories: howto
+categories: [howto]
 image: /images/new-machine.png
 description: "This post is the comparison of my machines and a quick bash script I threw together to setup just the tooling I needed to do both my day job, and all of the other nerdy stuff I work with to, well, chase data rabbits and continue my lifelong path as a learner."
 tags:

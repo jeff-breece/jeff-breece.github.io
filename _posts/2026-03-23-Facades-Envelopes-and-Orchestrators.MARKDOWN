@@ -1,10 +1,10 @@
 ---
 layout: post
-date:   2026-03-14 10:00:00 -0400
-original_date: 2026-03-14 00:00:00 -0400
+date: 2026-03-14 10:00:00 -0400
 last_modified_at: 2026-03-14 10:00:00 -0400
 title: "Facades, Envelopes, and Orchestrators: Building a Testable Integration Chain on Azure Logic Apps"
 description: "A walkthrough of how I built an integration layer using inbound sockets, an inbound facade, a standard message envelope, Service Bus topic routing, idempotency via Azure Table Storage, and a central orchestrator, all on Logic Apps Standard with a feature toggle for mock mode."
+categories: [engineering, azure]
 tags:
   - azure
   - logic-apps

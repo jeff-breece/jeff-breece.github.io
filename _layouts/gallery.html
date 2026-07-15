@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+{% comment %} Per-gallery page — renders photo banks with lightbox {% endcomment %}
+
+{% assign gallery_data = site.data.galleries | where: "slug", page.slug | first %}
+
+<div class="gallery-essay">
+  <header class="gallery-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.location %}
+      <p class="gallery-location">
+        <i class="fas fa-map-marker-alt"></i> {{ page.location }}
+        {% if page.date %}&nbsp;&bull;&nbsp;{{ page.date | date: "%B %Y" }}{% endif %}
+      </p>
+    {% endif %}
+    {% if page.description %}
+      <p class="gallery-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  {% if page.content and page.content != "" %}
+    <div class="gallery-essay-text">
+      {{ content }}
+    </div>
+  {% endif %}
+
+  {% if gallery_data %}
+    {% assign banks = gallery_data.banks %}
+    {% assign base_dir = gallery_data.image_dir %}
+  {% else %}
+    {% assign banks = nil %}
+    {% assign base_dir = "/images/galleries/" | append: page.slug %}
+  {% endif %}
+
+  {% if banks %}
+    {% for bank in banks %}
+      <section class="gallery-bank">
+        <h2 class="gallery-bank-title">{{ bank.label | default: bank.name }}</h2>
+        <div class="photo-grid">
+          {% assign bank_path = base_dir | append: "/" | append: bank.name %}
+          {% for file in site.static_files %}
+            {% if file.path contains bank_path %}
+              {% assign ext = file.extname | downcase %}
+              {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+                {% comment %}
+                  Use <a> + CSS background-image — NOT <img>.
+                  Chirpy's refactor-content.html parses <img> attributes with a Liquid
+                  regex that breaks on em-dashes and ampersands in alt text, producing
+                  src="//images/..." (double slash) and href="/lazy". Background-image
+                  sidesteps the refactor entirely.
+                {% endcomment %}
+                <a class="photo-thumb"
+                   href="{{ file.path }}"
+                   target="_blank"
+                   rel="noopener"
+                   aria-label="{{ bank.label | default: bank.name }}">
+                  <div class="photo-bg" style="background-image:url('{{ file.path }}');"></div>
+                </a>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+    {% endfor %}
+  {% else %}
+    {% comment %} No bank data — render all images in the gallery dir flat {% endcomment %}
+    <div class="photo-grid">
+      {% for file in site.static_files %}
+        {% if file.path contains base_dir %}
+          {% assign ext = file.extname | downcase %}
+          {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+            <a class="photo-thumb"
+               href="{{ file.path }}"
+               target="_blank"
+               rel="noopener"
+               aria-label="{{ page.title }}">
+              <div class="photo-bg" style="background-image:url('{{ file.path }}');"></div>
+            </a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if page.tags and page.tags.size > 0 %}
+    <footer class="gallery-tags">
+      {% for tag in page.tags %}
+        <a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}" class="tag">#{{ tag }}</a>
+      {% endfor %}
+    </footer>
+  {% endif %}
+</div>

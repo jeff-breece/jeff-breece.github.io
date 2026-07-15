@@ -2,7 +2,7 @@
 layout: post
 title: "CLI vs Open WebUI: Why Context Actually Matters When Running Local LLMs"
 date: 2026-05-26 07:00:00 -0500
-categories: homelab
+categories: [homelab]
 image: /images/open-web-ui.jpeg
 description: "A hands-on comparison of Ollama CLI vs Open WebUI showing how conversation context management changes the quality of responses from Qwen models in my home lab."
 tags:

@@ -1,0 +1,73 @@
+---
+layout: page
+title: Tags
+---
+
+{% include lang.html %}
+
+{% comment %}
+  Geometric tag cloud: tags sized by post count.
+  Font scale: min 0.75rem → max 2rem across the tag frequency range.
+{% endcomment %}
+
+{% assign min_size = 0.8 %}
+{% assign max_size = 2.2 %}
+
+{% assign tag_sizes = "" | split: "" %}
+
+{% comment %} Find min and max counts {% endcomment %}
+{% assign min_count = 9999 %}
+{% assign max_count = 1 %}
+{% for tag in site.tags %}
+  {% assign cnt = tag[1].size %}
+  {% if cnt < min_count %}{% assign min_count = cnt %}{% endif %}
+  {% if cnt > max_count %}{% assign max_count = cnt %}{% endif %}
+{% endfor %}
+
+{% assign count_range = max_count | minus: min_count | plus: 1 %}
+{% assign size_range  = max_size  | minus: min_size %}
+
+<div class="tag-cloud-wrapper">
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+    {% assign tag_name  = tag[0] %}
+    {% assign tag_posts = tag[1] %}
+    {% assign cnt       = tag_posts.size %}
+
+    {% comment %} Linear interpolation of font size {% endcomment %}
+    {% assign weight    = cnt | minus: min_count | times: 100 | divided_by: count_range %}
+    {% assign font_em   = size_range | times: weight | divided_by: 100 | plus: min_size %}
+
+    <a href="{{ '/tags/' | append: tag_name | slugify | prepend: '#' | relative_url }}"
+       class="tag-cloud-item"
+       data-count="{{ cnt }}"
+       style="font-size: {{ font_em }}rem;"
+       title="{{ cnt }} post{% if cnt != 1 %}s{% endif %}">
+      #{{ tag_name }}
+    </a>
+  {% endfor %}
+</div>
+
+<hr class="my-4">
+
+{% comment %} Per-tag post lists (Chirpy standard) {% endcomment %}
+<div id="tags-list">
+  {% for tag in sorted_tags %}
+    {% assign tag_name  = tag[0] %}
+    {% assign tag_posts = tag[1] %}
+    <section id="{{ tag_name | slugify }}" class="tag-section">
+      <h2 class="tag-section-heading">
+        <a href="{{ '/tags/' | append: tag_name | slugify | prepend: '#' | relative_url }}">#{{ tag_name }}</a>
+        <span class="tag-count badge">{{ tag_posts.size }}</span>
+      </h2>
+      <ul class="list-unstyled tag-post-list">
+        {% for post in tag_posts %}
+          <li>
+            <span class="text-muted small me-2">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</div>

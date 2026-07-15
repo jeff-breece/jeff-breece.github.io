@@ -2,7 +2,7 @@
 layout: post
 title:  "Hiking: Scioto Trail State Park"
 date:   2024-07-24 07:00:00 -0400
-categories: hiking
+categories: [hiking]
 tags:
   - hiking
   - camping

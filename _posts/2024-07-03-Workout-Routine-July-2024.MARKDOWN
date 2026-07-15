@@ -2,7 +2,7 @@
 layout: post
 title:  "Workout Routine"
 date:   2024-07-03 07:00:00 -0400
-categories: selfcare
+categories: [selfcare]
 tags:
   - fitness
   - health

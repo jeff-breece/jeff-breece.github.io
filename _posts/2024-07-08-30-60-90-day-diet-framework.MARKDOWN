@@ -2,7 +2,7 @@
 layout: post
 title:  "30/60/90 Day Framework"
 date:   2024-07-08 07:00:00 -0400
-categories: selfcare
+categories: [selfcare]
 tags:
   - fitness
   - health
