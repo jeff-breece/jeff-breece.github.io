@@ -2,9 +2,10 @@
 
 ## Stack
 
-Jekyll 4.4 static site deployed to GitHub Pages. Theme: Minima 2.5 with local overrides. Ruby/Bundler dependency management.
+Jekyll 4.4 static site deployed to GitHub Pages. Theme: **Chirpy 6.5.5** (gem: `jekyll-theme-chirpy`). Ruby 3.0.x / Bundler.
 
-**Active plugins:** `jekyll-feed`, `jekyll-paginate`, `jekyll-seo-tag`, `jekyll-mermaid`
+**Active plugins:** `jekyll-seo-tag`, `jekyll-sitemap`, `jekyll-include-cache`  
+**Note:** `jekyll-feed` is not used — Chirpy provides its own `feed.xml`. `jekyll-mermaid` is removed — Chirpy handles Mermaid natively via `mermaid: true` in post front matter.
 
 ## Local Development
 
@@ -14,75 +15,93 @@ bundle exec jekyll serve --livereload
 # Visit http://127.0.0.1:4000
 ```
 
-Docker alternative:
-```bash
-docker run --rm -it -v ${PWD}:/srv/jekyll -p 4000:4000 jekyll/jekyll:4 jekyll serve --livereload --host 0.0.0.0
-```
-
 ## CI
 
-`.github/workflows/jekyll-docker.yml` builds with Docker, then verifies:
-- `_site/assets/main.css` exists
-- Expected CSS selectors are present: `.site-header .site-nav`, `.pagination`, `.tags .tag`
+`.github/workflows/jekyll-docker.yml` — currently using Docker build. **Needs update** to Chirpy's GitHub Actions deploy workflow before pushing to `main`. The old workflow verified Minima-specific CSS selectors that no longer apply.
 
 ## Architecture
 
+### Theme Structure
+
+Chirpy is gem-based. Theme files live in `vendor/bundle/`. Override by creating matching paths in the project root. Key extension points:
+- `_sass/custom/overrides.scss` → imported via `assets/css/jekyll-theme-chirpy.scss`
+- `_sass/variables-hook.scss` → override Chirpy SCSS variables
+- `_layouts/` → only custom layouts live here (`gallery.html`, `gallery-index.html`)
+
+### Navigation Tabs
+
+`_tabs/` is a Jekyll collection (`sort_by: order`). Each `.md` file becomes a sidebar nav item. Current tabs: `tags.md` (order 1), `gallery.md` (order 2), `archives.md` (order 3), `about.md` (order 4). Chirpy renders these via `site.tabs` in its sidebar include.
+
 ### Content
 
-Posts live in `_posts/` as `YYYY-MM-DD-slug.markdown` or `.md`. Personal/lifestyle posts use uppercase `.MARKDOWN` extension; engineering posts use lowercase `.markdown` or `.md`. This is a convention, not a technical requirement.
+Posts live in `_posts/` as `YYYY-MM-DD-slug.{md,markdown,MARKDOWN}`. `.MARKDOWN` (uppercase) is a convention for personal/lifestyle posts.
 
 ### Front Matter
 
-Every post requires at minimum:
+Every post requires:
 
 ```yaml
 ---
 layout: post
 title: "Title"
 date: YYYY-MM-DD HH:MM:SS -0400
+categories: [top-category, sub-category]
 tags:
   - tag-one
   - tag-two
 ---
 ```
 
-Engineering posts typically also include:
+Additional optional fields:
 ```yaml
-description: "One-sentence summary for SEO."
+description: "One-sentence SEO summary."
 image: /images/filename.png
 excerpt_separator: <!--more-->
+last_modified_at: YYYY-MM-DD HH:MM:SS -0400
+mermaid: true       # enable Mermaid rendering for this post
+math: true          # enable KaTeX math rendering
+pin: true           # pin post to top of home feed
 ```
 
-Some posts carry `original_date` and `last_modified_at` fields for tracking edits.
+Tags **must be lowercase with hyphens**. Categories are an array.
 
-### Layouts
+### Gallery System
 
-- `_layouts/default.html` — base chrome, wraps everything
-- `_layouts/home.html` — paginated post feed with inline tag links rendered as `#tag` anchors pointing to `/tags/#slug`
-- `_layouts/post.html` — Schema.org BlogPosting markup
+Trail essay galleries use a custom collection + layouts:
+
+- `_data/galleries.yml` — metadata for all galleries (title, slug, location, cover, banks, tags)
+- `_galleries/<slug>.md` — per-gallery document with descriptive text
+- `images/galleries/<slug>/Bank-N/` — photos organized by shooting session/bank
+- `_layouts/gallery.html` — renders a gallery with PhotoSwipe 5 lightbox grid
+- `_layouts/gallery-index.html` — renders the gallery landing page from `site.data.galleries`
+
+To add a new trail essay gallery:
+1. Create `images/galleries/<slug>/` with photos (subdirectories as banks)
+2. Add entry to `_data/galleries.yml` with banks array
+3. Create `_galleries/<slug>.md` with intro text
+
+The gallery page at `/gallery/` is a Chirpy tab (`_tabs/gallery.md`, `layout: gallery-index`).
 
 ### Taxonomy & Search
 
-**Tags** are the primary taxonomy. `tags.md` (permalink `/tags/`) renders a tag cloud + per-tag post lists using anchor IDs (`#tag-name-slugified`). Tag links in the home feed use `{{ '/tags/' | relative_url }}#{{ tag | slugify }}`.
-
-**Search** is client-side Lunr.js. `search.json` (built by Jekyll liquid template) emits stripped post content, titles, tags, and URLs. `assets/js/search.js` loads the index, supports `#tag` prefix queries, and highlights matches inline.
+Chirpy auto-generates `/tags/` with per-tag archive pages at `/tags/<tag-name>/`. No `tags.md` needed. Search is SimpleJekyllSearch served from `/assets/js/data/search.json` (Chirpy builds this automatically).
 
 ### Styles
 
-`assets/main.scss` imports Minima then adds site-specific overrides. The Jekyll pipeline compiles this to `_site/assets/main.css`. Do not add styles anywhere else — all CSS customization goes in this file.
+`assets/css/jekyll-theme-chirpy.scss` is the CSS entry — imports Chirpy's `main` then `custom/overrides`. Custom rules go in `_sass/custom/overrides.scss`. Do not modify Chirpy's gem files directly.
 
 ### Images
 
-Post images live in `/images/`. Reference them in front matter as `image: /images/filename.ext` and inline via standard Markdown.
+Post images: `/images/filename.ext`. Gallery images: `/images/galleries/<slug>/Bank-N/`. Reference in front matter as `image: /images/...`.
 
 ### Mermaid Diagrams
 
-`jekyll-mermaid` is active. Use fenced code blocks with `mermaid` language identifier in posts.
+Add `mermaid: true` to the post's front matter. Use standard fenced code blocks with `mermaid` language identifier. No gem required.
 
 ## Key Conventions
 
-- `show_excerpts: true` in `_config.yml` — the home feed shows post excerpts automatically. Use `<!--more-->` to control the cut point; without it Jekyll uses the first paragraph.
-- `paginate: 10` — home feed paginates at 10 posts. The paginator path is `/page:num/`.
-- `draft: true` in front matter excludes a post from `search.json` (see the `where_exp` filter there), but Jekyll still builds it unless `--no-future` / `--drafts` flags are set.
-- Posts with future dates are included in CI builds (`jekyll build --future`) but not served locally by default.
-- `_posts_imported/` and `migration_reports_v2/` are legacy migration artifacts — do not modify or publish from them.
+- **categories as arrays**: `categories: [top, sub]` — not string form
+- **tags lowercase**: `- azure` not `- Azure`
+- **Gallery banks**: named `Bank-1` through `Bank-N`, each a subdirectory under `images/galleries/<slug>/`
+- `published: false` hides a post from all output
+- `_archive/pre-chirpy/` contains the old Minima layouts/includes for reference — do not restore them
