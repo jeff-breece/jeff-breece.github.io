@@ -13,6 +13,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/cook-kits-a-podcast-a-book-motivation/"
+image:
+  path: /images/unsplash/cook-kits-a-podcast-a-book-motivation.jpg
+  alt: "Cook kits, a podcast, a book & motivation. Photo from Unsplash"
 ---
 
 Doug and I have been doing some last-minute gear shifting in advance of our trip to the Olympics in a few weeks. My goal has been to lighten up where I could. This included, at last, buying a much lighter cook system by [Toaks](https://www.rei.com/product/139470/toaks-ultralight-titanium-solid-fuel-cook-system). I love the [JetBoil](https://www.amazon.com/Jetboil-Flash-Personal-Cooking-System/dp/B003IANE1Q) and still plan to use it for camping, but where weight really matters for hikes over 5 days and such, lighter without going ultralight is definitely an asset.

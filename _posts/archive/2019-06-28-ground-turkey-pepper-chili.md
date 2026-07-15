@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/ground-turkey-pepper-chili/"
+image:
+  path: /images/unsplash/ground-turkey-pepper-chili.jpg
+  alt: "Ground Turkey & Pepper Chili. Photo from Unsplash"
 ---
 
 I adapted a Mens Health ground turkey recipe late last year in attempt to spend less money on lunch, eat healthier while not losing flavor. The following recipe is great because it’s easy and cheap to make. That and it tastes great.

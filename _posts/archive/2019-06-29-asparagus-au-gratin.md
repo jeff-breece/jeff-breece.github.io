@@ -8,6 +8,9 @@ tags:
   - food
 archived: true
 original_permalink: "https://jeffbreece.com/asparagus-au-gratin/"
+image:
+  path: /images/unsplash/asparagus-au-gratin.jpg
+  alt: "Asparagus Au Gratin. Photo from Unsplash"
 ---
 
 From “Spring Entertaining 2013,” Cooks Illustrated

@@ -11,6 +11,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/peach-jalapeno-bbq-pumpin-soup/"
+image:
+  path: /images/unsplash/peach-jalape-o-bbq-pumpin-soup.jpg
+  alt: "Peach Jalapeño BBQ Pumpin Soup. Photo from Unsplash"
 ---
 
 My cousins husband recently gave us some of the wonderfully crafted sauces and vinaigrettes he’s always posting on FaceBook. Having stocked the freezer with freshly baked pumpkin through October in addition to making fresh vegetable stock on a regular basis… I had a surplus of some good basics. Eying the jalapeño peach BBQ sauce Rusty gave us, I decided to perform a bit of pumpkin soup alchemy when a little comfort was needed this week. The end result was a beautifully warm, savory, spicy (with just a hint of sweet) bowl of awesome.

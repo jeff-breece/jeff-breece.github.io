@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/vegetarian-chili/"
+image:
+  path: /images/unsplash/vegetarian-chili.jpg
+  alt: "Vegetarian Chili. Photo from Unsplash"
 ---
 
 So the office is having a chili cook-off. When I started looking around for recipes I had no idea that it had originated in Texas, according to the authors of the [**New Basics Cookbook**](http://www.amazon.com/The-Basics-Cookbook-Sheila-Lukins/dp/0894803417). Of course, I suspect this may have more of a regional story to it like [Wor Su Gai](https://jeffbreece.com/?p=124) and [Chicken & Waffles](https://jeffbreece.com/?p=94). And of course there’s always [Cincinnati chili](http://en.wikipedia.org/wiki/Cincinnati_chili).

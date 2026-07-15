@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/red-yellow-green-blue-smoothie/"
+image:
+  path: /images/unsplash/red-yellow-green-blue-smoothie.jpg
+  alt: "Red, Yellow, Green & Blue Smoothie. Photo from Unsplash"
 ---
 
 This was a fantastic blended green drink.  

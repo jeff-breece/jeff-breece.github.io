@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/the-journey-home/"
+image:
+  path: /images/unsplash/the-journey-home.jpg
+  alt: "The journey home. Photo from Unsplash"
 ---
 
 “Sometimes it takes a journey to come home” is a quote I came across while reading on the flight back from Dallas to Columbus last weekend. The American Heart Association had flown a group of us out to tell our stories in preparation for a National conference called the Scientific Sessions in New Orleans the following week. We all had a chance to sit and talk with one another. Together we represented two strokes and three heart attacks. Each one of us under 50… and runners.

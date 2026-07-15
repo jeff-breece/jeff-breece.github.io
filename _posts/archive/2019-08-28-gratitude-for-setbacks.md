@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/gratitude-for-setbacks/"
+image:
+  path: /images/unsplash/gratitude-for-setbacks.jpg
+  alt: "Gratitude for setbacks. Photo from Unsplash"
 ---
 
 So my ankle has been sore off and on since the Columbus 10k. I took some advice to push into the hill to run faster toward the end. While it didn’t hurt or feel injured I think I put some sort of new strain on myself. This has definitely put a cramp in my marathon training so far this summer. Still, I’m getting about two good runs in a week and only having recently felt sore enough that I needed to follow the [R. I. C. E.](http://www.webmd.com/first-aid/tc/rest-ice-compression-and-elevation-rice-topic-overview) plan to treat the symptoms. Hopefully this will abate and heal through the summer but I plan to return to swimming and weight training to keep mixing things up while staying as active as possible.

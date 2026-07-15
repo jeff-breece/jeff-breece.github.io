@@ -10,6 +10,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/summer-sundays/"
+image:
+  path: /images/unsplash/summer-sundays.jpg
+  alt: "Summer Sundays. Photo from Unsplash"
 ---
 
 I’ve been thinking a lot about where I spend my energy lately. How and where I plug into the throbbing noise that are the billions of data points generated seemingly per minute on the digital landscape. In fact a colleague of mine were talking about what we used to call work life balance back in the early part of last decade. I told him about my decision not to put corporate email or chat tools on my smartphone. That I was the kind of person that needed this separation. To be honest though, it’s probably that I know I’d fail at turning it off and instead always being on and ready to respond. I did some thinking over the weekend too about social media. I turned it all off for once. I have to say, it’s been nice. And while I can’t say that I’ll leave it off, I think it’s given me a moment to myself that I sorely needed.

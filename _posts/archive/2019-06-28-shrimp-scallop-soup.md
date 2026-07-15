@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/shrimp-scallop-soup/"
+image:
+  path: /images/unsplash/shrimp-scallop-soup.jpg
+  alt: "Shrimp & Scallop Soup. Photo from Unsplash"
 ---
 
 So I’ve been professionally “very engaged” lately. It’s a good problem to have but it gets complicated when you’ve moved back across the Country to your birth State to be with family. Sometimes you have to choose imbalance in order to achieve balance.

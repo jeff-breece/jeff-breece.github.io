@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/cure-for-manflu/"
+image:
+  path: /images/unsplash/cure-for-manflu.jpg
+  alt: "Cure for Manflu. Photo from Unsplash"
 ---
 
 One of the most inconvenient things in life has to be a man with a head cold. One of the best cures when this unfortunate event occurs is a couch, a blanket, and chicken noodle soup.

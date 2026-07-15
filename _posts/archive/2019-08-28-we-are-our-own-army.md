@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/we-are-our-own-army/"
+image:
+  path: /images/unsplash/we-are-our-own-army.jpg
+  alt: "We are our own Army. Photo from Unsplash"
 ---
 
 2015 was the year I became a statistic. Here are some of the ways I try to keep my head in the game… and the key is emotional support.

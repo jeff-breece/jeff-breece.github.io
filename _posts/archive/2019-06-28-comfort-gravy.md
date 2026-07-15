@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/comfort-gravy/"
+image:
+  path: /images/unsplash/comfort-gravy.jpg
+  alt: "Comfort & Gravy. Photo from Unsplash"
 ---
 
 It’s autumn in the Midwest. While I grew up here, and lived the better part of my adult life in Columbus, I spent a good chunk of time in Texas, Cincinnati and Kentucky. There’s truth that seasons change everywhere. Fall being one of the most dramatic of the four. In Texas it was when the temperatures returned to 90 degrees and then finally gave way to the 40’s come November. Yesterday our temperatures dropped into the 40’s and the blankets came off various shelves where they were stored. I’m looking forward to the process of the leaves turning all sorts of brilliant colors. You don’t see a lot of that in Texas but you do get these amazing purple fog heavy days and nights when a cold front plays with moisture in the air turning everything surreal.

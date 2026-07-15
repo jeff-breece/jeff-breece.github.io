@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/grackles-in-dallas/"
+image:
+  path: /images/unsplash/grackles-in-dallas.jpg
+  alt: "Grackles in Dallas. Photo from Unsplash"
 ---
 
 I recently unearthed an audio track off of my Tascam recorder which we found in a box left over from our Dallas move. It was an evening where Eddie I walked out specifically to catch the sounds of these birds. You see, Texas is a migration lane for grackles. It’s almost like stepping into a scene from the Hitchcock film “The Birds.” Any minute you expect to see Tippi Hedren absent-mindedly puffing away on a cigarette.

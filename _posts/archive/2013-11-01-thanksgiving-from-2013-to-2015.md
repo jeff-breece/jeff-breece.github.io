@@ -11,6 +11,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/1136/"
+image:
+  path: /images/unsplash/thanksgiving-from-2013-to-2015.jpg
+  alt: "Thanksgiving from 2013 to 2015. Photo from Unsplash"
 ---
 
 Two years ago we moved back home from Texas to Ohio. I’ll never forget the night before we drove back. It was Thanksgiving. Most of our years in Dallas were spent together, sedentary after work, or working full tilt late hours for both companies we were employed by at the time. Those were some _rough_ years. And while it may be the color of the Texas sky, the sounds of the street cars from 18 stories above Main St between Akard & Field, or the sheer beauty of the people who make up such a vibrant City… those years shine brightly in my memory. And while we both put some notches in our stress belts we took with us many hard earned lessons.

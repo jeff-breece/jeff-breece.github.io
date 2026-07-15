@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/olive-oil-bread/"
+image:
+  path: /images/unsplash/olive-oil-bread.jpg
+  alt: "Olive Oil Bread. Photo from Unsplash"
 ---
 
 Baking bread always reminds me of Thelma. She was a strong loud woman who I had the luck to call grandma. Her recipe called for 9 cups of flour, sugar and a lot of Crisco. When we would drive out to La Rue Ohio on Sundays for dinner it was always a treat when she’d serve snacks of toasted bread with her canned jams and butter. I’d sit with the grown-ups around the table as they’d smoke cigarettes and drink coffee.

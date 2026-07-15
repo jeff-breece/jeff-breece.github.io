@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/food-for-thought/"
+image:
+  path: /images/unsplash/food-for-thought.jpg
+  alt: "Food for Thought. Photo from Unsplash"
 ---
 
 I have this wonderful friend who is nothing less than an angel on earth. She’s been the one who has continually popped in and out of my life like a time traveler keeping tabs on those of us lucky enough to know her. Loss is something that has been a constant companion. Her mother, then her father, her husband and a good friend recently. It’s probably that hard earned knowledge over decades which she uses in conjunction with her seemingly endless power to send love out across the world around her.

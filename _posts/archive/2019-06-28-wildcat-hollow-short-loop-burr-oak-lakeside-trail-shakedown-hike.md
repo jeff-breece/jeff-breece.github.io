@@ -11,6 +11,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/wildcat-hollow-short-loop-burr-oak-lakeside-trail-shakedown-hike/"
+image:
+  path: /images/unsplash/wildcat-hollow-short-loop-burr-oak-lakeside-trail-shakedown-hike.jpg
+  alt: "Wildcat Hollow (short loop) & Burr Oak Lakeside Trail Shakedown Hike. Photo from Unsplash"
 ---
 
 ## Update

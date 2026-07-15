@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/building-a-better-sandwhich/"
+image:
+  path: /images/unsplash/building-a-better-sandwhich.jpg
+  alt: "Building a better sandwhich. Photo from Unsplash"
 ---
 
 After two weeks worth of brown rice, broccoli and curried chicken I’m making a sandwich for lunch. While there’s a time and a place for white bread and mayo, I’m taking a healthier turn today using pita, Dijon and avocado in conjunction with roasted chicken breasts and some spare veggies.

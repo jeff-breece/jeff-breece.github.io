@@ -10,6 +10,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/experiment-with-a-hammock/"
+image:
+  path: /images/unsplash/experiment-with-a-hammock.jpg
+  alt: "Experiment with a hammock. Photo from Unsplash"
 ---
 
 So I set out to try hammock camping two weekends ago. The thing about this is that I’ve been watching some You Tubers [channels](https://www.youtube.com/watch?v=TggCLIxCOO0&t=187s) to learn more about living outdoors for a few days at a stretch. While I made it through Cub Scouts, probably by the force of my parents there, I never went through the boy scout track so all of this stuff is learn-as-I-go.

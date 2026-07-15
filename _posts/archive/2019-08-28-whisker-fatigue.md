@@ -9,6 +9,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/whisker-fatigue/"
+image:
+  path: /images/unsplash/whisker-fatigue.jpg
+  alt: "“Whisker fatigue?”. Photo from Unsplash"
 ---
 
 It’s a well established fact that cats fuel the internet. Without them there would be no soul or purpose to our collective online experience. Given that I’ve had two sets of cats over the past three decades, I was surprised to learn something new about these amazing little serial killers and inter-species facial hair.

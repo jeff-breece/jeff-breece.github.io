@@ -11,6 +11,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/saying-goodbye-to-my-father-in-law/"
+image:
+  path: /images/unsplash/saying-goodbye-to-my-father-in-law.jpg
+  alt: "Saying goodbye to my father in-law. Photo from Unsplash"
 ---
 
 It is said that during the process of death a person puts one foot in the beyond leaving one foot, momentarily, in the living world. Witnessing my father in-laws month long decline this week reminds me of this statement. The slow but steady change to his memory and physical stature all seem to support the idea that we dissociate from life as if we are preparing to leave.

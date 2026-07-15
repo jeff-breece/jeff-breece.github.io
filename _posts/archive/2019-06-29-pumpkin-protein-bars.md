@@ -9,6 +9,9 @@ tags:
   - food
 archived: true
 original_permalink: "https://jeffbreece.com/pumpkin-protein-bars/"
+image:
+  path: /images/unsplash/pumpkin-protein-bars.jpg
+  alt: "Pumpkin Protein Bars. Photo from Unsplash"
 ---
 
 So I bought a copy of “[Eat Green Get Lean](http://www.amazon.com/Eat-Green-Get-Lean-Vegetarian-ebook/dp/B00F4DZXU0)” by Michael Matthews in my continuing attempt to add more vegetarian fare into the rotation while trying to lose 15 pounds. His Pumpkin Protein Bar [recipe](http://www.muscleforlife.com/recipe-of-the-week-maple-pumpkin-protein-bars/) fit the need.

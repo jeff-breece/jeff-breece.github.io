@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/roasted-potato-bacon-omelets/"
+image:
+  path: /images/unsplash/roasted-potato-bacon-omelets.jpg
+  alt: "Roasted Potato & Bacon Omelets. Photo from Unsplash"
 ---
 
 Many years ago I dated an actor who taught me how to make a decent breakfast. While the romance ended when he ran off to do Summer Stock work, he left me with the thought that all of our relationships teach us something that we need to prepare us for our next great love.

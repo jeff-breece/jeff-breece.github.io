@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/radicchio-beet-and-onion-with-whole-grain-mustard/"
+image:
+  path: /images/unsplash/radicchio-beet-and-onion-with-whole-grain-mustard.jpg
+  alt: "Radicchio, beet and onion with whole grain mustard. Photo from Unsplash"
 ---
 
 My adventure with beets started in Texas. That’s where I began exploring greens, beets and goat cheese together. This dish boasts a _lot_ of powerful flavors, and health benefits, while at the same time providing these subtle hints of earth from the beets, sweetness from the yams and a great nutty flavor from the walnuts that contrast well with the onions and whole grain Dijon.

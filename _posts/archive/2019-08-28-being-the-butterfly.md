@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/being-the-butterfly/"
+image:
+  path: /images/unsplash/being-the-butterfly.jpg
+  alt: "Being the butterfly. Photo from Unsplash"
 ---
 
 I was catching up on some reading and came across the quoted paragraph below in a two page excerpt from the [Sun Magazine](http://thesunmagazine.org/) December 2016 issue.
