@@ -111,6 +111,7 @@ DEPENDENCIES
   bigdecimal
   csv
   jekyll (~> 4.4)
+  jekyll-archives
   jekyll-include-cache
   jekyll-paginate
   jekyll-seo-tag (~> 2.8)

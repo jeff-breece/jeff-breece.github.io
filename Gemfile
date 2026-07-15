@@ -8,6 +8,7 @@ gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-sitemap"
 gem "jekyll-paginate"
 gem "jekyll-include-cache"
+gem "jekyll-archives"
 
 # Runtime compatibility shims for Ruby 3.x
 gem "webrick", "~> 1.7"

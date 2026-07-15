@@ -70,6 +70,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - tags
+  layout: tag
+  permalinks:
+    tag: /tags/:name/
 
 paginate: 10
 paginate_path: "/page:num/"
