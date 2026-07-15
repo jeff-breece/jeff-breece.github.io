@@ -33,7 +33,15 @@ Jekyll::Hooks.register :posts, :pre_render do |post|
   if md_match
     url = md_match[2]
     alt = md_match[1]
-    unless url.start_with?('data:') || url.length > 1024
+
+    # If the URL is a raw Liquid expression ({{ site.url }}/images/foo.jpg),
+    # extract just the static path portion (/images/foo.jpg)
+    if url.include?('{')
+      inner = url.match(/([\/][a-zA-Z0-9\-_.\/]+\.(?:jpg|jpeg|png|gif|webp|svg))/i)
+      url = inner ? inner[1] : nil
+    end
+
+    if url && !url.start_with?('data:') && url.length <= 1024
       post.data['image'] = {
         'path' => url,
         'alt'  => alt.empty? ? post.data['title'].to_s : alt
@@ -47,7 +55,7 @@ Jekyll::Hooks.register :posts, :pre_render do |post|
   next unless html_match
 
   url = html_match[1]
-  next if url.start_with?('data:') || url.length > 1024
+  next if url.include?('{') || url.start_with?('data:') || url.length > 1024
   next if url == DEFAULT_IMAGE_PATH
 
   post.data['image'] = {
