@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/cocoa-brownies-with-chocolate-ganache-pecans/"
+image:
+  path: /images/unsplash/cocoa-brownies-with-chocolate-ganache-pecans.jpg
+  alt: "Cocoa Brownies with Chocolate Ganache & Pecans. Photo by eduardo froza on Unsplash"
 ---
 
 Eddie’s sister used to make cocoa brownies back when she was in High School. He talks about the smell of chocolate coming from the oven, spending time with his sister as a boy and wolfing down something truly scrumptious. With the move back across the Country recently behind us and our money spent we’d been on a budget and well, at times, sort of short a few ingredients in the kitchen now and then. It was one of those times earlier this year we had a family dinner to attend that he remembered his Sister Lorrie’s cocoa brownies… and our stash of Venezuelan chocolate [El Rey](http://www.chocolates-elrey.com/history-of-chocolate.html) we picked up in Texas. It was a hit that he repeated for dessert on Easter last week. For his version lightly crunch some pecans and add to the ganache topping and let cool until firm.

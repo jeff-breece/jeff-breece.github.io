@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/breakfast-creamy-mustard-kale/"
+image:
+  path: /images/unsplash/breakfast-creamy-mustard-kale.jpg
+  alt: "Breakfast (creamy mustard kale). Photo by Louis Hansel on Unsplash"
 ---
 
 The [creamy mustard kale](https://jeffbreece.com/?p=456) was pretty fantastic with toasted rye and poached eggs. One step closer to making my peace with kale.

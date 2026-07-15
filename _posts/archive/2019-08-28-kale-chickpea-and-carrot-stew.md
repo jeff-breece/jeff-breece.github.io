@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/kale-chickpea-and-carrot-stew/"
+image:
+  path: /images/unsplash/kale-chickpea-and-carrot-stew.jpg
+  alt: "Kale, Chickpea and Carrot Stew. Photo by Nawal N on Unsplash"
 ---
 
 Talking with a couple vegetarians at the office started this whole track earlier this fall. I made this dish, again with things I had on hand and very little energy to execute but enough desire to see it through one weekend. It’s made for some great lunches as I portioned and froze much of it for the weeks ahead.

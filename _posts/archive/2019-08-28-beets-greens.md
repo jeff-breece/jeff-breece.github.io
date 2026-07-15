@@ -10,6 +10,9 @@ tags:
   - life
 archived: true
 original_permalink: "https://jeffbreece.com/beets-greens/"
+image:
+  path: /images/unsplash/beets-greens.jpg
+  alt: "Beets & Greens. Photo by Teo Sticea on Unsplash"
 ---
 
 My friends are in the habit of throwing me cookbooks now and again as gifts. I got a copy of “[The Food 52 Cookbook](http://www.amazon.com/The-Food52-Cookbook-Winning-Exceptional/dp/006188720X/ref=sr_1_1?ie=UTF8&qid=1359338270&sr=8-1&keywords=Food+52)” by Hesser & Stubbs a few years ago. [French ‘Peasant’ Beets](http://food52.com/recipes/3302_french_peasant_beets) has made it into my regular rotation. It’s a great way to use whatever greens are in season and pack in a lot of beet goodness. I like to serve it with toasted bread and goats curd cheese (or Ricotta in a pinch).

@@ -13,6 +13,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/fireflies-and-5ks/"
+image:
+  path: /images/unsplash/fireflies-and-5ks.jpg
+  alt: "Fireflies and 5ks. Photo by Ricardo Resende on Unsplash"
 ---
 
 It was while driving in the dark pierced by the two beams of light from the front of my car I realized there were 100‘s of floating yellow beacons all around me. Forest,Ohio is primarily a rural farm land with corn on one side and beans on another at any given stretch.

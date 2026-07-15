@@ -10,6 +10,9 @@ tags:
   - life
 archived: true
 original_permalink: "https://jeffbreece.com/chicken-udon-noodles-with-hatch-chillies/"
+image:
+  path: /images/unsplash/chicken-udon-noodles-with-hatch-chillies.jpg
+  alt: "Chicken & Udon Noodles with hatch chillies.. Photo by To Uyen on Unsplash"
 ---
 
 A friend of mine recently reminded me of the simple pleasure of Chicken & Noodles. For most of us it’s wrapped up with memories of being comforted while sick with a steaming bowl of protein and vitamins. This was the first time I had the butcher chop up the bird for me which was a time saver. The recipe was adapted from one I found online and it yields a lot so be prepared to freeze.

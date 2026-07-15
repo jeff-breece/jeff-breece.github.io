@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/dark-beer-chili/"
+image:
+  path: /images/unsplash/dark-beer-chili.jpg
+  alt: "Dark Beer Chili. Photo by Sangria Señorial on Unsplash"
 ---
 
 After all that fancy Christmas food I was craving something super basic and reasonably healthy. I had a bottle of [Maumee Bay Total Eclipse](http://www.mbaybrew.com/product/total-eclipse-breakfast-stout/) left from a dinner party in November that I was saving for something like this. The following recipe was adapted from the [original](http://www.epicurious.com/recipes/food/views/Beef-and-Dark-Beer-Chili-237096) both on quantities and ingredients reflecting what I had on hand at the time.

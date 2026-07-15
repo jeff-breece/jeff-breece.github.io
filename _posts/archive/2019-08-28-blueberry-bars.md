@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/blueberry-bars/"
+image:
+  path: /images/unsplash/blueberry-bars.jpg
+  alt: "Blueberry Bars. Photo by Nik on Unsplash"
 ---
 
 I made a tray of these for the folks at work on my first full day back on the job last week. They remind me of pastries I would get at the long defunct French Market in Columbus where I held a job at a wine shop as a very young man. Can’t remember the name of the pastry shop but I do recall getting all manner of scones, muffins and cookie like pastries such as these blueberry bars and enjoying them in the morning (or on snowy nights) with [_Café au lait_](http://en.wikipedia.org/wiki/Caf%C3%A9_au_lait), wine books and always music.

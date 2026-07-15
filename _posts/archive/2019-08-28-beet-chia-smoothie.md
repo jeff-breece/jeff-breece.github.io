@@ -11,6 +11,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/beet-chia-smoothie/"
+image:
+  path: /images/unsplash/beet-chia-smoothie.jpg
+  alt: "Beet & Chia Smoothie. Photo by May on Unsplash"
 ---
 
 Since it can’t always be about Christmas Dinner, today included a hefty workout and a vegetable filled recovery drink.

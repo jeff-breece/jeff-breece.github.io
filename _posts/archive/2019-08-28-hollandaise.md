@@ -10,6 +10,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/hollandaise/"
+image:
+  path: /images/unsplash/hollandaise.jpg
+  alt: "Hollandaise. Photo by Luis Villasmil on Unsplash"
 ---
 
 There is a restaurant in Oakcliff Texas named [Smoke](http://smokerestaurant.com/). Eddie and I would go there pretty frequently often times ordering the BBQ pork with poached egg atop an expertly prepared biscuit drizzled with an amazing hollandaise sauce. It’s definitely part of our Texas past. Having company in this weekend we tried our hand at recreating the experience.
