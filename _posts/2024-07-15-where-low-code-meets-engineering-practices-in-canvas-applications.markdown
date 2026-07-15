@@ -2,7 +2,7 @@
 layout: post
 title:  "Custom Forms: Where Low Code Meets Engineering Practices in Canvas Applications"
 date:   2024-07-18 07:00:00 -0400
-categories: powerapps
+categories: [powerapps]
 tags:
   - powerapps
   - canvas-apps

@@ -1,7 +1,6 @@
 ---
 layout: post
 date:   2025-11-30 15:16:48 -0500
-original_date: 2017-11-11 00:00:00 -0500
 last_modified_at: 2025-11-30 15:16:48 -0500
 title: "Navigating Loss and Friendship: Nick's Story"
 description: "This was originally posted on my old blog that I ran for over 11 years spanning my Dallas years and move back to Ohio. This one is special; I pulled it from the month when Nick had his stroke. That seven-year journey was, well, just that—a long trek through a family member’s, my father figure’s, decline. Originally published 2017-11-11. A personal reflection on friendship, loss, recovery, and the enduring bonds that shape our lives—centered on Nick’s journey after a life-changing stroke."

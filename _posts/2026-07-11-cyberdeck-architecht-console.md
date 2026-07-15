@@ -1,10 +1,11 @@
 ---
 layout: post
-date:   2026-07-11 10:00:00 -0400
-original_date: 2026-07-11 10:00:00 -0400
+date: 2026-07-11 10:00:00 -0400
 last_modified_at: 2026-07-11 10:00:00 -0400
-title: "A Console cyberdeck for Azure and Agentic Development"
+title: "A Console Cyberdeck for Azure and Agentic Development"
 description: "Building a retro terminal command center for AI-assisted coding, Azure architecture work, ADRs, context packing, token counting, repo analysis, and cloud-aware engineering workflows."
+categories: [homelab, engineering]
+mermaid: true
 tags:
   - azure
   - bash

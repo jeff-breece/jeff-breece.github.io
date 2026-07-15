@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% comment %} Gallery index — lists galleries from _data/galleries.yml only {% endcomment %}
+
+<div class="gallery-index">
+  <h1 class="page-title">Trail Essays</h1>
+  <p class="gallery-intro">Field notes from the outdoors, in photographs.</p>
+
+  <div class="gallery-grid-index">
+    {% for gallery in site.data.galleries %}
+      <a class="gallery-card" href="{{ '/gallery/' | append: gallery.slug | append: '/' | relative_url }}">
+        {% comment %}
+          Use CSS background-image here — NOT <img>.
+          Chirpy's refactor-content.html wraps every <img> inside an <a> with a popup
+          lightbox anchor. Since .gallery-card is already an <a>, that produces nested
+          <a> tags (invalid HTML) and breaks the card layout.
+        {% endcomment %}
+        <div class="gallery-card-image"
+             style="background-image: url('{{ gallery.cover | relative_url }}');"
+             role="img"
+             aria-label="{{ gallery.title }}">
+        </div>
+        <div class="gallery-card-info">
+          <h2>{{ gallery.title }}</h2>
+          <p class="gallery-meta">
+            <i class="fas fa-map-marker-alt fa-sm"></i> {{ gallery.location }}
+            &bull; {{ gallery.date | date: "%B %Y" }}
+          </p>
+          <p>{{ gallery.description | truncate: 120 }}</p>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+
+  {% if site.data.galleries.size == 0 %}
+    <p class="gallery-empty">No galleries yet — check back soon.</p>
+  {% endif %}
+</div>

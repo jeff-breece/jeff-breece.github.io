@@ -2,7 +2,7 @@
 layout: post
 title:  "How to build a custom form in a Canvas App using prinicpals from Atomic Design"
 date:   2024-06-30 07:00:00 -0400
-categories: howto
+categories: [howto]
 tags:
   - powerapps
   - atomic-design

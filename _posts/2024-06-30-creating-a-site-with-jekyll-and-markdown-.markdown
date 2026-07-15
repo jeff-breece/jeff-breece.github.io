@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a Blog Using Jekyll on an Ubuntu Machine"
 date:   2024-06-30 07:00:00 -0400
-categories: howto
+categories: [howto]
 tags:
   - jekyll
   - ubuntu
