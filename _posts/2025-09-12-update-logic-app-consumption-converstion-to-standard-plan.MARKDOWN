@@ -10,7 +10,6 @@ tags:
   - integration
   - migration
   - architecture
-image: /images/transmorgify.png
 excerpt_separator: <!--more-->
 ---
 
