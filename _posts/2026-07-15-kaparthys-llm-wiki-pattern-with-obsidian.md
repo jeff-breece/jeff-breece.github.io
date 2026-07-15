@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-07-11 10:00:00 -0400
-last_modified_at: 2026-07-11 10:00:00 -0400
+date: 2026-07-15 10:00:00 -0400
+last_modified_at: 2026-07-15 10:00:00 -0400
 title: "From RAG to a Knowledge Factory: An LLM-Owned Wiki That Compounds"
 description: "A practical homelab pattern for moving past query-time RAG to an LLM-maintained Obsidian wiki with schema-driven ingest, source conversion, indexing, and a planned drop-folder pipeline."
 categories: [homelab, engineering, AI, Wiki]
@@ -14,7 +14,9 @@ tags:
 - knowledge-base
 - ollama
 - automation
-image: /images/unsplash/paul-povoroznuk-Gp7F3GkdZo8-unsplash.jpg
+image:
+  path: /images/unsplash/paul-povoroznuk-Gp7F3GkdZo8-unsplash.jpg
+  alt: "LLM knowledge graph and wiki. Photo by Paul Povoroznuk on Unsplash"
 excerpt_separator: <!--more-->
 ---
 
@@ -153,7 +155,7 @@ That gives me traceability. If something looks wrong later, I can inspect the ge
 
 ## Phase 7: Why This Is Different From Plain RAG
 
-I'm not throwing RAG away - it's still useful. But RAG answers questions by retrieving fragments at query time, while this wiki compiles knowledge at ingest time. That changes the shape of the system.
+I'm not throwing RAG under the bsu it's still useful. But RAG answers questions by retrieving fragments at query time, while this wiki compiles knowledge at ingest time. That changes the shape of the system.
 
 With plain RAG, the model asks: *What chunks look relevant right now?*
 
