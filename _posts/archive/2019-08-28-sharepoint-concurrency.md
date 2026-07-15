@@ -10,6 +10,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/sharepoint-concurrency/"
+image:
+  path: /images/unsplash/sharepoint-concurrency.jpg
+  alt: "SharePoint & Concurrency. Photo by Spenser Sembrat on Unsplash"
 ---
 
 Working with SPS for five years now continues to be a fun and rewarding path. Our shop just went to production with an employee incentive system that we’d been working on since November of 2011. I re used the composite pattern that both [Pariveda Solutions](http://www.parivedasolutions.com/Pages/Home.aspx) and [Slalom Consulting](http://www.slalom.com/) employed while designing a couple enterprise wide PMP systems for us in the past. Namely, we chose InfoPath, lists and SPS workflows.

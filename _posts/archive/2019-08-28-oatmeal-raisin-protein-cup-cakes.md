@@ -11,6 +11,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/oatmeal-raisin-protein-cup-cakes/"
+image:
+  path: /images/unsplash/oatmeal-raisin-protein-cup-cakes.jpg
+  alt: "Oatmeal Raisin Protein Cup Cakes. Photo by Mohammad Hasan on Unsplash"
 ---
 
 I have two weak spots during a given work day diet wise. The fantastic coffee shop, [Cafe Brioso](http://www.cafebrioso.com/), on the morning walk into the office with it’s delicious jalapeño scones and, of course, dinner. In an effort to take on one challenge at a time, I have been focusing on the scone. I tried the maple pumpkin protein bars from [Michael Matthews book “Eat Green Get Lean.”](http://www.amazon.com/Eat-Green-Get-Lean-Vegetarian/dp/1938895193) These were decent but not the fluffy pumpkin bar with cream cheese frosting mom made when we were kids.

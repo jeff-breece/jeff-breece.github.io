@@ -9,6 +9,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/security-scopes/"
+image:
+  path: /images/unsplash/security-scopes.jpg
+  alt: "Security Scopes. Photo by Soliman Cifuentes on Unsplash"
 ---
 
 When you absolutely have to use unique permissions while building SharePoint applications; do it the fastest way possible.

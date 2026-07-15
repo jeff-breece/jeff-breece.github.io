@@ -11,6 +11,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/modal-windows-in-sharepoint/"
+image:
+  path: /images/unsplash/modal-windows-in-sharepoint.jpg
+  alt: "Modal windows in SharePoint. Photo by Nicholas Loh on Unsplash"
 ---
 
 I had a chance to work with jQuery in SharePoint 2010 recently which was fun and easy.

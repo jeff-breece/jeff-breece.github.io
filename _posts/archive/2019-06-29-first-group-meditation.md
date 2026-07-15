@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/first-group-meditation/"
+image:
+  path: /images/unsplash/first-group-meditation.jpg
+  alt: "First group meditation. Photo by Tim Roosjen on Unsplash"
 ---
 
 I’ve usually thought about meditation in terms of patchouli drenched, granola eating and poncho wearing hobbies for the celebrity folks who attend [Burning Man](http://burningman.org/). Possibly as an excuse for taking a nap. So it took me some effort to get over my prejudice in 2016 as I was newly vested in the [health benefits ](http://www.webmd.com/balance/features/meditation-heals-body-and-mind)of learning _how_ to meditate.
