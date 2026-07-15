@@ -10,6 +10,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/sps-document-attributes/"
+image:
+  path: /images/unsplash/sps-document-attributes.jpg
+  alt: "SPS document attributes. Photo by Nik Shuliahin 💛💙 on Unsplash"
 ---
 
 This is part of a small stress testing project I wrote to test a user interface I built using a Content Query Web Part, a little jQuery and some XSL. The idea was to generate a couple 1000 documents that have workflows on item creation. The content rollup displays documents that have custom meta data flags for a collection of subsites that represent a team. 

@@ -12,6 +12,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/goodbye-info-path-hello-jquery/"
+image:
+  path: /images/unsplash/infopath-jquery-backed-forms.jpg
+  alt: "InfoPath & jQuery backed forms. Photo by Peter Robbins on Unsplash"
 ---
 
 SharePoint 2010 is an enterprise application development framework.

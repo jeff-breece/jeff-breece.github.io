@@ -10,6 +10,9 @@ tags:
   - technology
 archived: true
 original_permalink: "https://jeffbreece.com/business-connectivity-services-connecting-the-lob-dots/"
+image:
+  path: /images/unsplash/business-connectivity-services-connecting-the-lob-dots.jpg
+  alt: "Business Connectivity Services; Connecting the LOB Dots. Photo by Mark König on Unsplash"
 ---
 
 This post will address two specific tools that SharePoint has offered since MOSS. Business Data Catalogue (BDC) in conjunction with the Secure Store Service. On the release of SharePoint 2013 a new service layer called Business Connectivity Services (BCS) was added on top of BDC. This provided a richer client service model upon which external data could be utilized via the SharePoint framework.
