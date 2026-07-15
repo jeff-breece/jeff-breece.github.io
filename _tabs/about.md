@@ -1,11 +1,17 @@
 ---
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
-I'm a systems/solutions architect and hands-on engineer with 10+ years building on Azure and Microsoft 365. My work spans enterprise integration, .NET backend services, Logic Apps, Power Platform, and conversational AI. I like clean designs, pragmatic tooling, and writing things down.
+# Bio
 
-Off the keyboard I'm an outdoorsman, family man, and avid home cook. Ohio-based, usually somewhere on a trail when not at a keyboard.
+Over the past ten-plus years, I have had the privilege to work with various industries, technologies, and languages including, but not limited to Microsoft Bot Framework, Machine Learning and Cognitive Services, Azure, .NET, SharePoint, M365, Azure Functions, Logic Apps, Power Platform, Nintex, MSFT SQL Server, PHP, JavaScript, JAVA and the AWS platform. I have worn the hats of the developer, architect, team lead, and software engineer with a mission of equity.
+
+Bit of an outdoors guy here and love to hike.
+
+> "The obstacle on the path becomes the way." — Marcus Aurelius
+
+![Author Headshot](/images/headshot.jpg)
 
 ## What you'll find here
 
@@ -15,4 +21,4 @@ Off the keyboard I'm an outdoorsman, family man, and avid home cook. Ohio-based,
 
 ## Stack
 
-This site is built with Jekyll + Chirpy on GitHub Pages. Source on [GitHub](https://github.com/jeff-breece/jeff-breece.github.io).
+This site is built with [Jekyll](https://jekyllrb.com/) + [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) on GitHub Pages. Source on [GitHub](https://github.com/jeff-breece/jeff-breece.github.io).

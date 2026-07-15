@@ -68,7 +68,11 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-include-cache
+
+paginate: 10
+paginate_path: "/page:num/"
 
 # Feed
 feed:
@@ -122,3 +126,5 @@ exclude:
   - vendor/
   - .bundle/
   - .jekyll-cache/
+  - assets/img/favicons/site.webmanifest
+  - assets/img/favicons/browserconfig.xml
