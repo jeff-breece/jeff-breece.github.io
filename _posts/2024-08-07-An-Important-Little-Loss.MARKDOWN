@@ -8,6 +8,9 @@ tags:
   - pets
   - loss
   - reflection
+image:
+  path: /images/unsplash/An-Important-Little-Loss.jpg
+  alt: "Personal: One Important Little Loss. Photo by Kelly Naneva on Unsplash"
 ---
 
 **Summary:** I had the terrible privilege of scheduling gentle in-home euthanasia for a cat I rescued back in my Dallas days yesterday. She was amazing in every way an animal companion can be.

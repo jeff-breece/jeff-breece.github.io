@@ -9,6 +9,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/invisible-brother/"
+image:
+  path: /images/unsplash/invisible-brother.jpg
+  alt: "Invisible Brother. Photo by Marvin Yoder on Unsplash"
 ---
 
 One late Ohio Spring evening I was riding in the car with my friend Eric after picking he and his wife Vata up from the airport. We’d not seen each other in 23 years. I remember his last words to me over the phone back then were “I love you” as we were young men preparing to part ways. I picked him up at Port Columbus and was met with one of those enormous bear hugs. One where the other person sort of falls into you for either support or gratitude of presence. A great big wide armed full chest kind of thing. It was as if no lifetime had passed between our last conversation and now. But his mom had died and he was here from Florida to bury her and mourn with his brothers and step dad.
