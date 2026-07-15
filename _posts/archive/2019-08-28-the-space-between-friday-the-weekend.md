@@ -21,7 +21,7 @@ While writing this I’m spending that pre weekend transition moment waiting for
 
 So on to the weekend!
 
-[![joseph wood hill park castle](https://jeffbreece.com/wp-content/uploads/2017/06/joseph-wood-hill-park-castle-300x199.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/joseph-wood-hill-park-castle.jpg)
+[![joseph wood hill park castle](/images/archive/wp-content/uploads/2017/06/joseph-wood-hill-park-castle-300x199.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/joseph-wood-hill-park-castle.jpg)
 
 
 [One for the books](https://jeffbreece.com/one-for-the-books/) ›

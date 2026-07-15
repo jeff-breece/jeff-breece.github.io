@@ -45,7 +45,7 @@ Andy’s words took me back to ideas that my aunt Lora used to open my closed te
 
 Maybe it’s time to embrace some part of the Greater Universe. I guess that’s part of what this tattoo journey is all about after all.
 
-[![design](https://jeffbreece.com/wp-content/uploads/2017/05/design-240x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/05/design.jpg) [![first](https://jeffbreece.com/wp-content/uploads/2017/05/first-240x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/05/first.jpg) [![Poppy](https://jeffbreece.com/wp-content/uploads/2017/06/20170531_161849-225x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/20170531_161849.jpg)
+[![design](/images/archive/wp-content/uploads/2017/05/design-240x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/05/design.jpg) [![first](https://jeffbreece.com/wp-content/uploads/2017/05/first-240x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/05/first.jpg) [![Poppy](https://jeffbreece.com/wp-content/uploads/2017/06/20170531_161849-225x300.jpg)](https://jeffbreece.com/wp-content/uploads/2017/06/20170531_161849.jpg)
 
 
 [Pre & Post Columbus 10k Notes](https://jeffbreece.com/pre-post-columbus-10k-notes/) ›

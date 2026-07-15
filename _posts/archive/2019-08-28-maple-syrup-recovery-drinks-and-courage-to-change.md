@@ -41,7 +41,7 @@ Mix the following and pour into 2 16 oz PCB free bottles for the running or bike
 
 [![Maple Syrup](https://jeffbreece.com/wp-content/uploads/2015/10/buckets-300x213.jpg)](https://jeffbreece.com/wp-content/uploads/2015/10/buckets.jpg)
 
-[![Go Forth and Have No Fear](https://jeffbreece.com/wp-content/uploads/2015/10/20151024_203840-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2015/10/20151024_203840.jpg)
+[![Go Forth and Have No Fear](/images/archive/wp-content/uploads/2015/10/20151024_203840-168x300.jpg)](https://jeffbreece.com/wp-content/uploads/2015/10/20151024_203840.jpg)
 
 
 [SharePoint Document Migration](https://jeffbreece.com/sharepoint-document-migration/) ›

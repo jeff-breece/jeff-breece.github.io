@@ -33,7 +33,7 @@ It was early on in the cardiac rehab track when I met a guy in his early ‘50�
 
 It’s in every run, swim, bike ride, lifting or Yoga session, family get together, dinner with friends, evening with my husband, work deadline, book or news paper read that I find something truly wonderful. That’s what I thought about while watching the fireflies on a Summer night flanked by cornfields in the dark. To me they were reminders of past experiences floating and glowing in the dark like memories in our heads. Memories of things both recent and distant which illuminate our paths like life itself.
 
-[![10](https://jeffbreece.com/wp-content/uploads/2015/07/10-300x300.jpg)](https://jeffbreece.com/wp-content/uploads/2015/07/10.jpg) 5ks
+[![10](/images/archive/wp-content/uploads/2015/07/10-300x300.jpg)](https://jeffbreece.com/wp-content/uploads/2015/07/10.jpg) 5ks
 
 
 [Black Bean Burgers with Chipotle Ketchup](https://jeffbreece.com/black-bean-burgers-with-chipotle-ketchup/) ›

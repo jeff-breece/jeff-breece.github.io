@@ -43,7 +43,7 @@ Serve
 
 ![](https://jeffbreece.com/site/assets/images/blog_assets/asparagus_prep.jpg)
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/asparagus_finished.jpg)
+![](/images/archive/site/assets/images/blog_assets/asparagus_finished.jpg)
 
 
 [Le gâteau de Zoé](https://jeffbreece.com/le-gateau-de-zoe/) ›

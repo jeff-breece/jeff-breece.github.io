@@ -21,7 +21,7 @@ My father in-law had four brothers and three sisters. One brother was the Bishop
 
 There are parallels to my mother in-law’s stories of living in Linworth in the 60’s to living on Hunter Avenue with Eddie in the early ’90’s. Ed & Dee were a young couple starting a family back then. She spoke of the nights they’d party around the pick-nick table drinking beer with the neighbors talking into the late hours of the night. Waking up early to pick up the beer cans and clean out the ashtrays before the kids woke. Then there were our days in the crazy house on Hunter. It was a house divided into four shotgun style apartments. Over the course of 13 years we lived there so many of our friends became neighbors at various points that it’s hard to keep track of looking back. One thing was constant though, food, drink, art and laughter. From the moment I heard the Linworth story I had always wondered if it was some part of Eddie that he got from his parents. Living together with neighbors as friends. Good times.
 
-[![Family](https://jeffbreece.com/wp-content/uploads/2016/07/Family-300x296.jpg)](https://jeffbreece.com/wp-content/uploads/2016/07/Family.jpg)
+[![Family](/images/archive/wp-content/uploads/2016/07/Family-300x296.jpg)](https://jeffbreece.com/wp-content/uploads/2016/07/Family.jpg)
 
 Other events we shared together at Hunter Ave include the whole family coming over for the Dooh Dah Parade/Eddie’s birthday. We lived on the route it took then up Second Ave.. Eddie’s nieces and nephews would throw water balloons at the parade. Running around our bohemian apartment having wild fun together. These soiree’s later morphed into larger scale outdoor dinner cookouts with cross neighbor participation. Mary Lou and her husband would attend some of these along with cousins and so many friends. It’s that kind of group. Not tight, but always orbital.
 
@@ -35,7 +35,7 @@ Of course looking back further into the days when Eddie and I had just met. Mayb
 
 Some of what I remember through Eddie are things like Ed used to make the family breakfast on Sunday mornings when they were growing up. They’d listen to music by Johnny Mathis. Whose album covers gave Eddie some of his first love for modern furniture with Johnny sitting all hip and smooth as glass in a butterfly chair. That he faced a bankruptcy from a failed business and bounced back from it carrying his family with a strength that would not stop by working two jobs. And never tired, was there for his kids after his shifts for what they needed. Stories that he and his sisters still giggled about where one year, for whatever reason, Ed took the kids out for back to school clothes instead of Dee. They all came back looking Brady Bunch groovy and ready to rock the 1970’s school halls that year. The story of Dee saving the first receipt from when she served this young soldier in the restaurant she worked in as a waitress in Houghton Michigan. She still has that receipt… and the soldier today.
 
-[![Mathis](https://jeffbreece.com/wp-content/uploads/2016/07/116521043-300x300.jpg)](https://jeffbreece.com/wp-content/uploads/2016/07/116521043.jpg)
+[![Mathis](/images/archive/wp-content/uploads/2016/07/116521043-300x300.jpg)](https://jeffbreece.com/wp-content/uploads/2016/07/116521043.jpg)
 
 We met Lorrie and our niece Lex at a Hospital on the West Side this past weekend to pick up Ed & Dee as they had decided to stop dialysis and proceed to hospice for the rest of his care. And while frail, suffering from what the nurses were calling “pleasant dementia,” and ready to bust out of there like it was a prison he showed his wife such tremendous tenderness that it brought tears to my eyes. After all that he’d been through, with his renal failure diminishing him, he still waited to help Dee to her chair. Making sure she walked first. Kissing her on the forehead as he helped her into her seat.
 
@@ -47,7 +47,7 @@ Then there’s that idea of having one foot in the living world and one in the b
 
 Like so many parties he’s loved over his many years, we are all here to carry our various lanterns together in order to honor him and each other with laughter, music, good food, strong cocktails, keen style, devotion to those we love and simple fun. I think he would like that best.
 
-[![Ed](https://jeffbreece.com/wp-content/uploads/2016/07/Ed-90x300.png)](https://jeffbreece.com/wp-content/uploads/2016/07/Ed.png)
+[![Ed](/images/archive/wp-content/uploads/2016/07/Ed-90x300.png)](https://jeffbreece.com/wp-content/uploads/2016/07/Ed.png)
 
 
 [Magic Feather](https://jeffbreece.com/magic-feather/) ›

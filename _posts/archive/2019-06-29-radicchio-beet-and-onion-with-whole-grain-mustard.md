@@ -39,9 +39,9 @@ Process
 
 
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/05/20150502_210123.jpg)](https://jeffbreece.com/20150502_210123/)
+[![](/images/archive/wp-content/uploads/2015/05/20150502_210123.jpg)](https://jeffbreece.com/20150502_210123/)
 
-[![](https://jeffbreece.com/wp-content/uploads/2015/05/20150502_211708.jpg)](https://jeffbreece.com/20150502_211708/)
+[![](/images/archive/wp-content/uploads/2015/05/20150502_211708.jpg)](https://jeffbreece.com/20150502_211708/)
   
 
 

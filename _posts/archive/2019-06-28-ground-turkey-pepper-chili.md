@@ -15,7 +15,7 @@ original_permalink: "https://jeffbreece.com/ground-turkey-pepper-chili/"
 
 I adapted a Mens Health ground turkey recipe late last year in attempt to spend less money on lunch, eat healthier while not losing flavor. The following recipe is great because it’s easy and cheap to make. That and it tastes great.
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/chili.jpg)
+![](/images/archive/site/assets/images/blog_assets/chili.jpg)
 
 2 tbsp. olive oil  
 1 lbs. ground turkey  

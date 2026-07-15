@@ -33,7 +33,7 @@ Directions
 
 ![](https://jeffbreece.com/site/assets/images/blog_assets/DSCN1478.JPG)
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/DSCN1479.JPG)
+![](/images/archive/site/assets/images/blog_assets/DSCN1479.JPG)
 
 ![](https://jeffbreece.com/site/assets/images/blog_assets/DSCN1481.JPG)
 

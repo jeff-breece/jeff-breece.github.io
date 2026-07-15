@@ -31,7 +31,7 @@ Eric’s mother was dead. The tangible loss I felt from he and his family made m
 
 Driving away, I realized that we make friends not all at once, but over time. Thinking back to our time on the lake… it turned out that the compasses we’ve been using happened to be these friendships.
 
-[![Round](https://jeffbreece.com/wp-content/uploads/2016/06/art-981700_960_720-300x200.jpg)](https://jeffbreece.com/wp-content/uploads/2016/06/art-981700_960_720.jpg)
+[![Round](/images/archive/wp-content/uploads/2016/06/art-981700_960_720-300x200.jpg)](https://jeffbreece.com/wp-content/uploads/2016/06/art-981700_960_720.jpg)
 
 
 [Gratitude for setbacks](https://jeffbreece.com/gratitude-for-setbacks/) ›

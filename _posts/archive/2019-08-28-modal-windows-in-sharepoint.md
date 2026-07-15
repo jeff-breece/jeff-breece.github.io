@@ -39,7 +39,7 @@ Figure 1.
 ![](https://jeffbreece.com/site/assets/images/blog_assets/Modal_2.png)  
 Figure 2.
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/Modal_3.png)  
+![](/images/archive/site/assets/images/blog_assets/Modal_3.png)  
 Figure 3.
 
 
