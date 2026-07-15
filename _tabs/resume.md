@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Resume
-permalink: /resume/
 icon: fas fa-file-alt
+order: 4
+title: Resume
+layout: page
+permalink: /resume/
 ---
+
 ### Software Engineer, System Architect, Technical Pre-Sales Professional
 ### Columbus, OH | [Email Me](mailto:jeffbreece@outlook.com)
 

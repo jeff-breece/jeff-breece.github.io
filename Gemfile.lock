@@ -112,6 +112,7 @@ DEPENDENCIES
   csv
   jekyll (~> 4.4)
   jekyll-include-cache
+  jekyll-paginate
   jekyll-seo-tag (~> 2.8)
   jekyll-sitemap
   jekyll-theme-chirpy (~> 6.5)

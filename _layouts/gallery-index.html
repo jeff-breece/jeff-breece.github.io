@@ -2,44 +2,31 @@
 layout: default
 ---
 
-{% comment %} Gallery index page — lists all trail essay galleries {% endcomment %}
+{% comment %} Gallery index — lists galleries from _data/galleries.yml only {% endcomment %}
 
 <div class="gallery-index">
-  <h1 class="page-title">{{ page.title | default: "Gallery" }}</h1>
-  <p class="gallery-intro">Trail essays in photographs — field notes from the outdoors.</p>
+  <h1 class="page-title">Trail Essays</h1>
+  <p class="gallery-intro">Field notes from the outdoors, in photographs.</p>
 
   <div class="gallery-grid-index">
-    {% assign all_galleries = site.data.galleries %}
-    {% for gallery in all_galleries %}
+    {% for gallery in site.data.galleries %}
       <a class="gallery-card" href="{{ '/gallery/' | append: gallery.slug | append: '/' | relative_url }}">
         <div class="gallery-card-image">
           <img src="{{ gallery.cover | relative_url }}" alt="{{ gallery.title }}" loading="lazy">
         </div>
         <div class="gallery-card-info">
           <h2>{{ gallery.title }}</h2>
-          <p class="gallery-meta">{{ gallery.location }} &bull; {{ gallery.date | date: "%B %Y" }}</p>
+          <p class="gallery-meta">
+            <i class="fas fa-map-marker-alt fa-sm"></i> {{ gallery.location }}
+            &bull; {{ gallery.date | date: "%B %Y" }}
+          </p>
           <p>{{ gallery.description | truncate: 120 }}</p>
         </div>
       </a>
     {% endfor %}
-
-    {% comment %} Fallback: also list from _galleries collection {% endcomment %}
-    {% assign listed_slugs = all_galleries | map: "slug" %}
-    {% for gallery_doc in site.galleries %}
-      {% unless listed_slugs contains gallery_doc.slug %}
-        <a class="gallery-card" href="{{ gallery_doc.url | relative_url }}">
-          <div class="gallery-card-image">
-            {% if gallery_doc.cover %}
-              <img src="{{ gallery_doc.cover | relative_url }}" alt="{{ gallery_doc.title }}" loading="lazy">
-            {% endif %}
-          </div>
-          <div class="gallery-card-info">
-            <h2>{{ gallery_doc.title }}</h2>
-            <p class="gallery-meta">{{ gallery_doc.location }}</p>
-            <p>{{ gallery_doc.description | truncate: 120 }}</p>
-          </div>
-        </a>
-      {% endunless %}
-    {% endfor %}
   </div>
+
+  {% if site.data.galleries.size == 0 %}
+    <p class="gallery-empty">No galleries yet — check back soon.</p>
+  {% endif %}
 </div>

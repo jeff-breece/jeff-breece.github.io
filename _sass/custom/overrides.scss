@@ -181,7 +181,64 @@
   }
 }
 
-// ---- Resume page tweaks -----------------------------------
+// ---- Tag cloud (tags page) --------------------------------
+.tag-cloud-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 0.9rem;
+  padding: 1.5rem 0;
+  line-height: 1.6;
+}
+
+.tag-cloud-item {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--link-color, #1a7abf);
+  font-weight: 500;
+  transition: color 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    color: var(--link-hover-color, #FF4500);
+    transform: scale(1.08);
+    text-decoration: none;
+  }
+}
+
+// ---- Per-tag sections (below the cloud) -------------------
+.tag-section {
+  margin-bottom: 2rem;
+}
+
+.tag-section-heading {
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+
+  a {
+    color: var(--heading-color, inherit);
+    text-decoration: none;
+    &:hover { color: var(--link-color, #1a7abf); }
+  }
+}
+
+.tag-count.badge {
+  font-size: 0.7rem;
+  background: var(--tag-bg, rgba(0,0,0,0.08));
+  color: var(--text-muted-color, #888);
+  padding: 0.2em 0.5em;
+  border-radius: 99px;
+  font-weight: 500;
+}
+
+.tag-post-list li {
+  padding: 0.2rem 0;
+  border-bottom: 1px solid var(--border-color, #f0f0f0);
+  font-size: 0.9rem;
+}
+.tag-post-list li:last-child { border-bottom: none; }
 .page-content {
   h2 {
     margin-top: 2rem;
