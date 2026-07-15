@@ -19,27 +19,15 @@ This is my first trip to NOLA. I missed my chance to do something romantic when 
 
 I got up pretty early, walked down to Starbucks and then up to the Mississippi where I had breakfast while reflecting on the slow undulating motion of the river. Next up are the Scientific Sessions where I’m scheduled solid from 9 am to 9:45 pm. It’s going be an amazing experience with roughly 14 thousand folks in attendance throughout the whole event.
 
-![Arturo wanted to come with](/images/archive/wp-content/uploads/2016/11/20161112_075835-300x225.jpg) ![Run through the French Quarter](https://jeffbreece.com/wp-content/uploads/2016/11/NOLARun-300x191.png) ![Breakfast on the Mississippi](https://jeffbreece.com/wp-content/uploads/2016/11/20161113_070644-300x225.jpg) ![Breakfast on the Mississippi](https://jeffbreece.com/wp-content/uploads/2016/11/20161113_070626-300x225.jpg) ![Dinner at Seed](https://jeffbreece.com/wp-content/uploads/2016/11/20161112_183220-300x225.jpg) ![NOLA's version of the Quickie Mart](https://jeffbreece.com/wp-content/uploads/2016/11/20161112_172417-300x225.jpg) ![Sights along the run](https://jeffbreece.com/wp-content/uploads/2016/11/20161112_162230-300x225.jpg) ![Bourbon St in running shoes](https://jeffbreece.com/wp-content/uploads/2016/11/20161112_160755-300x225.jpg) ![Running through the French Quarter](https://jeffbreece.com/wp-content/uploads/2016/11/20161112_160238-300x225.jpg) ![Palms - a native told me these are new post Katrina](/images/archive/wp-content/uploads/2016/11/20161112_155055-300x225.jpg) ![Hotel view](https://jeffbreece.com/wp-content/uploads/2016/11/20161112_151651-300x225.jpg) ![Hotel view](https://jeffbreece.com/wp-content/uploads/2016/11/20161112_151345-300x225.jpg)
-
-
-[How President Elect Trump helped me rediscover my center](https://jeffbreece.com/how-president-elect-trump-changed-my-social-media-practices/) ›
+![Arturo wanted to come with](/images/archive/wp-content/uploads/2016/11/20161112_075835-300x225.jpg)         ![Palms - a native told me these are new post Katrina](/images/archive/wp-content/uploads/2016/11/20161112_155055-300x225.jpg)  
 
 ######  2 comments on “New Orleans with the AHA” 
 
   1. ![](https://secure.gravatar.com/avatar/1bbf7206bd8800b485c28e3a24935578?s=60&d=mm&r=g) Nicholas E. Felt says:
 
-[ November 13, 2016 at 3:19 pm](https://jeffbreece.com/new-orleans-with-the-aha/#comment-637)
-
 Jeff:  
 So happy for you and thanks for sharing the beautful and unique that is New Orleans via your pictures you have posted. Have an exciting and rewarding day ahead and know that you are always in my thoughts-  
 Love you-N
 
-[Reply](https://jeffbreece.com/new-orleans-with-the-aha/?replytocom=637#respond)
-
-  2. ![](https://secure.gravatar.com/avatar/acff76be2943b87dbaf1cb238e1cfc1b?s=60&d=mm&r=g) Lora says:
-
-[ November 13, 2016 at 9:28 pm](https://jeffbreece.com/new-orleans-with-the-aha/#comment-638)
-
 Love your post and pics, looks like a wonderful experience, so happy for you✌️
 
-[Reply](https://jeffbreece.com/new-orleans-with-the-aha/?replytocom=638#respond)

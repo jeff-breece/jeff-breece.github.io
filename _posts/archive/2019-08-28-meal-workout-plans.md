@@ -19,8 +19,6 @@ It’s Saturday so that means meal planning and grocery shopping. This week I pu
 
 Another topic I researched today was the mixing of weight training and cardio. I think it’s time for me to get more comfortable lifting weights on a regular basis because it was something that I used to really enjoy. That said I’m also toying with the idea of trying, for a third time, to train for the Columbus marathon so the right amount of cross training will be something to consider. Anyway, I read this long [post](https://www.bodybuilding.com/fun/topicoftheweek34.htm) on timing those two activities which was pretty helpful. These days my weight training will either be at home on my bench with dumbbells, maxing out at 40 lbs right now, or at the Audobon Park on one of my runs to do pull-ups, push-ups, possibly handstand practice, outdoors. I guess the main thing for me is that I’m looking forward to seeing my workouts evolve a little bit. Just like my meditation practice, I guess. I’m finding that good things happen when you loosen your grip a little more.
 
-![Basic CMYK](https://jeffbreece.com/wp-content/uploads/2017/07/mens_fitness_11827-300x200.jpg)
-
 After a bit, I came up with the following list of dishes for the next week’s meal plan. And while my pattern has been breakfast, snack, lunch, snack and then dinner. I think I will try to mix in more protein, including MRP shakes and nuts/seeds/bean/lentils/quinoa/brown rice this week. Keep an eye on the fat intake a little tighter… because I have to maintain heart health. And of course, berries with psyllium husk fiber, spirulina, and Maca.
 
   * Cucumber, red onion and tomato salad (summer classic)
@@ -36,9 +34,4 @@ After a bit, I came up with the following list of dishes for the next week’s m
   * Salads – mostly spinach but with some fruits, nuts and cucumbers or peppers
   * Oats or huevos rancheros tacos, using egg whites and 1 egg yolk, for breakfast
 
-
-
 So here’s to tasty meals and sweaty balls next week.
-
-
-[First tent camping trip in 30+ years](https://jeffbreece.com/first-tent-camping-trip-in-30-years/) ›

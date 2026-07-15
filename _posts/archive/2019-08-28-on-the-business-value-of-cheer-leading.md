@@ -13,8 +13,6 @@ original_permalink: "https://jeffbreece.com/on-the-business-value-of-cheerleadin
 
 I once worked in a shop that had stagnated so badly there were attitude problems to be found in every corner. Even the executives joked about the dangers of crossing between the IT department to “the coven in accounting.” The funny thing is that the building was full of good people. One talented woman comes to mind when I think of that place. She was open to learning new things but given the atmosphere she allowed her self esteem to degrade. In the end she was little more than the butt of her peers jokes… which just killed all her motivation. When I left, I took with me the lessons I learned in this dismal shop. These turned into my practices on how best to improve productivity which is the problem you solve in the process. And this _always_ starts with the people you sit next to every day at work.
 
-![sadworker](https://jeffbreece.com/wp-content/uploads/2016/10/sadworker-300x166.jpeg)
-
 Working as a web and business developer over the past 15 years has taught me the value of both having and being a peer cheerleader. I don’t mean someone who rips off catchy chants with pom poms scaring the daylights out of the person two cubicles down from you. No, this is the person who is invested in his/her fellow co workers on a personal level. A person who takes the time to be present, listen and offer metered advice. Following are some of the aspects that make up a good peer cheerleader that anyone can use to bolster the health and unity of his or her team.
 
 One of the easiest things you can do is to set aside time to interact with your colleagues. Get to know the person. Use [active listening](http://www.skillsyouneed.com/ips/active-listening.html) to understand his or her goals, background, experiences and thoughts. Another is to share your own mistakes. These are learning opportunities for other people. Sharing these stories have business and personal value. This is one place where you have to reign in your ego and use your sense of humor.
@@ -32,8 +30,3 @@ If you are more than a peer cheerleader, perhaps a tech lead, manager or directo
 All together this collection of practices make for a healthier department. Life’s parallels are funny. While I spoke of the other department which was full of angst and fear I have had the chance to work within one for the past year that embodies most if not all these practices. Even the guy who takes half a day to name a variable takes the time to listen to his peers before guiding. From personal experience, peer cheerleaders are an amazing asset.
 
 So “OK <stomp stomp> LET’S GO!”
-
-![cheerleading](https://jeffbreece.com/wp-content/uploads/2016/10/cheerleading-300x84.jpg)
-
-
-[Two Ernies](https://jeffbreece.com/two-ernies/) ›

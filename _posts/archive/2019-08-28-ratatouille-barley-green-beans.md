@@ -30,8 +30,6 @@ Ratatouille Ingredients
   * 1 tbsp. sriracha
   * 3 cups red wine
 
-
-
 Ratatouille Process
 
   1. Cook onions in olive oil on medium heat in large pot (6 minutes).
@@ -41,15 +39,11 @@ Ratatouille Process
   5. Reduce to a low simmer and cook for 20 minutes until vegetables are cooked but still slightly al dente.
   6. Serve over barley.
 
-
-
 Barley Process
 
   1. Bring 2.5 cups water and 1 cup barley to a boil.
   2. Reduce heat and simmer for 40 minutes.
   3. Serve.
-
-
 
 Green Beans Process
 
@@ -57,12 +51,5 @@ Green Beans Process
   2. Remove beans and cool in ice water (or cold tap) immediately when the water boils.
   3. Let drip dry in a colander and squeeze 1/2 of a lemon over top and drizzle with olive oil then season with cracked pepper.
   4. Serve cold.
-
-
-
-![Ratatouille-Green-Beans-and-Barley](https://jeffbreece.com/wp-content/uploads/2015/04/wpid-20150417_203426-300x168.jpg)
-
-
-[Seared Breakfast Asparagus](https://jeffbreece.com/seared-breakfast-asparagus/) ›
 
 Tagged with: [heart health](https://jeffbreece.com/tag/heart-health/), [low sodium](https://jeffbreece.com/tag/low-sodium/)

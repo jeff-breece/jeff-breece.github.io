@@ -31,8 +31,6 @@ Ingredients
   * 1 1/2 tsp. Kosher salt
   * 3 cups cooked chickpeas
 
-
-
 Process
 
   1. In a large soup pot, sauté onion, carrot, and celery in oil over medium (not high) heat until onion begins to turn translucent.
@@ -41,10 +39,3 @@ Process
   4. Add stock and seasoning and bring to boil. Reduce heat and simmer until vegetables are tender.
   5. Gently stir in chickpeas and add salt to taste.
   6. Serve hot.
-
-
-
-![Kale-Chickpea-Carrot](https://jeffbreece.com/wp-content/uploads/2014/11/KaleChickpea-168x300.jpg)
-
-
-[Red, Yellow, Green & Blue Smoothie](https://jeffbreece.com/red-yellow-green-blue-smoothie/) ›

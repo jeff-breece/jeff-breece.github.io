@@ -33,14 +33,11 @@ Using a Visual Studio empty SharePoint project and adding a Script module to it;
 
 The whole thing took under 4 hours to roll. It’s definitely stuff that spikes my interest in SharePoint 2013 and it’s heavier reliance on JavaScript for user interface actions. Looking forward to the next project where I get to work with jQuery again. That balance between server and client side processing seems rife with great opportunities to make the user experince surrounding SharePoint better.
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/Modal_1.png)  
+  
 Figure 1.
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/Modal_2.png)  
+  
 Figure 2.
 
 ![](/images/archive/site/assets/images/blog_assets/Modal_3.png)  
 Figure 3.
-
-
-[Security Scopes](https://jeffbreece.com/security-scopes/) ›

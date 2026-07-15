@@ -33,17 +33,9 @@ June reminds me, most of all, that we have and always will be a revolution of Lo
 
 ![stonewallii](/images/archive/wp-content/uploads/2017/06/stonewallii-300x225.jpg)
 
-
-[The space between Friday & the weekend](https://jeffbreece.com/the-space-between-friday-the-weekend/) ›
-
 ######  One comment on “A revolution of love” 
-
-  1. ![](https://secure.gravatar.com/avatar/1bbf7206bd8800b485c28e3a24935578?s=60&d=mm&r=g) Nick says:
-
-[ June 16, 2017 at 12:08 pm](https://jeffbreece.com/a-revolution-of-love/#comment-833)
 
 Beautifully written from the heart with much insight and heart.  
 Your writing is poetry and inspirational. I love this heartfelt post.  
 Bravo
 
-[Reply](https://jeffbreece.com/a-revolution-of-love/?replytocom=833#respond)

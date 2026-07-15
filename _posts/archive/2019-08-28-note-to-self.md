@@ -20,16 +20,9 @@ In the end I’m _really_ sore but I had a laugh at myself while not getting too
 
 Live, learn, laugh and _move the damn iron someplace else_ where it’s less prone to jump out at you!
 
-![20161207_202701](https://jeffbreece.com/wp-content/uploads/2016/12/20161207_202701-e1481161990931-768x1024.jpg)
-
-
-[The road behind… and the one ahead](https://jeffbreece.com/the-road-behind-and-the-one-ahead/) ›
-
 ######  One comment on “Note to self” 
 
   1. ![](https://secure.gravatar.com/avatar/2a6d55beef577f8e6d790c7e9e3ef087?s=60&d=mm&r=g) [wilson](https://www.buoyhealth.com/current/chest-tightness-or-pain/) says:
-
-[ March 24, 2017 at 2:46 pm](https://jeffbreece.com/note-to-self/#comment-744)
 
 Hey Jeff,
 
@@ -51,4 +44,3 @@ Cheers,
 Wilson  
 Buoy Health
 
-[Reply](https://jeffbreece.com/note-to-self/?replytocom=744#respond)

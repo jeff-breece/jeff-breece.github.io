@@ -24,8 +24,3 @@ Similarly, when you use InfoPath you are immediately bound to a document library
 Boiling all this down; I’m rolling my final Notes DB project using only content types and lists. Not a hint of InfoPath. Yeah sure I’ll use some workflows and possibly a custom timer job to provide some user required functionality but architecturally I will be using SharePoint the way I think it was meant to be. Presenting organized information structures.
 
 To conclude I have to be fair and state that I don’t think it’s a failure of the Notes platform or any developer’s designs. It’s all about how information is regarded. Not as an undefined document object, but as a logical representation of elements which define a business item. SharePoint has an edge in the latter arena across many other enterprise systems. While many think of SharePoint as merely a document management system, it’s list and column structures allows a developer, of any level, to do so much more.
-
-![](https://jeffbreece.com/site/assets/images/blog_assets/many.jpg)
-
-
-[MVC Love](https://jeffbreece.com/mvc-love/) ›

@@ -64,8 +64,3 @@ Heat oven to 400 degrees.
 Ladle sauce onto pizza dough leaving about ½” around the edges for the crust formation.  
 Sprinkle about a 1 ½ cups shredded fresh mozzarella, parmesan & provolone mixed onto each pizza.  
 Add peperoni and bake on the middle rack for 20 minutes. 
-
-![](https://jeffbreece.com/site/assets/images/blog_assets/pizza.jpg)
-
-
-[Olive Oil Bread](https://jeffbreece.com/olive-oil-bread/) ›

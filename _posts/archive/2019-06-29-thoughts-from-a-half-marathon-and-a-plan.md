@@ -27,39 +27,24 @@ Dinners (From “The Complete Vegetarian Cookbook” by America’s Test Kitchen
   * Summer vegetable chopped salad, p 263
   * Baked burritos with pinto beans and Swiss Chard, p 366
 
-
-
 Snack 2
 
   * Protein shake
-
-
 
 Lunches
 
   * Fresh cooked black beans with rice broccoli and sriracha
 
-
-
 Snack 1
 
   * Banana with decaf coffee, herbal tea or turmeric lemon and ginger seltzer
-
-
 
 Breakfast
 
   * Old fashioned oats, granola and Ezekiel 4:9 Sprouted Whole Grain Cereal Golden Flax blended with chia seeds and bananas and blueberries (“Rip’s big bowl” from “My Beef with Meat” by Rip Esselstyn)
 
-
-
 Running snack
 
   * A couple pieces of 85% to 95% dark chocolate or a banana and water
 
-
-
 ![Cap-City-Half-Marathon-2016](/images/archive/wp-content/uploads/2016/05/CapCity2016.jpg)
-
-
-[Inspiration](https://jeffbreece.com/inspiration-3/) ›

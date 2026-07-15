@@ -30,8 +30,6 @@ Ingredients
   * 1 large yellow onion (chopped)
   * 3 tbsp. olive oil
 
-
-
 Process
 
   1. Pour pureed pumpkin into a saucepan and add the vegetable stock, BBQ sauce and spices.
@@ -41,11 +39,4 @@ Process
   5. Stir in half and half slowly.
   6. Puree in batches in high powered blender or food processor.
 
-
-
 Enjoy with a plain old grilled cheese sandwich for the ultimate in comfort on a cold night.
-
-![soup](https://jeffbreece.com/wp-content/uploads/2014/12/soup-168x300.jpg)
-
-
-[Beef Bourguignon](https://jeffbreece.com/beef-bourguignon/) ›

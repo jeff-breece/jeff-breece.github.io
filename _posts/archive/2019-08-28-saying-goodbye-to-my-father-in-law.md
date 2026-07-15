@@ -17,8 +17,6 @@ It is said that during the process of death a person puts one foot in the beyond
 
 My father in-law had four brothers and three sisters. One brother was the Bishop of Columbus and the other was a priest who was famous for being a champion of the poor and homeless. His sister Mary Lou was a free spirit and loved a good party. It’s rumored that she died with a cocktail in one hand and a cigarette in the other. Her post funeral gathering was the only true high spirited parties I’ve ever experienced. It was a mix of outrageous Opera folks, family and wild friends. It was a party that represented Mary Lou to the T. We were all there together as a family celebrating with her.
 
-![Uncles](https://jeffbreece.com/wp-content/uploads/2016/07/Uncles-300x207.png)
-
 There are parallels to my mother in-law’s stories of living in Linworth in the 60’s to living on Hunter Avenue with Eddie in the early ’90’s. Ed & Dee were a young couple starting a family back then. She spoke of the nights they’d party around the pick-nick table drinking beer with the neighbors talking into the late hours of the night. Waking up early to pick up the beer cans and clean out the ashtrays before the kids woke. Then there were our days in the crazy house on Hunter. It was a house divided into four shotgun style apartments. Over the course of 13 years we lived there so many of our friends became neighbors at various points that it’s hard to keep track of looking back. One thing was constant though, food, drink, art and laughter. From the moment I heard the Linworth story I had always wondered if it was some part of Eddie that he got from his parents. Living together with neighbors as friends. Good times.
 
 ![Family](/images/archive/wp-content/uploads/2016/07/Family-300x296.jpg)
@@ -30,8 +28,6 @@ We moved on to Clintonville from Hunter Ave shortly after 9/11. We wanted more s
 For those who think of Catholics as stodgy I have to say, you don’t know the Fulcher’s. They are humble to a fault and quick to lend a hand while sharing an infectious smile that usually morphs into a little laughter. It was with no surprise then that Eddie and I would often times end up going out on the town with Ed & Dee. We’d visit old favorite Italian restaurants of an earlier generation, pop into new hot spots in the Short North, or drop by a dive bar together and drink our fill as the evening turned purple then black. One night in particular we ended up at this place called Windward Passage. Famous for being a pick up spot for the senior crowd. It was a silver fox kind of place. Eddie called me at work while I was a sales rep for a wine company to meet he and his parents there one afternoon. When I was able to get there after my day I found all three of them lit up like lanterns but having the time of their lives. I caught up with them and had one of the best nights out in all my memory.
 
 Of course looking back further into the days when Eddie and I had just met. Maybe a couple years into our relationship as he was graduating from OSU with an undergrad in Fine Arts. It was his thesis show called Suburb which dealt with, you guessed it, growing up gay in the suburbs, where I have my first memories of Ed & Dee (and Mary Lou). It was the early 90’s and we were all so young. But love and chance brought us all together.
-
-![Houghton](https://jeffbreece.com/wp-content/uploads/2016/07/6262197549_78949b6a7b_b-300x200.jpg)
 
 Some of what I remember through Eddie are things like Ed used to make the family breakfast on Sunday mornings when they were growing up. They’d listen to music by Johnny Mathis. Whose album covers gave Eddie some of his first love for modern furniture with Johnny sitting all hip and smooth as glass in a butterfly chair. That he faced a bankruptcy from a failed business and bounced back from it carrying his family with a strength that would not stop by working two jobs. And never tired, was there for his kids after his shifts for what they needed. Stories that he and his sisters still giggled about where one year, for whatever reason, Ed took the kids out for back to school clothes instead of Dee. They all came back looking Brady Bunch groovy and ready to rock the 1970’s school halls that year. The story of Dee saving the first receipt from when she served this young soldier in the restaurant she worked in as a waitress in Houghton Michigan. She still has that receipt… and the soldier today.
 
@@ -49,56 +45,20 @@ Like so many parties he’s loved over his many years, we are all here to carry 
 
 ![Ed](/images/archive/wp-content/uploads/2016/07/Ed-90x300.png)
 
-
-[Magic Feather](https://jeffbreece.com/magic-feather/) ›
-
 ######  6 comments on “Saying goodbye to my father in-law” 
-
-  1. ![](https://secure.gravatar.com/avatar/c15de2ce57761ac443ac7b324e5f4f27?s=60&d=mm&r=g) Nick says:
-
-[ July 28, 2016 at 10:03 pm](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/#comment-579)
 
 Beautifully told and a wonderful tribute to Ed and the Fulcher family,  
 Bravo!
 
-[Reply](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/?replytocom=579#respond)
-
-  2. ![](https://secure.gravatar.com/avatar/5655b94e8797492f5a44568776346a17?s=60&d=mm&r=g) jaybee says:
-
-[ July 28, 2016 at 11:14 pm](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/#comment-580)
-
 What a beautiful tribute to the Fulcher’s. You have put a lot of thought into this story and found a lot of memories to help comfort all of you through the weeks ahead.
-
-[Reply](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/?replytocom=580#respond)
-
-  3. ![](https://secure.gravatar.com/avatar/8726581125dbccb92fe76a7e35e67616?s=60&d=mm&r=g) David says:
-
-[ July 28, 2016 at 11:40 pm](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/#comment-581)
 
 Beautiful Jeff. I’m in tears yet strangely joyful. Really hit home
 
-[Reply](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/?replytocom=581#respond)
-
-  4. ![](https://secure.gravatar.com/avatar/acff76be2943b87dbaf1cb238e1cfc1b?s=60&d=mm&r=g) Lora says:
-
-[ July 28, 2016 at 11:58 pm](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/#comment-582)
-
 Beautiful Jeff. A tribute to a life well lived and loved.
-
-[Reply](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/?replytocom=582#respond)
-
-  5. ![](https://secure.gravatar.com/avatar/87273219b14c724f297ed99e0aa32f78?s=60&d=mm&r=g) Lex says:
-
-[ July 29, 2016 at 12:54 am](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/#comment-583)
 
 This is absolutely beautiful. I am the luckiest girl to have the most amazing family❤️ Thank you for this, Jeff.
 
-[Reply](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/?replytocom=583#respond)
-
   6. ![](https://secure.gravatar.com/avatar/a0007c79933de6a9eb426d9dc94ff1ef?s=60&d=mm&r=g) Terri Niehaus says:
-
-[ July 29, 2016 at 2:47 am](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/#comment-584)
 
 Beautifully done, Jeff. Very touching.
 
-[Reply](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/?replytocom=584#respond)

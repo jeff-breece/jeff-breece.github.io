@@ -30,15 +30,11 @@ Brownies ([source](http://www.epicurious.com/recipes/food/views/Cappuccino-Brown
   * 1/4 teaspoon salt
   * 3/4 cup all-purpose flour
 
-
-
 Chocolate Ganache ([source](http://www.epicurious.com/recipes/food/views/Dark-Chocolate-Ganache-367229)):
 
   * 6 ounces high-quality dark chocolate chopped
   * 5 tablespoons heavy whipping cream
   * 1/4 teaspoon ground cinnamon
-
-
 
 Process
 
@@ -48,8 +44,6 @@ Brownies:
   2. Stir butter and chocolate in heavy large saucepan over very low heat until chocolate is melted. Remove from heat; whisk in sugar, then eggs, 1 at a time. Whisk in espresso powder, vanilla, and salt; sift flour over and stir to blend well. Transfer batter to prepared pan.
   3. Bake brownies until puffed and dry-looking and tester inserted into center comes out with some moist batter attached, about 35 minutes; cool completely in pan on rack.
 
-
-
 Chocolate Ganache:
 
   1. Put the chocolate chips in a large heatproof bowl.
@@ -58,10 +52,3 @@ Chocolate Ganache:
   4. Add the butter and stir until smooth and shiny.
   5. Place plastic wrap directly over the surface to prevent a skin from forming, then let stand at room temperature overnight to cool.
   6. Store in the refrigerator, covered, for up to three weeks.
-
-
-
-![Pecan-Brownie](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie-168x300.jpg) ![Pecan-Brownie-Ganache](https://jeffbreece.com/wp-content/uploads/2014/04/Pecan-Brownie-Ganache-168x300.jpg)
-
-
-[Blueberry Pie](https://jeffbreece.com/blueberry-pie/) ›

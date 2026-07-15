@@ -41,20 +41,12 @@ There was another passage in the Levine book about dying “One Year to Live” 
 
 All five of us walked away from that table as friends who had something amazing in common that day. Love. That is the strange gift inside of any life threatening condition however… and the journey you take to find it and bring it back home.
 
-![all-good-cafe-deep-ellum](https://jeffbreece.com/wp-content/uploads/2016/11/20161106_091656-225x300.jpg) ![selfie](https://jeffbreece.com/wp-content/uploads/2016/11/20161106_085150-300x220.jpg) ![northpark-dallas](https://jeffbreece.com/wp-content/uploads/2016/11/20161105_191218-300x225.jpg) ![dart-dallas](https://jeffbreece.com/wp-content/uploads/2016/11/20161105_175023-300x225.jpg) ![thanksgiving-square](https://jeffbreece.com/wp-content/uploads/2016/11/20161105_173833-300x225.jpg) ![downtown-dalals](https://jeffbreece.com/wp-content/uploads/2016/11/20161105_172940-300x225.jpg) ![katy-trail-dallas](https://jeffbreece.com/wp-content/uploads/2016/11/20161105_163803-300x225.jpg)
-
-
-[New Orleans with the AHA](https://jeffbreece.com/new-orleans-with-the-aha/) ›
-
 ######  One comment on “The journey home” 
 
   1. ![](https://secure.gravatar.com/avatar/1bbf7206bd8800b485c28e3a24935578?s=60&d=mm&r=g) Nicholas E. Felt says:
-
-[ November 11, 2016 at 8:32 pm](https://jeffbreece.com/the-journey-home/#comment-634)
 
 As always-Jeff a wonderful post and I love the pictures as it renews memories of wonderful times in Dallas over the holidays.  
 I am so so proud of you- 
 
 All my love-Nick
 
-[Reply](https://jeffbreece.com/the-journey-home/?replytocom=634#respond)

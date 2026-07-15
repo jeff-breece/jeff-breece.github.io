@@ -31,8 +31,6 @@ Ingredients
   * 1 tbsp. Sriracha
   * 1 tbsp. cognac
 
-
-
 Process
 
   1. Melt the butter in a sauce pan over medium low heat
@@ -42,8 +40,3 @@ Process
   5. Whisk in the cognac, to give it a little extra something.
   6. Pour the stock in slowly whisking until smooth then adding more until finished.
   7. You may add a little more heat on the burner to the tune of a tick to help the gravy form a perfect consistency
-
-
-
-
-[Pumpkin Pie](https://jeffbreece.com/pumpkin-pie/) ›

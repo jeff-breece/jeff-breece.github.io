@@ -353,7 +353,4 @@ The second code example reads from a pre-built CSV file containing metadata info
 
 It should be noted these scripts could be modified to work with Office 365 and SharePoint Online using REST calls versus the SharePoint API I used.
 
-
-[A family 15k](https://jeffbreece.com/a-family-15k/) ›
-
 Tagged with: [PowerShell](https://jeffbreece.com/tag/powershell/), [SharePoint](https://jeffbreece.com/tag/sharepoint-2/)

@@ -38,8 +38,6 @@ Ingredients
   * 2 Tbsp Bragqs Liquid Aminos (using this as a salt substitute in lieu of white miso from the original recipe)
   * 1/4 cup dry white wine
 
-
-
 Process
 
   1. Stem and wash the greens then air dry for 20 minutes.
@@ -53,11 +51,6 @@ Process
   9. Move in batches to a powerful blender and puree.
   10. Serve with crostini or good toasted bread with a little Ricotta and freshly sliced tomatoes with a little olive oil drizzle.
 
-
-
 ![Fresh-Greens](/images/archive/wp-content/uploads/2015/06/Greens-165x300.jpg) ![Green-Soup](/images/archive/wp-content/uploads/2015/06/GreenSoup-168x300.jpg)
-
-
-[Fireflies and 5ks](https://jeffbreece.com/fireflies-and-5ks/) ›
 
 Tagged with: [heart health](https://jeffbreece.com/tag/heart-health/), [low sodium](https://jeffbreece.com/tag/low-sodium/), [vegetarian](https://jeffbreece.com/tag/vegetarian/)

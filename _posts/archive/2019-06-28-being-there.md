@@ -40,8 +40,3 @@ We all know that keeping our cool and presenting ourselves in a professional man
 There’s an old 1970’s movie called “Being There” which is what this post is titled after. The main character is an ambiguously functional individual who you never know if he’s intellectually disabled or not. But he proceeds to shine in various high profile situations and even walks on water at the end of the film. The moral of the film as they state is that “life is a state of mind.” It’s a great metaphor in relation to using tools that help us communicate with each other while being totally present at the same time.
 
 It takes a good story teller, a great listener and a present mind to make ourselves, and all around us, successful.
-
-![being-there](https://jeffbreece.com/wp-content/uploads/2016/11/beingthere1-1024x576.jpg)
-
-
-[It begins](https://jeffbreece.com/it-begins/) ›

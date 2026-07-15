@@ -29,25 +29,11 @@ As an even earlier version of myself who studied forestry might have said, pruni
 
 I still have my Great Aunt’s spoon rest… and use it every day.
 
-![books](https://jeffbreece.com/wp-content/uploads/2014/03/books-300x168.jpg)
-
-
-[Grackles in Dallas](https://jeffbreece.com/grackles-in-dallas/) ›
-
 ######  2 comments on “On stuff & storage” 
-
-  1. ![](https://secure.gravatar.com/avatar/be00c65c608050ac06c6f95492e135f2?s=60&d=mm&r=g) Elaine says:
-
-[ March 24, 2014 at 11:38 pm](https://jeffbreece.com/on-stuff-storage/#comment-35)
 
 What a great post. I can definitely relate. I’ve been trying to purge some of my “stuff” and making a little progress, but it is hard!
 
-[Reply](https://jeffbreece.com/on-stuff-storage/?replytocom=35#respond)
-
      * ![](https://secure.gravatar.com/avatar/e0ec49ea47c3c9e70f0f0098fd1a4d12?s=60&d=mm&r=g) [Jeff Breece](https://jeffbreece.com/) says:
-
-[ March 25, 2014 at 1:31 am](https://jeffbreece.com/on-stuff-storage/#comment-36)
 
 Thank you Elaine!
 
-[Reply](https://jeffbreece.com/on-stuff-storage/?replytocom=36#respond)

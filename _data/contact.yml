@@ -2,6 +2,7 @@
   icon: "fab fa-github"
 - type: email
   icon: "fas fa-envelope"
+  url: "mailto:jeffbreece@outlook.com"
 - type: linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/jeffrey-a-breece"

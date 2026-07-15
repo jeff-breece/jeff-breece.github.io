@@ -37,8 +37,6 @@ Ingredients
   * ½ cup grated pecorino romano cheese
   * Or use puréed cooked or frozen butternut squash. Two butternut squash will yield about 3½ cups puréed squash.
 
-
-
 Process
 
   1. In a large pot, sauté the onions in the oil for 5 minutes.
@@ -56,11 +54,6 @@ Process
   13. Cover and bake for 50 minutes. Uncover and bake for an additional 10 minutes, until the lasagna is bubbly, the noodles are tender, and the top is browned.
   14. Remove from the oven and let stand for about 10 minutes before serving.
 
-
-
-[![20151005_201252](/images/archive/wp-content/uploads/2015/10/20151005_201252-168x300.jpg)](/images/archive/wp-content/uploads/2015/10/20151005_201252.jpg) ![Suteed mushrooms and pumkin ricotta blend](https://jeffbreece.com/wp-content/uploads/2015/10/20151005_185204-300x168.jpg)
-
-
-[Eggplant Involtini](https://jeffbreece.com/eggplant-involtini/) ›
+[![20151005_201252](/images/archive/wp-content/uploads/2015/10/20151005_201252-168x300.jpg)](/images/archive/wp-content/uploads/2015/10/20151005_201252.jpg) 
 
 Tagged with: [vegetarian](https://jeffbreece.com/tag/vegetarian/)

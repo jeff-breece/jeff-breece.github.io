@@ -32,8 +32,6 @@ Ingredients
   * 1 cup chopped pecans
   * 1/3 cup melted butter
 
-
-
 Process
 
   1. Preheat oven to 350 degrees.
@@ -45,10 +43,3 @@ Process
   7. Add butter and stir until smooth but don’t over blend.
   8. Pour into prepared pans in middle of oven and bake for 1 hour.
   9. Cool in pans for 15 minutes then cool on racks.
-
-
-
-![zucchini-bread-prep](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-prep-168x300.jpg) ![zucchini-bread-done](https://jeffbreece.com/wp-content/uploads/2014/04/zucchini-bread-done-168x300.jpg)
-
-
-[Stir Trek 2014](https://jeffbreece.com/stir-trek-2014/) ›

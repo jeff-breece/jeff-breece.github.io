@@ -36,8 +36,6 @@ Ingredients
   * Chopped green onions
   * Coarsely grated extra-sharp cheddar cheese
 
-
-
 Preparation
 
   * Sauté beef in heavy large pot over medium-high heat until no longer pink, breaking up with spoon, about 8 minutes.
@@ -52,9 +50,4 @@ Preparation
   * Season with salt and pepper.
   * Ladle chili into bowls. Serve with sour cream, green onions, and cheese.
 
-
-
 ![Chili](/images/archive/wp-content/uploads/2014/12/Chili.png)
-
-
-[Pineapple Upside-Down Cake](https://jeffbreece.com/pineapple-upside-down-cake/) ›

@@ -37,23 +37,11 @@ Mix the following and pour into 2 16 oz PCB free bottles for the running or bike
   * 2 tablespoons lime juice
   * Pinch of salt
 
-
-
-![Maple Syrup](https://jeffbreece.com/wp-content/uploads/2015/10/buckets-300x213.jpg)
-
 ![Go Forth and Have No Fear](/images/archive/wp-content/uploads/2015/10/20151024_203840-168x300.jpg)
-
-
-[SharePoint Document Migration](https://jeffbreece.com/sharepoint-document-migration/) ›
 
 Tagged with: [heart health](https://jeffbreece.com/tag/heart-health/), [vegetarian](https://jeffbreece.com/tag/vegetarian/)  
 
-
 ######  One comment on “Maple Syrup Recovery Drinks and Courage to Change” 
-
-  1. ![](https://secure.gravatar.com/avatar/c15de2ce57761ac443ac7b324e5f4f27?s=60&d=mm&r=g) Nick says:
-
-[ October 25, 2015 at 1:39 am](https://jeffbreece.com/maple-syrup-recovery-drinks-and-courage-to-change/#comment-486)
 
 Nice posting-I can remember going on a field trip when I was in elementary school to collect maple syrup.  
 Takes me back….
@@ -61,4 +49,3 @@ Takes me back….
 Thanks Jeff and you inspire all of us every day-  
 Love, Nick
 
-[Reply](https://jeffbreece.com/maple-syrup-recovery-drinks-and-courage-to-change/?replytocom=486#respond)

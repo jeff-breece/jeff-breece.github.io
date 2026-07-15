@@ -55,8 +55,5 @@ Ezekiel 4:9, Bread, Sesame | Snacks | 1 | Slice | 80
 Country Dijon | Snacks | 0.25 | Teaspoon | 1  
 Chocolate, Dark Mint | Snacks | 8 | Pieces | 153  
 |  |  | Total | 2035  
-  
-
-[Cardio](https://jeffbreece.com/cardio-16/) ›
 
 Tagged with: [heart health](https://jeffbreece.com/tag/heart-health/), [low sodium](https://jeffbreece.com/tag/low-sodium/)

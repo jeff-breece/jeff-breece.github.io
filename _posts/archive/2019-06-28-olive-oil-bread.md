@@ -42,6 +42,3 @@ Lightly brush top of the loaf with milk and sprinkle with kosher salt.
 Bake for 30 minutes or until cooked… should make a nice thumping sound when you tap it.
 
 ![](/images/archive/site/assets/images/blog_assets/OliveOilBread.png)
-
-
-[Chicken & Udon Noodles with hatch chillies.](https://jeffbreece.com/chicken-udon-noodles-with-hatch-chillies/) ›

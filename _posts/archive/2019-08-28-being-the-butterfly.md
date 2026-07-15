@@ -25,8 +25,3 @@ It’s all in how we look at ourselves and those around us. I know this from exp
 So I worked that Nader line of thought into one of my corporate training efforts recently. It was a device to show people that they can, collaboratively, effect change and innovation. And just like with people, those shifts within an organization usually make things better. All it takes is, as Nader stated, five women at a table to start the Womens’ right to vote movement in the 1800‘s. They didn’t live to see it come to pass. But the winds of change they created made it happen.
 
 Like Solnit says… history is like weather.
-
-![butterfly](https://jeffbreece.com/wp-content/uploads/2017/01/butterfly-300x79.jpg)
-
-
-[First group meditation](https://jeffbreece.com/first-group-meditation/) ›

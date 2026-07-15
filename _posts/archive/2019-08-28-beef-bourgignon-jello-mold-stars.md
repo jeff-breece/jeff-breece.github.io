@@ -33,6 +33,3 @@ We spent the evening with Nick at Dodd Hall tonight. Eddie cooked up some of the
 While I am not a Christian, I enjoy this time of year for the coming together of family and friends. As a time to remember our departed loved ones and to celebrate and be thankful for another year together. With all of the challenges that 2017 brought, both scheduled and the surprises that lay in store for us, I am writing this with wishes to all my friends and family of love, warmth, enough to get by and find enjoyment within.
 
 Merry Christmas one and all.
-
-
-[12 months the man](https://jeffbreece.com/12-months-the-man/) ›

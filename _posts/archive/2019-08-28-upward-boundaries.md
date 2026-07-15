@@ -20,6 +20,3 @@ Since this is mostly an Info Path and SPList solution we’ve been fishing throu
 We ended up with a full blown, well documented SharePoint 2010 solution after all. Several Visual Studio sequential workflows, an event receiver, a couple application pages, a robust InfoPath template leveraging the declarative rules engine along with a fully featured VSTO code behind. All this supporting a large number of transactions, which in the end, puts money in peoples pockets.
 
 There is always a time and a place for various strategies. As our application supported larger and larger numbers of people, refactoring out the no code paradigm aspects has definitely proved worth the effort. Both to improve performance and scale to larger use thresholds.
-
-
-[InfoPath & jQuery backed forms](https://jeffbreece.com/goodbye-info-path-hello-jquery/) ›

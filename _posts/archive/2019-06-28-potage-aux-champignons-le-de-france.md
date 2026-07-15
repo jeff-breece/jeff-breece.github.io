@@ -31,8 +31,6 @@ Ingredients
   * Lemon juice
   * 2 – 3 tbsp. chopped tarragon
 
-
-
 Process (adjusted)
 
   * Wash and trim mushrooms then set aside.
@@ -47,8 +45,6 @@ Process (adjusted)
   * Add the sliced mushrooms simmer on low for 10 minutes.
   * Turn heat off but leave on burner and rest for 30 minutes.
 
-
-
 To Serve
 
   * Bring soup to a medium simmer.
@@ -57,10 +53,3 @@ To Serve
   * Blend in freshly chopped tarragon, white pepper, salt to taste.
   * Carefully add in lemon juice by drops to give it a hint of acid.
   * Serve with warm bread and a good Pinot Noir.
-
-
-
-![Potage aux champignons, Île de France](https://jeffbreece.com/wp-content/uploads/2014/03/MushroomSoup-168x300.jpg)
-
-
-[Train Sounds](https://jeffbreece.com/train-sounds/) ›

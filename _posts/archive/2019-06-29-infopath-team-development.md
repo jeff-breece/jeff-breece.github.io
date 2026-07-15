@@ -24,8 +24,3 @@ What do you do with an InfoPath Designer XSN when you have more than one develop
 This document “[InfoPath Team Development](https://jeffbreece.com/site/files/InfoPathTeamDevelopment.docx)” explains how I introduced parallel development into our shop. The methodology I pulled from existing web examples which I turned into a PowerShell script is viewable as a text download as “[MakeDirectiveFile](https://jeffbreece.com/site/files/MakeDirectiveFile.txt).”
 
 The Word Document explains how to roll XSN’s like marbles.
-
-![](https://jeffbreece.com/site/files/vc-concepts.png)
-
-
-[InfoPath & jQuery backed forms](https://jeffbreece.com/goodbye-info-path-hello-jquery/) ›

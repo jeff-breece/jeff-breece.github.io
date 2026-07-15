@@ -41,9 +41,4 @@ Rack up the asparagus
 Smother in cheese sauce and bake for 6 to 8 minutes  
 Serve
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/asparagus_prep.jpg)
-
 ![](/images/archive/site/assets/images/blog_assets/asparagus_finished.jpg)
-
-
-[Le gâteau de Zoé](https://jeffbreece.com/le-gateau-de-zoe/) ›

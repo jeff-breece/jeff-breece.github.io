@@ -31,11 +31,4 @@ Directions
 5 Bake at 355 for 15 to 17 minutes.  
 6 Serve with the single cream, slightly whipped, sugared with a drop of orange blossom water.
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/DSCN1478.JPG)
-
 ![](/images/archive/site/assets/images/blog_assets/DSCN1479.JPG)
-
-![](https://jeffbreece.com/site/assets/images/blog_assets/DSCN1481.JPG)
-
-
-[Shepherd’s Pie](https://jeffbreece.com/shepherds-pie/) ›

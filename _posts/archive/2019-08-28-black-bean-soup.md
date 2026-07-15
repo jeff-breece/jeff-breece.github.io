@@ -22,8 +22,6 @@ Sadly Bruce died in [2005](http://www.shortnorth.com/BruceHildreth.html) but his
 
 While I’m no chef, I do get lucky in the kitchen now and again. So, back to soup.
 
-![black-bean-prep](https://jeffbreece.com/wp-content/uploads/2014/11/BlackBeanPrep-300x168.jpg)
-
 _The following recipe was adjusted for what I had on hand.  
 _
 
@@ -40,8 +38,6 @@ Ingredients
   * Salt and fresh ground pepper
   * Sour cream, chopped flat leaf parsley & grated gouda cheese for garnish
 
-
-
 Process
 
   1. Sautee the onions in oil within a deep sauté pan over medium heat until softened.
@@ -52,9 +48,4 @@ Process
   6. Pour puree back into soup.
   7. Serve with garnish.
 
-
-
 Can be refrigerated for 2 days ahead of time and freezes well.
-
-
-[Pumpkin Protein Bars](https://jeffbreece.com/pumpkin-protein-bars/) ›

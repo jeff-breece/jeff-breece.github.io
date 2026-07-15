@@ -39,10 +39,3 @@ When squash is tender purée in batches ala Cuisinart
 Add back to pot and stir in heavy cream  
 Add Parmesan cheese  
 Serve
-
-![](https://jeffbreece.com/site/assets/images/blog_assets/DSCN1218.JPG)
-
-![](https://jeffbreece.com/site/assets/images/blog_assets/DSCN1220.JPG)
-
-
-[Peppers!](https://jeffbreece.com/peppers/) ›

@@ -30,6 +30,3 @@ It reminds me of a guy I met over the weekend while camping. We were exchanging 
 My own gratitude practice has taught me that I’m grateful for love, friendship, campfires, life and the most important thing of all… possibility.
 
 ![](/images/archive/wp-content/uploads/2018/07/20180702_071547-300x225.jpg)
-
-
-[Tools for dealing with anxiety](https://jeffbreece.com/tools-for-dealing-with-anxiety/) ›

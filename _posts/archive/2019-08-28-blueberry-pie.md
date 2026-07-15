@@ -17,8 +17,6 @@ Our June copy of “Southern Living” came when blueberries still cost a small 
 
 Inevitably mom and I were texting one another with the pie conversation. I was really flattered to hear she made one as well.
 
-![Red White & Boom 2014](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4412-300x225.jpg)
-
 Ingredients
 
   * 7 cups fresh blueberries
@@ -33,8 +31,6 @@ Ingredients
   * 2 tablespoons butter, cut into 1/4-inch cubes
   * 1 large egg
 
-
-
 Process
 
   1. Prepare Filling: Place 1 cup blueberries in a large bowl; crush blueberries with a wooden spoon. Stir cornstarch and vinegar into crushed berries until cornstarch dissolves. Stir sugar, next 5 ingredients, and remaining 6 cups blueberries into crushed berry mixture.
@@ -43,11 +39,4 @@ Process
   4. Re-roll remaining dough, and cut into 6 (9- x 1/2-inch) strips. Twist together 2 strips at a time. Whisk together egg and 1 Tbsp. water. Brush a small amount of egg mixture around edge of pie. Arrange twisted strips around edge of pie, pressing lightly to adhere. Brush entire pie with remaining egg mixture. Freeze 20 minutes or until dough is firm.
   5. Preheat oven to 425°. Bake pie on an aluminium foil-lined baking sheet 20 minutes. Reduce oven temperature to 375°, and bake 20 more minutes. Cover pie with aluminium foil to prevent excessive browning, and bake 25 to 30 more minutes (65 to 70 minutes total) or until crust is golden and filling bubbles in center. Remove from baking sheet to a wire rack; cool 12 hours before serving.
 
-
-
 Julie Grimes, “Southern Living” June 2014
-
-![Blueberry Pie](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4427-300x225.jpg)
-
-
-[Shrimp & Scallop Soup](https://jeffbreece.com/shrimp-scallop-soup/) ›

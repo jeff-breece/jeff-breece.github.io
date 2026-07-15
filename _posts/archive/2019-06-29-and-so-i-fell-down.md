@@ -38,22 +38,13 @@ I had a pep talk with myself last week. Bucked up and got an x ray of my ankle. 
 
 Failure is a gift. Sometimes it gives us the lesson we need when we need it most. So here’s to stupid choices and looking optimistically forward.
 
-
-[We are our own Army](https://jeffbreece.com/we-are-our-own-army/) ›
-
 ######  3 comments on “And so I fell down” 
 
   1. ![](https://secure.gravatar.com/avatar/20f34ec9d6092ab493dcad310d26fd08?s=60&d=mm&r=g) Jennifer in South Carolina says:
 
-[ August 25, 2016 at 4:25 pm](https://jeffbreece.com/and-so-i-fell-down/#comment-603)
-
 I’ve also had a disappointing setback. I had been training a lot all summer (Spin, cardio, weight lifting, boxing). I hadn’t any weight but definitely noticing increased strength and endurance and clothes fitting better. Had a follow up nuclear stress test last week and felt confident during the treadmill part. Did some running on the treadmill, went for the full test, no chest pain. But then later found out that there was something abnormal in my heart scans. Have to have another heart cath Monday. Ugh. Disappointment. Could be a problem with my stent or a new problem. I guess the point is that we all have our challenges — must keep pushing and pushing through them. Sending all the best to you and your husband!
 
-[Reply](https://jeffbreece.com/and-so-i-fell-down/?replytocom=603#respond)
-
      * ![](https://secure.gravatar.com/avatar/e0ec49ea47c3c9e70f0f0098fd1a4d12?s=60&d=mm&r=g) [Jeff Breece](https://jeffbreece.com/) says:
-
-[ August 25, 2016 at 6:00 pm](https://jeffbreece.com/and-so-i-fell-down/#comment-604)
 
 Jennifer,
 
@@ -61,12 +52,7 @@ Thanks for your very on point comment. Good luck with your current hurdle and ge
 
 Jeff
 
-[Reply](https://jeffbreece.com/and-so-i-fell-down/?replytocom=604#respond)
-
   2. ![](https://secure.gravatar.com/avatar/20f34ec9d6092ab493dcad310d26fd08?s=60&d=mm&r=g) Jennifer in South Carolina says:
-
-[ August 25, 2016 at 9:23 pm](https://jeffbreece.com/and-so-i-fell-down/#comment-605)
 
 Yes, and get that ankle better! I admire you so much for developing a love for running. I wish that would happen to me! 🙂
 
-[Reply](https://jeffbreece.com/and-so-i-fell-down/?replytocom=605#respond)

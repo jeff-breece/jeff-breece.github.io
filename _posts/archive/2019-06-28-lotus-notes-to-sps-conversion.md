@@ -19,6 +19,3 @@ After analyzing the Notes db through a SQL lens I got a feel for the data set. I
 The second project is the 64 bit SharePoint Object model piece that uses the text data file and instantiates new Policy objects which are stored in a List collection. It then connects to SPS where we get a SPWeb and then create a SPListItemCollection which we use to create new List items from the data stored in the Policy collection. You can see this in the [SPImport](https://jeffbreece.com/site/files/SPSImport.txt) class excerpt (links to a text file).
 
 The code was just a utility which we used several times over on different databases through the Summer during our conversion process from Notes to SharePoint versus buying a product we’d used for a time and then archive.
-
-
-[SPS document attributes](https://jeffbreece.com/sps-document-attributes/) ›

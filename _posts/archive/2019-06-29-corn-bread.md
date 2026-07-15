@@ -25,8 +25,6 @@ Cornbread Ingredients
   * 2 large eggs, lightly beaten
   * 1 1/2 cups buttermilk
 
-
-
 Cornbread Process
 
   1. Preheat the oven to 425 degrees F.
@@ -37,10 +35,3 @@ Cornbread Process
   6. Pour the batter into the prepared baking dish.
   7. Bake until the top is golden brown and tester inserted into the middle of the corn bread comes out clean, about 20 to 25 minutes.
   8. Remove the cornbread from the oven and let it cool for 10 minutes before serving.
-
-
-
-![CornBread](https://jeffbreece.com/wp-content/uploads/2014/12/CornBread-300x225.png)
-
-
-[Dark Beer Chili](https://jeffbreece.com/dark-beer-chili/) ›

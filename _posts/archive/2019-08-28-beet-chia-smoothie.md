@@ -23,15 +23,8 @@ Ingredients
   * 2 scoops French vanilla whey protein
   * filtered water.
 
-
-
 Process
 
   1. Blend until smooth throwing in a few ice cubes and down the mix.
 
-
-
 ![Smoothie](/images/archive/wp-content/uploads/2014/11/Smoothie-168x300.jpg)
-
-
-[Corn Bread](https://jeffbreece.com/corn-bread/) ›

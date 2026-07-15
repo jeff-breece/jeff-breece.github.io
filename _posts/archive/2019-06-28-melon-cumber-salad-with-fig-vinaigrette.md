@@ -27,8 +27,6 @@ Ingredients
   * Goat cheese
   * Mint
 
-
-
 Process
 
   1. Trim the skin of the English cucumbers and slice into ¼ inch rounds.
@@ -37,9 +35,4 @@ Process
   4. Drizzle the dressing all around and toss gently.
   5. Crumble goat cheese all around and garnish with chopped mint.
 
-
-
 ![Melon-Cucumber-Fig-Salad](/images/archive/wp-content/uploads/2014/04/Melon-Cucumber-Fig-Salad.png)
-
-
-[Cocoa Brownies with Chocolate Ganache & Pecans](https://jeffbreece.com/cocoa-brownies-with-chocolate-ganache-pecans/) ›
