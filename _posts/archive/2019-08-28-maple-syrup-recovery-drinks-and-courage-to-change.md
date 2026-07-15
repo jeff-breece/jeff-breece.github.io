@@ -13,6 +13,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/maple-syrup-recovery-drinks-and-courage-to-change/"
+image:
+  path: /images/unsplash/maple-syrup-recovery-drinks-and-courage-to-change.jpg
+  alt: "Maple Syrup Recovery Drinks and Courage to Change. Photo by Snap Wander on Unsplash"
 ---
 
 _This post is dedicated to my team at Grant Heart Health Center and the folks who have encouraged and inspired me to run… and of course Eddie. “Go Forth and Have no Fear”_
