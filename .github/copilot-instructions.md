@@ -17,7 +17,10 @@ bundle exec jekyll serve --livereload
 
 ## CI
 
-`.github/workflows/jekyll-docker.yml` — currently using Docker build. **Needs update** to Chirpy's GitHub Actions deploy workflow before pushing to `main`. The old workflow verified Minima-specific CSS selectors that no longer apply.
+`.github/workflows/deploy.yml` — ruby/setup-ruby + configure-pages + deploy-pages.
+Triggers on push to `main`. Build is verified before deploy. `jekyll-docker.yml` is deleted.
+GitHub's automatic "pages build and deployment" workflow will always fail — this is expected;
+it uses an incompatible Docker builder. Suppress it via Settings → Pages → Source → GitHub Actions.
 
 ## Architecture
 
