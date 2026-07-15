@@ -11,8 +11,16 @@ layout: default
   <div class="gallery-grid-index">
     {% for gallery in site.data.galleries %}
       <a class="gallery-card" href="{{ '/gallery/' | append: gallery.slug | append: '/' | relative_url }}">
-        <div class="gallery-card-image">
-          <img src="{{ gallery.cover | relative_url }}" alt="{{ gallery.title }}" loading="lazy">
+        {% comment %}
+          Use CSS background-image here — NOT <img>.
+          Chirpy's refactor-content.html wraps every <img> inside an <a> with a popup
+          lightbox anchor. Since .gallery-card is already an <a>, that produces nested
+          <a> tags (invalid HTML) and breaks the card layout.
+        {% endcomment %}
+        <div class="gallery-card-image"
+             style="background-image: url('{{ gallery.cover | relative_url }}');"
+             role="img"
+             aria-label="{{ gallery.title }}">
         </div>
         <div class="gallery-card-info">
           <h2>{{ gallery.title }}</h2>
