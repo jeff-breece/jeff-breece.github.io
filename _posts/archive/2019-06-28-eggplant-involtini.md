@@ -10,6 +10,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/eggplant-involtini/"
+image:
+  path: /images/unsplash/eggplant-involtini.jpg
+  alt: "Eggplant Involtini. Photo from Unsplash"
 ---
 
 Eddie made Eggplant Involtini from “[The Complete Vegetarian Cookbook](http://www.amazon.com/Complete-Vegetarian-Cookbook-Americas-Kitchen/dp/1936493969/ref=sr_1_1?ie=UTF8&qid=1444176328&sr=8-1&keywords=Americas+test+kitchen+vegetarian)” tonight. I threw in a rainbow chard, arugula, currant and French radish salad with red wine vinaigrette. I think we both discovered a whole new reason to love eggplant.

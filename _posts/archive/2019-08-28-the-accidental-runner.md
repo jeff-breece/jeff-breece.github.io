@@ -12,6 +12,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/the-accidental-runner/"
+image:
+  path: /images/unsplash/the-accidental-runner.jpg
+  alt: "The accidental runner. Photo from Unsplash"
 ---
 
 This is a story about a man who had not worn running shoes since he was 17… until last year after a surprise heart attack.

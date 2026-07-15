@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/butternut-squash-soup/"
+image:
+  path: /images/unsplash/butternut-squash-soup.jpg
+  alt: "Butternut Squash Soup. Photo from Unsplash"
 ---
 
 Super Bowl Sunday dinner option … butternut squash soup with toasted bread and a salad.

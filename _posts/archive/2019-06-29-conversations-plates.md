@@ -11,6 +11,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/conversations-plates/"
+image:
+  path: /images/unsplash/conversations-plates.jpg
+  alt: "Conversations & Plates. Photo from Unsplash"
 ---
 
 This is not a restaurant review but it’s definitely a personal footnote on a recent experience I had the pleasure of enjoying at [Harvest Pizza](http://harvestpizzeria.com/menu/german-village/).

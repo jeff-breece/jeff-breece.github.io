@@ -10,6 +10,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/how-president-elect-trump-changed-my-social-media-practices/"
+image:
+  path: /images/unsplash/how-president-elect-trump-helped-me-rediscover-my-center.jpg
+  alt: "How President Elect Trump helped me rediscover my center. Photo from Unsplash"
 ---
 
 Like most of the Country I was just as shocked as everyone else was when Trump became the next in line to become the 45th President of the US. My initial reaction was in tune with my normal posture of optimism with the vantage point of politics not being, directly, about us. As such whatever happens-happens and is not worth getting all whipped up over. That lasted for a couple days as everyone else began to cry, gloat, shout, protest and scream around me.

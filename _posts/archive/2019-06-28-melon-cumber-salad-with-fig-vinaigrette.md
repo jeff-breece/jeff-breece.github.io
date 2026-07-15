@@ -11,6 +11,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/melon-cumber-salad-with-fig-vinaigrette/"
+image:
+  path: /images/unsplash/melon-cumber-salad-with-fig-vinaigrette.jpg
+  alt: "Melon & Cumber salad with Fig Vinaigrette. Photo from Unsplash"
 ---
 
 This was a lovely little something fresh to go with our Easter dinner yesterday. Great cheese, homemade bread, dessert with a humble story to come and, of course, a honey glazed spiral cut smoked ham. Back to the salad though…

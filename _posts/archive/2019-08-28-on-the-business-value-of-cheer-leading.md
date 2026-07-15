@@ -9,6 +9,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/on-the-business-value-of-cheerleading/"
+image:
+  path: /images/unsplash/on-the-business-value-of-cheer-leading.jpg
+  alt: "On the business value of cheer leading. Photo from Unsplash"
 ---
 
 I once worked in a shop that had stagnated so badly there were attitude problems to be found in every corner. Even the executives joked about the dangers of crossing between the IT department to “the coven in accounting.” The funny thing is that the building was full of good people. One talented woman comes to mind when I think of that place. She was open to learning new things but given the atmosphere she allowed her self esteem to degrade. In the end she was little more than the butt of her peers jokes… which just killed all her motivation. When I left, I took with me the lessons I learned in this dismal shop. These turned into my practices on how best to improve productivity which is the problem you solve in the process. And this _always_ starts with the people you sit next to every day at work.

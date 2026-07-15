@@ -11,6 +11,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/potage-aux-champignons-ile-de-france/"
+image:
+  path: /images/unsplash/potage-aux-champignons-le-de-france.jpg
+  alt: "Potage aux champignons, Île de France. Photo from Unsplash"
 ---
 
 Mushrooms remind me of a school teacher and her husband whom I used to work for in Cincinnati during the mid 1990’s. Together they assembled a distinct fine wine and craft beer portfolio which added greater variety to the food and wine culture of Ohio for many decades. In spring they would do humble but wonderful things like go to their farm in Indiana and harvest morels. Cooking mushrooms have such a complex earthy profile… it’s probably one of the sexiest aromas in the kitchen. Maybe a little spring fever there but it’s fitting.

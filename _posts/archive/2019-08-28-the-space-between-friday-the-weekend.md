@@ -11,6 +11,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/the-space-between-friday-the-weekend/"
+image:
+  path: /images/unsplash/the-space-between-friday-the-weekend.jpg
+  alt: "The space between Friday & the weekend. Photo from Unsplash"
 ---
 
 Its pizza night on a rainy Friday Ohio evening. I love going to Dante’s Pizza in Clintonville where Eddie and I used to live in the late part of the 2000’s. It’s a family run hole in the wall with, arguably, the best pizza in town. And even though I limit the amount of cheese I eat to once on a very rare occasion and then only in small amounts I still get a flavor of what I used to order.

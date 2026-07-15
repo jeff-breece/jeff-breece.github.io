@@ -10,6 +10,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/the-road-behind-and-the-one-ahead/"
+image:
+  path: /images/unsplash/the-road-behind-and-the-one-ahead.jpg
+  alt: "The road behind… and the one ahead. Photo from Unsplash"
 ---
 
 One source defines goal setting as “the process of identifying something that you want to accomplish and establishing measurable goals and time frames.” Looking back over 2016 I am thinking about flexibility more than goals.

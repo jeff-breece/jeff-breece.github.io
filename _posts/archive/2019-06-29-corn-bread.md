@@ -10,6 +10,9 @@ tags:
   - outdoors
 archived: true
 original_permalink: "https://jeffbreece.com/corn-bread/"
+image:
+  path: /images/unsplash/corn-bread.jpg
+  alt: "Corn Bread. Photo from Unsplash"
 ---
 
 This was made to go with the chili recipe that follows in a separate post. Nothing fancy but pretty good stuff.  

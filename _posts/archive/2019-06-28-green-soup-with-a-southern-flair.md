@@ -12,6 +12,9 @@ tags:
   - reflection
 archived: true
 original_permalink: "https://jeffbreece.com/greens-soup-with-a-southern-flair/"
+image:
+  path: /images/unsplash/green-soup-with-a-southern-flair.jpg
+  alt: "Green Soup with a Southern Flair. Photo from Unsplash"
 ---
 
 I’ve been going to the [Clintonville Farmers Market](http://www.clintonvillefarmersmarket.org/) for about a month now. Every week seeing something new as Spring eases into the beginnings of Summer in Ohio. Starting of course with a bumper crop of asparagus now giving way to turnips, beets, greens of all sorts, mushrooms, strawberries and such. With a gift of home grown Swiss Chard from a colleague in the fridge in mind I picked up turnips, yellow beets and kale this morning with a friend who made the trek on a cool Saturday morning.

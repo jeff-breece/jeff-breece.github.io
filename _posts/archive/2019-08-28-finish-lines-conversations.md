@@ -10,6 +10,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/finish-lines-conversations/"
+image:
+  path: /images/unsplash/finish-lines-conversations.jpg
+  alt: "Finish lines & conversations. Photo from Unsplash"
 ---
 
 It’s an amazing feeling to cross the finish line of any race. It can sometimes be that desperate push to the end of a grueling experience or like turning the last page in a favorite book.

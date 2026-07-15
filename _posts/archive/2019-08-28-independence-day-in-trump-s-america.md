@@ -11,6 +11,9 @@ tags:
   - running
 archived: true
 original_permalink: "https://jeffbreece.com/independence-day-in-trumps-america/"
+image:
+  path: /images/unsplash/independence-day-in-trump-s-america.jpg
+  alt: "Independence Day in Trump’s America. Photo from Unsplash"
 ---
 
 My husband came home tonight and told me a story of being at a convenience store with around six people in line earlier today. An African American man was managing the shop. While in line Eddie saw the manager approach one of the white male customers in a _very_ direct manner taking an item from his hand and telling him to “**get out**.” Evidently there was some previous infraction which caused this reaction. Eddie frequents this spot on a regular basis as it’s in the orbit of where he works. I should note the most shocking part here, this was in Clintonville.
