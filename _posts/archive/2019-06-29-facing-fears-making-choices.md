@@ -34,8 +34,3 @@ So today I saw my Dr. and got a second opinion which supported my cardiologist�
 While yes, life is a “one day at a time” kind of experience, I am taking a little bit of moment today to face an older but recent reaction to fear and challenge one of my own decisions. Now Esselstyne followers will probably say I signed my own death warrant but I am choosing to acknowledge yet let those ideas go. I want to accomplish something more, however. I want to hit my grave knowing that I loved myself enough to shout into the night sky and let the world know I am here.
 
 To the day where I am no longer here. I was here and had a full life because it was the only thing I have discovered that makes anything worthwhile about breathing. It’s the everything part of what is around us and how we let all of that energy into our hearts and minds and then share back out into the world that counts.
-
-![RAWR!!!](https://jeffbreece.com/wp-content/uploads/2017/10/mm15diceysituations-300x192.png)
-
-
-[Nick](https://jeffbreece.com/nick/) ›

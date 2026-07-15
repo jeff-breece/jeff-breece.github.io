@@ -16,13 +16,8 @@ I recently unearthed an audio track off of my Tascam recorder which we found in 
 
 Anyway, the mp3 file is a few minutes worth of the bird chatter on a Fall night in 2013 on Akkard St in downtown Dallas near the T Boone Pickens YMCA on the verge of the Arts District.
 
-[https://jeffbreece.com/wp-content/uploads/2014/03/Fall_2013_Grackles_75202.mp3](https://jeffbreece.com/wp-content/uploads/2014/03/Fall_2013_Grackles_75202.mp3)
-
 The picture is of One Elm Place while it was still partially occupied in 2008. Shortly thereafter it became the largest derelict building in Downtown Dallas.
 
 Together it sort of adds to our romantic view of a downtown that was in the process of reinventing itself.
 
 [![one_elm](/images/archive/wp-content/uploads/2014/03/one_elm-300x224.jpg)](/images/archive/wp-content/uploads/2014/03/one_elm.jpg)
-
-
-[Zucchini Pecan Bread](https://jeffbreece.com/zucchini-pecan-bread/) ›

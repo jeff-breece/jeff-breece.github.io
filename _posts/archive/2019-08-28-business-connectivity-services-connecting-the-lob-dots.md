@@ -32,19 +32,13 @@ History
 
 BDC was first introduced with Microsoft Office SharePoint Server (MOSS). Therefore it was only available in the 2007 enterprise edition of SharePoint. In this release only read, not write, actions were available and the definition files were difficult to construct XML files … unless you used tools like BDC MetaMan which we discuss later in this post. BDC became available in SharePoint Foundation 2010 as a Shared Service Provider Model (figure 1). With the introduction of BCS this has changed to a true multi-tenant using a service application architecture (figure 2). As developers, we can use this to talk with any flavor of database, WCF web service, .NET assembly as a data source (or classic DAL component) or even OData feed. It expose this information inside SharePoint as either an external list or through it’s built in REST API to things like SharePoint hosted apps that need LOB connection.
 
-![BDC Framework](https://jeffbreece.com/wp-content/uploads/2015/10/1-300x268.gif)
-
 Figure 1
-
-![BCS Framework](https://jeffbreece.com/wp-content/uploads/2015/10/2-300x151.gif)
 
 Figure 2
 
 Double Hop
 
 This is a well-documented issue, see figure 3, but it bears a little conversation for folks who are new to using BDC/BCS in SharePoint. We have a service application called the Secure Store Service that an administrator can provision for his/her users. This service provides a way to create a credential set for use with building things like connection strings. These are used in instances where managed code has a user context and then needs to access the credential set to pass a connection string to an external system like an RDBMS. This is a great MSDN post on how to “[Configure the Secure Store Service in SharePoint 2013](https://technet.microsoft.com/en-us/library/ee806866.aspx).”
-
-![Double Hop Issue](https://jeffbreece.com/wp-content/uploads/2015/10/3-300x237.png)
 
 Figure 3
 
@@ -71,8 +65,6 @@ I once had a job where a company wanted to build a highly custom paid time off s
      2. Get remaining vacation hours for the requestor via a Web Service Call to the External List.
      3. Validate that the current user has enough remaining vacation time to process the request.
      4. If true then proceed if false then inform the user to revise the request.
-
-
 
 With this kind of process in place we easily extended the design iteratively through the remaining features.
 
@@ -104,23 +96,13 @@ In conclusion, BDC is a fantastic feature of SharePoint which continues to be a 
 
 SharePoint on!
 
-
-[Carrot ginger soup](https://jeffbreece.com/carrot-ginger-soup/) ›
-
 ######  2 comments on “Business Connectivity Services; Connecting the LOB Dots” 
 
   1. ![](https://secure.gravatar.com/avatar/ac396e1982cb792e46bc04a0af47b178?s=60&d=mm&r=g) Scott Jarvis says:
 
-[ January 19, 2017 at 7:40 pm](https://jeffbreece.com/business-connectivity-services-connecting-the-lob-dots/#comment-680)
-
 Nice… We were pushing PDF report to a :shared drive thru the QNTC. Does SharePoint 2013 support a “share” like a windows server? Not getting any help from Professor Google.
-
-[Reply](https://jeffbreece.com/business-connectivity-services-connecting-the-lob-dots/?replytocom=680#respond)
 
      * ![](https://secure.gravatar.com/avatar/e0ec49ea47c3c9e70f0f0098fd1a4d12?s=60&d=mm&r=g) [Jeff Breece](https://jeffbreece.com/) says:
 
-[ January 19, 2017 at 8:48 pm](https://jeffbreece.com/business-connectivity-services-connecting-the-lob-dots/#comment-681)
-
 Thanks! Try this to provide the functionality you are looking for: [http://support.sherweb.com/Faqs/Show/how-to-connect-to-a-sharepoint-site-using-webdav-sharepoint-2013](http://support.sherweb.com/Faqs/Show/how-to-connect-to-a-sharepoint-site-using-webdav-sharepoint-2013)
 
-[Reply](https://jeffbreece.com/business-connectivity-services-connecting-the-lob-dots/?replytocom=681#respond)

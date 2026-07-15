@@ -39,8 +39,6 @@ My last counselor taught me about mantras. Little sayings you can repeat in your
   1. Since I am a chronic overachiever, “I am enough”
   2. And for when anxiety grabs tight, “I am bigger than my fears”
 
-
-
 _Breathing exercises_
 
 I use these in meetings all the time. My job is to argue with people about technology. It’s fun but sometimes my mind gets the better of me and I walk that dangerous line where my head wants to explode… which isn’t good for my blood pressure. Hence, breathing exercises. From what I have been told, these help lower your blood pressure, lower your heart rate and actually clear your mind.
@@ -52,8 +50,6 @@ This is what I do, however, there are more formal exercises you can practice.
   3. Exhale counting 3
   4. Hold counting 3
   5. Repeat for about 5 to 6 reps
-
-
 
 The nice thing about this is that you can do it during whatever else you are doing and no one really knows except for you.
 
@@ -83,8 +79,6 @@ This has been something which has evolved over the past two years. My first year
 
 This morphed into traveling all over the place, wherever I could, through 2017. This changed into camping and ultimately hiking for me. Getting back outdoors.
 
-![](https://jeffbreece.com/wp-content/uploads/2018/07/20150806_092910-1-300x169.jpg)
-
 My hike to McNeil Point on Mount Hood 2015 two months after my heart attack.
 
 Why camping? Well, I live two blocks from my hospital. I work in the same zip code. I am always around help. Not so much in the Olympic Mountains. If something happens out in the wild, it can take up to 48 hours for help to respond to the satellite GPS transponder. In short, I will probably be a goner. It does not have to be that extreme however. This is my vehicle for facing fears. Learning how to draw the line about what I should and should not worry about. I’d rather be the guy who worries about having enough water along a trail rather than whether or not I am going to have a heart attack.
@@ -92,6 +86,3 @@ Why camping? Well, I live two blocks from my hospital. I work in the same zip co
 To close this overly long post, find your way. This journey is individual for all of us because we are all different. We do however share a common bond. Life.
 
 If for no other reason, we should dedicate all that we are toward being free from our inner demons. Choosing light over darkness. Living well, being vulnerable, getting naked, having fun and laughing with others and at ourselves for the sheer joy of living.
-
-
-[2018 Hiking gear list](https://jeffbreece.com/2018-hiking-gear-list/) ›

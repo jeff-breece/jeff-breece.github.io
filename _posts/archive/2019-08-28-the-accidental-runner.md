@@ -36,27 +36,15 @@ Keeping a positive outlook on life is not easy as your sphere of influence begin
 
 My blood pressure and cholesterol levels are better now than they have ever been. In some respects I feel healthier than I’ve been for probably most of my adult life. I’m training for another half marathon at the end of this month. My ultimate goal, today, is to do a full marathon this Fall. In the meantime I’m enjoying simply doing every single training workout with a clear head and open heart.
 
-![One year later](https://jeffbreece.com/wp-content/uploads/2016/04/BunnyHop-300x233.png) ![Hot Chocolate 15k](/images/archive/wp-content/uploads/2015/11/134518-160-025h-199x300.jpg) ![Hot Chocolate Run 2015](/images/archive/wp-content/uploads/2015/11/HotChocolate-300x168.jpg) ![Go-Forth-and-Have-No-Fear](/images/archive/wp-content/uploads/2015/10/20151024_203840-168x300.jpg) ![My first half marathon](/images/archive/wp-content/uploads/2015/10/EddieAndMe.jpg)![Forest Tree Town Trot 7/15](/images/archive/wp-content/uploads/2015/07/10-300x300.jpg)![heart-attack-selfie](https://jeffbreece.com/wp-content/uploads/2015/04/2015-04-07-16.23.07-202x300.jpg)
-
-
-[Thoughts from a half marathon… and a plan](https://jeffbreece.com/thoughts-from-a-half-marathon-and-a-plan/) ›
+ ![Hot Chocolate 15k](/images/archive/wp-content/uploads/2015/11/134518-160-025h-199x300.jpg) ![Hot Chocolate Run 2015](/images/archive/wp-content/uploads/2015/11/HotChocolate-300x168.jpg) ![Go-Forth-and-Have-No-Fear](/images/archive/wp-content/uploads/2015/10/20151024_203840-168x300.jpg) ![My first half marathon](/images/archive/wp-content/uploads/2015/10/EddieAndMe.jpg)![Forest Tree Town Trot 7/15](/images/archive/wp-content/uploads/2015/07/10-300x300.jpg)
 
 ######  2 comments on “The accidental runner” 
 
   1. ![](https://secure.gravatar.com/avatar/1bbf7206bd8800b485c28e3a24935578?s=60&d=mm&r=g) Nicholas Felt says:
 
-[ April 21, 2016 at 12:26 pm](https://jeffbreece.com/the-accidental-runner/#comment-530)
-
 Bravo -to you-  
 Excellent post from an excellent author and friend-  
 Love you-
 
-[Reply](https://jeffbreece.com/the-accidental-runner/?replytocom=530#respond)
-
-  2. ![](https://secure.gravatar.com/avatar/327f077577948589d8551cb4e6589de1?s=60&d=mm&r=g) Kenaniah says:
-
-[ April 21, 2016 at 4:09 pm](https://jeffbreece.com/the-accidental-runner/#comment-531)
-
 Thank you for being so open and vulnerable to show this side of yourself . You’ve given me a lot to think about as I seek to improve my health, I’ve had a few minor (compared to a MI) heart issues, and a broken foot requiring plates and screws to fix. That said I long to return to running, it is one of the most freeing feelings I’ve ever experienced. Your story gives me the courage to step up my game plan!!
 
-[Reply](https://jeffbreece.com/the-accidental-runner/?replytocom=531#respond)

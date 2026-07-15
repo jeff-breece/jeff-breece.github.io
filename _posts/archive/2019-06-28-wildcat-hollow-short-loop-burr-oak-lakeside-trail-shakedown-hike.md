@@ -54,8 +54,3 @@ The week started with terrible sleep and a couple bouts of anxiety. Lot’s goin
 I plan to spend a fair amount of time meditating, reading a couple books on my Kindle and audio logging some thoughts. Maybe journaling a little bit too for the actual post. Failure or success. I’ll see when I see I guess.
 
 So, here’s to hiking with heart disease. Solo. In a National Forest. In the rain! What’s not to be excited about?
-
-![](https://jeffbreece.com/wp-content/uploads/2018/08/Signing-In-The-Rain-300x169.jpeg)
-
-
-[Onward](https://jeffbreece.com/onward/) ›

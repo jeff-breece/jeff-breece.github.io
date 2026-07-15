@@ -28,8 +28,3 @@ The appetizer we picked was a ricotta gnocchi with basil, tarragon, French trump
 The next dish was goat cheese pizza with sopressata, basil and cherry tomato. The crust was phenomenal. Chewy and crispy with just enough fire on it to add a little oven fired flavor. The toppings worked well together acidity from the tomatoes working with the fats of the sopressata accented by the fresh but fired flavor of the basil. There was a time period at Hunter where Eddie would make all these humble little homemade pizzas on aluminum tins with whatever was growing in the garden. The experience at Harvest reminded me of this style of pizza.
 
 When we left the restaurant I felt like we had enjoyed dinner with friends again. It was one of those moments where you happen to find yourself through sharing food with someone special. There’s a lot of lifestyle and heart in a restaurant like Harvest.
-
-![Sunflowers](https://jeffbreece.com/wp-content/uploads/2014/09/sunflowers-300x200.jpg)
-
-
-[Ratatouille: A double header.](https://jeffbreece.com/ratatouille-a-double-header/) ›

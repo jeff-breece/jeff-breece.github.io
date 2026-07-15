@@ -22,6 +22,3 @@ Start | 7:00:27PM |  |  |  |
 Finish | 7:27:53PM | 00:27:26 | 08:50 min/mi | 00:27:54 | 08:59 min/mi  
   
 ![Jaeger Run](/images/archive/wp-content/uploads/2016/06/JaegerRun0.jpg) ![Jaeger Run](/images/archive/wp-content/uploads/2016/06/JaegerRun1.jpg) [![Jaeger Run](/images/archive/wp-content/uploads/2016/06/JaegerRun2-300x168.jpg)](/images/archive/wp-content/uploads/2016/06/JaegerRun2.jpg)
-
-
-[Invisible Brother](https://jeffbreece.com/invisible-brother/) ›

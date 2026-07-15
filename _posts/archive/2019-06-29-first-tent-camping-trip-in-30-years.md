@@ -68,8 +68,6 @@ Gear list with things I cut out of the repack for the next trip based on this ex
   * Phone charger (I need to add a solar charger here as power was always something I needed to find)
   * Hammock & hooks/straps
 
-
-
 So while I packed comparatively minimal to other folks I met, I suppose our goals are somewhat different. Once again I chose this spot to help me with the anxiety of being outside of the City overnight outdoors under the stars in the open air with heart disease. To hear the wind in the trees and see a star filled night sky. It was perfect. I made a few new friends, had some really great conversations with down to earth professionals. All of us just decompressing and having a [tree bath](https://en.wikipedia.org/wiki/Forest_bathing). People with strong opinions and open minds. Kindred spirits.
 
 And back to my gear, I packed too much for my goal of hike camping but for this trip, it was totally OK. I came back with enough information to help me to edit with and, of course, lessons learned about sun block. Yeah, there was a pool. And while I could only wade waist deep as a result of my back tattoos, I had a great afternoon sunning and talking with a group of very cool strangers. Some of whom became friends through the process. While I applied SPF 50 to most of my upper body, I used “man logic” to tell myself that my legs would be fine because of all the hair. Yeah… I won’t do that again.
@@ -78,7 +76,4 @@ So I’ve repacked my backpack, everything now fits inside, it’s lighter and r
 
 Lora was right. As evidenced by the feelings I experienced while laying on my back and looking at the tree tops blow in the wind as the starlight filtered down through the tree canopy. It felt like home. Like peace.
 
-![19875503_10214047128398656_9028591748084117854_n](https://jeffbreece.com/wp-content/uploads/2017/08/19875503_10214047128398656_9028591748084117854_n-300x300.jpg) ![20294198_10214042848411659_2234430505459961593_n](https://jeffbreece.com/wp-content/uploads/2017/08/20294198_10214042848411659_2234430505459961593_n-300x225.jpg) ![20374229_10214051931198723_4457183717269584001_n](https://jeffbreece.com/wp-content/uploads/2017/08/20374229_10214051931198723_4457183717269584001_n-300x300.jpg) ![20374369_10214047816055847_9204909766943714861_n](https://jeffbreece.com/wp-content/uploads/2017/08/20374369_10214047816055847_9204909766943714861_n-240x300.jpg) ![20431436_10155070517153439_1029759841330962888_n](https://jeffbreece.com/wp-content/uploads/2017/08/20431436_10155070517153439_1029759841330962888_n-300x168.jpg) ![20431513_10214045101027973_5595099723686211030_n](/images/archive/wp-content/uploads/2017/08/20431513_10214045101027973_5595099723686211030_n-300x225.jpg) ![20451906_1455545137832260_5969741286163189861_o](https://jeffbreece.com/wp-content/uploads/2017/08/20451906_1455545137832260_5969741286163189861_o-300x168.jpg) ![20597255_10214062051411722_502324023940103133_n](https://jeffbreece.com/wp-content/uploads/2017/08/20597255_10214062051411722_502324023940103133_n-300x225.jpg)![backpack](https://jeffbreece.com/wp-content/uploads/2017/08/backpack-240x300.jpg)
-
-
-[An open letter to anyone struggling with a life threatening diagnosis](https://jeffbreece.com/an-open-letter-to-anyone-struggling-with-a-life-threatening-diagnosis/) ›
+     ![20431513_10214045101027973_5595099723686211030_n](/images/archive/wp-content/uploads/2017/08/20431513_10214045101027973_5595099723686211030_n-300x225.jpg)  

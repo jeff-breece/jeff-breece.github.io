@@ -18,8 +18,3 @@ I’ve always lived in an urban area and felt like cats were a great compromise 
 The article goes on to recommend some brands of food and water bowls that can be found on [Amazon](https://www.amazon.com/s/ref=sr_qz_back?sf=qz&rh=i%3Aaps%2Ck%3Adr+catsby+whisker+relief+bowl&keywords=dr+catsby+whisker+relief+bowl&unfiltered=1&ie=UTF8&qid=1497301922). Laughing at myself, I’ve usually fed my cats from old China sets or 1940’s cocktail glasses. Little did I know that this could have been a little easier for my little furry companions.
 
 Here’s to something you learn everyday.
-
-![cat-whiskers](https://jeffbreece.com/wp-content/uploads/2017/06/600-up-shot-cat-whiskers-300x241.png)
-
-
-[Friends & teachers](https://jeffbreece.com/friends-teachers/) ›

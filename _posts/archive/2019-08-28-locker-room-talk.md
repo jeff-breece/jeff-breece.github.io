@@ -26,8 +26,3 @@ It made me think of the phrase “locker room talk.” I’d like to think that 
 While he was motivated by his anger… hate is hate. That’s the thing that we need to change. Really root out like a cancer and replace it with understanding, compassion, (for God’s sake) etiquette, and hopefully some laughter.
 
 And now I need to get back to my awesome week with great people who I look to for inspiration, hope and friendship. It’s also chest & triceps day so I will be back to the Y over lunch … hopefully I can run into someone and have a conversation about something positive to counter balance the negativity oozing out of the locker room.
-
-![lockerroom](https://jeffbreece.com/wp-content/uploads/2017/03/lockerroom-300x168.jpg)
-
-
-[Pink flowers and magic](https://jeffbreece.com/pink-flowers-and-magic/) ›

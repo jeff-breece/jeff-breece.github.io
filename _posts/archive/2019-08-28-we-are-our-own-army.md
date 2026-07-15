@@ -32,15 +32,9 @@ We are our own Army.
 
 ![Army](/images/archive/wp-content/uploads/2016/09/Army-300x186.png)
 
-
-[20 milestones](https://jeffbreece.com/20-milestones/) ›
-
 ######  One comment on “We are our own Army” 
 
   1. ![](https://secure.gravatar.com/avatar/4c5002d20593c8b6d5fabd8e086144d3?s=60&d=mm&r=g) [Mark Poniatowski](http://www.dadwithcad.com/) says:
 
-[ October 11, 2016 at 8:15 pm](https://jeffbreece.com/we-are-our-own-army/#comment-619)
-
 Jeff, sorry its been so long. Glad to hear you’re doing well and that you continue to push yourself through running. Running is exactly as you stated in one of your blogs, it’s a gift to yourself. It doesn’t matter how fast you, I or anyone goes….it just matters that we go! Take care and keep on runnin!
 
-[Reply](https://jeffbreece.com/we-are-our-own-army/?replytocom=619#respond)

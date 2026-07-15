@@ -36,8 +36,6 @@ Makes 25 servings of 2 1/2-inches square
   * 1 cup blueberry jam
   * 1 cup finely chopped walnuts & almonds, divided
 
-
-
 Process
 
   1. Preheat the oven to 300ºF. Prepare a 10-x-15-inch jelly roll pan by greasing lightly with cooking spray or butter.
@@ -48,17 +46,6 @@ Process
   6. Bake for 30 minutes. Watch carefully and avoid over-baking the egg white topping. It should be crisp but not really brown at all. The crust should be just barely golden brown.
   7. Cut into squares when cool. Store in a closed container at room temperature for up to 5 days. These are best on the day they are made, as the egg white topping softens after a day.
 
-
-
 ![](/images/archive/wp-content/uploads/2015/04/20150422_210355.jpg)
-
-![](https://jeffbreece.com/wp-content/uploads/2015/04/20150423_070544.jpg)
-
-![](https://jeffbreece.com/wp-content/uploads/2015/04/20150424_121504.jpg)
-  
-
-
-
-[Radicchio, beet and onion with whole grain mustard](https://jeffbreece.com/radicchio-beet-and-onion-with-whole-grain-mustard/) ›
 
 Tagged with: [vegetarian](https://jeffbreece.com/tag/vegetarian/)

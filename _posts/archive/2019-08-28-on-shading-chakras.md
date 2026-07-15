@@ -25,8 +25,3 @@ So when he’s telling me that these rocks are telling him that I have chosen to
 Yet I have to admit that I have treated meditation as medication. TA’s rocks today made me think that, maybe, there’s more to it? He told me that my upper 3 chakras were absolutely on fire. Yet my solar plexus chakra was basically cranky. So I’ll be reading up on that soon I guess.
 
 At the end of Saturday… this is exactly how I want to live it. Thinking, celebrating, conversing, feeling de-groovy, painted on by needles and observing where the stones fall while having a good time in the process.
-
-![session5](https://jeffbreece.com/wp-content/uploads/2017/07/session5-222x300.png)
-
-
-[Garlic meditation](https://jeffbreece.com/garlic-meditation/) ›

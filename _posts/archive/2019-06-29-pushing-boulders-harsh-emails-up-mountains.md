@@ -17,7 +17,6 @@ original_permalink: "https://jeffbreece.com/pushing-boulders-harsh-emails-up-mou
 
 # Pushing boulders, & harsh emails, up mountains
 
-
 There is a person I used to know who was not one of my favorites. I saw him again last week in a meeting where he seemingly experienced a blood pressure spike after learning about a growing threat to two of his projects.
 
 The teams were doing great, self organizing, planning, working the cards they had scheduled already. All except for one of the most critical work streams that just happened to traverse both projects with a very real potential of cutting into actual project time even as executive leadership was talking about cutting the project time lines.
@@ -34,17 +33,7 @@ Back to the tattoo shop this afternoon feeling a little reflective about the wee
 
 Next week? I plan to remain calm, observe and push where I can but not so hard that it hurts again.
 
-![Sisyphus](https://jeffbreece.com/wp-content/uploads/2017/07/images.jpg)
-
-
-[Tattoo Session 4 & a crisis in the UK](https://jeffbreece.com/tattoo-session-4-a-crisis-in-the-uk/) ›
-
 ######  One comment on “Pushing boulders, & harsh emails, up mountains” 
-
-  1. ![](https://secure.gravatar.com/avatar/06a22d4b82d693e5f68fa2beeb678d7e?s=60&d=mm&r=g) Jason says:
-
-[ July 1, 2017 at 2:13 pm](https://jeffbreece.com/pushing-boulders-harsh-emails-up-mountains/#comment-844)
 
 Sounds like great management. Love the sensitivity and introspection!
 
-[Reply](https://jeffbreece.com/pushing-boulders-harsh-emails-up-mountains/?replytocom=844#respond)

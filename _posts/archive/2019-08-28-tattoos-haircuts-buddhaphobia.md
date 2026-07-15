@@ -23,13 +23,9 @@ The funny thing about this even more than running 5 half marathons and a lot of 
 
 I remember VagueBooking from ER two years ago. Something like “I am recently reminded that I am not invincible.” It’s the first time in my life that I saw death reflected back at me in Eddie’s eyes with his absolute fear of having almost lost me. It took me a good two years to get where I’m at now. And I still have a lot of work to do but the tattoo journey is exactly what I mean to express this through. My body as a canvass for this internal sea change which the grenade that went off in my chest two years ago caused. Life in the blast radius.
 
-![MI](https://jeffbreece.com/wp-content/uploads/2017/03/MI-202x300.jpg)
-
 I did my research and met with a handful of tattoo artists after talking with some heavily covered friends and colleagues. When I stopped at [Long Street Collective](http://longstreetcollective.com/) I felt a good vibe. Yeah, I was the oldest guy there. A middle aged disaster of a free spirit. But I felt like I was among kindred folk.
 
 So I proceeded to tell the artist, [Andy](http://longstreetcollective.com/the-artists/artist-andy-johnson/), about my affiliation with Ganesha from my early 20‘s after having worked with a Tibetan Buddhist. You see, I want to take a pretty radical journey here. One that will probably span three years now that I’m almost midway through the first third. I want to cover my back, chest and both arms with stories.
-
-![Ganesha](https://jeffbreece.com/wp-content/uploads/2017/06/Ganesha-225x300.jpg)
 
 I’ve already documented the start of this and part of the meaning of the back piece in a separate [post](https://jeffbreece.com/?p=1540).
 
@@ -45,7 +41,4 @@ Andy’s words took me back to ideas that my aunt Lora used to open my closed te
 
 Maybe it’s time to embrace some part of the Greater Universe. I guess that’s part of what this tattoo journey is all about after all.
 
-![design](/images/archive/wp-content/uploads/2017/05/design-240x300.jpg) ![first](https://jeffbreece.com/wp-content/uploads/2017/05/first-240x300.jpg) ![Poppy](https://jeffbreece.com/wp-content/uploads/2017/06/20170531_161849-225x300.jpg)
-
-
-[Pre & Post Columbus 10k Notes](https://jeffbreece.com/pre-post-columbus-10k-notes/) ›
+![design](/images/archive/wp-content/uploads/2017/05/design-240x300.jpg)  

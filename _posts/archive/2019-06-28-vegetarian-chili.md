@@ -19,8 +19,6 @@ With a desire to make some small lifestyle changes, and a little inspiration fro
 
 I doubt it will take a prize but it was a fun and healthy project for Sunday.
 
-![Chili-Done](https://jeffbreece.com/wp-content/uploads/2014/10/Chili-Done-300x168.jpg)
-
 Following is an adapted version of **The New Basics Cookbook** “Vegetable Chili.”
 
 Ingredients
@@ -50,8 +48,6 @@ Ingredients
     * 2 cups grated Monterey Jack
   * 4 scallions
 
-
-
 Process
 
   1. Heat 1/4 cup of the oil in a large skillet over medium heat. Add the zucchini and sauté until just tender, 5 to 7 minutes. Transfer the zucchini using slotted spoon to a large flameproof casserole or Dutch oven.
@@ -60,8 +56,3 @@ Process
   4. Place the casserole over low heat. Add the canned tomatoes and their juice, the fresh tomatoes, chili powder, cumin, basil, oregano, pepper, salt, fennel seeds, and parsley. Cook, uncovered, stirring often, for 30 minutes.
   5. Sautee the mixed peppers in the remaining 1/4 cup oil for 5 minutes until just al dente then pour the pan contents into the Dutch oven mix.
   6. Stir in the kidney beans, chick peas, dill and lemon juice; cook for another 15 minutes. Stir well, and adjust the seasonings to taste. Serve with bowls of sour cream, grated cheese and sliced scallions alongside.
-
-
-
-
-[Beets on the rocks!](https://jeffbreece.com/beets-straight-up/) ›

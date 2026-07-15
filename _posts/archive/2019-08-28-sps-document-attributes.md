@@ -17,8 +17,3 @@ This is part of a small stress testing project I wrote to test a user interface 
 Anyway, this Power Point slide shows how I pass a String List, that contains the location of the generated documents, to the method that streams them into SharePoint. This could easily be a recursive method that scans entire network drives, cleans up the file names, and then zaps them into SharePoint as part of a data migration initiative. In the real world you’d probably deal with situations like checkout required and some item columns being list lookups which I cover in the slide below.
 
 [Link to the single slide powerPoint](https://jeffbreece.com/site/files/Adding%20items%20&%20Setting%20Attributes.pptx)
-
-![](https://jeffbreece.com/site/files/stresstest_sm.jpg)
-
-
-[Taxonomy](https://jeffbreece.com/taxonomy/) ›

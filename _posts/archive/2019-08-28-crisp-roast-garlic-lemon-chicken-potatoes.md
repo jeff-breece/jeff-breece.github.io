@@ -33,8 +33,6 @@ Ingredients
   * 4 tsp turmeric
   * Kosher salt
 
-
-
 Process
 
   1. Prepare a large cassoulet pot with olive oil.
@@ -54,9 +52,4 @@ Process
   13. Arrange around the bird and cover with lid.
   14. Cook at 450 for 1 hour then remove lid and cook for an additional 45 minutes.
 
-
-
-![roast-chicken-prep](/images/archive/wp-content/uploads/2014/04/roast-cjicken-prep.jpg) ![roast-chicken-done](https://jeffbreece.com/wp-content/uploads/2014/04/roast-chicken-done-300x300.jpg)
-
-
-[Roasted Potato & Bacon Omelets](https://jeffbreece.com/roasted-potato-bacon-omelets/) ›
+![roast-chicken-prep](/images/archive/wp-content/uploads/2014/04/roast-cjicken-prep.jpg) 

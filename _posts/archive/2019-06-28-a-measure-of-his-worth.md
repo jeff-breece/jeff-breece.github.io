@@ -34,17 +34,9 @@ Why are, some, men so resistant to being open? I would guess they don’t know j
 
 Being open with those around us makes our precious time so much richer than it otherwise would be. And if life is being grateful about today, isn’t making the effort to be open with and supportive of others worth it in the end?
 
-![Strongman](https://jeffbreece.com/wp-content/uploads/2016/10/benefiti-treninga-snage-2-224x300.jpg)
-
-
-[On the business value of cheer leading](https://jeffbreece.com/on-the-business-value-of-cheerleading/) ›
-
 ######  One comment on “A measure of his worth” 
 
   1. ![](https://secure.gravatar.com/avatar/1bbf7206bd8800b485c28e3a24935578?s=60&d=mm&r=g) Nicholas Felt says:
 
-[ October 5, 2016 at 1:43 am](https://jeffbreece.com/a-measure-of-his-worth/#comment-614)
-
 Beautifully written and very thought provoking- bravo!
 
-[Reply](https://jeffbreece.com/a-measure-of-his-worth/?replytocom=614#respond)

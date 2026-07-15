@@ -29,23 +29,14 @@ Ingredients
   * Radicchio roughly chopped
   * Red & white onion sliced and roughly chopped
 
-
-
 Process
 
   1. Mix all ingredients in a bowl.
   2. Chill for 30 minutes or overnight.
   3. Serve or portion out and freeze for lunches.
 
-
-
 ![](/images/archive/wp-content/uploads/2015/05/20150502_210123.jpg)
 
 ![](/images/archive/wp-content/uploads/2015/05/20150502_211708.jpg)
-  
-
-
-
-[Green Soup with a Southern Flair](https://jeffbreece.com/greens-soup-with-a-southern-flair/) ›
 
 Tagged with: [heart health](https://jeffbreece.com/tag/heart-health/), [low sodium](https://jeffbreece.com/tag/low-sodium/)

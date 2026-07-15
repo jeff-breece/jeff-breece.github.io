@@ -20,22 +20,11 @@ So I did something for myself. I went outside and picked some of the lavender th
 
 ![lavendar](/images/archive/wp-content/uploads/2017/06/20170611_173006-225x300.jpg)
 
-
-[Tattoo inspiration](https://jeffbreece.com/tattoo-inspiration/) ›
-
 ######  2 comments on “Summer Sundays” 
-
-  1. ![](https://secure.gravatar.com/avatar/6d5feaf4205940af3a78268c45fd1ccb?s=60&d=mm&r=g) Andrea says:
-
-[ June 16, 2017 at 1:27 am](https://jeffbreece.com/summer-sundays/#comment-831)
 
 It is interesting that your post found me today. Had a heart attack in October and now I am battling anxiety and a bit of depression. I took Facebook off of my phone today. I had enough. I am struggling with the fact of not getting invites from people to go out to lunch/ family functions etc because of my heart attack and recovery and change of lifestyle. I think I need to continue to focus on me and to find people that are genuine and supportive. There are strange after effects of an illness. Today was a very dark day. Just a side note,I planted lavender last week in the garden. Maybe everything will be alright?
 
-[Reply](https://jeffbreece.com/summer-sundays/?replytocom=831#respond)
-
      * ![](https://secure.gravatar.com/avatar/e0ec49ea47c3c9e70f0f0098fd1a4d12?s=60&d=mm&r=g) [Jeff Breece](https://jeffbreece.com/) says:
-
-[ June 16, 2017 at 10:11 am](https://jeffbreece.com/summer-sundays/#comment-832)
 
 Andrea,
 
@@ -43,4 +32,3 @@ Glad you found this helpful. I saw something early on during my struggle with ca
 
 Jeff
 
-[Reply](https://jeffbreece.com/summer-sundays/?replytocom=832#respond)

@@ -31,8 +31,6 @@ Ingredients
   * 1/4 cup plus 1 tablespoon chopped fresh basil
   * 1 tablespoon lemon juice
 
-
-
 Instructions
 
   1. Slice each eggplant lengthwise into 1/2-inch-thick planks (you should have 12 planks). Trim rounded surface from each end piece so it lies flat.
@@ -41,8 +39,6 @@ Instructions
   4. Pulse bread in food processor until finely ground, 10 to 15 pulses. Combine bread crumbs, ricotta, 1/2 cup Pecorino, 1/4 cup basil, lemon juice, and 1/2 teaspoon salt in medium bowl.
   5. With widest ends of eggplant slices facing you, evenly distribute ricotta mixture on bottom third of each slice. Gently roll up each eggplant slice and place seam side down in tomato sauce.
   6. Bring sauce to simmer over medium heat. Simmer for 5 minutes. Transfer skillet to oven and broil until eggplant is well browned and cheese is heated through, 5 to 10 minutes. Sprinkle with remaining 1/4 cup Pecorino and let stand for 5 minutes. Sprinkle with remaining 1 tablespoon basil and serve.
-
-
 
 Technique
 
@@ -54,13 +50,8 @@ Technique
   * Technique
   * Bread Crumbs: Outside to Inside
 
-
-
 In most involtini recipes bread crumbs are used to coat the eggplant, but in our version we put them in the cheese. The bread crumbs keep the filling creamy by preventing the Pecorino Romano proteins from linking tightly.
 
 ![Eggplant Involtini... another reason to love eggplants.](/images/archive/wp-content/uploads/2015/10/20151006_190714.jpg) ![Cooking Eggplant Involtini](/images/archive/wp-content/uploads/2015/10/20151006_190050-300x168.jpg)
-
-
-[Business Connectivity Services; Connecting the LOB Dots](https://jeffbreece.com/business-connectivity-services-connecting-the-lob-dots/) ›
 
 Tagged with: [vegetarian](https://jeffbreece.com/tag/vegetarian/)

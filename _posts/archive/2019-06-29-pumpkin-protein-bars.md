@@ -29,16 +29,9 @@ Ingredients
   * 1 1/2 cups old-fashioned oats
   * 1 cup spelt flour (or substitute of your choice)
 
-
-
 Process
 
   1. Preheat oven to 350°F.
   2. In a food processor or blender add all the ingredients except the oats and flour. Blend until smooth, then pour in dry ingredients and pulse until just combined.
   3. Lightly coat a 9 x 13 inch baking dish in cooking spray and spread the mixture out evenly.
   4. Place in oven and bake for 15 – 18 minutes, or until set. Remove and cut into 10 bars.
-
-
-
-
-[Kale, Chickpea and Carrot Stew](https://jeffbreece.com/kale-chickpea-and-carrot-stew/) ›

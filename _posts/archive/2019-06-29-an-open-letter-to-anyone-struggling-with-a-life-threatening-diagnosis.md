@@ -41,16 +41,10 @@ Your ally,
 
 Jeff
 
-
-[When to throw in the towel and start something new](https://jeffbreece.com/when-to-throw-in-the-towel-and-start-something-new/) ›
-
 ######  One comment on “An open letter to anyone struggling with a life threatening diagnosis” 
 
   1. ![](https://secure.gravatar.com/avatar/059fd0a938214d1b2daeed42e0e75684?s=60&d=mm&r=g) Bob Mangia says:
 
-[ August 19, 2017 at 12:55 am](https://jeffbreece.com/an-open-letter-to-anyone-struggling-with-a-life-threatening-diagnosis/#comment-897)
-
 Jeff  
 Thanks for sharing this. I admire your openness revealing such personal things. Hope your words empower people to look at themselves and make changes.
 
-[Reply](https://jeffbreece.com/an-open-letter-to-anyone-struggling-with-a-life-threatening-diagnosis/?replytocom=897#respond)

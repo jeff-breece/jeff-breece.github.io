@@ -28,8 +28,3 @@ I was looking for memories of her as I watched all the 1968/69 episodes of Star 
 The funny thing about finding her there again was that I was recently paid a deeply touching compliment by a very dear and touchstone friend of mine. She goes all the way back to middle school and many pivotal life moments in between. It was something to the tune that my friend always respected me for doing absolutely everything I wanted to do and in exactly the I wanted to do it. I feel that this, in addition to my sense of humor, are the lasting gifts my mom equipped me with to weather the days and years of the life ahead.
 
 So it was there where I found my mother in all those episodes of Star Trek, and in my friends gracious comment I found myself, and mom’s spirit, as well.
-
-![mom](https://jeffbreece.com/wp-content/uploads/2016/05/mom-300x286.jpg)
-
-
-[Meditation](https://jeffbreece.com/meditation-2/) ›

@@ -137,22 +137,25 @@
   }
 }
 
+// <a class="photo-thumb"> wraps a <div class="photo-bg"> with background-image.
+// Using background-image bypasses Chirpy's refactor-content.html which mangles
+// <img> tags when alt text contains em-dashes or & (produces src="//..." + href="/lazy").
 .photo-thumb {
   display: block;
   aspect-ratio: 3 / 2;
   overflow: hidden;
+  text-decoration: none;
   background: var(--bg-color, #f0f0f0);
 
-  // Chirpy's refactor wraps the inner <img> with <a class="popup img-link shimmer">
-  // That anchor inherits click-to-fullscreen behavior from Chirpy's built-in viewer.
-  img {
+  .photo-bg {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    background-size: cover;
+    background-position: center;
     transition: transform 0.25s ease, opacity 0.2s ease;
   }
 
-  &:hover img {
+  &:hover .photo-bg {
     transform: scale(1.05);
     opacity: 0.9;
   }

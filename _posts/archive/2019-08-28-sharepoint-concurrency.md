@@ -30,6 +30,3 @@ Andreas Grabner wrote an excellent post on the site About:Performance titled [�
 In the end, Grabner is right. “Before starting a SharePoint project really think about what data you have – how frequently you need it and how many different users modify it” That is not to say don’t use SPS as the platform, just be cognizant of the boundaries of its various features. In my case, it was record locking differences between SPFiles and SPItems. Were it not for our excellent InfoPath developer, we would have been in some hot water while a deadline faced us square in the chops. In the future I will always opt for a solution that uses technology which was built specifically for a given purpose. Be it MSSQL, Oracle or even MySQL … this is where I will look for enterprise support within larger scale builds while using SPS as a delivery platform.
 
 It’s all about the right tool for the job.
-
-
-[Lotus Notes Conversion Lessons](https://jeffbreece.com/lotus-notes-conversion-lessons/) ›

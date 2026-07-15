@@ -21,8 +21,6 @@ Fresh out of the oven. One pie plus a tester pot. It won’t win a beauty pagean
 
 Dinner time!
 
-![Pumpkin Pie](https://jeffbreece.com/wp-content/uploads/2014/10/Pie-300x168.jpg)
-
 Ingredients
 
   * 1 (8-ounce) package cream cheese, softened
@@ -37,8 +35,6 @@ Ingredients
   * 1/4 teaspoon ground ginger
   * 1 tbsp. Whiskey
 
-
-
 Process
 
 Place 1 piece of pre-made pie dough down into a (9-inch) pie pan and press down along the bottom and all sides. Pinch and crimp the edges together to make a pretty pattern. Put the pie shell back into the freezer for 1 hour to firm up. Fit a piece of aluminum foil to cover the inside of the shell completely. Fill the shell up to the edges with pie weights or dried beans (about 2 pounds) and place it in the oven. Bake for 10 minutes, remove the foil and pie weights and bake for another 10 minutes or until the crust is dried out and beginning to color.
@@ -46,6 +42,3 @@ Place 1 piece of pre-made pie dough down into a (9-inch) pie pan and press down 
 For the filling, in a large mixing bowl, beat the cream cheese with a hand mixer. Add the pumpkin and sweet potato meats then beat until combined. Add the sugar and salt, and beat until combined. Add the eggs mixed with the yolks, half-and-half, and melted butter, and beat until combined. Finally, add the vanilla, cinnamon, and ginger and whiskey then beat until incorporated.
 
 Pour the filling into the warm prepared pie crust and bake for 50 minutes, or until the center is set. Place the pie on a wire rack and cool to room temperature. Cut into slices and top each piece with a generous amount of whipped cream. tyg
-
-
-[Not your mom’s oatmeal.](https://jeffbreece.com/not-your-moms-oatmeal/) ›

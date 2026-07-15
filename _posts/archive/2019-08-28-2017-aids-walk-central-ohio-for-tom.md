@@ -26,7 +26,4 @@ As a heart attack survivor myself my mantra for why I run is “I run because so
 
 I am running the 2017 Dr. Robert J. Fass Memorial AIDS Walk Central Ohio for Tom. I’m also running to support the idea that we should not be afraid to have sex. No one should be afraid to experience life in all sorts of infinite embraces. Believe me, life is short… make love and have fun together. Or as my old friend Rob Wagner, another buddy of mine who had HIV, said to me when I was struggling with depression in my early 30’s “go outside and look up at the sky and feel the sun beating down on your shoulders and know that everything will be OK.”
 
-[![aidswalk](https://jeffbreece.com/wp-content/uploads/2017/02/aidswalk-300x111.png)](http://arcoh.convio.net/site/TR/AIDSWalks/AIDSWalk?px=1147725&pg=personal&fr_id=1130)
-
-
-[Schools of diet thought](https://jeffbreece.com/schools-of-diet-thought/) ›
+[](http://arcoh.convio.net/site/TR/AIDSWalks/AIDSWalk?px=1147725&pg=personal&fr_id=1130)

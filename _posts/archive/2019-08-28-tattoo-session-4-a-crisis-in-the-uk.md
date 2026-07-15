@@ -28,8 +28,3 @@ It reminds me of this lady though this morning. She was absolutely desperate and
 Instead we live very separate lives. Connected yes. But here we are. One big beautiful community of billions on a the big blue ball that I visualize when the tattoo artist does shading on my back, which hurts like a _motherfucker_ , and gets my mind to let go of the pain and accept the moment a little easier. Just like I told the lady in the UK this morning. Try to change you focus to 5 minute increments. For each one that passes say to yourself “I’m OK.”
 
 Sometimes that’s all it takes.
-
-![session4](https://jeffbreece.com/wp-content/uploads/2017/07/session4-277x300.png)
-
-
-[Dancing my pants off](https://jeffbreece.com/dancing-my-pants-off/) ›

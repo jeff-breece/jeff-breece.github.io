@@ -19,8 +19,3 @@ After the pies my imagination is running around all over the dinner plate. The f
   * ‘Golden Vegetable Crust’ for a quiche, and a good use for the Summer squash we picked up, using Moosewoods “The Enchanted Broccoli Forest.”
   * Thai Fried Rice from “Bill’s Open Kitchen” by Bill Granger.
   * Guacamole from “Mexican Everyday” by Rick Bayless.
-
-
-
-
-[Comfort & Gravy](https://jeffbreece.com/comfort-gravy/) ›

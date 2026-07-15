@@ -20,21 +20,9 @@ Our guest had made a fantastic pineapple habañero salsa with cilantro which wen
 
 As usual with first attempts we decided the dish needed some sort of greens in addition to a mix of spicy-rich-smoky notes to fully recapture that Texas flavor.
 
-![](https://jeffbreece.com/wp-content/uploads/2015/02/20150207_Page.jpg)
-
-![](https://jeffbreece.com/wp-content/uploads/2015/02/20150207_Monkey.jpg)
-
-![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Biscuits.jpg)
   
 
-
-![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Blending.jpg)
-
-![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Plates.jpg)
-
-![](https://jeffbreece.com/wp-content/uploads/2015/02/20150208_Us.jpg)
   
-
 
 Ingredients
 
@@ -44,8 +32,6 @@ Ingredients
   * 1 to 2 Tbsp. fresh lemon juice
   * 1 stick unsalted butter
 
-
-
 Process
 
   1. Place egg yolks and lemon juice into blender.
@@ -54,8 +40,3 @@ Process
   4. Immediately begin to dribble the butter into the blender while running in a thin stream of drops.
   5. Sauce will be thick and bright.
   6. Use immediately or keep in a warm water bath off heat until ready to send the plates out sauced.
-
-
-
-
-[Inspiration](https://jeffbreece.com/inspiration-2/) ›

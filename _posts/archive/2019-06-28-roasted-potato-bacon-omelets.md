@@ -30,8 +30,6 @@ Ingredients
   * Ground pepper
   * ¼ cup grated muenster (Fontina would be a really good substitute)
 
-
-
 Process
 
   1. Combine eggs, heavy cream, Sriracha into a bowl and whisk.
@@ -48,9 +46,4 @@ Process
   12. Fold the un-topped side of the omelet onto the topped side.
   13. Slice in half and serve.
 
-
-
-![omlette-prep](/images/archive/wp-content/uploads/2014/04/omlette-prep-300x168.jpg) ![omlete-cooking](/images/archive/wp-content/uploads/2014/04/omlete-cooking.jpg) ![omlette-done](https://jeffbreece.com/wp-content/uploads/2014/04/omlette-done-300x168.jpg)
-
-
-[Pie Crust](https://jeffbreece.com/pie-crust/) ›
+![omlette-prep](/images/archive/wp-content/uploads/2014/04/omlette-prep-300x168.jpg) ![omlete-cooking](/images/archive/wp-content/uploads/2014/04/omlete-cooking.jpg) 

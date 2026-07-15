@@ -27,10 +27,3 @@ Today however I had a chance to hike up to Yoga on High and participate in an [i
 The whole experience left me with this deep feeling of rest. As if I had taken a pretty solid power nap but with the benefit of this meditative relaxation. It was also pretty cool to have that experience as a group of folks going for the same thing for different reasons.
 
 Whatever the outcome of my current meditation track… I’m enjoying the exploration and hopeful for the benefits.
-
-![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)
-
-![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation.jpg)![meditation](https://jeffbreece.com/wp-content/uploads/2017/01/meditation-300x225.jpg)
-
-
-[On losing my shirt and meditation](https://jeffbreece.com/losing-my-shirt-and-meditation/) ›

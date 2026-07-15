@@ -25,7 +25,4 @@ My meditation practice has begun to become a little more productive as well. I�
 
 And then there’s the Ohio sunsets that roll out over Columbus in the late hours of the day. These remind me again to keep gratitude in my heart and hope for tomorrow.
 
-![Sunsets](/images/archive/wp-content/uploads/2016/07/13729201_10210180758861834_3701978659077121211_n-300x225.jpg) ![Ice](/images/archive/wp-content/uploads/2016/07/13645323_10210177716945788_4016028328561915840_n-300x225.jpg) ![Tomato Sauce](https://jeffbreece.com/wp-content/uploads/2016/07/13698258_10210186256639275_602744642268590074_o-300x225.jpg)
-
-
-[Saying goodbye to my father in-law](https://jeffbreece.com/saying-goodbye-to-my-father-in-law/) ›
+![Sunsets](/images/archive/wp-content/uploads/2016/07/13729201_10210180758861834_3701978659077121211_n-300x225.jpg) ![Ice](/images/archive/wp-content/uploads/2016/07/13645323_10210177716945788_4016028328561915840_n-300x225.jpg) 

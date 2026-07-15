@@ -14,10 +14,6 @@ original_permalink: "https://jeffbreece.com/beets-greens/"
 
 My friends are in the habit of throwing me cookbooks now and again as gifts. I got a copy of “[The Food 52 Cookbook](http://www.amazon.com/The-Food52-Cookbook-Winning-Exceptional/dp/006188720X/ref=sr_1_1?ie=UTF8&qid=1359338270&sr=8-1&keywords=Food+52)” by Hesser & Stubbs a few years ago. [French ‘Peasant’ Beets](http://food52.com/recipes/3302_french_peasant_beets) has made it into my regular rotation. It’s a great way to use whatever greens are in season and pack in a lot of beet goodness. I like to serve it with toasted bread and goats curd cheese (or Ricotta in a pinch).
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/beets_one.jpg)
-
-![](https://jeffbreece.com/site/assets/images/blog_assets/beets_two.jpg)
-
 Following is the books recipe which serves 2 for dinner or 4 as a side
 
 4-6 Beets with greens  
@@ -35,6 +31,3 @@ Freshly Ground Pepper
 4\. Add beet rounds to the shallot butter mixture. Crack some pepper over the beets and a toss on a pinch ofsalt. Reduce heat and sautee beets, turning over to ensure even cooking.  
 5\. About 15 minutes later when beets are begnning to glaze and become tender, add greens and chard. Sautee for about 5 minutes, then add wine and cover. Cook until greens are wilted, adding water if necessary. Allow liquid to be mostly absorbed into greens, adjust seasonings.  
 6\. Scoop greens and beets into a low shallow bowl. Garnish with a sizeable wedge of bucheron and some crusty bread. Crack a little bit of pepper over the entire dish.
-
-
-[Béchamel for the tired guy](https://jeffbreece.com/bechamel-for-the-tired-guy/) ›

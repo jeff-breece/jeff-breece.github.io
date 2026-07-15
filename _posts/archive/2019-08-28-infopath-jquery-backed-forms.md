@@ -24,17 +24,14 @@ For example “We believe this issue is caused by a race condition and is theref
 
 Using the old paradigm you get something like the design in figure 1.
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/InfoPathPD_small.png)  
+  
 Figure 1 – Click to enlarge.
 
 Choosing to use a more modern strategy, you may look at something like the design in figure 2.
 
-![](https://jeffbreece.com/site/assets/images/blog_assets/jQueryWebPartPD_small.png)  
+  
 Figure 2 – Click to enlarge.
 
 The net gain would be to leverage jQuery within a web part to dramatically improve the user experience using few post backs, removing server side delays that go through multiple layers before finally executing spocs, as SharePoint API calls, on the backend execute returning to the browser, throttling and Role Assignment trimming from the WF & engine Timer Service.
 
 SharePoint is an enterprise platform… but as developers on very small SharePoint farms, we have to be very creative to maintain application performance. Bells & whistles are great for very small business and team site applications. However, by choosing to forego some of those bells and whistles, real gains can be realized while still leveraging SharePoint within the enterprise.
-
-
-[Ground Turkey & Pepper Chili](https://jeffbreece.com/ground-turkey-pepper-chili/) ›

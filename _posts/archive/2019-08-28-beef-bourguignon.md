@@ -48,10 +48,6 @@ Ingredients
   * 1 pound frozen whole onions (I never use these but they look pretty in photos)
   * 1 pound fresh mushrooms stems discarded, caps thickly sliced (again… be liberal)
 
-
-
-![BB_D](https://jeffbreece.com/wp-content/uploads/2014/12/BB_D-168x300.jpg)
-
 Process
 
   1. Preheat the oven to 250 degrees F.
@@ -73,8 +69,3 @@ Process
   17. Sauté the mushrooms in 2 tablespoons of butter for 10 minutes until lightly browned and then add to the stew.
   18. Bring the stew to a boil on top of the stove, then lower the heat and simmer for 15 minutes… season to taste.
   19. To serve, toast the bread in the toaster or oven. Rub each slice on 1 side with a cut clove of garlic. For each serving, spoon the stew over a slice of bread and sprinkle with parsley. I served mine over garlic mashed potatoes instead of bread.
-
-
-
-
-[Aleppo Pepper-Roasted Pork with Shallot Vinaigrette](https://jeffbreece.com/aleppo-pepper-roasted-pork-with-shallot-vinaigrette/) ›

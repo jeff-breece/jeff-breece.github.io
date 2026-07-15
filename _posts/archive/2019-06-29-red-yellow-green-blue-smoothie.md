@@ -14,9 +14,7 @@ original_permalink: "https://jeffbreece.com/red-yellow-green-blue-smoothie/"
 
 This was a fantastic blended green drink.  
 
-
 Ingredients  
-
 
   * 2 beets, 5 big kale leaves  
 
@@ -32,17 +30,8 @@ Ingredients
 
   * Unsweetened almond milk  
 
-
-
-
 Process  
-
 
   1. Run it all through a blender until the texture is very smooth.
 
-
-
 ![Smoothie](/images/archive/wp-content/uploads/2014/11/Smoothie-168x300.jpg)
-
-
-[Coconut Curry Ginger Pumpkin Soup](https://jeffbreece.com/coconut-curry-ginger-pumpkin-soup/) ›

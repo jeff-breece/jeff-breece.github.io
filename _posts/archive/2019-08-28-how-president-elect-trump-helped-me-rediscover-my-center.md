@@ -25,8 +25,3 @@ So I had already begun an effort to remove all my commercial and media related �
 The last tweak I have done has been to _consciously_ log out of the social media platforms. Like all the way. Shutdown. No more phone alerts. Nada. It’s been great. I would never have guessed just how much of a distraction I had allowed this to become. Now, when I do log in, it’s at _specific_ times and I’m looking to catch up with the people I care about most… and then log off again.
 
 The formula has worked so far for me … and I have President Elect Trump to thank for it. Thank you Donald… and good luck!
-
-![Balance](https://jeffbreece.com/wp-content/uploads/2016/11/mindfulness-1024x683.jpg)
-
-
-[Being there](https://jeffbreece.com/being-there/) ›

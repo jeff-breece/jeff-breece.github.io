@@ -43,6 +43,3 @@ Add the peppers to the crock pot
 Give everything a stir then top off with an extra tbsp. of olive oil  
 Cook on high for 1 hour  
 Cook on low for 1 hour
-
-
-[Beets & Greens](https://jeffbreece.com/beets-greens/) ›

@@ -43,8 +43,3 @@ Bring the mix to a gentle boil then reduce heat and simmer for 10 minutes.
 Add noodles to pot.   
 Mix flour with 1/2 cup of water until smooth then add heavy cream pour into pot.   
 Simmer until mix looks golden and the noodles are swimming happily. 
-
-![](https://jeffbreece.com/site/assets/images/blog_assets/ChickenNoodles.jpg)
-
-
-[Apple Pie with vodka crust](https://jeffbreece.com/apple-pie-with-vodka-crust/) ›

@@ -17,8 +17,6 @@ original_permalink: "https://jeffbreece.com/ratatouille-a-double-header/"
 
 Some friends with green thumbs recently shared a wealth of tomatoes and a variety of fresh peppers with me. With a couple eggplants on the counter and a few yellow onions I had it in my head to make ratatouille for the first time in well over a decade. I pulled out my copy of [“The Marathon Chef” by Michel Roux Jr](http://www.amazon.com/The-Marathon-Chef-Food-Getting/dp/0297843095/ref=sr_1_1?ie=UTF8&qid=1410213446&sr=8-1&keywords=The+Marathon+Chef) as I like how simple and French his style is. Of course it makes enough food for a small, but very hungry, family so we had enough leftovers for an interesting twist on vegetarian lasagna (thus the second recipe in this post). Both turned out pretty good.
 
-![Summer Vegetables](https://jeffbreece.com/wp-content/uploads/2014/09/Vegetables-300x228.png)
-
 Note: I altered the Ratatouille recipe based on what I had on hand but it’s essentially based on the original.
 
 # Ratatouille
@@ -38,8 +36,6 @@ Ingredients
   * Olive oil
   * Salt and pepper
 
-
-
 Process
 
   1. Cut peppers into quarters then dice.
@@ -51,10 +47,6 @@ Process
   7. Add the thyme, Bay leaf, salt and crushed pepper.
   8. Mix in the vegetables and bring to a simmer.
   9. Lower the heat, cover with lid and cook for 25 minutes.
-
-
-
-![Ratatouille](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille-300x220.png)
 
 # Ratatouille Lasagna
 
@@ -71,8 +63,6 @@ Ingredients
   * 1/2 quantity of Ratatouille (see Related Recipe)
   * 250g mozzarella, sliced
   * Mixed salad leaves, to serve
-
-
 
 Process
 
@@ -94,10 +84,3 @@ Process
   16. Top with the mozzarella.
   17. Bake for 40 minutes or until golden.
   18. Set aside for 10 minutes to stand.
-
-
-
-![Ratatouille-Lasagna](https://jeffbreece.com/wp-content/uploads/2014/09/Ratatouille-Lasagna-300x250.jpg)
-
-
-[Refining Pie](https://jeffbreece.com/refining-pie/) ›

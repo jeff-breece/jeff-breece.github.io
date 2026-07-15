@@ -22,8 +22,6 @@ While orbiting several projects, and a few conversations with Eddie later, is wh
 
 So here’s my attempt at Shrimp and Scallops Soup. Second [reference](http://www.foodnetwork.com/recipes/rachael-ray/venetian-shrimp-and-scallops-recipe.html), in addition to the health book.
 
-![Shrimp & Scallops Soup](https://jeffbreece.com/wp-content/uploads/2014/07/DSCN4429-300x225.jpg)
-
 Ingredients
 
   * 1 pound sea scallops
@@ -41,19 +39,12 @@ Ingredients
   * 12 leaves fresh basil, shredded or torn
   * A heavy Summer handful of garden herbs (Eddie is growing basil, oregano & thyme)
 
-
-
 Process
 
   1. Lightly coat the sea scallops in flour seasoned with salt and pepper. Discard remaining flour.
   2. Preheat a large skillet over medium high heat. Add oil (1 turn around the pan) and butter. When butter melts into oil, add scallops. Brown scallops 2 minutes on each side, then remove from pan.
   3. Add an additional drizzle of olive oil to the pan and add the garlic, shallots, and crushed red pepper flakes. Reduce heat a little and sauté garlic and shallots 2 minutes, stirring constantly. Add wine to the pan and free up any pan drippings. Reduce wine 1 minute, then add stock, herbs, and tomatoes. When liquids come to a bubble, add shrimp and cook 3 minutes (I left the shells on for the flavor). Return scallops to the pan and cook shrimp and scallops 2 to 3 minutes longer. Add red peppers to allow for a little sweetness. Transfer shrimp and scallops to a warm serving dish and top with parsley.
 
-
-
 Serving tomorrow night with hot French bread and asparagus. Feeling grateful for both challenging work and a wonderful life, spiced up by it’s occasionally off the charts twists and turns of course.
 
 Like jalapeños or “tears in the rain.”
-
-
-[Post dentist Soufflé](https://jeffbreece.com/post-dentist-souffle/) ›

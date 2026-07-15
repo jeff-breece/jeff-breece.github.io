@@ -51,17 +51,7 @@ We know that physical exercise makes our hearts stronger. New [research](https:/
 
 Meditation has a lot in common with running. You get better at it the more you practice. And, like running, it’s actually enjoyable once you let down your guard and open your heart and mind to yourself… and then let both go, like a shirt, on a hot August afternoon while running across the Statehouse lawn.
 
-![August-Run-Ohio-Statehouse](https://jeffbreece.com/wp-content/uploads/2017/01/August-300x295.jpg)
-
-
-[2017 AIDS Walk Central Ohio for Tom](https://jeffbreece.com/2017-aids-walk-central-ohio-for-tom/) ›
-
 ######  One comment on “On losing my shirt and meditation” 
-
-  1. ![](https://secure.gravatar.com/avatar/acff76be2943b87dbaf1cb238e1cfc1b?s=60&d=mm&r=g) Lora says:
-
-[ January 26, 2017 at 5:14 pm](https://jeffbreece.com/losing-my-shirt-and-meditation/#comment-690)
 
 This is wonder Jeff, insightful and with good information. Thank you.
 
-[Reply](https://jeffbreece.com/losing-my-shirt-and-meditation/?replytocom=690#respond)

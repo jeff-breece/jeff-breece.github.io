@@ -23,20 +23,10 @@ It’s stark to think that we have come to such a sharp split between educated t
 
 My thoughts dwell on Independence Day tonight. I have to wonder. Are we?
 
-![We_want_white_tenants](https://jeffbreece.com/wp-content/uploads/2017/06/We_want_white_tenants-300x238.jpg)
-
-
-[Pushing boulders, & harsh emails, up mountains](https://jeffbreece.com/pushing-boulders-harsh-emails-up-mountains/) ›
-
 ######  One comment on “Independence Day in Trump’s America” 
-
-  1. ![](https://secure.gravatar.com/avatar/1bbf7206bd8800b485c28e3a24935578?s=60&d=mm&r=g) Nick says:
-
-[ June 28, 2017 at 11:26 pm](https://jeffbreece.com/independence-day-in-trumps-america/#comment-842)
 
 Reflective of living in this era-it is frightening for people of color, LBGTQ community, immigrants, the elderly, working poor and others.  
 Koch’s America sprinkled with a fascist agenda and still 100M citizens did not vote in the 2016 election. Very sad.  
 Keep witnessing Jeff. You are a brilliant visceral writer. I enjoy your observations.  
 Much love-Nick
 
-[Reply](https://jeffbreece.com/independence-day-in-trumps-america/?replytocom=842#respond)

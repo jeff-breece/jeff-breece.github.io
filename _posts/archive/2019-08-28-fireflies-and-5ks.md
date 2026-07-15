@@ -35,16 +35,8 @@ It’s in every run, swim, bike ride, lifting or Yoga session, family get togeth
 
 ![10](/images/archive/wp-content/uploads/2015/07/10-300x300.jpg) 5ks
 
-
-[Black Bean Burgers with Chipotle Ketchup](https://jeffbreece.com/black-bean-burgers-with-chipotle-ketchup/) ›
-
 ######  One comment on “Fireflies and 5ks” 
-
-  1. ![](https://secure.gravatar.com/avatar/c15de2ce57761ac443ac7b324e5f4f27?s=60&d=mm&r=g) Nick says:
-
-[ July 12, 2015 at 11:11 pm](https://jeffbreece.com/fireflies-and-5ks/#comment-449)
 
 Beautifully written; congratulations and may you have many more great memories after such achievements-  
 Rock on!
 
-[Reply](https://jeffbreece.com/fireflies-and-5ks/?replytocom=449#respond)

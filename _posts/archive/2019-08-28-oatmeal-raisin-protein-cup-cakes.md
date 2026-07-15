@@ -32,8 +32,6 @@ Ingredients
   * 1 teaspoon baking powder
   * 1/3 cup raisins
 
-
-
 Directions
 
   1. First, preheat oven to 350ºF and spray a muffin tin with nonstick cooking spray.
@@ -41,10 +39,3 @@ Directions
   3. Add the oatmeal, baking powder, whey powder, raisins and mix until smooth.
   4. Fill muffin tin about 1/3 to 1/2 way full.
   5. Bake at 350ºF for about 20 minutes.
-
-
-
-![muffins](https://jeffbreece.com/wp-content/uploads/2015/03/muffins-168x300.jpg)
-
-
-[Workout](https://jeffbreece.com/workout-4/) ›

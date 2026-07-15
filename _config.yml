@@ -98,6 +98,9 @@ defaults:
       comments: false
       math: false
       mermaid: false
+      image:
+        path: /assets/img/default-post.svg
+        alt: "Architecture wireframe — post header placeholder"
   - scope:
       path: ""
       type: tabs
