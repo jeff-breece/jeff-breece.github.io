@@ -1,6 +1,6 @@
 ---
 title: "“He’s dead Jim;” finding mom on board the Starship Enterprise."
-date: "2019-06-28T16:12:38"
+date: "2014-06-28T16:12:38"
 categories:
   - archive
   - life
