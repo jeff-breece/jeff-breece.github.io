@@ -186,4 +186,4 @@ Sometimes the right interface is a sentence. Sometimes it’s a button. Sometime
 Put the idea first; build with curiosity, improvise the means, and let the light on the wall prove that exploration mattered more than the tools.
 
 ## Personal Dedication
-For [Joan Breece](https://jeff-breece.github.io/archive/life/2019/06/28/he-s-dead-jim-finding-mom-on-board-the-starship-enterprise.html), thank you for everything I am today.
+For [Joan Breece](https://jeff-breece.github.io/archive/life/2014/06/28/he-s-dead-jim-finding-mom-on-board-the-starship-enterprise.html), thank you for everything I am today.
