@@ -22,7 +22,7 @@ series: "Resonance Lab"
 **Summary:**
 This is the last post in the series, and it's about the thing all the rest of it was for. At seven in the morning and seven in the evening, Helen tells me how the lab is.
 
-The interesting part is that no language model writes that report. After eleven posts of building an AI lab, the piece I trust most is the piece with no AI in it, and I want to explain why that isn't a contradiction.
+The interesting part is that no language model writes that report. After eighteen posts of building an AI lab, the piece I trust most is the piece with no AI in it, and I want to explain why that isn't a contradiction.
 
 <!--more-->
 
@@ -54,7 +54,7 @@ Here's the part that surprises people, and it's the right place to end.
 
 The report is assembled by a graph with no model call in it: poll the monitoring service, collect evidence through its domain endpoints, assess against fixed rules, compare against what was reported last time, format, persist. Six steps, entirely deterministic. The wording is templates and constants.
 
-After eleven posts of enthusiasm about local models — why?
+After eighteen posts of enthusiasm about local models — why?
 
 Because **this is the report I need to trust without checking.** Its whole value is that when it says the backups ran, I don't go and verify. The moment I have to verify, it's worse than useless — it's a second chore rather than a thing that saves me one.
 
@@ -98,7 +98,7 @@ She's the only front-facing voice in the lab, and for this she is a read-only pr
 
 ## Where this leaves the lab
 
-Eleven posts, and the inventory is: four machines that mostly cost nothing, a couple of dozen small services, four voices, and a report twice a day.
+Nineteen posts, and the inventory is: four machines that mostly cost nothing, a couple of dozen small services, four voices, and a report twice a day.
 
 What I actually built, though, is a set of opinions:
 

@@ -50,7 +50,7 @@ So: stripe, and take backups seriously.
 
 Each tier answers a different question.
 
-**Tier 1 — hot, hourly, local.** Snapshots to a USB drive attached to the same machine, using hardlinks so each snapshot only costs the files that changed. Dozens of restore points for almost no space. This is for "I deleted the wrong thing twenty minutes ago", which is by far my most common disaster and has nothing to do with hardware.
+**Tier 1 — hot, half-hourly, local.** Snapshots to a USB drive attached to the same machine, using hardlinks so each snapshot only costs the files that changed. Forty-eight restore points covering a day, for almost no space. This is for "I deleted the wrong thing twenty minutes ago", which is by far my most common disaster and has nothing to do with hardware.
 
 **Tier 2 — warm, daily, another machine.** Overnight the server reaches out to the other machines in the lab — the workstation, the GPU box — and pulls their working files onto its array, so the state that would otherwise be scattered across machines nobody backs up lands in one place that is itself backed up.
 
@@ -58,7 +58,7 @@ It *pulls*, and that direction is deliberate. If each machine pushed its own dat
 
 **Tier 3 — cold, weekly, off-site.** Encrypted to cloud storage. This is for fire, theft, or flood — the low-probability, total-loss cases. Encrypted client-side, so the storage provider holds ciphertext.
 
-Hourly, daily, weekly. Local, house, off-site. Each tier assumes the ones before it failed.
+Half-hourly, daily, weekly. Local, house, off-site. Each tier assumes the ones before it failed.
 
 ## The audit, and what it found
 
