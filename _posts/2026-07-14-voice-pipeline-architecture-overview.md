@@ -45,7 +45,7 @@ Here's what happens when I say something:
 
 ```
 speech
-  → speech-to-text          (:8000, Whisper, CPU)
+  → speech-to-text          (Whisper — Jetson :5000, falls back to lab-stt :8000)
   → gateway                 (:8003, where does this go?)
   → retrieval | skills | model
   → text-to-speech          (:8001, Piper)
@@ -66,7 +66,7 @@ That first impression is disproportionately important, and not for sentimental r
 
 So the model loads eagerly, during service startup, before the port ever accepts a request. The service takes longer to come up and is never slow once it has. That's the correct trade for anything that a human waits on, and the general shape — *pay the cost at a moment nobody is watching* — is one I now look for everywhere.
 
-The model itself is the `base` Whisper, running int8 on a CPU. Not the large one. It's less accurate on unusual words and completely fine for "what's on my calendar" or "restart the light display", and it's fast enough to feel instant. Choosing the smaller model was the single best latency decision in this pipeline, and I'd nudge anyone building this to start smaller than they think they need and only move up when a specific failure demands it.
+The model itself is the `base` Whisper, running int8. Transcription usually happens on the Jetson, close to the microphone, with the CPU service on the main server as its fallback — but the model stays small on both. Not the large one. It's less accurate on unusual words and completely fine for "what's on my calendar" or "restart the light display", and it's fast enough to feel instant. Choosing the smaller model was the single best latency decision in this pipeline, and I'd nudge anyone building this to start smaller than they think they need and only move up when a specific failure demands it.
 
 ## Detail two: one ID through the whole thing
 
