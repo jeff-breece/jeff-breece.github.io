@@ -12,6 +12,9 @@ tags:
 - voice
 - automation
 - python
+image:
+  path: "/images/unsplash/helen-voice-commands.jpg"
+  alt: "A brass ship's engine-order telegraph on a bridge — a fixed dial of commands selected by a lever"
 excerpt_separator: <!--more-->
 series: "Resonance Lab"
 ---
@@ -86,3 +89,9 @@ Adding voice commands turned out to be the easy part — an afternoon, mostly, b
 If I had built commands first and boundaries second, this would have been a very different week. Do the boring authority work early, while the capability list is short. Then extending the assistant is just adding rows to a menu, and the menu can't hurt you.
 
 Questions about any of it, drop me a [note](mailto:jeffbreece@outlook.com).
+
+---
+
+## Credits
+
+_Hero photo by [Dmitrii E.](https://unsplash.com/@dmitriielj?utm_source=jeffbreece.com&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=jeffbreece.com&utm_medium=referral) — a ship's engine-order telegraph, which is the whole design of this post rendered in brass: a fixed menu of commands, and a lever that selects one but can never invent one._
