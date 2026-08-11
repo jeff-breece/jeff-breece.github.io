@@ -123,6 +123,8 @@ That part is available to anyone. That's the whole point.
 
 Thanks for reading.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

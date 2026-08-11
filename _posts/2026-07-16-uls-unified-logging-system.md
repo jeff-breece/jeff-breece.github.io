@@ -104,6 +104,8 @@ And when you write the ingest, be permissive. Take the ugly event, mark it ugly,
 
 Next: the moment a sentence arrives and something has to decide what kind of question it is.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

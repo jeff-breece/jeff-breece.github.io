@@ -106,6 +106,8 @@ The classifier is a component you swap in later, behind an interface you already
 
 Next: how the good classifier actually works — and why it's mostly arithmetic rather than a model.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

@@ -90,6 +90,8 @@ If I had built commands first and boundaries second, this would have been a very
 
 Questions about any of it, drop me a [note](mailto:jeffbreece@outlook.com).
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

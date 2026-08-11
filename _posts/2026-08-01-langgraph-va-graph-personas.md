@@ -114,6 +114,8 @@ You also don't need a framework. Mine is a small graph now, but for months it wa
 
 Next: what Helen is allowed to do — and why her refusals are constants in a source file rather than something a model composes.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

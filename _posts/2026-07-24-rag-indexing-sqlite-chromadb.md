@@ -105,6 +105,8 @@ And the small version of this is very small: a folder of text, a local embedding
 
 Next: the service that decides which of these two stores a question belongs to, and what it does when it can't tell.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

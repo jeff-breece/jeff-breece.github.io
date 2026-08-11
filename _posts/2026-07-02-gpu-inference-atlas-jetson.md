@@ -95,6 +95,8 @@ The three machines here didn't come from a plan. They came from three separate m
 
 Next: how I found out whether any of this was actually running.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

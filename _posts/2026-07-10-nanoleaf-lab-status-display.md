@@ -104,6 +104,8 @@ Pick the one thing you most often wish you'd noticed sooner. Give it a colour. T
 
 Next: the screen version of all this — an operator console built for exactly one user.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

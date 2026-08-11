@@ -112,6 +112,8 @@ And write the idempotent deploy script whatever platform you're on. That's the p
 
 Next: putting the lab's state in the room instead of on a screen.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

@@ -117,6 +117,8 @@ And make one refusal a constant string. Just one, as an experiment. Then try to 
 
 Next, and last in this series: what Helen actually says at seven in the morning — and why the report is assembled without a model at all.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits
