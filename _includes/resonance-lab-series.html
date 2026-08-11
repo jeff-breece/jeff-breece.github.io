@@ -1,0 +1,30 @@
+{%- comment -%}
+The Resonance Lab series TOC — the home-lab build as a history in progress.
+One source of truth: every post with `series: "Resonance Lab"` in its front
+matter appears here automatically, in chronological order, with the post
+you're reading marked. Add the series line to a new post and every post's
+TOC picks it up on the next build; nothing is pasted twenty times to drift.
+{%- endcomment -%}
+{%- assign lab_posts = site.posts | where: "series", "Resonance Lab" | sort: "date" -%}
+<hr>
+<h2 id="the-lab-so-far">The lab so far</h2>
+<p>This post is part of an ongoing series — the home-lab build written down as
+it happens, in order:</p>
+<ol>
+{%- for p in lab_posts %}
+  <li>
+    {%- if p.url == page.url -%}
+      <strong>{{ p.title }}</strong> <em>(you are here)</em>
+    {%- else -%}
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    {%- endif -%}
+    <small> — {{ p.date | date: "%b %-d, %Y" }}</small>
+  </li>
+{%- endfor %}
+</ol>
+<p><em>Before it was a series:</em>
+<a href="{% post_url 2026-03-08-Earthquake-Data-DOTNET-and-Local-LLM-Reasoning %}">earthquake data and local LLM reasoning</a>,
+<a href="{% post_url 2026-03-28-earthquake-llm-analysis-slack-integration %}">the Slack integration that followed</a>,
+<a href="{% post_url 2026-05-26-cli-vs-openwebui-context %}">CLI vs Open WebUI on context</a>,
+<a href="{% post_url 2026-06-15-adr-anythingllm %}">the AnythingLLM ADR</a>, and
+<a href="{% post_url 2026-07-15-kaparthys-llm-wiki-pattern-with-obsidian %}">the LLM-owned wiki pattern</a>.</p>

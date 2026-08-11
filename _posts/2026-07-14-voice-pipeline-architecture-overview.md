@@ -23,13 +23,11 @@ series: "Resonance Lab"
 **Summary:**
 This is the post the whole lab is really about. Everything up to now — the machines, the monitoring, the lights on the wall — was scaffolding for one thing: being able to say something out loud in my office and have the room answer, using models that run entirely on hardware I own.
 
-Here's the whole path, and the two small details that made the difference between a demo and something I actually use.
+This is the whole path, plus the two small details that made the difference between a demo and something I actually use.
 
 <!--more-->
 
 # From Wake Word to Soundbar
-
-*One sentence, six services, no cloud*
 
 ## Why bother, when the phone already does this
 
@@ -105,6 +103,8 @@ My first version was a shell script: record audio, POST to Whisper, POST the tex
 You can write that script today with whatever machine you have. A small Whisper model runs on very modest hardware, a small language model will answer basic questions on a laptop, and Piper is light. It'll be slow and rough and yours, and the rough version will tell you exactly what to build next — which is knowledge you cannot get any other way.
 
 Next: getting all six of those hops into one place, so a single request ID tells the whole story.
+
+{% include resonance-lab-series.html %}
 
 ---
 

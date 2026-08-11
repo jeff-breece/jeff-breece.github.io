@@ -28,8 +28,6 @@ This post is about the service that decides, and about a design choice I keep co
 
 # Where Does This Sentence Go?
 
-*On routing, and on the virtue of having a stupid option*
-
 ## Seven doors
 
 By the time the voice pipeline worked, the lab had accumulated several different things it could do with a sentence. It could search my own writing. It could ask a general-purpose model. It could run a coaching conversation, or a reasoning-heavy one, or a code-focused one. It could control the house. It could query a pile of public data I'd been collecting.
@@ -107,6 +105,8 @@ Genuinely — start with keyword matching. Route three intents. Get the plumbing
 The classifier is a component you swap in later, behind an interface you already proved. Mine went regex → LLM → embedding over several months, and every one of those swaps was a contained change because the interface never moved. If I'd started with embeddings I'd have built the whole thing around a component I didn't yet understand.
 
 Next: how the good classifier actually works — and why it's mostly arithmetic rather than a model.
+
+{% include resonance-lab-series.html %}
 
 ---
 

@@ -28,8 +28,6 @@ It's also where I have to be careful, so let me be direct about that up front.
 
 # Teaching the Lab to Know Me
 
-*On structured extraction, and on what stays in the house*
-
 ## A note about what's in this post
 
 I keep a daily journal, and have for years. It's the most personal thing in this lab by a wide margin — health information, relationships, worries, the ordinary private material of a life.
@@ -66,7 +64,7 @@ Two things about that separation matter, and they're the same point made twice.
 
 **The model's output is never mixed with the measured data.** Mood analysis lives in its own file, not as another column beside the exercise booleans. One of those is a fact about what happened; the other is a model's opinion about what I wrote. Put them in the same table and six months later you'll aggregate across both and produce a chart that mixes measurement with inference while looking equally confident about all of it. Keeping them apart is a filing decision that prevents a category error.
 
-**It runs locally.** The journal never leaves the house. This is the single hardest constraint in the whole lab and it rules out the obvious approach — the big cloud models are better at this than anything I can run locally, and it isn't close. I use the local one anyway, and accept somewhat worse analysis, because the alternative is uploading my diary to a company. That was never a real option, so the constraint is load-bearing rather than a preference.
+**It runs locally.** The journal never leaves the house. This is the single hardest constraint in the whole lab and it rules out the obvious approach — the big cloud models are better at this than anything I can run locally, and it isn't close. I use the local one anyway, and accept somewhat worse analysis, because the alternative is uploading my diary to a company. That was never a real option, so the constraint is hard, not a preference.
 
 ## The cache that made it usable
 
@@ -103,6 +101,8 @@ The move is not to build the analysis first. It's to get whatever you have into 
 And decide about privacy on day one, while the stakes are still theoretical. It's much easier to keep something out of a repository than to remove it from a history.
 
 Next: turning these tables into something the assistant can actually search — and the mistake that made every rebuild silently skip half the work.
+
+{% include resonance-lab-series.html %}
 
 ---
 

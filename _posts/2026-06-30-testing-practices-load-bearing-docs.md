@@ -29,8 +29,6 @@ If you're reading this with a secondhand laptop and a small model you downloaded
 
 # Load-Bearing Docs
 
-*Or: the cheapest thing in a homelab is a sentence nobody checked*
-
 ## The lab, such as it is
 
 Resonance Lab didn't get designed. It accumulated, the way a garage accumulates, one reasonable decision at a time until you look up and can't park in it.
@@ -150,6 +148,8 @@ That's the honest version. It isn't rigor for its own sake. It's that I'm buildi
 If you're starting your own version of this — and I hope you are — you don't need four machines to begin. You need one. You need something you're curious about. The discipline scales down perfectly: a single file that says "these are the facts" and a single test that says "and here's where they must appear" works exactly as well with one host as with four. I wish I'd written mine on day one instead of month fourteen.
 
 Next in this series: the measurement that decided every piece of hardware I've bought.
+
+{% include resonance-lab-series.html %}
 
 ---
 

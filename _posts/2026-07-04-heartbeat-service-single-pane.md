@@ -26,8 +26,6 @@ There's a moment in every growing homelab where you lose track. Not of anything 
 
 # Is Any of This Even Running?
 
-*On probes, timeouts, and readings that know how old they are*
-
 ## Losing track
 
 By the time the lab had four machines, it had somewhere north of twenty services. Speech-to-text, text-to-speech, a gateway, a retrieval service, a skill service, a logging aggregator, a health service, exporters on three hosts, a couple of user interfaces. Each one had been a good idea. Each one had a deploy script and a systemd unit and, mostly, worked.
@@ -54,7 +52,7 @@ So there are two kinds of probe. HTTP where a service can meaningfully answer, T
 
 Every probe has a three-second timeout.
 
-That number is not arbitrary and I'd encourage you to pick yours deliberately rather than inheriting whatever your HTTP client does. Here's the reasoning: if I'm checking twenty services and one of them is hung, a default timeout of thirty seconds means my status page takes half a minute to load. In practice it means I stop opening it. The monitoring becomes the thing that's too slow to use, at exactly the moment you need it, which is a very silly way to lose.
+That number is not arbitrary and I'd encourage you to pick yours deliberately rather than inheriting whatever your HTTP client does. The reasoning goes like this: if I'm checking twenty services and one of them is hung, a default timeout of thirty seconds means my status page takes half a minute to load. In practice it means I stop opening it. The monitoring becomes the thing that's too slow to use, at exactly the moment you need it, which is a very silly way to lose.
 
 Three seconds is long enough that a healthy service on a busy machine will answer, and short enough that a wedged one gets classified quickly and everything else still gets checked. A slow answer and no answer are, for this purpose, the same answer.
 
@@ -107,6 +105,8 @@ And it doesn't need to be sophisticated. A script that hits five URLs with a sho
 Start with the table. Put the time on it.
 
 Next: the array underneath all of this, which has no redundancy at all, and the audit that found what wasn't being backed up.
+
+{% include resonance-lab-series.html %}
 
 ---
 

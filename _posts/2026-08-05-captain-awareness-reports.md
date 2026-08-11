@@ -28,8 +28,6 @@ The interesting part is that no language model writes that report. After eightee
 
 # Seven in the Morning
 
-*The last post, and the one with no model in it*
-
 ## What it sounds like
 
 Twice a day, the lab tells me how it is. Whether the machines are up, whether the backups ran, whether anything has changed since the last time it told me.
@@ -50,7 +48,7 @@ I'll take it, because the failure it prevents is the one where I hear "everythin
 
 ## Why there's no model in it
 
-Here's the part that surprises people, and it's the right place to end.
+The part that surprises people is the right place to end on.
 
 The report is assembled by a graph with no model call in it: poll the monitoring service, collect evidence through its domain endpoints, assess against fixed rules, compare against what was reported last time, format, persist. Six steps, entirely deterministic. The wording is templates and constants.
 
@@ -60,7 +58,7 @@ Because **this is the report I need to trust without checking.** Its whole value
 
 A model in that path introduces a small probability of a fluent, plausible, wrong summary. Small. Genuinely small, with a good model and a tight prompt. But this runs twice a day forever, a small probability per run is a certainty eventually, and I won't know which run it was. The failure isn't loud. It's a sentence that reads exactly like all the other sentences and happens not to be true.
 
-And I have receipts, from the last post: Helen once reported numbers from a worked example in her own prompt as the current state of the lab. That was a model doing exactly what models do — completing a pattern plausibly. Once that's happened to you, you get much clearer about which outputs may be generated and which must be computed.
+I gave a concrete example of this in the last post: Helen once reported numbers from a worked example in her own prompt as the current state of the lab. That was a model doing exactly what models do — completing a pattern plausibly. Once that's happened to you, you get much clearer about which outputs may be generated and which must be computed.
 
 So the line I've settled on: **models for things where being approximately right is useful, code for things where being wrong is invisible.** Retrieval, conversation, summarising my own writing — models, absolutely, they are wonderful at all of it. A twice-daily assertion about whether my data is safe — code.
 
@@ -84,7 +82,7 @@ One unglamorous detail for anyone building a scheduled report.
 
 The reports go out at 07:00 and 19:00 local time. The server runs in UTC, as servers do.
 
-That's a four or five hour gap depending on the season, and if you write the schedule assuming the server's clock is your clock, your morning report arrives in the middle of the night for half the year and shifts by an hour when the clocks change. Timezone handling here is load-bearing rather than a nicety, and it's called out in the code so nobody simplifies it away later.
+That's a four or five hour gap depending on the season, and if you write the schedule assuming the server's clock is your clock, your morning report arrives in the middle of the night for half the year and shifts by an hour when the clocks change. Timezone handling is not a nicety here, and it's called out in the code so nobody simplifies it away later.
 
 ## Helen delivers it; she doesn't compose it
 
@@ -124,6 +122,8 @@ The thing that keeps me going isn't the technology, which changes every six mont
 That part is available to anyone. That's the whole point.
 
 Thanks for reading.
+
+{% include resonance-lab-series.html %}
 
 ---
 
