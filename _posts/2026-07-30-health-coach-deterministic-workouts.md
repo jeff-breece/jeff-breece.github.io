@@ -102,6 +102,8 @@ And this generalises past training. Anywhere you're tempted to have a model gene
 
 Next: the personalities, and where Helen comes from.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

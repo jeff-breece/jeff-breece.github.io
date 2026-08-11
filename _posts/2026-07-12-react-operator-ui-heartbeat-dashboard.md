@@ -92,6 +92,8 @@ And build for yourself. Deliberately. Make it dense if you like dense, make it l
 
 Next: the thing all of this was actually built for — talking to it out loud.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

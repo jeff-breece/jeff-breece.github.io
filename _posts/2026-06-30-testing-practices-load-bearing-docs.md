@@ -149,6 +149,8 @@ If you're starting your own version of this — and I hope you are — you don't
 
 Next in this series: the measurement that decided every piece of hardware I've bought.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

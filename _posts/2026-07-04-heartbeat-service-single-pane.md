@@ -106,6 +106,8 @@ Start with the table. Put the time on it.
 
 Next: the array underneath all of this, which has no redundancy at all, and the audit that found what wasn't being backed up.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

@@ -100,6 +100,8 @@ And none of this needs a striped array or three tiers. One external drive and a 
 
 Next: how all these services actually get onto the machines, and the two platforms I deliberately kept.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

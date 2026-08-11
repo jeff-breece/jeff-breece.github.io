@@ -102,6 +102,8 @@ And add the refusal early, whatever scale you're at. It costs an `if` and it's t
 
 Next: the one place this lab looks outward instead of inward — a small data lake of public sources.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

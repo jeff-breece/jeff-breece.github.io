@@ -104,6 +104,8 @@ You can write that script today with whatever machine you have. A small Whisper 
 
 Next: getting all six of those hops into one place, so a single request ID tells the whole story.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

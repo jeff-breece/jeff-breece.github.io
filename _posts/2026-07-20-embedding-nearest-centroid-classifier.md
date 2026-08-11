@@ -106,6 +106,8 @@ If you have a few hours and a text editor: write out the categories you care abo
 
 Next: where the personal data comes from in the first place, and what it took to make the lab know anything about me at all.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

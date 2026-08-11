@@ -102,6 +102,8 @@ And decide about privacy on day one, while the stakes are still theoretical. It'
 
 Next: turning these tables into something the assistant can actually search — and the mistake that made every rebuild silently skip half the work.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits

@@ -90,6 +90,8 @@ If after a month you've asked a question of it, add a second source. If you have
 
 Next: something I built the opposite way, where the whole point was *not* letting a model decide.
 
+{% include resonance-lab-series.html %}
+
 ---
 
 ## Credits
