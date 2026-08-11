@@ -28,8 +28,6 @@ This is about building for someone who already knows the system — and about th
 
 # An Operator Console, Not a Dashboard
 
-*Designing for a user who already knows everything*
-
 ## One user changes everything
 
 Almost every interface I've built professionally was for people who didn't know the system. That shapes everything: onboarding, progressive disclosure, labels that explain themselves, guard rails, tooltips.
@@ -62,7 +60,7 @@ The critical detail: mock mode is *visibly* mock. It never quietly substitutes. 
 
 ## The rule I had to write down
 
-Here's the bug that produced a rule.
+One bug from this build produced a rule I still follow.
 
 The interface has an ambient layer — the presence surface, the thing that responds to the assistant speaking and listening, with animation that reacts to audio. Several components participate in it: a level indicator, an activity ring, a thinking indicator.
 
@@ -70,7 +68,7 @@ I built them one at a time, and each one, quite naturally, got its own animation
 
 With three or four of those running, the interface got noticeably worse. Not broken — janky. Animations drifted out of sync with each other, and the whole thing got heavy enough that the machine's fans came on for a page that is mostly text.
 
-The fix was a single shared loop that ticks once per frame and distributes to everything that needs it, plus a small event bus so components can react to the same signal instead of each polling for it. Everything got smoother immediately, and the code got smaller.
+The fix was a single shared loop that ticks once per frame and distributes to everything that needs it, plus a small event bus so components can react to the same event instead of each polling for it. Everything got smoother immediately, and the code got smaller.
 
 The rule, written in the repository where the next person will hit it: **do not give each component its own animation loop.** It's obvious once you've been bitten. It is completely non-obvious while you're building the third component, because in isolation each one is perfectly reasonable, and the problem only exists in aggregate.
 

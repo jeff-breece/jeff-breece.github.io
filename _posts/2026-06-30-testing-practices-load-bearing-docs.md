@@ -29,8 +29,6 @@ If you're reading this with a secondhand laptop and a small model you downloaded
 
 # Load-Bearing Docs
 
-*Or: the cheapest thing in a homelab is a sentence nobody checked*
-
 ## The lab, such as it is
 
 Resonance Lab didn't get designed. It accumulated, the way a garage accumulates, one reasonable decision at a time until you look up and can't park in it.

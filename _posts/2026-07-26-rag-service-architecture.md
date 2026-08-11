@@ -28,8 +28,6 @@ Two routing layers sounds like over-engineering. It was one of the better decisi
 
 # Two Stages and a Refusal
 
-*On routing inside the memory, and on learning to say nothing*
-
 ## Why a second router
 
 The gateway from a few posts back has one job: work out that a question is personal, and hand it to the memory service. Good. But "personal" isn't a way of answering anything — it's a category, and inside it live several completely different mechanisms.
@@ -98,7 +96,7 @@ I built it last, as a cleanup, after watching the assistant confabulate on quest
 
 You don't need two routers. You need to notice when you have two kinds of question.
 
-The signal is easy to spot in hindsight: you'll have a retrieval system that's good at one sort of query and mysteriously poor at another, and the poor one will usually be the one with an exact answer. That's the moment to split — not to make the vector search better, but to stop asking it questions it structurally cannot answer well.
+The symptom is easy to spot in hindsight: you'll have a retrieval system that's good at one sort of query and mysteriously poor at another, and the poor one will usually be the one with an exact answer. That's the moment to split — not to make the vector search better, but to stop asking it questions it structurally cannot answer well.
 
 And add the refusal early, whatever scale you're at. It costs an `if` and it's the difference between a tool you trust and a tool that's confidently wrong at unpredictable moments.
 
