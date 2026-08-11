@@ -28,8 +28,6 @@ The design turns on a single rule that I'd argue for in any logging system: **th
 
 # A Dropped Log Is Worse Than an Ugly One
 
-*On collecting logs, and on refusing to be picky about them*
-
 ## Four machines, twenty services, one question
 
 By this point the lab had logs everywhere. Every service wrote its own, on whichever machine it happened to run on, in whatever format seemed reasonable at the time.
@@ -40,7 +38,7 @@ So: collectors on every machine, forwarding to one aggregator. The aggregator ru
 
 ## The rule
 
-Here's the decision everything else follows from.
+One decision drives everything else in this design.
 
 The obvious way to build a log ingest endpoint is to validate. Define a schema, check incoming events against it, reject what doesn't conform. That's what you'd do for an API, and it's completely wrong here.
 
@@ -105,6 +103,8 @@ Then add one field to every log line: something that identifies the request. Tha
 And when you write the ingest, be permissive. Take the ugly event, mark it ugly, and keep it. You'll want it.
 
 Next: the moment a sentence arrives and something has to decide what kind of question it is.
+
+{% include resonance-lab-series.html %}
 
 ---
 

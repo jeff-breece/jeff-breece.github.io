@@ -28,8 +28,6 @@ That's a deliberate choice, and this post is about the thing that makes it defen
 
 # Zero Redundancy
 
-*On choosing the risky option and then paying for it properly*
-
 ## Why stripe at all
 
 Two large drives, striped together. Everything written gets split across both, which roughly doubles throughput and gives me the full combined capacity — around 32 TB usable.
@@ -101,6 +99,8 @@ Two things, and the second matters more.
 And none of this needs a striped array or three tiers. One external drive and a scheduled `rsync` with hardlinked snapshots covers the common case beautifully, on any machine you have. The tiers came from asking which failures each one couldn't cover — and that question is free.
 
 Next: how all these services actually get onto the machines, and the two platforms I deliberately kept.
+
+{% include resonance-lab-series.html %}
 
 ---
 

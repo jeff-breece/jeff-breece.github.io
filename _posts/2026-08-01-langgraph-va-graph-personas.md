@@ -28,8 +28,6 @@ Helen is the one the lab is named around, in a sense. This is where she starts.
 
 # How Helen Came to Be
 
-*Four voices, one graph, and a branch that stays anonymous*
-
 ## The problem with one assistant
 
 The first version was a single voice that did everything. Ask it about the servers, ask it about your week, ask it to turn the lights off — same voice, same register, same slightly eager helpfulness.
@@ -66,11 +64,11 @@ I'd generalise this: **not everything that arrives by voice is a conversation.**
 
 ## Stickiness beats topic detection
 
-Here's the design decision I'd defend hardest, because I got it wrong first.
+The design decision I'd defend hardest is one I got wrong the first time.
 
 The obvious way to pick a persona is to look at each message and detect its topic. Sounds like a training question, send it to Hank. Sounds like infrastructure, send it to Helen.
 
-That is genuinely terrible in practice, and the reason is that conversations aren't a series of independent topics. They wander. Once I'm talking to Hank about a training week, my next message might be "why?" or "what about Thursday" or a half-sentence that carries no topical signal at all. Topic detection sees no signal, falls back to the default, and suddenly Helen is answering a follow-up about exercise in an ops register — having lost the thread entirely, and without any indication that the person I was talking to has been swapped out mid-conversation.
+That is genuinely terrible in practice, and the reason is that conversations aren't a series of independent topics. They wander. Once I'm talking to Hank about a training week, my next message might be "why?" or "what about Thursday" or a half-sentence that gives topic detection nothing to grab onto. It falls back to the default, and suddenly Helen is answering a follow-up about exercise in an ops register — having lost the thread entirely, and without any indication that the person I was talking to has been swapped out mid-conversation.
 
 So persona is **sticky**. Address one by name and they take the floor and *keep* it until I address someone else. Routing is a pure function of the text and the persona currently holding the floor — no model call to decide who answers.
 
@@ -90,7 +88,7 @@ The separate voices from the TTS post matter more than I expected here too. Know
 
 And there's a quieter thing. A lab with four named voices in it is a more pleasant place to work than a lab with a query interface. I don't think that's frivolous. I spend a lot of hours in this room, and the difference between "a pile of services" and "somewhere with a bit of company in it" is not nothing — it's most of why the project has survived eighteen months of evenings. The sailors naming ships thing again.
 
-## Boundaries as scope, not vibes
+## Boundaries as scope, not suggestions
 
 The separation isn't only tone. It's what each persona can *see*.
 
@@ -115,6 +113,8 @@ Two is where the interesting design questions appear — how do you switch, what
 You also don't need a framework. Mine is a small graph now, but for months it was a dictionary of prompts and an `if` statement about who was last addressed, and that captured most of the value. Stickiness is a variable holding a name. The rest is polish.
 
 Next: what Helen is allowed to do — and why her refusals are constants in a source file rather than something a model composes.
+
+{% include resonance-lab-series.html %}
 
 ---
 

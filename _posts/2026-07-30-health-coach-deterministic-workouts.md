@@ -28,8 +28,6 @@ As with the journal post, I'll describe the machinery rather than the contents. 
 
 # The Coach That Doesn't Use a Model
 
-*On the difference between advice and a plan*
-
 ## A note on scope
 
 This service holds personal health information. So, as with the earlier post about my journals: this describes how the thing works, not what's in it. No data, no history, no specifics — the health database is one of the irreplaceable things from the backup post and it stays on my own machines.
@@ -103,6 +101,8 @@ You need a list of what you own and a few rules for combining it. That's a weeke
 And this generalises past training. Anywhere you're tempted to have a model generate a *plan* you'll follow repeatedly — meals, study, maintenance schedules — consider whether what you want is generation or a specification. Usually it's a specification, and specifications want code.
 
 Next: the personalities, and where Helen comes from.
+
+{% include resonance-lab-series.html %}
 
 ---
 

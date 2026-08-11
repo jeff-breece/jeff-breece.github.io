@@ -28,11 +28,9 @@ It isn't. Some of these services are never moving, and knowing which is the usef
 
 # Two Platforms On Purpose
 
-*On what makes a service portable, and what makes it furniture*
-
 ## The question that decides it
 
-Here's the test I settled on, and it took embarrassingly long to arrive at something this short:
+The test I settled on took embarrassingly long to arrive at, given how short it is:
 
 **If this service's process vanished right now, what would be lost?**
 
@@ -113,6 +111,8 @@ If you're curious about it, learn it because you want to, and be honest that you
 And write the idempotent deploy script whatever platform you're on. That's the piece that pays for itself immediately, at any scale, on any machine.
 
 Next: putting the lab's state in the room instead of on a screen.
+
+{% include resonance-lab-series.html %}
 
 ---
 

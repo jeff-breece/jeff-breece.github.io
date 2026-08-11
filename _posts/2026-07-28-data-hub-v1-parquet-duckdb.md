@@ -28,8 +28,6 @@ It's also where I made the most common mistake in personal data projects, which 
 
 # Looking Outward
 
-*Files, a query engine, and the discipline of collecting less*
-
 ## What it collects
 
 A set of public feeds, each on its own schedule: earthquake activity, economic series, market data, census figures, weather alerts, river and flood levels, ocean buoys, news and web sources, and a general crawler.
@@ -56,7 +54,7 @@ For anything at personal or small-team scale, I'd now reach for files-plus-engin
 
 ## The mistake
 
-Here's the honest part.
+Now the honest part.
 
 I collected too much. Several of those sources went in because collecting them was *interesting* — a new API, a new shape of data, an afternoon of pleasant work — and I have never once asked a question of them. They accumulate quietly, on a schedule, forever.
 
@@ -91,6 +89,8 @@ Not a platform, not a pipeline. One feed you're curious about, fetched on a sche
 If after a month you've asked a question of it, add a second source. If you haven't, delete the first and you've lost an evening rather than a year of quiet maintenance.
 
 Next: something I built the opposite way, where the whole point was *not* letting a model decide.
+
+{% include resonance-lab-series.html %}
 
 ---
 

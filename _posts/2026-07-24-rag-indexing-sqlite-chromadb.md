@@ -29,8 +29,6 @@ It's also the post where I have to admit that this thing was subtly broken for a
 
 # The Index That Was Quietly Empty
 
-*Two silent failures, and the one rule I now hold about embedders*
-
 ## Two stores, because there are two kinds of question
 
 "How many days did I exercise last month" and "what was I worried about in March" are not the same question, and pretending otherwise makes both worse.
@@ -47,7 +45,7 @@ The lesson underneath is one I'd generalise hard: **if part of your data has exa
 
 Everything in the vector store was embedded by one specific model, and it must stay that way.
 
-This is more absolute than it sounds, so let me be precise about why. An embedding model defines a space. Vectors from a *different* model are not slightly-off in that space — they're meaningless in it. Distances between them and the existing contents are noise that looks exactly like signal, and the similarity threshold gets applied to that noise and cheerfully returns neighbours. Not "no results". **Confident, wrong results.**
+This is more absolute than it sounds, so let me be precise about why. An embedding model defines a space. Vectors from a *different* model are not slightly-off in that space — they're meaningless in it. Distances between them and the existing contents are garbage that looks exactly like similarity, and the threshold gets applied to that garbage and cheerfully returns neighbours. You don't get "no results" — you get **confident, wrong results**.
 
 So the model is fixed, and there's a comment in the code saying so in about the same tone I'm using here.
 
@@ -61,7 +59,7 @@ Note that this is the opposite of the rule for generation, where swapping to a d
 
 ## Silent failure one: the settings that didn't match
 
-Here's the bug I'm least proud of.
+The bug I'm least proud of:
 
 The indexer opened the vector store one way. The retrieval service opened it another way — same directory, slightly different client configuration. One of them passed a settings object; the other took the defaults.
 
@@ -106,6 +104,8 @@ Two things I'd do differently, and both are free.
 And the small version of this is very small: a folder of text, a local embedding model, a vector store, and a script that puts one into the other. That runs on a laptop. Get that working and *look at what it contains* — the discipline is worth more than the scale.
 
 Next: the service that decides which of these two stores a question belongs to, and what it does when it can't tell.
+
+{% include resonance-lab-series.html %}
 
 ---
 
