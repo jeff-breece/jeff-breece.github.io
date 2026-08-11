@@ -28,11 +28,9 @@ This is my favourite piece of the lab, because it's the one where "AI" turns out
 
 # Mostly Arithmetic
 
-*Classifying intent with forty sentences and a cosine*
-
 ## The trick
 
-Here's the entire idea, and it's genuinely this simple.
+The entire idea is this simple.
 
 An embedding model turns a sentence into a list of numbers — a point in a space with a lot of dimensions — arranged so that sentences meaning similar things land near each other. That's the one clever component and I didn't build it.
 

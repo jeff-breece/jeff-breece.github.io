@@ -29,8 +29,6 @@ If you're running a small model on a laptop and wondering when you're supposed t
 
 # 1.7 Tokens Per Second
 
-*On buying hardware only when you can name the bottleneck*
-
 ## The number that changed things
 
 For most of the first year, everything ran on **lab-stt** — the little Minisforum box from the [previous post](/posts/testing-practices-load-bearing-docs/). It has an i9 and 32 GB of memory and no graphics card worth the name, and for a long time that was completely fine. Speech-to-text on a CPU is fine. Embedding text on a CPU is fine, if you're patient. Parsing journals, serving a vector index, running a dozen small HTTP services — all fine.

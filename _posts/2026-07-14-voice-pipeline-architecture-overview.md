@@ -23,13 +23,11 @@ series: "Resonance Lab"
 **Summary:**
 This is the post the whole lab is really about. Everything up to now — the machines, the monitoring, the lights on the wall — was scaffolding for one thing: being able to say something out loud in my office and have the room answer, using models that run entirely on hardware I own.
 
-Here's the whole path, and the two small details that made the difference between a demo and something I actually use.
+This is the whole path, plus the two small details that made the difference between a demo and something I actually use.
 
 <!--more-->
 
 # From Wake Word to Soundbar
-
-*One sentence, six services, no cloud*
 
 ## Why bother, when the phone already does this
 

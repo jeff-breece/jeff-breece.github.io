@@ -28,11 +28,9 @@ It isn't. Some of these services are never moving, and knowing which is the usef
 
 # Two Platforms On Purpose
 
-*On what makes a service portable, and what makes it furniture*
-
 ## The question that decides it
 
-Here's the test I settled on, and it took embarrassingly long to arrive at something this short:
+The test I settled on took embarrassingly long to arrive at, given how short it is:
 
 **If this service's process vanished right now, what would be lost?**
 

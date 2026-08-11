@@ -20,15 +20,13 @@ series: "Resonance Lab"
 ---
 
 **Summary:**
-Helen can restart services on my machines. That sentence should make you slightly uneasy, and it made me uneasy enough to spend more time on the boundaries than on the capability.
+Helen can restart services on my machines. That made me uneasy enough to spend more time on the boundaries than on the capability itself.
 
-This post is about where the limits live. The short version: not in the prompt. A limit written in a prompt is a suggestion, and a model can be argued out of a suggestion at two in the morning by someone tired enough to try.
+This post is about where the limits live, and they do not live in the prompt. A limit written in a prompt is a suggestion, and a model can be argued out of a suggestion at two in the morning by someone tired enough to try.
 
 <!--more-->
 
 # A Refusal a Model Can't Be Talked Out Of
-
-*On authority, and where you put the fence*
 
 ## The point where this got serious
 
@@ -51,23 +49,19 @@ Every action Helen might take is classified into one of four levels:
 
 The classification is a pure function of the *action*. Not of the conversation, not of who's asking, not of how the request was phrased. The same action gets the same tier every single time, and nothing in the dialogue can change it.
 
-That last property is doing the load-bearing work. If tier depended on context, then context becomes an attack surface — and the attacker is usually me, tired, phrasing things insistently until something gives.
+That last property is the one that matters. If tier depended on context, then context becomes an attack surface — and the attacker is usually me, tired, phrasing things insistently until something gives.
 
 ## The bit that matters: where the fence is
 
-Here's the design decision this whole post exists for.
+This is the design decision the post exists for.
 
-The obvious way to do this is to tell the model about the tiers. Put them in the system prompt: *here are your levels, T3 actions are forbidden, ask before doing anything T2.* Models are good at following instructions like that. It would mostly work.
-
-Mostly.
-
-The problem is that a prompt-level limit is enforced by the model's judgement in the moment, and that judgement is subject to everything else in the context — including a long conversation, including me being insistent, including phrasings that make an exception sound reasonable. Prompt instructions are *strong suggestions to a very agreeable system*.
+The obvious way to do this is to tell the model about the tiers. Put them in the system prompt: *here are your levels, T3 actions are forbidden, ask before doing anything T2.* Models are good at following instructions like that, and it would mostly work. The problem is that a prompt-level limit is enforced by the model's judgement in the moment, and that judgement is subject to everything else in the context — including a long conversation, including me being insistent, including phrasings that make an exception sound reasonable. Prompt instructions are *strong suggestions to a very agreeable system*.
 
 So the enforcement isn't there. T3 tools **do not exist in the toolset Helen is given.** There is no capability to refuse, because there's no capability. And the refusal text isn't generated — it's emitted by the router as a constant string, the same words every time, produced by a function that does no model call at all.
 
-I want to spell out why the constant matters, because it seemed fussy when I wrote it and now seems essential. **A refusal a model composes is a refusal a model can be argued out of.** If Helen generates "I can't do that", she can also generate a slightly softer version next turn, and a version that suggests a workaround, and eventually a version that does the thing. Each step is locally reasonable. Constant text has no gradient to walk down. There is nothing to negotiate with, because nothing is deciding.
+I want to spell out why the constant matters, because it seemed fussy when I wrote it and now seems essential. **A refusal a model composes is a refusal a model can be argued out of.** If Helen generates "I can't do that", she can also generate a slightly softer version next turn, and a version that suggests a workaround, and eventually a version that does the thing. Each step looks reasonable on its own. Constant text gives her nothing to soften one step at a time — nothing is deciding, so there is nothing to negotiate with.
 
-This is the single most transferable idea in this series: **put the constraint where the model isn't.** Not in the instructions it reads — in the code that decides what it can reach.
+If there is one idea worth taking from this series, it is this: **put the constraint where the model isn't.** Not in the instructions it reads — in the code that decides what it can reach.
 
 ## Two attempts, and then say so
 
@@ -105,7 +99,7 @@ There's also a set of standing phrases held as constants — exact wording for p
 
 ## The failures that taught me this
 
-Three, briefly, because the rules above all have receipts.
+Three of them, briefly, because every rule above came out of an actual failure.
 
 The personal-habits persona kept quoting my journal back at me in situations where the context said not to. The health persona once speculated about a specific physical cause in a way that read as diagnosis, with safety guidance sitting right there in its context. And Helen once read a *worked example from her own system prompt* — an illustration with plausible numbers in it — and reported those numbers as the current state of the lab.
 
@@ -117,7 +111,7 @@ All three are the same failure at different addresses. A model given an instruct
 
 Give your assistant a capability that can actually do something. It's a completely different exercise from a chatbot and you'll learn more in an afternoon than in a month of read-only work.
 
-But do the tiers first — before the capability, while the list is short and the stakes are hypothetical. Write down what it may never do, and then arrange for those things to be *absent* rather than forbidden. It's the difference between a fence and a sign that says please don't.
+But do the tiers first — before the capability, while the list is short and the stakes are hypothetical. Write down what it may never do, and then arrange for those things to be *absent* rather than forbidden. That is the difference between a fence and a sign asking nicely.
 
 And make one refusal a constant string. Just one, as an experiment. Then try to talk your assistant out of it, and notice that you can't, and notice how different that feels from every other guardrail you've built.
 

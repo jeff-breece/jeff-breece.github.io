@@ -29,8 +29,6 @@ It's the least necessary thing in the lab and I'd rebuild it first.
 
 # Body Language
 
-*Making the invisible work of local AI visible in the room*
-
 ## The problem with dashboards
 
 Dashboards demand attention. That's not a flaw in any particular dashboard — it's what they are. To learn anything from one you have to stop, go to a screen, open a page, and read it. Which means you only do it when you already suspect something, and the whole class of things you'd notice *incidentally* stays invisible.
@@ -64,7 +62,7 @@ Motion is grammar; colour is vocabulary. A slow breath and a hard strobe mean di
 
 ## The part where it lies to you
 
-Here's the story that belongs in this post, and it's the one I promised at the start of this series.
+This is the story I promised at the start of this series.
 
 The panels are driven over the network. For steady states the service sets colours through a REST call, but for anything that moves — pulses, breathing — it streams frames continuously over UDP. That's the only way to get smooth motion; you can't REST your way to a 10 Hz pulse.
 

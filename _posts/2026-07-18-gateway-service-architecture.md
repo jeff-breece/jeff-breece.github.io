@@ -28,8 +28,6 @@ This post is about the service that decides, and about a design choice I keep co
 
 # Where Does This Sentence Go?
 
-*On routing, and on the virtue of having a stupid option*
-
 ## Seven doors
 
 By the time the voice pipeline worked, the lab had accumulated several different things it could do with a sentence. It could search my own writing. It could ask a general-purpose model. It could run a coaching conversation, or a reasoning-heavy one, or a code-focused one. It could control the house. It could query a pile of public data I'd been collecting.
