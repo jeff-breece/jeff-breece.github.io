@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-08-19 07:00:00 -0400
-last_modified_at: 2026-08-19 07:00:00 -0400
+date: 2026-08-19 04:00:00 -0400
+last_modified_at: 2026-08-19 04:00:00 -0400
 title: "Putting the Lab in a Chat Window: Agent Skills, Flows, and CI/CD for AnythingLLM"
 description: "Fifteen custom agent skills and five flows in AnythingLLM Desktop, the CI gate and pull-based sync that deploy them without me, and an honest accounting of the value I expect to get back."
 categories: [homelab, engineering, AI]
