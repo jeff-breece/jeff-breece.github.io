@@ -22,7 +22,7 @@ series: "Resonance Lab"
 **Summary:**
 My desktop copy of AnythingLLM now has fifteen custom agent skills and five flows. They answer the questions I actually ask about the lab: how it's doing, what's on the GPU, whether the backups ran, whether my push landed. All of them read. Three of them write, and each one's write surface fits in a single sentence.
 
-This post is about what got built, how it now ships itself from git without me running anything, and what I expect all of it to be worth. That last part is a forecast, not a measurement, and I'd rather say so up front than pretend otherwise.
+This post is about what got built, how it now ships itself from git without me running anything, and what I expect all of it to be worth.
 
 <!--more-->
 
