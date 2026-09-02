@@ -11,6 +11,9 @@ tags:
 - leadership
 - governance
 - togaf
+image:
+  path: "/images/unsplash/agent-of-change-agent-of-chaos.jpg"
+  alt: "A quarter balanced upright on a fingertip, one face turned to the camera and the other out of sight"
 excerpt_separator: <!--more-->
 ---
 
@@ -23,7 +26,7 @@ Every architect carries a coin. One face reads agent of change, the other reads 
 
 ## Where this started
 
-I asked not to be in a stand-up. I'd stopped being useful in it, so stepping out was the right call, and it still felt like walking away from people mid-problem. That weekend I was not much use to anyone. I turned the same twenty minutes over and over and came out the other side with a question I hadn't been able to answer in the moment: why does doing the job correctly sometimes feel exactly like failing at it?
+I asked not to be in a project meeting, repeatedly. I'd stopped being useful in it, this was someone else's mic to hold for this particular leg of the journey, so stepping out was, and still is, the right call, and it still felt, to others, like I was walking away from people mid-problem. That weekend I was not much use to anyone. I turned the same twenty minutes over and over and came out the other side with a question I hadn't been able to answer in the moment: why does doing the job correctly sometimes feel exactly like failing at it?
 
 Don't get me wrong, nobody in this story did anything wrong. That turns out to be most of the point.
 
@@ -33,31 +36,29 @@ Every architect carries a coin. Solution, data, security, cloud, enterprise, it 
 
 What I've come to think is that the face people see often has little to do with the quality of the work. It has more to do with the gap between the change you're introducing and the change the receiving teams can absorb right now. When that gap opens up, you get the chaos side, and you get it while doing the thing you were hired to do.
 
-Virginia Satir's change model describes this reasonably well. A stable system takes in a *foreign element*, resists it, drops into a chaos phase, and eventually finds a *transforming idea* that lets it re-stabilize at a higher level. Performance dips before it recovers. That dip is expected. The part worth sitting with is that the architect is, structurally, the foreign element. The system isn't reacting to something happening near you, it's reacting to you.
+[Virginia Satir's change model](https://thinkinsights.net/consulting/satir-change-model) describes this reasonably well. A stable system takes in a *foreign element*, resists it, drops into a chaos phase, and eventually finds a *transforming idea* that lets it re-stabilize at a higher level. Performance dips before it recovers. That dip is expected. The part worth sitting with is that the architect is, structurally, the foreign element. The system isn't reacting to something happening near you, it's reacting to you.
 
 ## Change has always been the job
 
 Solution architecture has generally meant delivering change, one solution at a time. SOA, then cloud, then DevOps, then platform engineering, now agentic AI. Each wave crossed more boundaries than the last, and connected ecosystems threaten more mental models than isolated ones do.
 
-This isn't a new complaint. TOGAF has a whole phase for it (Phase H, Architecture Change Management), which assumes architecture is never finished and that governance has to handle ongoing change rather than just initial design. I find that oddly comforting. If the discipline has a named phase for the thing that's making you miserable, the misery is probably structural rather than a personal failing.
+This isn't a new complaint. TOGAF has a whole phase for it ([Phase H, Architecture Change Management](https://togaf.visual-paradigm.com/2025/01/20/comprehensive-guide-to-phase-h-architecture-change-management-in-togaf-adm/)), which assumes architecture is never finished and that governance has to handle ongoing change rather than just initial design. I find that oddly comforting. If the discipline has a named phase for the thing that's making you miserable, the misery is probably structural rather than a personal failing.
 
 ## When the coin flipped
 
-Here's the shape of it, with the identifying details taken out.
+A cloud networking hardening requirement came down. Not optional, not negotiable, and correct. Meanwhile a pilot that became deployment grade, that people now rely on, had been built without private endpoints, with real security gaps. The fix had to land before new work shipped on top of it, because building further on the exposed foundation would make the exposure worse and the remediation bigger.
 
-A cloud networking hardening requirement came down. Not optional, not negotiable, and correct. Meanwhile a pilot that people liked had been built without private endpoints, with resources reachable from the public internet. The fix had to land before new work shipped on top of it, because building further on the exposed foundation would make the exposure worse and the remediation bigger.
-
-What the project team saw: a working pilot, real pressure from the business to keep shipping, and a wall of "no" from people who don't have to hit their delivery dates.
+What the project team saw: a working product, real pressure from the business to keep shipping, and a wall of "no" from people who don't have to hit their delivery dates.
 
 What the architects saw: exposed IPs, public access to resources, risk we were accountable for, and a fix with a sequencing constraint that wasn't ours to waive.
 
-Neither side was wrong about their own reality. The gap was a shared understanding of the risk, and that gap was ours to close before it became a stand-up argument. It didn't get closed in time. So the conversation turned into "you're blocking us" against "you built something insecure," which is a conversation nobody wins.
+Neither side was wrong about their own reality. The gap was a shared understanding of the risk, and that gap was ours to close before it became an argument in a project meeting. It didn't get closed in time. So the conversation turned into "you're blocking us" against "you built something insecure," which is a conversation nobody wins.
 
-I want to be careful here, because it would be easy to write this as a story about people being unfair to me. The project team was under real pressure and had a pilot that worked. From where they sat, a security requirement showing up late in the game does look like an obstacle rather than a shared problem. They weren't evaluating my architecture. They were being asked to absorb one more thing.
+I want to be careful here, because it would be easy to write this as a story about people being out of alignment with enterprise architecture standards. The project team was under real pressure and had a pilot that worked. From where they sat, a security requirement showing up late in the game does look like an obstacle rather than a shared problem. They weren't evaluating my architecture. They were being asked to absorb one more thing.
 
 ## Why it hurt more than it should have
 
-I went looking for language for the weekend afterward, and found it in *Difficult Conversations* (Stone, Patton, and Heen, out of the Harvard Negotiation Project). Their framing is that every difficult conversation is three conversations at once: **what happened** (facts, intent, blame), **feelings** (what each side feels, and whether those feelings are legitimate), and **identity** (what the situation says about who I am).
+I went looking for language for the weekend afterward, and found it in [*Difficult Conversations*](https://www.beyondintractability.org/bksum/stone-difficult) (Stone, Patton, and Heen, out of the Harvard Negotiation Project). Their framing is that every difficult conversation is three conversations at once: **what happened** (facts, intent, blame), **feelings** (what each side feels, and whether those feelings are legitimate), and **identity** (what the situation says about who I am).
 
 The identity one is the one that does the damage. They describe an *identity quake*, where a challenge to your sense of self produces a response that's closer to physiological than rational. You lose your balance and stop being able to communicate clearly. The three questions underneath most of these, in their account, are roughly: am I competent, am I a good person, and am I worthy of respect.
 
@@ -69,9 +70,9 @@ There's a small irony worth naming. Change management literature, including the 
 
 This is the reframe that helped most, and it took me a while to get to.
 
-Prosci's model for this splits it into *change disruption* (the cumulative impact of everything landing on a group) and *change capacity* (how much that group can absorb, shaped by culture, history, structure, and how much change management competency exists around them). Saturation is what you call it when disruption exceeds capacity. Change *fatigue* is the individual-level symptom: apathy, anxiety, retreat, burnout. Their benchmarking puts something in the neighborhood of three-quarters of organizations at, near, or past saturation, and their more recent writing argues the AI era makes it worse because organizations no longer fully control *when* change shows up.
+[Prosci's model for this](https://www.prosci.com/change-fatigue) splits it into *change disruption* (the cumulative impact of everything landing on a group) and *change capacity* (how much that group can absorb, shaped by culture, history, structure, and how much change management competency exists around them). Saturation is what you call it when disruption exceeds capacity. Change *fatigue* is the individual-level symptom: apathy, anxiety, retreat, burnout. Their benchmarking puts something in the neighborhood of three-quarters of organizations at, near, or past saturation, and their more recent writing argues the AI era makes it worse because organizations no longer fully control *when* change shows up.
 
-Applied to my stand-up: the pushback probably wasn't an assessment of the networking design. That team was likely one change past capacity, and my change was the one that happened to arrive. That's a portfolio problem rather than a personal one.
+Applied to my own situation: the pushback probably wasn't an assessment of the networking design. That team was likely one change past capacity, and my change was the one that happened to arrive. That's a portfolio problem rather than a personal one.
 
 Which points at something most architects don't have and probably should: portfolio-level visibility into what else is landing on the teams you're about to change. I can tell you the technical dependencies of my design in detail. I usually can't tell you what other three initiatives are hitting the same six people that month, and that second thing might be the better predictor of how the conversation goes.
 
@@ -83,9 +84,9 @@ Some of what makes that concrete already exists.
 
 **Agree the boundaries before you need them.** TOGAF's Architecture Contracts are formal agreements between the architecture function and stakeholders about commitments and responsibilities. Pair those with compliance assessments and a real, time-bound waiver process, and the pilot without private endpoints stops being a surprise "no" at stand-up. It becomes a documented deviation with a remediation date that somebody signed. The technical outcome is the same either way, but one version is a decision the team was part of and the other is a decision that happens to them.
 
-**Give objections a legitimate home before implementation.** The RFC to ADR loop is the cheapest version of this. An RFC proposes and invites argument, with a stated feedback window (a week or two). An ADR records what was decided, why, what the consequences are, and how it gets enforced. The point is that people who disagree get a real place to say so *before* the decision, rather than at a stand-up after it. I already work this way personally. The thing I'd change is making it the organization's habit instead of mine.
+**Give objections a legitimate home before implementation.** The RFC to ADR loop is the cheapest version of this. An RFC proposes and invites argument, with a stated feedback window (a week or two). An [ADR](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) records what was decided, why, what the consequences are, and how it gets enforced. The point is that people who disagree get a real place to say so *before* the decision, rather than at a stand-up after it. I already work this way personally. The thing I'd change is making it the organization's habit instead of mine.
 
-**Disagree and commit, in both directions.** Once the window closes and the decision is recorded, everyone implements, including the people who argued against it. This one only works if you say out loud that it cuts both ways. Architects commit when they lose too, and if that part is unstated it reads as a one-way ratchet.
+**[Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit), in both directions.** Once the window closes and the decision is recorded, everyone implements, including the people who argued against it. This one only works if you say out loud that it cuts both ways. Architects commit when they lose too, and if that part is unstated it reads as a one-way ratchet.
 
 **Prefer guardrails to gates.** This is the platform engineering idea of a paved road, and I think it's the highest-leverage item here. Encode the boundary (private endpoints, no public IPs) as a default in the pipeline and the IaC, so teams inherit it rather than meeting it for the first time at review. The coin flips a lot less often when the "no" is automatic, impersonal, and arrives at commit time rather than from a person in a meeting.
 
@@ -103,7 +104,7 @@ The contribution question is the other one I keep coming back to. Not whose faul
 
 The book's *and* stance is what keeps this from turning into a weekend. I am competent AND this rollout caused fear. I am careful AND I missed the moment to explain the risk. The all-or-nothing version of identity is what makes a piece of feedback feel like a verdict on the whole person.
 
-The Stoics get at the same thing from a different direction. Epictetus opens the *Enchiridion* by separating what's up to us (our judgments, choices, and responses) from what isn't (other people's opinions, the pressure the business is under, whether a team feels blocked today). I control the quality of the reasoning, how clearly I explain the risk, and whether I offer a path forward. I don't control which face of the coin is showing when it lands.
+The Stoics get at the same thing from a different direction. Epictetus opens the [*Enchiridion*](https://classics.mit.edu/Epictetus/epicench.html) by separating what's up to us (our judgments, choices, and responses) from what isn't (other people's opinions, the pressure the business is under, whether a team feels blocked today). I control the quality of the reasoning, how clearly I explain the risk, and whether I offer a path forward. I don't control which face of the coin is showing when it lands.
 
 Worth a periodic self-check too. Maslach's burnout model has three dimensions: emotional exhaustion, cynicism toward the people you serve, and a reduced sense of accomplishment. The middle one is the useful early warning for this job specifically. If you notice yourself starting to think of the project team as "them," that's a signal about your own load rather than a moral failing, and it's easier to act on early.
 
@@ -121,10 +122,12 @@ So: be the agent of change. Just try not to be the only one carrying it.
 
 ## Sources
 
-- Stone, Patton, and Heen, *Difficult Conversations: How to Discuss What Matters Most* (Viking Penguin, 1999; 10th anniversary edition 2010).
-- The Satir change model, for the foreign element, chaos phase, and transforming idea.
-- Prosci on [change fatigue and saturation](https://www.prosci.com/change-fatigue).
-- The Open Group, [TOGAF Phase H: Architecture Change Management](https://pubs.opengroup.org/togaf-standard/adm/chap12.html).
-- Michael Nygard's original post on architecture decision records, and the platform engineering "paved road" literature.
-- Epictetus, *Enchiridion* §1.
-- Maslach's three-dimension burnout model.
+- Stone, Patton, and Heen, *Difficult Conversations: How to Discuss What Matters Most* (Viking Penguin, 1999; 10th anniversary edition 2010). [Summary of the three conversations and the identity conversation](https://www.beyondintractability.org/bksum/stone-difficult).
+- [The Satir change model](https://thinkinsights.net/consulting/satir-change-model), for the foreign element, the chaos phase, and the transforming idea.
+- Prosci on [change fatigue and saturation](https://www.prosci.com/change-fatigue), and their [tips for avoiding change saturation](https://blog.prosci.com/Managing-change-saturation).
+- [TOGAF Phase H: Architecture Change Management](https://togaf.visual-paradigm.com/2025/01/20/comprehensive-guide-to-phase-h-architecture-change-management-in-togaf-adm/), including Architecture Contracts as both an input and an output. (The Open Group's own publication of the standard now sits behind a login, so this is a public walkthrough instead.)
+- Michael Nygard, [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) (2011), the origin of the ADR.
+- [Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit), on the principle and where it came from.
+- Epictetus, [*Enchiridion*](https://classics.mit.edu/Epictetus/epicench.html) §1, on what is and isn't in our control.
+- Maslach's three-dimension burnout model: emotional exhaustion, depersonalization, and reduced personal accomplishment. A recent [summary in a software engineering context](https://arxiv.org/pdf/2502.10249).
+- On the RFC to ADR loop specifically, Milan Milanović's [walkthrough of driving architectural decisions with RFCs and ADRs](https://newsletter.techworld-with-milan.com/p/driving-architectural-decisions-with).
