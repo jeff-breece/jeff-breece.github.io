@@ -14,3 +14,7 @@ temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
 *.gem
+
+# Machine-local Claude Code settings (permissions etc). The skills beside it
+# ARE tracked - they are editorial standards, not machine config.
+.claude/settings.local.json
