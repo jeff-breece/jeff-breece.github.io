@@ -26,7 +26,7 @@ Every architect carries a coin. One face reads agent of change, the other reads 
 
 ## Where this started
 
-I asked not to be in a project meeting, repeatedly. I'd stopped being useful in it, this was someone else's mic to hold for this particular leg of the journey, so stepping out was, and still is, the right call, and it still felt, to others, like I was walking away from people mid-problem. That weekend I was not much use to anyone. I turned the same twenty minutes over and over and came out the other side with a question I hadn't been able to answer in the moment: why does doing the job correctly sometimes feel exactly like failing at it?
+I asked not to be in a project meeting. Then I asked again. I'd stopped being useful in it, this was someone else's mic to hold for this particular leg of the journey, so stepping out was, and still is, the right call. It can still read, from the outside, like walking away from people mid-problem. That weekend I was not much use to anyone. I turned the same twenty minutes over and over and came out the other side with a question I hadn't been able to answer in the moment: why does doing the job correctly sometimes feel exactly like failing at it?
 
 Don't get me wrong, nobody in this story did anything wrong. That turns out to be most of the point.
 
@@ -46,11 +46,13 @@ This isn't a new complaint. TOGAF has a whole phase for it ([Phase H, Architectu
 
 ## When the coin flipped
 
-A cloud networking hardening requirement came down. Not optional, not negotiable, and correct. Meanwhile a pilot that became deployment grade, that people now rely on, had been built without private endpoints, with real security gaps. The fix had to land before new work shipped on top of it, because building further on the exposed foundation would make the exposure worse and the remediation bigger.
+Here's a version of it. The particulars have been moved around, the shape hasn't.
+
+A security standard came down covering how things were allowed to connect to each other. Not optional, not negotiable, and correct. Meanwhile something that had started life as a pilot, and had quietly become a thing people depended on, was built before that standard existed and did not meet it. The fix had to land before new work shipped on top of it, because every feature added to the old foundation widened the gap and made the remediation bigger.
 
 What the project team saw: a working product, real pressure from the business to keep shipping, and a wall of "no" from people who don't have to hit their delivery dates.
 
-What the architects saw: exposed IPs, public access to resources, risk we were accountable for, and a fix with a sequencing constraint that wasn't ours to waive.
+What the architects saw: a live exposure, risk we were accountable for and would be asked about, and a fix with a sequencing constraint that wasn't ours to waive.
 
 Neither side was wrong about their own reality. The gap was a shared understanding of the risk, and that gap was ours to close before it became an argument in a project meeting. It didn't get closed in time. So the conversation turned into "you're blocking us" against "you built something insecure," which is a conversation nobody wins.
 
@@ -82,13 +84,13 @@ The seed of this post was a note I sent to a few colleagues, and it came down to
 
 Some of what makes that concrete already exists.
 
-**Agree the boundaries before you need them.** TOGAF's Architecture Contracts are formal agreements between the architecture function and stakeholders about commitments and responsibilities. Pair those with compliance assessments and a real, time-bound waiver process, and the pilot without private endpoints stops being a surprise "no" at stand-up. It becomes a documented deviation with a remediation date that somebody signed. The technical outcome is the same either way, but one version is a decision the team was part of and the other is a decision that happens to them.
+**Agree the boundaries before you need them.** TOGAF's Architecture Contracts are formal agreements between the architecture function and stakeholders about commitments and responsibilities. Pair those with compliance assessments and a real, time-bound waiver process, and a system that predates the standard stops being a surprise "no" at stand-up. It becomes a documented deviation with a remediation date that somebody signed. The technical outcome is the same either way, but one version is a decision the team was part of and the other is a decision that happens to them.
 
 **Give objections a legitimate home before implementation.** The RFC to ADR loop is the cheapest version of this. An RFC proposes and invites argument, with a stated feedback window (a week or two). An [ADR](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) records what was decided, why, what the consequences are, and how it gets enforced. The point is that people who disagree get a real place to say so *before* the decision, rather than at a stand-up after it. I already work this way personally. The thing I'd change is making it the organization's habit instead of mine.
 
 **[Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit), in both directions.** Once the window closes and the decision is recorded, everyone implements, including the people who argued against it. This one only works if you say out loud that it cuts both ways. Architects commit when they lose too, and if that part is unstated it reads as a one-way ratchet.
 
-**Prefer guardrails to gates.** This is the platform engineering idea of a paved road, and I think it's the highest-leverage item here. Encode the boundary (private endpoints, no public IPs) as a default in the pipeline and the IaC, so teams inherit it rather than meeting it for the first time at review. The coin flips a lot less often when the "no" is automatic, impersonal, and arrives at commit time rather than from a person in a meeting.
+**Prefer guardrails to gates.** This is the platform engineering idea of a paved road, and I think it's the highest-leverage item here. Encode the boundary as a default in the pipeline and the IaC, so teams inherit it rather than meeting it for the first time at review. The coin flips a lot less often when the "no" is automatic, impersonal, and arrives at commit time rather than from a person in a meeting.
 
 **Make the mandate visible before the friction.** Change proposed by an architecture function with leadership sponsorship lands differently than the same change proposed by one architect in a stand-up. Get that established early, not after the first argument.
 
