@@ -416,17 +416,17 @@ It keeps the existing lab architecture stable while creating a new space for doc
 
 ## Acronyms and contextual definitions
 
-* **ADR** — Architecture Decision Record. A short document that captures a design decision, its context, and its consequences.
-* **AI** — Artificial intelligence. In this post, mostly local language-model and retrieval tooling.
-* **LLM** — Large language model. In Resonance Lab, this usually means Qwen-family models running through Ollama.
-* **Ollama** — The local model runtime used by the lab.
-* **Open WebUI** — The existing browser-based local chat interface running on `lab-stt`.
-* **AnythingLLM** — The selected document workspace and desktop-agent layer.
-* **RAG** — Retrieval-augmented generation. A pattern where relevant documents or records are retrieved and passed into the model as context.
-* **Personal Journal RAG** — My fit-for-purpose personal-memory service for structured journal data, semantic journal recall, synced documents, and session memory.
-* **STT** — Speech-to-text. The lab’s transcription service.
-* **TTS** — Text-to-speech. The lab’s speech output service.
-* **OCR** — Optical character recognition. Used in the lab for extracting text from images and video.
-* **Jetson** — The lab’s NVIDIA edge device, currently used around OCR and vision workloads.
-* **Pangolin** — The System76 desktop/workstation where AnythingLLM Desktop is being used.
-* **lab-stt** — The primary AI server in Resonance Lab.
+* **ADR** - Architecture Decision Record. A short document that captures a design decision, its context, and its consequences.
+* **AI** - Artificial intelligence. In this post, mostly local language-model and retrieval tooling.
+* **LLM** - Large language model. In Resonance Lab, this usually means Qwen-family models running through Ollama.
+* **Ollama** - The local model runtime used by the lab.
+* **Open WebUI** - The existing browser-based local chat interface running on `lab-stt`.
+* **AnythingLLM** - The selected document workspace and desktop-agent layer.
+* **RAG** - Retrieval-augmented generation. A pattern where relevant documents or records are retrieved and passed into the model as context.
+* **Personal Journal RAG** - My fit-for-purpose personal-memory service for structured journal data, semantic journal recall, synced documents, and session memory.
+* **STT** - Speech-to-text. The lab’s transcription service.
+* **TTS** - Text-to-speech. The lab’s speech output service.
+* **OCR** - Optical character recognition. Used in the lab for extracting text from images and video.
+* **Jetson** - The lab’s NVIDIA edge device, currently used around OCR and vision workloads.
+* **Pangolin** - The System76 desktop/workstation where AnythingLLM Desktop is being used.
+* **lab-stt** - The primary AI server in Resonance Lab.
