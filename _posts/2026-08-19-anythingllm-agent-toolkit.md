@@ -130,10 +130,10 @@ Skill = anything that needs a file, a loop, a branch, or an output
 
 There are five:
 
-- **`lab-morning-briefing`** and **`lab-evening-briefing`** — heartbeat, then backups, then under 120 words with the worst news first. The evening one is framed differently: what's wrong going into the night, and whether it can wait until morning.
-- **`pre-push-gate`** — services, then backups, then one line: `CLEAR TO PUSH` or `HOLD THE PUSH`. Every push to `main` restarts the entire voice pipeline, so pushing into an already-degraded lab compounds an outage I already have. It informs the human holding the push. It gates nothing mechanically, and I want it that way.
-- **`blog-quick-review`** — scrape a URL, one inline review pass, nothing written.
-- **`draft-post-with-fact-check`** — five fixed turns: fact ledger, draft with per-claim markers, adversarial fact-check against the ledger, correction pass, final gate.
+- **`lab-morning-briefing`** and **`lab-evening-briefing`** - heartbeat, then backups, then under 120 words with the worst news first. The evening one is framed differently: what's wrong going into the night, and whether it can wait until morning.
+- **`pre-push-gate`** - services, then backups, then one line: `CLEAR TO PUSH` or `HOLD THE PUSH`. Every push to `main` restarts the entire voice pipeline, so pushing into an already-degraded lab compounds an outage I already have. It informs the human holding the push. It gates nothing mechanically, and I want it that way.
+- **`blog-quick-review`** - scrape a URL, one inline review pass, nothing written.
+- **`draft-post-with-fact-check`** - five fixed turns: fact ledger, draft with per-claim markers, adversarial fact-check against the ledger, correction pass, final gate.
 
 Four of them start by fetching evidence and hand it to an LLM step that is forbidden from claiming anything the JSON doesn't show. A failed fetch aborts the flow instead of letting the model improvise. The drafting one is the exception, LLM-only from end to end.
 
@@ -235,15 +235,15 @@ Questions about any of it, drop me a [note](mailto:jeffbreece@outlook.com).
 
 ## Terms I used
 
-- **Agent skill** — A custom tool in AnythingLLM: a folder with a manifest and a JavaScript handler, invoked by the model during an `@agent` turn.
-- **Flow** — AnythingLLM's linear, no-code chain of steps. Four step types, no file access, no loops, no output.
-- **`hubId`** — The identifier in a skill's manifest. My CI gate requires the folder name to match it.
-- **Fail closed** — Treating missing evidence as bad news rather than good news. Unknown is reported as red.
-- **Tree hash** — Git's content hash for a directory. Comparing two of them answers "did anything in here change" exactly, without touching timestamps.
-- **Sparse checkout** — A git working copy containing only the paths you asked for, rather than the whole repo.
-- **Atlas** — The lab's GPU inference node.
-- **Pangolin** — The workstation running AnythingLLM Desktop.
-- **lab-stt** — The primary AI service host.
+- **Agent skill** - A custom tool in AnythingLLM: a folder with a manifest and a JavaScript handler, invoked by the model during an `@agent` turn.
+- **Flow** - AnythingLLM's linear, no-code chain of steps. Four step types, no file access, no loops, no output.
+- **`hubId`** - The identifier in a skill's manifest. My CI gate requires the folder name to match it.
+- **Fail closed** - Treating missing evidence as bad news rather than good news. Unknown is reported as red.
+- **Tree hash** - Git's content hash for a directory. Comparing two of them answers "did anything in here change" exactly, without touching timestamps.
+- **Sparse checkout** - A git working copy containing only the paths you asked for, rather than the whole repo.
+- **Atlas** - The lab's GPU inference node.
+- **Pangolin** - The workstation running AnythingLLM Desktop.
+- **lab-stt** - The primary AI service host.
 
 {% include resonance-lab-series.html %}
 
@@ -251,4 +251,4 @@ Questions about any of it, drop me a [note](mailto:jeffbreece@outlook.com).
 
 ## Credits
 
-_Hero photo by [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki?utm_source=jeffbreece.com&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=jeffbreece.com&utm_medium=referral) — a wall of hand tools, each one clipped into a holder cut for it and nothing else. Which is the whole argument of this post: a tool you can see, reach for, and take back down._
+_Hero photo by [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki?utm_source=jeffbreece.com&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=jeffbreece.com&utm_medium=referral) - a wall of hand tools, each one clipped into a holder cut for it and nothing else. Which is the whole argument of this post: a tool you can see, reach for, and take back down._

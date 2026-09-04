@@ -157,7 +157,7 @@ Messages are built using **Slack Block Kit** and include:
 
 Slack has block size limits, so the AI response is truncated to a set number of characters to stay safely under the cap.
 
-The result is readable, scannable, and actually useful on mobile.
+The result is readable, scannable, and useful on mobile.
 
 ## Deployment: Self-Contained .NET on Linux
 
@@ -197,7 +197,7 @@ If you're cloning repos on a server without a GUI, set up SSH keys *early*. Debu
 
 ### 2. Self-Contained .NET Is a Game Changer
 
-Being able to deploy a .NET service to Linux without touching package managers or runtimes is huge, especially in homelab environments where you want minimal sprawl. Not for production jobs, of course.
+Being able to deploy a .NET service to Linux without touching package managers or runtimes is a real plus, especially in homelab environments where you want minimal sprawl. Not for production jobs, of course.
 
 ### 3. Slack Webhooks Are Easy… Until They Aren't
 
@@ -211,7 +211,7 @@ Treat the webhook like a secret, and design for failure from day one.
 
 ## Why This Was Worth It
 
-Resonance Lab isn't about earthquake analysis, thought that's fun. It's about my GEN, vision, NLP and STT AI platforms mastery path, in a closed environment, as yet another tool in the automation space:
+Resonance Lab was never really about earthquake analysis, fun though that is. It's about my GEN, vision, NLP and STT AI platforms mastery path, in a closed environment, as yet another tool in the automation space:
 
 *   Public data, locally archived
 *   Deterministic stats I can verify
