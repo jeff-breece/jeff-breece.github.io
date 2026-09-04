@@ -90,7 +90,7 @@ Today I sort manually. In the automated version, the LLM infers the domain from 
 - Lab notes go to `lab-technical`
 - Reference material goes to `research`
 
-That gives the system deterministic structure while using the LLM where it's genuinely useful - classification and routing. I don't want a magic folder full of magic behavior. I want a controlled pipeline with explicit domains and enough LLM judgment to remove the tedious manual steps.
+That gives the system deterministic structure while using the LLM where it's useful - classification and routing. I don't want a magic folder full of magic behavior. I want a controlled pipeline with explicit domains and enough LLM judgment to remove the tedious manual steps.
 
 ## Phase 3: Prep Station - Conversion Before Ingest
 

@@ -38,7 +38,7 @@ When using `ollama run qwen3:latest` from the terminal, responses were fine for 
 
 Through Open WebUI, that same model handled complex, multi-turn conversations much better. It could reference things I said several exchanges back. It maintained coherence across longer discussions.
 
-I initially chalked this up to better UI presentation, syntax highlighting, markdown rendering, streaming tokens appearing smoothly. But it kept nagging at me. The model felt genuinely *smarter* through the web interface.
+I initially chalked this up to better UI presentation, syntax highlighting, markdown rendering, streaming tokens appearing smoothly. But it kept nagging at me. The model felt *smarter* through the web interface.
 
 ## What I Found in the Database
 
@@ -109,7 +109,7 @@ But when you're:
 
 ...then having the full conversation context makes it better.
 
-The model isn't actually getting smarter. It's getting *more information*. Information it needs to maintain coherence across a real conversation.
+The model isn't getting smarter. It's getting *more information*. Information it needs to maintain coherence across a real conversation.
 
 ## The Trade-offs
 
