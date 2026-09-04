@@ -23,7 +23,7 @@ I've been building an integration layer between a PLM platform, an ERP system, a
 
 This post documents the architecture I landed on: inbound sockets per external system, an inbound facade that stamps a standard envelope, Service Bus topic-based routing, an orchestrator with idempotency, and an outbound facade. The whole chain is toggleable between mock and live mode with a single parameter.
 
-It's not theoretical. It's running. I'll show you the patterns, the contracts, how I setup a feature toggle that decouples the in progress APIM dependency with patterns borrowed from an API project I was on for 5 years, plus... the thirty years of published engineering that backs up the architectural buzzword bingo.
+It's running in production. I'll show you the patterns, the contracts, how I set up a feature toggle that decouples the in-progress APIM dependency (patterns borrowed from an API project I was on for five years), plus the thirty years of published engineering behind the architectural buzzword bingo.
 
 <!--more-->
 
@@ -38,11 +38,11 @@ We needed to move material data from a PLM platform into an ERP system. Sounds s
 - We need to test the full chain without either external system being connected yet
 - The implementation team needs to understand and extend it
 
-That last bullet matters. If the architecture isn't legible, it won't survive contact with the team that inherits it.
+That last bullet matters. If the architecture isn't legible, the team that inherits it will probably struggle to extend it.
 
 ## A Quick History of These Patterns
 
-Before I walk through the implementation, I want to ground the terminology. "Facade" and "orchestrator" aren't buzzwords, they're published, peer-reviewed software engineering patterns with decades of production use behind them. If you're going to use them, and defend them in architecture reviews, you should know where they come from.
+Before I walk through the implementation, I want to ground the terminology. "Facade" and "orchestrator" are published, peer-reviewed software engineering patterns with decades of production use behind them, even if they sound like buzzwords. If you're going to use them, and defend them in architecture reviews, you should know where they come from.
 
 ### The Facade Pattern: 1994–Present
 
@@ -54,9 +54,9 @@ The original context was object-oriented class design. You had a complex subsyst
 
 **Martin Fowler** extended this to distributed systems in *Patterns of Enterprise Application Architecture* (2002) with the **Remote Facade** pattern: *"Provides a coarse-grained facade on fine-grained objects to improve efficiency over a network."* His point was that when you're crossing a network boundary, you want fewer, fatter calls instead of many chatty ones. A facade collapses the complexity of authentication, endpoint resolution, header construction, and response parsing into a single interaction.
 
-**Hohpe and Woolf** took it further in *Enterprise Integration Patterns* (2003) with the **Messaging Gateway**: *"A Messaging Gateway encapsulates message-specific code from the rest of the application. The application calls a simple interface without knowing about the messaging infrastructure."* This is exactly what our inbound facade does, it receives a pre-typed payload from a socket and publishes an envelope to Service Bus. The caller doesn't know Service Bus exists. The consumer doesn't know HTTP was involved.
+**Hohpe and Woolf** took it further in *Enterprise Integration Patterns* (2003) with the **Messaging Gateway**: *"A Messaging Gateway encapsulates message-specific code from the rest of the application. The application calls a simple interface without knowing about the messaging infrastructure."* This is what our inbound facade does: it receives a pre-typed payload from a socket and publishes an envelope to Service Bus. The caller doesn't know Service Bus exists. The consumer doesn't know HTTP was involved.
 
-**Microsoft's Azure Architecture Center** (2023) describes the same idea as the **Gateway Aggregation Pattern**, using a gateway to aggregate and abstract multiple backend calls into a single interface. Their reference architectures for API facades in cloud integration are directly aligned with what we built.
+**Microsoft's Azure Architecture Center** (2023) describes the same idea as the **Gateway Aggregation Pattern**, using a gateway to aggregate and abstract multiple backend calls into a single interface. Their reference architectures for API facades in cloud integration line up closely with what we built.
 
 That's a thirty-year lineage from GoF class design → Fowler's network boundaries → Hohpe and Woolf's messaging systems → Microsoft's cloud-native reference architectures. Same core principle, applied at different scales.
 
@@ -78,17 +78,17 @@ The orchestrator concept shows up under different names depending on who's writi
 
 | Term | Pattern Name | Source | Year |
 |------|-------------|--------|------|
-| Facade | Facade Pattern | GoF ,  *Design Patterns* | 1994 |
-| Facade | Remote Facade | Fowler ,  *PoEAA* | 2002 |
-| Facade | Messaging Gateway | Hohpe & Woolf ,  *EIP* | 2003 |
+| Facade | Facade Pattern | GoF, *Design Patterns* | 1994 |
+| Facade | Remote Facade | Fowler, *PoEAA* | 2002 |
+| Facade | Messaging Gateway | Hohpe & Woolf, *EIP* | 2003 |
 | Facade | Gateway Aggregation | Microsoft Azure Architecture Center | 2023 |
-| Orchestrator | Process Manager | Hohpe & Woolf ,  *EIP* | 2003 |
-| Orchestrator | Orchestration-based Saga | Richardson ,  *Microservices Patterns* | 2018 |
+| Orchestrator | Process Manager | Hohpe & Woolf, *EIP* | 2003 |
+| Orchestrator | Orchestration-based Saga | Richardson, *Microservices Patterns* | 2018 |
 | Orchestrator | Choreography vs Orchestration | Microsoft Azure Architecture Center | 2023 |
 | Both | Integration separation | Microsoft Logic Apps Best Practices | 2024 |
-| Both | Facade + Orchestrator | Newman ,  *Building Microservices 2e* | 2021 |
+| Both | Facade + Orchestrator | Newman, *Building Microservices 2e* | 2021 |
 
-These patterns survived because they work. They decompose correctly, they separate concerns along natural boundaries, and they produce systems that teams can reason about. The specific technology doesn't matter, Logic Apps, Azure Functions, Kubernetes, mainframe CICS, the structural principles are the same.
+These patterns have generally survived because they work. They decompose along natural boundaries and produce systems teams can reason about. The specific technology matters less than the decomposition (Logic Apps, Azure Functions, Kubernetes, mainframe CICS all apply); the structural principles are the same.
 
 Now let me show you what it looks like when you build it.
 
@@ -172,7 +172,7 @@ Either way, the facade receives the same contract.
 
 ## The Inbound Facade
 
-With the socket layer handling source-specific concerns, the `Inbound_Facade` becomes remarkably simple. It has one job: take the socket's pre-classified request and stamp the standard envelope.
+With the socket layer handling source-specific concerns, the `Inbound_Facade` becomes fairly simple. It has one job: take the socket's pre-classified request and stamp the standard envelope.
 
 It receives the socket contract (sourceSystem, eventType, entityType, entityId, payload) and produces:
 
@@ -184,7 +184,7 @@ It receives the socket contract (sourceSystem, eventType, entityType, entityId, 
 
 Then it publishes to the appropriate Service Bus topic and returns a confirmation to the socket.
 
-The facade doesn't know or care which socket called it. It doesn't inspect the payload. It doesn't validate business rules. It stamps metadata and publishes. This is Hohpe and Woolf's **Messaging Gateway** in its purest form, the caller (the socket) speaks HTTP with a known contract, and the consumer (the orchestrator) speaks envelopes on Service Bus. The facade translates between them.
+The facade doesn't know or care which socket called it. It doesn't inspect the payload. It doesn't validate business rules. It stamps metadata and publishes. This is close to Hohpe and Woolf's **Messaging Gateway**: the caller (the socket) speaks HTTP with a known contract, and the consumer (the orchestrator) speaks envelopes on Service Bus. The facade translates between them.
 
 ### The Feature Toggle
 
@@ -401,7 +401,7 @@ The `ERP_Outbound_Facade` is Fowler's **Remote Facade** applied to a cloud integ
 
 | ERP HTTP Status | Facade Status | Error Code |
 |-----------------|---------------|------------|
-| 2xx | SUCCESS | ,  |
+| 2xx | SUCCESS | - |
 | 401, 403 | FAILURE | ERP_AUTH_FAILED |
 | 4xx (other) | FAILURE | ERP_VALIDATION_FAILED |
 | 5xx | FAILURE | ERP_INTERNAL_ERROR |
@@ -422,7 +422,7 @@ The response contract is always the same:
 }
 ```
 
-The orchestrator inspects `status` and `targetHttpStatus`. It doesn't need to know whether the ERP was real or mocked. That's the facade contract doing its job.
+The orchestrator inspects `status` and `targetHttpStatus`. It doesn't need to know whether the ERP was real or mocked; that's what the facade contract is for.
 
 ---
 
@@ -454,15 +454,15 @@ This was the design goal from day one. With `APIM_LIVE = false` on the sockets:
 
 The entire chain runs. All workflows fire. All observability works. No PLM platform. No ERP system. No API gateway.
 
-To test a different source, POST `{}` to the vendor material socket. Same chain, different `sourceSystem` in the envelope. The orchestrator doesn't know the difference. That's the point.
+To test a different source, POST `{}` to the vendor material socket. Same chain, different `sourceSystem` in the envelope. The orchestrator doesn't know the difference, which is the whole idea.
 
-I built a bash script that fires N requests at a socket with realistic material payloads (round-robin through 20 different materials), parses each response, writes a CSV, and tells you how many Teams cards to expect. It's not sophisticated. It doesn't need to be. The architecture is doing the work.
+I built a bash script that fires N requests at a socket with realistic material payloads (round-robin through 20 different materials), parses each response, writes a CSV, and tells you how many Teams cards to expect. It isn't sophisticated, and it doesn't need to be: the architecture is doing the work.
 
 ---
 
 ## What I'd Tell Another Architect
 
-1. **Know the patterns by name and source.** When someone pushes back on "why sockets and a facade instead of one big workflow," you can point to Gamma (1994), Fowler (2002), and Hohpe and Woolf (2003). These aren't opinions, they're published, battle-tested structural decisions with thirty years of production evidence.
+1. **Know the patterns by name and source.** When someone pushes back on "why sockets and a facade instead of one big workflow," you can point to Gamma (1994), Fowler (2002), and Hohpe and Woolf (2003). These are published, battle-tested structural decisions with thirty years of production evidence behind them, not just preferences.
 
 2. **Push source-specific logic to the edge.** The socket layer means the facade and everything downstream never see vendor-specific webhook formats, event naming conventions, or authentication quirks. New source? New socket. Nothing else changes.
 
@@ -476,12 +476,12 @@ I built a bash script that fires N requests at a socket with realistic material 
 
 7. **One response action.** Every HTTP-triggered workflow, socket, facade, or outbound facade, should have exactly one `Response_Final` that runs on every code path. No orphaned callers.
 
-8. **Test the contracts, not the systems.** The outbound facade's validation caught the orchestrator's malformed payload before the ERP ever would have. The facade's validation caught the socket's missing content type header. That's cheaper debugging by an order of magnitude.
+8. **Test the contracts, not the systems.** The outbound facade's validation caught the orchestrator's malformed payload before the ERP ever would have. The facade's validation caught the socket's missing content type header. That caught the bugs far earlier, and cheaper, than debugging the live systems would have.
 
 9. **Read the books.** Hohpe and Woolf's *Enterprise Integration Patterns* is from 2003 and it reads like it was written for what we're building today on Logic Apps and Service Bus. Fowler's *PoEAA* explains why your facade should be coarse-grained. Richardson explains why your orchestrator should own the saga. The technology changes. The decomposition principles don't.
 
 ---
 
-*This is a living system. The Switch has one case today (`MaterialUpdated`). It'll have more. The sockets will multiply as new sources come online. The facades will connect to real endpoints. The idempotency table will fill up and need a retention policy. But the bones are right, and the patterns will hold.*
+*This is a living system. The Switch has one case today (`MaterialUpdated`). It'll have more. The sockets will multiply as new sources come online. The facades will connect to real endpoints. The idempotency table will fill up and need a retention policy. But the structure is sound, and the patterns should hold.*
 
 *Start simple, test the chain, and evolve based on what actually breaks.*
