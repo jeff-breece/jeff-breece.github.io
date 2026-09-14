@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Taking the Home AI Lab Hybrid, on a Leash"
-date: 2026-09-20 07:00:00 -0400
-last_modified_at: 2026-09-20 07:00:00 -0400
+date: 2026-09-14 07:00:00 -0400
+last_modified_at: 2026-09-14 07:00:00 -0400
 categories: [project]
 description: "How I joined a fully local AI lab to a small, budget-capped slice of Azure AI Foundry over a private tunnel, without making the cloud a dependency, and what a security audit of the result taught me."
 tags:
@@ -42,7 +42,7 @@ And here it is after. Notice what did not change: the four nodes on the left are
 
 My first plan was the textbook one: an Azure VPN Gateway, a site-to-site connection, done. The cheapest gateway SKU that fits the job runs somewhere around $140 a month before you have sent a single request to a model. For a lab that exists to learn on, that is the wrong order of magnitude, and it would have been the largest line on the bill by far.
 
-What I did instead is lighter and, I think, no less secure for this scale. A small burstable Linux VM runs WireGuard and a DNS forwarder. Its network security group has exactly one inbound rule, the tunnel's UDP port. There is no SSH open to the internet; I administer the VM through the platform's run-command channel under my normal sign-in. The AI server at home is a peer, and so is my desktop, which matters later. Every Azure service the lab uses (the AI account, the backup store, the key vault) has a private endpoint on that VNet and has public network access disabled outright. Name resolution for those private addresses is answered by the forwarder on the hub, so the lab host asks the tunnel, not the internet, where the AI account lives.
+What I did instead is lighter and, I think, no less secure for this scale. A small burstable Linux VM runs WireGuard and a DNS forwarder. Its network security group has exactly one inbound rule, the tunnel's UDP port. There is no SSH open to the internet; I administer the VM through the platform's run-command channel under my purpose specific sign-in. The AI server at home is a peer, and so is my desktop, which matters later. Every Azure service the lab uses (the AI account, the backup store, the key vault) has a private endpoint on that VNet and has public network access disabled outright. Name resolution for those private addresses is answered by the forwarder on the hub, so the lab host asks the tunnel, not the internet, where the AI account lives.
 
 ![The private path from the lab to Azure through the WireGuard hub](/images/01-private-path.png)
 
@@ -89,7 +89,7 @@ Two honest notes from the scan. The audit's first draft said the repository had 
 
 ### Budgets, monitoring, and the safeguards that make it loose
 
-I am deliberately not giving my numbers here. They are low, and the point is that they are tracked rather than large. Not everyone has $140 and up a month to throw at this, and I do not want to depend on having it either. Two budgets sit one inside the other, the lane's own counter brakes before either alerts, and the whole cloud side is reproducible from scripts in the repository rather than from a console session, so tearing it down and standing it back up is a command.
+I am deliberately not giving my numbers here. They are low, and the point is that they are tracked rather than large. Not everyone has spare change, small or not, especially in this rough economic climate where prices have nearly doubled for family staples, and up a month to throw at this, and I do not want to depend on having it either. Two budgets sit one inside the other, the lane's own counter brakes before either alerts, and the whole cloud side is reproducible from scripts in the repository rather than from a console session, so tearing it down and standing it back up is a command.
 
 The monitoring that matters is the boring kind: a digest mail, a Slack line on error, an email when someone runs a command on the internet-facing box (including me, on purpose, because a converge I did not run is the thing the alert exists for), and a weekly look at what the assistants wrote.
 
