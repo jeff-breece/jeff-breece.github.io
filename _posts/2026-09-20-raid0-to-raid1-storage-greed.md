@@ -55,7 +55,7 @@ That is the [3-2-1 rule](https://www.backblaze.com/blog/whats-the-diff-3-2-1-vs-
 
 ### The failure that taught me this
 
-The reason I am careful about the difference is that my nightly disaster-recovery set once failed silently for 45 nights, and no disk died to cause it. A backup script had been hard-linked into a directory the backups themselves rewrite, and at some point a rewrite quietly dropped its executable bit (the file mode went from 755 to 644). Cron tried to run it, could not, and moved on without a word. From the outside a green pipeline and a missing backup look identical, and they stayed identical for a month and a half until I actually went looking.
+The reason I am careful about the difference is that my nightly disaster-recovery set once failed silently for 45 nights, and no disk died to cause it. A backup script had been hard-linked into a directory the backups themselves rewrite, and at some point a rewrite quietly dropped its executable bit (the file mode went from 755 to 644 - #ConeOfShame). Cron tried to run it, could not, and moved on with it's life. From the outside a green pipeline and a missing backup look identical, and they stayed identical for a month and a half until I actually went looking.
 
 A mirror would never have caught that, because nothing about the disks was wrong. Only reading the backups back catches that.
 
@@ -63,7 +63,7 @@ A mirror would never have caught that, because nothing about the disks was wrong
 
 So before I flipped the switches, I ran a non-destructive recovery drill. I mapped every top-level directory on the array to the off-array copy that is supposed to hold it, restored a couple of them for real onto a spare disk as if the array were already gone, and wrote down every directory that had no copy anywhere. That last list was the real point of the exercise.
 
-It turned up about 0.9 GB of small, genuinely irreplaceable material (some paid image renders, a bit of hand-built reference data) that was living in exactly one place, on the array, with no second copy. The 33 TB of headroom was never the thing at risk. The 0.9 GB with nowhere to fall back to was, and I would not have found it by staring at the RAID. It is in the nightly set now.
+It turned up about 0.9 GB of small, genuinely irreplaceable material (web crawler outputs, structured and unstructured data, rag db's, unified systems logs, a data hub platform plus a host of other things I run on this thing) that was living in exactly one place, on the array, with no second copy. The 33 TB of headroom was never the thing at risk. The 0.9 GB with nowhere to fall back to was, and I would not have found it by staring at the RAID. It is in the nightly set now.
 
 ### What I would tell past-me
 
