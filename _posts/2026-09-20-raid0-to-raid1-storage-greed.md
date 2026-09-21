@@ -2,9 +2,9 @@
 layout: post
 title: "I Striped Two Drives for Space I Never Used"
 date: 2026-09-20 16:03:00 -0400
-last_modified_at: 2026-09-20 16:03:00 -0400
+last_modified_at: 2026-09-21 12:54:25 -0400
 categories: [project]
-description: "My homelab bulk store has been running as a two-disk RAID 0 stripe for capacity I never touch. Here is why I am converting it to a RAID 1 mirror, and why I am not fooling myself that the mirror is a backup."
+description: "My homelab bulk store ran for months as a two-disk RAID 0 stripe for capacity I never touch. Here is why I converted it to a RAID 1 mirror, and why I am not fooling myself that the mirror is a backup."
 tags:
   - homelab
   - storage
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 ---
 
 **Summary:**
-The bulk store in my homelab has been running as a two-disk RAID 0 stripe since I built it, for one bad reason: 33 TB sounded better than 18. Today it holds about 955 GB, which is 3% of the array. So I striped two drives for space I have not come close to using, and in exchange I roughly doubled the odds that one dead disk takes everything. This is the writeup of why I am moving it to a RAID 1 mirror, what the mirror does and does not buy me, and the drill I ran first that found a much bigger problem than the stripe.
+The bulk store in my homelab ran as a two-disk RAID 0 stripe from the day I built it, for one bad reason: 33 TB sounded better than 18. It was holding about 955 GB, which is 3% of the array. So I striped two drives for space I had not come close to using, and in exchange I roughly doubled the odds that one dead disk takes everything. This is the writeup of why I moved it to a RAID 1 mirror, what the mirror does and does not buy me, and the drill I ran first that found a much bigger problem than the stripe.
 
 <!--more-->
 
@@ -37,9 +37,9 @@ There is also a gotcha specific to my hardware that made it worse. The two drive
 
 ### The mirror
 
-RAID 1 writes the same data to both disks at once. Lose one, keep working on the other, replace the dead disk, let it rebuild. On this enclosure the change is a pair of dip switches on the back (RAID 0 is switch 1 down and 2 up; RAID 1 is 1 up and 2 down), then a rebuild and a fresh filesystem.
+RAID 1 writes the same data to both disks at once. Lose one, keep working on the other, replace the dead disk, let it rebuild. On this enclosure the change was a pair of dip switches on the back (RAID 0 is switch 1 down and 2 up; RAID 1 is 1 up and 2 down), then a rebuild and a fresh filesystem.
 
-It is not a click, though. The manual is blunt about it: changing the RAID mode reformats both disks, so everything on the volume has to be somewhere else first. That makes this a planned-downtime job, the kind you schedule for a quiet day rather than fire off on a whim. I come out of it with 18 TB instead of 33, which is fine, because I use a bit under 1.
+It was not a click, though. The manual is blunt about it: changing the RAID mode reformats both disks, so everything on the volume had to be somewhere else first. That made it a planned-downtime job, the kind you schedule for a quiet day rather than fire off on a whim. I came out of it with 18 TB instead of 33, which is fine, because I use a bit under 1.
 
 ### But a mirror is not a backup
 
@@ -61,7 +61,7 @@ A mirror would never have caught that, because nothing about the disks was wrong
 
 ### The drill I ran before touching the switches
 
-So before I go anywhere near the dip switches, I ran a non-destructive recovery drill. I mapped every top-level directory on the array to the off-array copy that is supposed to hold it, restored a couple of them for real onto a spare disk as if the array were already gone, and wrote down every directory that had no copy anywhere. That last list was the real point of the exercise.
+So before I flipped the switches, I ran a non-destructive recovery drill. I mapped every top-level directory on the array to the off-array copy that is supposed to hold it, restored a couple of them for real onto a spare disk as if the array were already gone, and wrote down every directory that had no copy anywhere. That last list was the real point of the exercise.
 
 It turned up about 0.9 GB of small, genuinely irreplaceable material (some paid image renders, a bit of hand-built reference data) that was living in exactly one place, on the array, with no second copy. The 33 TB of headroom was never the thing at risk. The 0.9 GB with nowhere to fall back to was, and I would not have found it by staring at the RAID. It is in the nightly set now.
 
