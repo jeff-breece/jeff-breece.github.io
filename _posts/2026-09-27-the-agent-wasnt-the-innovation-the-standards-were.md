@@ -27,7 +27,7 @@ This is the story of two years spent building a cloud delivery platform at a com
 
 ## The constraint: scrappy, but excellent
 
-We are a small IT organization inside a mid-sized manufacturer. The cloud extends a large ERP system, covering both integrations and custom user interfaces. There is no platform team. There is an architect, a few cloud engineers, a rotating cast of consulting partners, and a business that wants results this quarter.
+This could be any small IT organization inside a mid-sized business, in just about any vertical. Picture a cloud that extends a large ERP system, covering both integrations and custom user interfaces. There is no platform team. There is an architect, a few cloud engineers, a rotating cast of consulting partners, and a business that wants results this quarter.
 
 "Scrappy" is a fine value right up until it becomes the excuse for everything. You skip the private networking pattern "for time." The backlog tool gets abandoned mid-project because the spreadsheet is faster (and it is, for about a month). The one person who knows how the pipeline works goes on vacation.
 
@@ -47,7 +47,7 @@ Most of 2025 went into unglamorous work. None of it was about agents, or about A
 
 **Coach first, mandate later.** We ran training on pipelines, infrastructure templates and Git, and demoed docs-as-code to the review board. I paired with engineers on classic versus modern release patterns, and I admitted when I was out of my own depth, which was more often than I would have liked. Our order of operations was internal house first, then a standard for our contractors.
 
-**The corners we cut.** 2025 also left debt behind, and I'll own it. The integration project shipped to production without the private DNS pattern we had written into our own standards, because the timeline won. The Dev and Test environments drifted from Prod naming. The backlog tool was abandoned and work moved to spreadsheets. Our retrospective produced a solid Definition of Done (smoke tests, rollback plan, security scan, alert validation), and then nobody owned putting it into practice.
+**The corners we cut.** 2025 also left debt behind. A project team usually can't hold every standard on its own while it's racing dates that were set before estimation, capacity planning or a bit of discovery had caught up. The debt you leave behind has to be acknowledged and then given time of its own, because it tends to get more expensive the longer it waits. In this case the timeline won, and I'm paying that debt now. The work is split across a few new engineers who are upskilling as they go, which is showing us what "scrappy" can mean when it's done on purpose. When it's finished, Dev, Test and Prod should no longer drift from our cloud standards. A backlog tool is finally under consideration, and in the meantime there's a way to generate the spreadsheets automatically, which makes the change easier on the more process-minded folks. A retrospective can produce a solid Definition of Done (smoke tests, rollback plan, security scan, alert validation), but it's the team that has to own putting it into practice.
 
 ## 2026: the agent arrives
 
@@ -55,7 +55,7 @@ By mid-2026 we had a coding agent in the delivery process. The early reaction fr
 
 We got the most out of the agent where we had already done the boring work on purpose. For a new internal application, I seeded the repository before the agent wrote a line. It had an agent-instructions file, a rules matrix, per-feature specs, and a factory pipeline. It also had several years of scattered design discussion condensed into short Markdown files I started calling "punch cards." The agent worked from cards on the board and produced a release candidate with dozens of unit tests, high line coverage, and automated end-to-end accessibility checks.
 
-We reused that pattern for a small HR application. It went from plan to a handed-off, tested build within days. A third project used a generator to produce infrastructure from an approved intake file. The first run came back green and then refused to execute, because a handful of decisions only a human could make were still open. I count that as a success: the intake standard carried a list of things it would not decide on its own, and the generator honoured it.
+We reused that pattern for a small business unit application. It went from plan to a handed-off, tested build within days. A third project used a generator to produce infrastructure from an approved intake file. The first run came back green and then refused to execute, because a handful of decisions only a human could make were still open. I count that as a success: the intake standard carried a list of things it would not decide on its own, and the generator honored it.
 
 One rule held all of this together, and I wrote it into our GitOps working standard:
 
@@ -63,13 +63,16 @@ One rule held all of this together, and I wrote it into our GitOps working stand
 
 Agent output goes through the same branch policy, the same PR review and the same pipeline stages as human output. There is no separate path for it.
 
+![A parking barrier lowered across the lane beside a speed limit sign showing 10. Photo by Mauro Sbicego on Unsplash](/images/unsplash/agent-standards-gate.jpg)
+_Same gate, whoever is driving_
+
 We designed a demo for leadership around this. On a governed repo, the agent hit a conflict between a feature spec and the rules matrix, and it stopped and asked instead of guessing. We scripted that on purpose, and I say so when I show it. It is still the behavior I want: the agent fails early and cheaply, in a place a human will see it.
 
 ## What the agent exposed, and what it didn't
 
 The clean version of this story says the agent revealed which repos were ready. The honest version has three parts.
 
-**Drift is worse than absence.** The consulting-partner initiative from 2025 had standards in its repo from day one. Over a year, newer project decisions piled up beside them in a separate set of documents. Eventually a large pull request came up for review. The author and the reviewer were each applying a defensible but different source of truth. The review couldn't conclude, frustration boiled over on both sides, and I said something sharper than I should have. I apologized, then did what I should have done earlier: I drafted an ADR that says which document wins when two disagree. An agent working in that repo would have picked one of the two documents and produced work that half the team read as wrong.
+**Drift is worse than absence.** The consulting-partner initiative from 2025 had standards in its repo from day one. Over a year, newer project decisions piled up beside them in a separate set of documents. Eventually a large pull request came up for review. The author and the reviewer were each applying a defensible but different source of truth. The review couldn't conclude, frustration boiled over on both sides, and I said something sharper than I should have. I apologized, then did what I should have done earlier: I proposed an ADR that says which document wins when two disagree, and I told the delivery team again that they have my trust and that they own the standards themselves. That way a human team member and an agent both work from the same patterns and standards.
 
 **Tribal knowledge has an AI edition.** On that same initiative, a developer's working project memory lived in a personal chat workspace, not in the repo. It was useful to them and invisible to everyone else, including the agent. Our fix was to pull those memory files into the repository where the whole team could see them. "Silo'd conventions produce silo'd output" became one of my stock lines.
 
@@ -77,7 +80,7 @@ The clean version of this story says the agent revealed which repos were ready. 
 
 The cleanup is where the standards earned their keep. We rebuilt the Dev environment on the correct private-networking pattern in days rather than weeks. We used agent-assisted scripts, with hard guardrails, behind evidence gates. Every time the evidence looked untrustworthy, the engineer running it stopped, including once when the agent-assisted verification script itself had a bug. That is what the gates are for. They apply the same evidence rule to a script an agent helped write as to one a person wrote.
 
-Locking the environment down then broke our deployment path, because our hosted pipeline agents couldn't reach private endpoints. An engineer had flagged that gap months earlier. The fix was a small self-hosted agent pool inside the network, backed by an ADR our security team approved. It took most of a quarter to get a decision on something that costs about as much per month as a team lunch. The least glamorous prerequisite ended up gating everything else.
+Locking the environment down then broke our deployment path, because our hosted pipeline agents couldn't reach private endpoints. An engineer had flagged that gap months earlier. The fix was a small self-hosted agent pool inside the network, backed by an ADR our security team approved. It took most of a quarter to land, for something that costs about as much per month as a team lunch. The least glamorous prerequisite ended up gating everything else.
 
 ## Drawing the human-agent line
 
@@ -122,6 +125,8 @@ If you're about to bring agents into your delivery process, this is the order I 
 8. **Measure from day one.** Pick throughput, cycle time and rework before the first agent PR, so you can prove what you believe.
 
 ## The agent is a mirror
+
+![A car's side mirror at dusk, reflecting the road behind. Photo by Kimson Doan on Unsplash](/images/unsplash/agent-standards-mirror.jpg)
 
 Two years ago, I would have told you we were doing DevOps modernization. Today I would call it preparing for Agentic Ops, but the work was the same. We wrote things down, put them in Git, made the gates boring and reused what worked.
 
