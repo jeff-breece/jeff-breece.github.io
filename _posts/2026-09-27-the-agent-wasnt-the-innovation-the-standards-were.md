@@ -12,6 +12,9 @@ tags:
   - adr
   - delivery
   - leadership
+image:
+  path: /images/unsplash/the-agent-wasnt-the-innovation-the-standards-were.jpg
+  alt: "Open floor joists on a building site, the floor laid before anything stands on it. Photo by Quilia on Unsplash"
 excerpt_separator: <!--more-->
 ---
 
