@@ -35,7 +35,7 @@ A few things about the tool, since they shape how far I trust the results:
 - It scores practice against 45 rules (prompt quality, session hygiene, code review, tool mastery, context management, etc.) and draws a 7×24 heatmap of when you work.
 - The rules are plain markdown files with a small DSL behind them, and there's an editor and a playground for changing them. That turned out to be the most important feature, as you'll see below.
 
-I built it from source and installed the VSIX. A few of its features call VS Code's built-in Copilot model, and I don't run GitHub Copilot anymore (for me it got too expensive, and there are better options for the way I work). So I used the Export Summary instead, both as research for this post and as a baseline I can measure against over a defined period, to track how efficiently I work with the AI platform I've built out over the last year.
+I built it from source and installed the VSIX. A few of its features call VS Code's built-in Copilot model, and I don't run GitHub Copilot anymore (for me it got too expensive, and there are better options for the way I work). So I used the Export Summary instead, both as research for this post and as a baseline to measure against later, to see how efficiently I'm working with the AI platform I've built out over the last year.
 
 The coach came back with 19 findings across 154 sessions.
 
@@ -64,7 +64,9 @@ A couple of things were already in decent shape. My model choices were disciplin
 
 Some numbers contradicted each other, which usually means the tool couldn't see something.
 
-**Instructions.** One rule said 0 of 507 requests used custom instructions. Another said three of my workspaces had bloated instruction files, the biggest at 11.5 KB. Those can't both be true in the plain reading, so I went and looked at the tool's source (it's open, which helps). The two findings come from different places. The "used custom instructions" field is filled in by the parsers for some harnesses, and the parser for one of the agents I use most (Claude Code) doesn't set it at all, so for those sessions it would read zero no matter what. The bloat check is separate: it scans instruction files on disk (`CLAUDE.md`, `AGENTS.md`, `copilot-instructions.md`, etc.) and recommends keeping a `CLAUDE.md` under 200 lines. So the first finding is a blind spot, and the second one is probably fair. If you want to confirm your own instructions load, a canary works well: add a line like "if asked for the canary word, reply 'pineapple'" and ask in a fresh session. Long instruction files usually cost more in how well the agent follows them than in tokens, and the rationale can live in linked docs rather than in the rules themselves.
+**Instructions.** One rule said 0 of 507 requests used custom instructions. Another said three of my workspaces had bloated instruction files, the biggest at 11.5 KB. Those can't both be true in the plain reading, so I went and looked at the tool's source (it's open, which helps). The two findings come from different places. The "used custom instructions" field is filled in by the parsers for some harnesses, and the parser for one of the agents I use most (Claude Code) doesn't set it at all, so for those sessions it would read zero no matter what. The bloat check is separate: it scans instruction files on disk (`CLAUDE.md`, `AGENTS.md`, `copilot-instructions.md`, etc.) and recommends keeping a `CLAUDE.md` under 200 lines. So the first finding is a blind spot, and the second one is probably fair.
+
+If you want to confirm your own instructions load, a canary works well: add a line like "if asked for the canary word, reply 'pineapple'" and ask in a fresh session. Long instruction files usually cost more in how well the agent follows them than in tokens, and the rationale can live in linked docs rather than in the rules themselves.
 
 **Cache misses.** The tool reported a 100% cache miss rate across 478 requests. I'd want a second source before believing that. If it's real, the likely cause is that prompt caches expire after a few idle minutes, so resuming a session after a meeting re-sends the whole context. On a seat or subscription plan that usually shows up as rate limits and slow runs rather than dollars, which I dug into in [The Meter Is Not the Bill]({% post_url 2026-08-11-the-meter-is-not-the-bill %}).
 
@@ -91,6 +93,8 @@ The verbose output flag probably has a second cause too. Of the 63 requests that
 
 The 154 sessions are the cloud-agent half of how I work. The other half runs on hardware I own: local models on one GPU in my [home lab]({% post_url 2026-09-20-taking-the-home-ai-lab-hybrid-on-a-leash %}), [agent skills in AnythingLLM]({% post_url 2026-08-19-anythingllm-agent-toolkit %}) that answer questions about the lab, and Aider for some editing. None of that is in the coach's parser list, so none of it is in the scores.
 
+That gap matters more than it might sound. A fair amount of the bulk reading in my setup (long logs, transcripts, exported work items, etc.) goes through a local model first, and the cloud agent works from the summary rather than the source. Done well, that should mean fewer tokens and shorter runs on the metered side, but it also means the coach is grading the half of the work that's already had some of its load taken off. If I want a full picture, the local lane needs its own logs in a shape the coach (or something like it) can read. That's on my list.
+
 Aider is the clearest gap, and I'd call it out to anyone running this tool: if a good share of your editing happens there, the coach is scoring you on the rest. The funny part is that Aider already nudges you toward most of what the coach told me I was missing:
 
 - **Naming files is the normal way in.** You `/add` the files the change touches before you ask for anything, which is the file list 77% of my other prompts left out.
@@ -100,8 +104,6 @@ Aider is the clearest gap, and I'd call it out to anyone running this tool: if a
 - **`.aiderignore`** keeps it out of the places it has no business being.
 
 Its chat history also lives in the repo as markdown (`.aider.chat.history.md`), so the raw material for a coach-style read is already there. Until a parser exists, I treat those habits as the standard on the Aider side, and borrow them for the agents the coach can see.
-
-That gap matters more than it might sound. A fair amount of the bulk reading in my setup (long logs, transcripts, card dumps) goes through a local model first, and the cloud agent works from the summary rather than the source. Done well, that should mean fewer tokens and shorter runs on the metered side, but it also means the coach is grading the half of the work that's already had some of its load taken off. If I want a full picture, the local lane needs its own logs in a shape the coach (or something like it) can read. That's on my list.
 
 ## My calendar, read honestly
 
