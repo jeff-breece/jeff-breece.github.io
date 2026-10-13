@@ -11,8 +11,8 @@ tags:
   - governance
   - drift-detection
 image:
-  path: /images/agent-ledger-drift-check.png
-  alt: "Diagram of a loop: human-owned intent, an agent turn, a change ledger entry, an independent drift audit, and a human decision feeding back into intent or code"
+  path: /images/agent-ledger-hero.png
+  alt: "A cream 80-column punched card with rows of rectangular holes on a dark background"
 excerpt_separator: <!--more-->
 ---
 
@@ -21,20 +21,22 @@ Every time my coding agent writes code, it also writes a change-log entry, and e
 
 <!--more-->
 
-In my [last post]({% post_url 2026-09-27-the-agent-wasnt-the-innovation-the-standards-were %}) I wrote about seeding a repository before an agent writes a line of it: an instructions file, a rules matrix, specs, and the short Markdown "punch cards" that carry what each feature is for. That post mostly stopped at the gates. This one is about what happens between them, over weeks, while the agent keeps working.
+In my [last post]({% post_url 2026-09-27-the-agent-wasnt-the-innovation-the-standards-were %}) I wrote about seeding a repository before an agent writes a line of it: an instructions file, a rules matrix, specs, and the short Markdown "[punch cards](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)" that carry what each feature is for. That post mostly stopped at the gates. This one is about what happens between them, over weeks, while the agent keeps working.
 
 ## The loop I've been running
 
-At work, Codex runs inside Azure DevOps, and the pattern has four parts:
+Over the past deadline heavy month, my agent worked inside of inside of a Devops Repo inside our cloud platform, and the pattern has four parts:
 
 1. An `AGENTS.md` that tells the agent how to work in the repo.
 2. Seeded context (the punch cards) describing what each feature is meant to do.
 3. A change-log entry for every turn where the agent writes code, committed to the repo. This is the rubber duck step: the agent explaining its own change.
 4. Every so often, a different model reads the accumulated log and the diffs against the original goal and tells me where things have drifted. I call this the cross-model challenge.
 
+![The loop: human-owned intent, an agent turn, a change ledger entry, an independent drift audit, and a human decision feeding back into the code or the intent]({{ '/images/agent-ledger-drift-check.png' | relative_url }})
+
 <!-- TODO(jeff): one sentence on how often you run step 4, and one real thing it has caught. A concrete example here would do more than anything else in the post. -->
 
-I used "rubber duck" loosely for that last step, so a quick note on terms. Rubber duck debugging comes from *The Pragmatic Programmer* (Hunt and Thomas): you explain your code line by line to a duck that never answers, and the value comes from having to put the reasoning into words. That's step 3. The agent writing its ledger entry is explaining why a change serves the goal, and that alone often catches some drift. Step 4 is a different mechanism, because a second model reads the entry and the diff, brings its own reading of the intent, and argues with it. The duck never talks back, and this reviewer does. (You'll also see adversarial review, LLM-as-a-judge and multi-agent debate used for things in this neighborhood.)
+I used "rubber duck" loosely for that last step, so a quick note on terms. Rubber duck debugging comes from *[The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)* (Hunt and Thomas): you explain your code line by line to a duck that never answers, and the value comes from having to put the reasoning into words. That's step 3. The agent writing its ledger entry is explaining why a change serves the goal, and that alone often catches some drift. Step 4 is a different mechanism, because a second model reads the entry and the diff, brings its own reading of the intent, and argues with it. The duck never talks back, and this reviewer does. (You'll also see adversarial review, LLM-as-a-judge and multi-agent debate used for things in this neighborhood.)
 
 That is also where the title comes from: the agent keeps the ledger, and the cross-model challenge is the someone else who has to read it. An agent auditing its own ledger can inherit its own misreading of the intent once that misreading is written down, while a reviewer from a different model family tends to bring different blind spots.
 
@@ -44,7 +46,7 @@ We're working toward a standard for this kind of agent work across teams, which 
 
 Mostly no, at least not as one thing. The pieces do have names, and a couple of them are newer than I expected:
 
-- **The instructions file** is the [AGENTS.md](https://agents.md/) convention, which OpenAI handed to a Linux Foundation group (the Agentic AI Foundation) late last year, so it's now a shared standard more than a Codex feature.
+- **The instructions file** is the [AGENTS.md](https://agents.md/) convention, which OpenAI handed to a Linux Foundation group (the Agentic AI Foundation) late last year, so it's now a shared standard more than a agent feature.
 - **The punch cards** are a form of spec-driven development. Birgitta Böckeler splits that into [spec-first, spec-anchored and spec-as-source](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html), and what I do is spec-anchored: the spec sticks around and evolves with the feature instead of being thrown away after the first build.
 - **The drift check** is a version of an architectural fitness function, the idea from *Building Evolutionary Architectures* that you continuously test whether a system still has the characteristics it's supposed to have. InfoQ recently ran a piece calling the agent-run version an [agentic fitness function](https://www.infoq.com/articles/agentic-fitness-functions-evolutionary-architecture/), which fits pretty well.
 - **The whole thing** lands closest to what OpenAI and Böckeler both call [harness engineering](https://martinfowler.com/articles/harness-engineering.html): everything around the agent except the model, split into guides (instructions, specs) and sensors (tests, linters, reviewers).
@@ -69,15 +71,15 @@ None of this means dropping the loop. It mostly means the drift check needs some
 
 - **Make the reader someone else.** Run the cross-model challenge as its own scheduled pipeline, with a different model family and no shared context with the agent that wrote the code. In Azure DevOps that can post a status check on pull requests, advisory at first and blocking later for the things that should never drift.
 - **Check the ledger against evidence the agent can't write.** Test and build results, architecture conformance tests (ArchUnitNET if you're on .NET), and a comparison of the code against the punch cards. The ledger says what the agent meant to do; the evidence says what happened.
-- **Keep intent human-owned.** Put required human reviewers on `AGENTS.md` and the punch cards through path-based branch policy. Agents can propose a change to intent, but a person commits it. Codex's sandbox protects `.git` but not `AGENTS.md`, and my own blog's agent file tells agents to update it when they learn something, so this one hit close to home.
+- **Keep intent human-owned.** Put required human reviewers on `AGENTS.md` and the punch cards through path-based branch policy. Agents can propose a change to intent, but a person commits it. Agent's sandbox protects `.git` but not `AGENTS.md`, and my own blog's agent file tells agents to update it when they learn something, so this one hit close to home.
 - **One ledger file per change, never edited.** A single growing `CHANGES.md` is easy to rewrite in one diff. On this blog, three sessions of editorial notes landed in a single commit, so git can't show when any of it was written. A small build check can require exactly one new ledger file per pull request and refuse edits to old ones.
-- **Read the ledger in windows.** Models get less reliable as their input grows (Chroma's [context rot](https://www.trychroma.com/research/context-rot) study is a good read on this), so the audit should read recent entries plus a summary rather than the whole history. Also keep the ledger out of `AGENTS.md`, since Codex stops reading that file at 32 KiB by default.
+- **Read the ledger in windows.** Models get less reliable as their input grows (Chroma's [context rot](https://www.trychroma.com/research/context-rot) study is a good read on this), so the audit should read recent entries plus a summary rather than the whole history. Also keep the ledger out of `AGENTS.md`, since (I currently think) agents stop reading that file at 32 KiB by default.
 
 For anyone who wants a starting point, this is roughly the entry shape I'd standardize on, one file per change in a `ledger/` folder:
 
 ```yaml
 entry: 2026-10-10-AB1234-01
-agent: codex
+agent: {yours}
 work_item: AB#1234
 pr: 5678
 intent_refs:
