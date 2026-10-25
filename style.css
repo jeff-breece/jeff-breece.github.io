@@ -1,0 +1,116 @@
+/* The redirect stub that replaces jeff-breece.github.io (scripts/make-redirect-stub.ts, board #9). Tokens, type and the
+   contour map are Bearing Out's direction C "Flight Line" (design/tokens.css), so the old address already looks like the place
+   it sends you. No inline style; the one script is go.js, on the 404 page only. */
+
+@font-face { font-family: 'IBM Plex Sans'; font-weight: 400; font-display: swap; src: url('/fonts/ibm-plex-sans-latin-400-normal.woff2') format('woff2'); }
+@font-face { font-family: 'IBM Plex Sans'; font-weight: 600; font-display: swap; src: url('/fonts/ibm-plex-sans-latin-600-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Source Serif 4 Variable'; font-weight: 200 900; font-display: swap; src: url('/fonts/source-serif-4-latin-wght-normal.woff2') format('woff2'); }
+@font-face { font-family: 'JetBrains Mono'; font-weight: 400; font-display: swap; src: url('/fonts/jetbrains-mono-latin-400-normal.woff2') format('woff2'); }
+
+:root {
+  --bg: #F5F5F0;
+  --surface: #ECECE4;
+  --text: #1A1F1C;
+  --muted: #58605B;
+  --accent: #2E6140;
+  --link: #1D5480;
+  --border: #D3D4CB;
+  color-scheme: light;
+
+  --font-ui: 'IBM Plex Sans', system-ui, sans-serif;
+  --font-body: 'Source Serif 4 Variable', 'Source Serif 4', Georgia, serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --step-meta: 14px;
+  --step-body: 18px;
+  --step-h1: clamp(34px, calc(24px + 2.4vw), 52px);
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px; --s7: 48px; --s8: 64px;
+  --measure: 60ch;
+  --gutter: clamp(16px, 5vw, 64px);
+  --transition: 120ms;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111513;
+    --surface: #191E1B;
+    --text: #E6E6DF;
+    --muted: #A0A9A3;
+    --accent: #86C49A;
+    --link: #8DB8E0;
+    --border: #2C332F;
+    color-scheme: dark;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) { :root { --transition: 0ms; } }
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0; min-height: 100vh; display: flex; flex-direction: column;
+  background: var(--bg); color: var(--text);
+  font: var(--step-body)/1.65 var(--font-body);
+}
+
+/* Mount Hood in contour, painted as a mask so one black-line SVG serves both themes. Decorative. */
+body::before {
+  content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background: var(--border); opacity: 0.55;
+  -webkit-mask: url('/maps/mount-hood.svg') center / cover no-repeat; mask: url('/maps/mount-hood.svg') center / cover no-repeat;
+}
+@media (prefers-reduced-data: reduce), print { body::before { display: none; } }
+
+.page { width: 100%; max-width: 960px; margin: 0 auto; padding: 0 var(--gutter); }
+
+a { color: var(--link); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.15em;
+    transition: color var(--transition), text-decoration-thickness var(--transition); }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 2px solid var(--link); outline-offset: 3px; }
+
+/* ── header ─────────────────────────────────────────────────────────────── */
+.site-header { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s2) var(--s6);
+               padding: var(--s5) 0; border-bottom: 1px solid var(--border); font-family: var(--font-ui); }
+.wordmark { display: flex; align-items: center; gap: 10px; font-size: 20px; font-weight: 600; letter-spacing: -0.01em; }
+.mark rect, .mark .frame { fill: none; stroke: var(--text); }
+.mark .point { stroke: var(--accent); }
+.where { font: 13px var(--font-mono); color: var(--muted); }
+
+/* ── the notice ─────────────────────────────────────────────────────────── */
+main { flex: 1; }
+.notice { padding: clamp(48px, 10vh, 112px) 0 var(--s8); }
+
+.label { display: flex; align-items: center; gap: var(--s3); margin: 0 0 var(--s5);
+         font: 600 var(--step-meta)/1.4 var(--font-ui); letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+/* A double blaze, as painted on a tree where the trail turns: the upper one offset toward the turn. */
+.blaze { flex: none; }
+.blaze rect { fill: var(--accent); }
+
+h1 { margin: 0 0 var(--s6); max-width: 16ch; font: 600 var(--step-h1)/1.08 var(--font-ui); letter-spacing: -0.02em; }
+h1 a { color: inherit; text-decoration-thickness: 2px; text-decoration-color: var(--accent); text-underline-offset: 0.12em; }
+h1 a:hover { text-decoration-thickness: 4px; }
+
+.prose { max-width: var(--measure); }
+.prose p { margin: 0 0 var(--s4); overflow-wrap: anywhere; }
+
+/* From / To, ruled like the Bearing Out ledger. */
+.route { max-width: var(--measure); margin: var(--s7) 0 var(--s6); border-top: 1px solid var(--text); }
+.route div { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--s1) var(--s5); padding: 14px 0; border-bottom: 1px solid var(--border); }
+.route dt { width: 56px; font: 600 var(--step-meta)/1.4 var(--font-ui); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.route dd { margin: 0; font: 17px/1.4 var(--font-mono); overflow-wrap: anywhere; }
+.route .old { color: var(--muted); text-decoration: line-through; text-decoration-color: var(--border); text-decoration-thickness: 2px; }
+
+.go { display: inline-flex; align-items: center; gap: var(--s3); min-height: 48px;
+      font: 600 21px/1.3 var(--font-ui); color: var(--text); text-decoration-color: var(--accent); text-decoration-thickness: 2px; }
+.go:hover { text-decoration-thickness: 3px; }
+.go .arrow { color: var(--accent); transition: transform var(--transition); }
+.go:hover .arrow { transform: translateX(4px); }
+
+.aside { margin: var(--s6) 0 0; max-width: var(--measure); font: var(--step-meta)/1.5 var(--font-ui); color: var(--muted); }
+
+/* ── footer ─────────────────────────────────────────────────────────────── */
+/* The trail as Bearing Out draws it under every page: long dash, short dash. */
+.divide { height: 2px;
+          background: repeating-linear-gradient(90deg, var(--muted) 0 14px, transparent 14px 19px, var(--muted) 19px 22px, transparent 22px 27px); }
+.site-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--s2) var(--s6);
+               padding: var(--s5) 0 var(--s7); font: var(--step-meta)/1.5 var(--font-ui); color: var(--muted); }
